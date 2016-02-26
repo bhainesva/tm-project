@@ -5,10 +5,22 @@ Pablo~Daniel Azar.
 \newblock Sentiment analysis in financial news.
 \newblock B.a. thesis, Harvard College, Cambridge, Massachusetts, 2009.
 
+\bibitem{blei:lda}
+David~M. Blei, Andrew~Y. Ng, and Michael~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em J. Mach. Learn. Res.}, 3:993--1022, March 2003.
+
 \bibitem{bollen:twitter}
 Johan Bollen, Huina Mao, and Xiao-Jun Zeng.
 \newblock Twitter mood predicts the stock market.
 \newblock Journal of Computational Science, 2(1), March 2011, Pages 1-8, 2010.
+
+\bibitem{kim:dso}
+Soo-Min Kim and Eduard Hovy.
+\newblock Determining the sentiment of opinions.
+\newblock In {\em Proceedings of the 20th International Conference on
+  Computational Linguistics}, COLING '04, Stroudsburg, PA, USA, 2004.
+  Association for Computational Linguistics.
 
 \bibitem{lu:2011}
 Bin Lu, Myle Ott, Claire Cardie, and Benjamin~K. Tsou.
