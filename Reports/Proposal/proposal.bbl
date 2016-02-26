@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{azar:thesis}
+Pablo~Daniel Azar.
+\newblock Sentiment analysis in financial news.
+\newblock B.a. thesis, Harvard College, Cambridge, Massachusetts, 2009.
+
+\bibitem{bollen:twitter}
+Johan Bollen, Huina Mao, and Xiao-Jun Zeng.
+\newblock Twitter mood predicts the stock market.
+\newblock Journal of Computational Science, 2(1), March 2011, Pages 1-8, 2010.
+
+\bibitem{lu:2011}
+Bin Lu, Myle Ott, Claire Cardie, and Benjamin~K. Tsou.
+\newblock Multi-aspect sentiment analysis with topic models.
+\newblock In {\em Proceedings of the 2011 IEEE 11th International Conference on
+  Data Mining Workshops}, ICDMW '11, pages 81--88, Washington, DC, USA, 2011.
+  IEEE Computer Society.
+
+\end{thebibliography}
