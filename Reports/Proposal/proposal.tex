@@ -152,7 +152,7 @@ Ben Haines\\
 \section{Problem Introduction}
 The challenge we have decided to address in our project is
 how to use publicly available text based information sources
-produced by the government in order to predict the behaviors
+produced by the United States government in order to predict the behaviors
 of financial markets. In particular, our hope is to apply
 sentiment analysis techniques to the minutes of the Federal
 Open Market Committee (FMOC) in order to identify correlations with
@@ -172,7 +172,7 @@ for being difficult to forecast. The ability to make accurate
 predictions about economic conditions provides an immediate 
 financial incentive for research into this area and an entire 
 industry exists whose primary goal is the development of 
-techniques to predict market behaviour. Beyond the pursuit of
+techniques to best predict market behaviour. Beyond the pursuit of
 profit, having a warning period before downturns could 
 also potentially allow for protective or even preventative 
 actions to be taken. 
@@ -183,7 +183,9 @@ of topic modeling and sentiment analysis into a single pipeline. Our
 goal is to automatically parse the document to identify different
 topics such as the energy or health care markets. Applying
 sentiment analysis to these topics individually will allow us to create
-predictions for each of the sectors tracked by the S\&P 500.
+predictions for each of the sectors tracked by the S\&P 500. With this we can long or short the corresponding S\&P 500 sector through publicly traded ETF Sector SPDRs.
+
+Moreover, if we are able to generate a strategy which is able to outperform its index benchmark, the S\&P 500, significantly, our argument that our unique pipeline of performing sentiment analysis after topic modeling is the differentiating factor that many other sentiment analysis quantitative trading strategies have been lacking. Additionally, as we are applying a more granular approach by correlating sentiment to individual S\&P 500 sectors, we are developing a beta-neutral strategy. That is, our strategy will hopefully only outperform the S\&P 500 or track it very closely. This will then result in a $\beta_{S\&P 500}$ very close to 1. This serves as another important distinction which we believe will help us more accurately predict future index performance. 
 
 \section{Related Work}
 As mentioned in the previous section, the allure of financial gains
@@ -221,8 +223,9 @@ We propose to use a mixture of topic modeling and sentiment analysis to judge th
  
 We intend to start off with certain seed words for positive/negative sentiment and then grow them with their synonyms from WordNet\cite{kim:dso}. This  also helps us assign sentiments to yet unseen words. Depending on how frequent the synonyms of the unknown word appear in either positive or sentiment word list, the strength of sentiment polarity can be assigned. To combine sentiments in each sentence, we could potentially use named entity tagging to identify the 'subject' and then define a word window around the subject within which the sentiments will be calculated.
 
-Once the sentiment values have been tagged with each model, values for each topics will be considered to be  a part of the feature space to predict the S\&P Index. The performance of different regression based model( be it linear, tree-based, SVM etc..)  will be evaluated based on its predictive power on S\&P Index.
+Once the sentiment values have been tagged with each topic model, values for each topic will be considered to be a part of the feature space to predict the S\&P Index. The performance of different regression based model( be it linear, tree-based, SVM etc..)  will be evaluated based on its predictive power on its respective S\&P 500 sector. With this, we then intend to long or short the corresponding S\&P 500 sector through the publicly traded Sector SPDR ETFs.
 
+Financial evaluation will be carried out by primarily attempting to identify the predictive power of our technique. As we are employing a near beta-neutral strategy -- a strategy that seeks to only generate alpha over its benchmark, which for our case would be the S\&P 500 -- we seek to generate as high an information ratio as possible. The information ratio is a ratio of a portfolio returns above the returns of a benchmark, the S\&P 500, to the volatility of those returns. In simpler words, the information ratio is a risk-adjusted rate of return over our benchmark. This will particularly helpful in determining whether our strategy is able to identify sentiment accurately enough to generate additional returns over what would have normally been achieved by the market over this time. On that note, another financial metric we will be paying particular attention to is CAPM (Capital Asset Pricing Model) $\alpha$. $\alpha$ is the active return of a strategy against a market index used as a benchmark. As such, a high $\alpha$ can help verify whether our strategy is able to pinpoint the sectors that will either over- or underperform the benchmark as a whole. A high $\alpha$ would indicate that we our sentiment analysis on each of our topic models is correctly correlating sentiment to sector returns. 
 
 %
 % The code below should be generated by the tool at
