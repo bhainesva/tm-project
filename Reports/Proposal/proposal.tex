@@ -193,12 +193,12 @@ has inspired a large amount of research into the topic of S\&P predictions
 in general and sentiment analysis in particular. 
 
 One popular source of data for sentiment analysis is social media. A paper
-by Mittal and Goel used sentiment analysis on twitter data in combination
+by Mittal and Goel\cite{mittal:sp} used sentiment analysis on twitter data in combination
 with values from the Dow Jones Industrial Average (DJIA) to predict stock prices.
 In comparison to our work this paper used a simpler approach to sentiment
 analysis and focused primarily on using a neural network to transform the
 output from the analysis into concrete stock predictions. The paper was based
-on an earlier 2010 work by Bollen et al that claimed to predict daily DJIA 
+on an earlier 2010 work by Bollen et al. that claimed to predict daily DJIA 
 fluctuations with 87\% accuracy.\cite{bollen:twitter}
 
 Another common source for data is news articles. For example
@@ -217,15 +217,18 @@ sentiment analysis by Lu et al.\cite{lu:2011} However, they restrict their appli
 restaurant reviews. We hope that in the process of applying these techniques to our
 particular situation we will discover modifications that better suit the algorithms
 to this application.
+\vfill
 
 \section{Algorithms and Evaluation}
-We propose to use a mixture of topic modeling and sentiment analysis to judge the opinions shared by the Fed on each sector. Each Fed Report can be expected to cover opinions about a subset of  general sectors that affect US economy. A particular sector can be generalized to describe a  mix of some topics.  A topic modeling algorithm like LDA\cite{blei:lda} will be used to  the find the topics covered by each sentence or group of sentences. Based on our prior knowledge of the topical mix of each sector, we intend to feed certain seed words for each topic as a  prior for the topic modeling algorithm, to improve accuracy. Once topic model is extracted for each sentences, we can do the sentiment analysis.
+We propose to use a mixture of topic modeling and sentiment analysis to judge the opinions shared by the Fed on each sector. Each Fed Report can be expected to cover opinions about a subset of  general sectors that affect US economy. A particular sector can be generalized to describe a  mix of some topics.  A topic modeling algorithm like LDA\cite{blei:lda} will be used to  the find the topics covered by each sentence or group of sentences. Based on our prior knowledge of the topical mix of each sector, we intend to feed certain seed words for each topic as a  prior for the topic modeling algorithm, to improve accuracy. Once the topic model is extracted for each sentence, we can do the sentiment analysis.
  
-We intend to start off with certain seed words for positive/negative sentiment and then grow them with their synonyms from WordNet\cite{kim:dso}. This  also helps us assign sentiments to yet unseen words. Depending on how frequent the synonyms of the unknown word appear in either positive or sentiment word list, the strength of sentiment polarity can be assigned. To combine sentiments in each sentence, we could potentially use named entity tagging to identify the 'subject' and then define a word window around the subject within which the sentiments will be calculated.
+We intend to start off with certain seed words for positive/negative sentiment and then grow them with their synonyms from WordNet\cite{kim:dso}. This  also helps us assign sentiments to yet unseen words. Depending on how frequently the synonyms of the unknown word appear in either positive or negative sentiment word lists, the strength of sentiment polarity can be assigned. To combine sentiments in each sentence, we could potentially use named entity tagging to identify the 'subject' and then define a word window around the subject within which the sentiments will be calculated.
 
-Once the sentiment values have been tagged with each topic model, values for each topic will be considered to be a part of the feature space to predict the S\&P Index. The performance of different regression based model( be it linear, tree-based, SVM etc..)  will be evaluated based on its predictive power on its respective S\&P 500 sector. With this, we then intend to long or short the corresponding S\&P 500 sector through the publicly traded Sector SPDR ETFs.
+Once the sentiment values have been tagged with each topic model, values for each topic will be considered to be a part of the feature space to predict the S\&P Index. The performance of different regression based models (linear, tree-based, SVM etc..)  will be evaluated based on their predictive powers on the respective S\&P 500 sectors. With this, we then intend to long or short the corresponding S\&P 500 sector through the publicly traded Sector SPDR ETFs.
 
-Financial evaluation will be carried out by primarily attempting to identify the predictive power of our technique. As we are employing a near beta-neutral strategy -- a strategy that seeks to only generate alpha over its benchmark, which for our case would be the S\&P 500 -- we seek to generate as high an information ratio as possible. The information ratio is a ratio of a portfolio returns above the returns of a benchmark, the S\&P 500, to the volatility of those returns. In simpler words, the information ratio is a risk-adjusted rate of return over our benchmark. This will particularly helpful in determining whether our strategy is able to identify sentiment accurately enough to generate additional returns over what would have normally been achieved by the market over this time. On that note, another financial metric we will be paying particular attention to is CAPM (Capital Asset Pricing Model) $\alpha$. $\alpha$ is the active return of a strategy against a market index used as a benchmark. As such, a high $\alpha$ can help verify whether our strategy is able to pinpoint the sectors that will either over- or underperform the benchmark as a whole. A high $\alpha$ would indicate that we our sentiment analysis on each of our topic models is correctly correlating sentiment to sector returns. 
+Financial evaluation will be carried out by primarily attempting to identify the predictive power of our technique. As we are employing a near beta-neutral strategy -- a strategy that seeks to only generate alpha over its benchmark, which for our case would be the S\&P 500 -- we seek to generate as high an information ratio as possible. The information ratio is a ratio of a portfolio's returns above the returns of a benchmark, the S\&P 500, to the volatility of those returns. In simpler words, the information ratio is a risk-adjusted rate of return over our benchmark. This will be particularly helpful in determining whether our strategy is able to identify sentiment accurately enough to generate additional returns over what would have normally been achieved by the market over this time. On that note, another financial metric we will be paying particular attention to is CAPM (Capital Asset Pricing Model) $\alpha$. $\alpha$ is the active return of a strategy against a market index used as a benchmark. As such, a high $\alpha$ can help verify whether our strategy is able to pinpoint the sectors that will either over- or underperform the benchmark as a whole. A high $\alpha$ would indicate that we our sentiment analysis on each of our topic models is correctly correlating sentiment to sector returns. 
+\vfill
+
 
 %
 % The code below should be generated by the tool at
@@ -262,8 +265,8 @@ Financial evaluation will be carried out by primarily attempting to identify the
 % ACM needs 'a single self-contained file'!
 %
 %APPENDICES are optional
-%\balancecolumns
+\balancecolumns
 %Appendix A
-%\balancecolumns % GM June 2007
+\balancecolumns % GM June 2007
 % That's all folks!
 \end{document}
