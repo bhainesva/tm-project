@@ -15,6 +15,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.classify.Classifier;
 import edu.stanford.nlp.process.DocumentPreprocessor;
 import edu.stanford.nlp.classify.ColumnDataClassifier;
 
@@ -37,6 +38,7 @@ public class classify{
     int blank;
     ColumnDataClassifier classifier;
     
+    //function to extract only the noun phrases from each sentence of document
     public String parse(List<HasWord> text){
     	List<CoreLabel> text1=Sentence.toCoreLabelList(text);    	
     	String np="";
@@ -62,6 +64,8 @@ public class classify{
     	return (np);
     	
     }
+    
+    //create features for each document
 	public String create_features(String file) throws IOException{
 		 Properties props = new Properties();	     
 	     DocumentPreprocessor doc=new DocumentPreprocessor(file);
@@ -77,34 +81,39 @@ public class classify{
 		File dir=new File(path);
 		String eol=System.getProperty("line.separator");
 		int i=0;
-		try(Writer writer=new FileWriter("data/train.txt"))
-		{
+		
 		for(File f:dir.listFiles()){
 			if (f.isFile()){
 				i++;
 				System.out.println("document no " + Integer.toString(i));
+				try(Writer writer=new FileWriter("data/train.txt",true))
+				{
 				writer.append(f.getParentFile().getName())
 					.append(create_features(f.getAbsolutePath()))
 					.append(eol);
+				} catch(IOException e){
+					e.printStackTrace();}
 			}
 			else
 				LoadDir(f.getAbsolutePath());
 				
 		}
-		} catch(IOException e){
-			e.printStackTrace();
+		
 		}
-	}
 	
+	//to create tab delimited training text files 
 	public classify(String train_path){
 		lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
     	
 		LoadDir(train_path);
 	}
+	
+	// to use the text file to train the classifier
 	public classify(String train_path,String type){	
 		Properties props = new Properties();
         props.setProperty("trainFile",train_path);
     	classifier=new ColumnDataClassifier(props);
+    	Classifier<String,String> cl=classifier.makeClassifier(classifier.readTrainingExamples("data/train.txt"));
 		
 	}
 	
