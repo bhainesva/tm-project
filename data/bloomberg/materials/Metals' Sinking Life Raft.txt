@@ -1,0 +1,44 @@
+Metals' Sinking Life Raft
+['David Fickling']
+http://www.bloomberg.com/gadfly/articles/2016-04-12/china-s-metal-flood-could-still-swamp-alcoa-s-life-raft
+Apr 12, 2016 3:24 AM EDT
+
+Swamped by a wave of cheap exported materials flowing out of China's grossly oversupplied metals industry, factories in developed countries have been trying to steer their businesses downstream.
+
+The first slice of Tata Steel's struggling U.K. business to be sold was its Scunthorpe plant, which makes long products such as rails and beams and went for a ``nominal" fee on Monday to private equity firm Greybull Capital. The best unit of Arrium, an Australian mill that was handed to administrators last week, makes grinding and crushing equipment for use in mines. And Alcoa, the U.S. aluminum producer, announced plans last year to split itself into a downstream company making car parts and airplane wings and a less appealing upstream business smelting and refining primary aluminum.
+
+There's a logic to this. When commodities are weak, the smart money gets out. Moving downstream from the primary products that are spat out of smelters to the alloys and parts that are produced in more specialized factories is a way of doing that. For producers of primary metal, cheap Chinese output is a problem. For consumers, it's an opportunity. Downstream products represent a life raft for industries overwhelmed by China's export flood.
+
+Artisanal Aluminum Prices for aluminum alloys have been enjoying a growing premium over the primary metal Source: Bloomberg data
+
+Have a look, for instance, at the performance of some of the more exotic aluminum contracts traded on the London Metal Exchange. The vast majority of trading is in primary aluminum, but the exchange also quotes prices for NASAAC and aluminum alloy, two products with trace quantities of copper, zinc, silicon and other elements that are widely used in the auto industry. These variants are so popular that they're pretty much commodities themselves -- they wouldn't be traded on the LME if they weren't -- but their price premium over primary aluminum has been rising in recent years.
+
+The bet the world's metal producers are making is that China will never be able to compete if they move into more specialized niches. It's not a slam-dunk. After all, there was a time when the world felt secure from the threat of Chinese steel competition because it was seen as too difficult to trade.
+
+China's steel exports in 2015 112 million metric tons
+
+Generally, shippers and rail companies prefer to carry either cheap products that are easy to handle in bulk, such as grains and coal, or stuff that's valuable enough per ton to meet the additional costs of containerization or direct handling, such as furniture and electrical goods. At an average cost of $549 over the past five years, a ton of Chinese hot-rolled sheet steel meets neither criterion well. Moreover, downstream steel is often a bespoke product made to specifications from individual customers, while governments tend to protect their domestic metal bashers with trade barriers.
+
+So much for the theory. In practice, Chinese steel exports last year exceeded the output of Japan, the second-biggest producer. Trade in the metal has actually been unusually low relative to production in recent years, thanks largely to China's voracious domestic demand.
+
+Not Such a Tidal Wave Exports as a share of global steel production plunged to a 23-year low in 2013 Source: World Steel Association
+
+Indirect trade in steel -- the export of manufactured products largely or entirely made from the metal -- has also been rising in recent years, jumping 84 percent between 2000 and 2013, according to the World Steel Association. This is precisely the business that the likes of Greybull and Arrium are depending on to save them from Chinese competition.
+
+Let's Trade Steel exports encompass a wide variety of different products Source: World Steel Association
+
+The downstream strategy can hold up for as long as China is more focused on cutting overcapacity in primary metal than moving into new export industries. But already there are signs that attitude is changing as the country's steel mills and provincial governments attempt to balance the objectives of shuttering unprofitable enterprises and minimizing job losses.
+
+The country should ``promote exports of metallurgical technology, complete equipment, intelligence services and other products,'' according to China's steel industry adjustment policy, a roadmap for dealing with the current overcapacity that was laid out last year. ``Smart manufacturing, large-scale customer-made production in the industrial sector" is the future of the country's heavy industry, Premier Li Keqiang said during his annual press conference last month.
+
+Those moving into more specialized downstream businesses are betting China will be unable to muscle its way into new global supply chains. That may be the best hand the world's metal producers can play now. But it's a wager that's lost a lot of money in recent years.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+David Fickling in Sydney at dfickling@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Katrina Nicholas at knicholas2@bloomberg.net

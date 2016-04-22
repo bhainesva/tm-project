@@ -1,0 +1,56 @@
+Inside the Nondescript Building Where Trillions Trade Each Day
+['Matthew Leising Annie Massa', 'Matthew Leising', 'Annie Massa']
+http://www.bloomberg.com/news/articles/2016-04-13/inside-equinix-s-ny4-data-center-where-wall-street-trades
+Six miles northwest of the New York Stock Exchange as the microwave flies, across the Hudson River and within earshot of Interstate 95, is a building with no name. Only three numbers mark its address, and, like much of its surroundings, it’s nondescript, encircled by windblown trash and lonely semitrailers waiting to be hauled away somewhere. It’s a part of New Jersey that’s, well, ugly.
+
+It’s also a critical node in the U.S. financial system: The 49 different exchanges that lease space at this data center sent a record 9.6 million messages per second through its fiber-optic cables in February. Every day, electronic trades representing trillions of dollars’ worth of equities, derivatives, currencies, and fixed-income assets pass under this roof. This is NY4. This is where Wall Street actually transacts.
+
+It’s just one of the crown jewels of Equinix, the $22.2 billion company that’s quietly grown into the world’s largest owner of interconnected data centers. To give you an idea of Equinix’s lead in the space, you would have to add up the market value of its five closest U.S. competitors to roughly equal its market cap, according to data compiled by Bloomberg.
+
+The new trading floor seen from a cat walk shows some of the miles of fiber-optic cables that connect servers in cages below. Photographer: Christopher Payne
+
+Equinix pitches its centers as more than just storage space for servers. Its clients pay in part because of who else is there. That includes the Chicago Board Options Exchange, Bats, ICAP, Nasdaq, the NYSE, and Bloomberg LP, the parent company of Bloomberg News. IEX Group, the firm that starred in Michael Lewis’s 2014 book Flash Boys, stashes a key piece of its hardware in one of Equinix’s New Jersey data centers: a coil of fiber-optic cable that slows orders down by a fraction of a second. And those firms are just from the handful of financial industry customers Equinix discloses. It connects more than 6,300 businesses to their customers, and most of those firms don’t want it known that they lease one of NY4’s metal cages, which are identified only by numbers, not names.
+
+Equinix’s nonfinancial clients, meanwhile, include some of the Internet’s biggest names: Amazon.com, AT&T, China Mobile, Comcast, Facebook, Hulu, LinkedIn, Microsoft, Netflix, Pandora, and Verizon. Much of the Internet is literally run through the nondescript buildings Equinix has scattered around the world. “They’re a crucial component of how the cloud works,” says Colby Synesael, an analyst at Cowen & Co. who covers Equinix. “It’s where the Internet lives.”
+
+The security at NY4 bears this out. To get from the parking lot to a spot where you could touch one of the servers you’d have to go through five checkpoints. One of them is a so-called man trap with two automatic steel doors that never open at the same time. Your palm print is required twice in addition to your PIN code. A wall of video monitors captures every nook and cranny of the 338,000-square-foot building.
+
+Once you’re in, the space is enveloped by a rush of white noise from the thousands of computer fans whirring away to keep the servers cool. To help maintain the temperature, the ceiling is 45 feet high, roughly four stories up. It’s barely visible—not just because of its height, but also thanks to all of the suspended trays of cables and cooling ducts running overhead. All this goes toward one statistic: Equinix says in its annual filing that it kept its facilities up and running 99.9999 percent of the time in 2015.
+
+The 12 air-handling units in NY4 move cold air via overhead ducts. Photographer: Christopher Payne
+
+They’re big on backups. In case of a power failure, NY4’s uninterrupted power supply room has 5,600 batteries on standby to provide eight minutes of electricity while the generators rev to life. Should the air conditioning fail and risk the servers overheating, there are three 150,000-gallon tanks filled with water chilled to 45F. Running that cold water through pipes would give NY4 staff 20 minutes to get the AC fixed. Oh, and the generators: 18 of them, each the size of a locomotive engine and able to crank out 2.5 megawatts of power. Equinix keeps 180,000 gallons of diesel fuel on-site to run them. In terms of footprint, NY4 is roughly the same size as a Manhattan block. If you want to look out the window, too bad. There isn’t one
+
+There’s a slick appearance to it all, from the red-lit foyer to the metal all around and the blue lights that shine from above. This last feature comes in handy at night for security purposes, but it’s also got an aesthetic touch to it. “When everything is dark and you only have these blue lights, it looks really cool,” says Michael Poleshuk, senior director of operations for Equinix in the northeast region, as he leads a tour.
+
+Another reason the location is important to Wall Street is because NY4 is only one part of Equinix’s Secaucus, N.J., campus. The company has spent the last 20 years growing and consolidating the industry into its own spider web of interconnected data centers from Frankfurt to Tokyo to London to Rio de Janeiro to Sydney. This is the company that controls a significant part of modern finance: the sites where you plug in the actual computers that fuel today’s hyperfast and hyperconnected electronic trading.
+
+“I call them the 800-pound gorilla of the data services market,” says Inder Singh, an analyst at SunTrust Robinson Humphrey. “I see these guys as a key bridge between customers and suppliers.”
+
+The neutrality Equinix has established by not competing with its customers is also important, Singh says. “It is the Switzerland of data center players,” he says. That has a downside, though. “Equinix definitely leaves some money on the table. But they would probably be losing some of their coveted customers.”
+
+Equinix provides only “dark fiber”; it doesn’t move data itself. That’s created opportunities for other companies. A startup called Lucera is one of them. The company operates something like a telecom within the data center by using software to interconnect the banks, exchanges, and investment firms that have servers at NY4.
+
+“If Goldman Sachs wants to connect to 100 people, they just run one cable to us,” says Jacob Loveless, Lucera’s co-founder and chief executive officer. In turn, that one cable from a firm can then connect the client to any of the other 52 data centers around the world where Lucera operates.
+
+Standby power comes from 18 generators that can crank out 2.5 megawatts each Photographer: Christopher Payne
+
+The larger idea Loveless and his partner Peter Durkan hit on is moving Wall Street onto the cloud with shared infrastructure. After 10 years at Cantor Fitzgerald, where he was the firm’s head of high-frequency trading, Loveless realized there were too many trades out in the world that were great ideas but impractical: Implementing them would take six months and $500,000 because of the connections that needed to be made to another bank or investor or exchange that might be halfway around the world.
+
+It would take a bank about three months to create a new connection to another bank if it did it on its own, Loveless says. Lucera’s fastest time to connect two of its users is eight seconds. That’s because the company is software-based and relies on hard-wired connections already created by Equinix. Lucera’s mean connection time is only two hours, Loveless says.
+
+NY4 and other data centers like it make this a reality, but it wasn’t always this way. At the dawn of electronic trading in the 1980s, major banks such as Goldman Sachs or Bank of America had to lay wire and cable to create their own networks to connect to customers. If you laid one bank network atop the other, they would have all been basically the same, Loveless explains, which is another way of saying it was hugely inefficient. Then in 2000, a company called Radianz set out to create a global network that promised access to the major financial institutions through a single connection.
+
+It worked. British Telecom bought Radianz in 2005 for about $130 million. Lucera, which got its start in 2013, is now a sort of second-generation Radianz as it offers to handle the complicated interconnections within a data center like NY4 for its clients.
+
+“If I’m a customer and I want to connect to 270 companies, I can either run 540 connections out of my own cage or they can run a pair to us and we’ll run the rest,” says Michael Badrov, global head of operations for Lucera. As he spoke in the firm’s cage at NY4, three workers were busy doubling Lucera’s capacity to take on more customers.
+
+Photographer: Christopher Payne
+
+On the roof of NY4 on a rainy February morning, the skyscrapers of Manhattan could just be seen to the east. To the west, planes lined up to land at Newark airport. Microwave antennas that look like satellite-TV receivers are pointed toward Chicago, Newark, and north of the city where the signal can get hooked into the fiber-optic cable that ends in London. That’s where Equinix’s LD4 center is located.
+
+This global network of densely packed data centers is now the reason you can trade a stock on your smartphone in a way that was unimaginable 10 years ago. The six or seven intermediaries needed—AT&T, your brokerage, the NYSE, and so forth—are all housed under Equinix’s enormous roof.
+
+John Knuff, Equinix’s general manager for financial services, looks at this dense cohabitation and sees the future. “I always say, keep your customers close,” he says. “But keep your vendors even closer.”
+
+This story appears in the forthcoming issue of Bloomberg Markets magazine.

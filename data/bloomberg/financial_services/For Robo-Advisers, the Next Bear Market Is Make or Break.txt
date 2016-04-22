@@ -1,0 +1,54 @@
+For Robo-Advisers, the Next Bear Market Is Make or Break
+['Julie Verhage Suzanne Woolley', 'Julie Verhage', 'Suzanne Woolley']
+http://www.bloomberg.com/news/articles/2016-04-20/for-robo-advisers-the-next-bear-market-is-make-or-break
+Robo-advisers might have more reasons to be worried about the next bear market than investors do.
+
+Low fees and an investing-on-autopilot approach have attracted about $50 billion in assets to the broad universe of robo-advisers, according to researcher Aite Group LLC. The rise of these robots and their automated investment strategies has largely coincided with a multi-year bull run in stocks, which means the nascent industry could face a big test if markets were to turn.
+
+A bear market would represent a challenge that the ranks of robo-advisers haven't encountered yet, and it would be the ultimate test of just how crucial, or irrelevant, working with actual humans is to good, long-term investing.
+
+"The biggest issue right now is that we haven't seen what a big downturn looks like [for the robos]," said Nick Colas, chief market strategist at Convergex. "Younger investors could be more patient, but the bottom line is to what degree does human intervention play a role. This is what financial advisers get paid for."
+
+To try to live up to client expectations, robos are analyzing data on client reactions to recent bouts of volatility. QuickTake How Robots Manage Your Money
+
+In theory, using algorithms to analyze client behavior and manage portfolios should be a robo's big edge. For example, robos can see what size stock market drop gets a client logging in more often, or causes someone to sell stock. They can then send a proactive message about how volatility is normal, reminding the client of market rebounds he or she missed by selling into previous down markets and parking money in cash.
+
+"A human adviser knows which client gets skittish, and we can know the same thing through technology," says Tobin McDaniel, president of Schwab Wealth Investment Advisory, which oversees the company's robo-adviser.
+
+Betterment LLC and Wealthfront Inc., two of the largest independent robos (with $4 billion and $3 billion in assets under management, respectively), both saw big jumps in account logins after last year's Aug. 24 market turmoil, when the Dow Jones Industrial Average dropped roughly 1,100 points in the first five minutes of trading.
+
+That didn't necessarily lead to much action—Wealthfront Chief Executive Officer Adam Nash said that less than 1 percent of clients opted to lower their so-called risk scores, which govern how conservative or aggressive their portfolio mix is, as a result of that volatility. Roboadviser SigFig Wealth Management LLC saw fewer than 95 percent of its clients do anything with their portfolios in August, said Tomas Pueyo, the company's vice president of growth.
+
+The robos say they are better equipped to help clients deal with future volatility after the market's recent drops. "We've used each of these downturns to learn what works," Dan Egan, director of behavioral finance and investments at Betterment, said. "We tested proactively reaching out to customers, and that didn't work. They were typically more worried about things like an upcoming presentation."
+
+That's why monitoring client logins—and having popups or personal messages appear when someone logs in, for instance—has been the better option instead of Betterment being quick to reach out, he added. Reading too much into the frequency of logins can be tricky though, said Wealthfront's Nash. "Some people, when markets are choppy, actually check their account less often, not more. It's the ostrich syndrome."
+
+Calming clients in a downdraft is especially crucial for robos because many of their clients are younger and have high allocations to the stock market. To see just how high, Meb Faber, co-founder and chief investment officer of Cambria Investment Management, filled out various risk portfolios on Betterment's and Wealthfront's websites to better understand what they were putting clients in, on average.
+
+Here's a look at what the resulting allocations were.
+
+"Because most of their clients are younger, these portfolios are 80 to 90 percent stocks," Faber said. "If you look at the assets in their [filings with the U.S. Securities and Exchange Commission], you can get the exposure of the entire firm. Because most of the clients are younger, they go through the questionnaire and say I'm young, I have 30 to 40 years until I retire, here's the portfolio you're going to go on and it's heavy in stocks."
+
+Faber went on to point out that while stocks typically outperform bonds over the long term, they are more volatile and likely to have bigger corrections. Those market swings might not bother younger investors as much as their parents, in part because they aren't watching markets as closely as past generations did.
+
+That's good, said Nash, because paying close attention to market news leads to worse trading decisions. "The benefit of an automated service is that we have an increasing number of young people who have decided not to focus their time on their portfolio, but are focusing on friends, their career, their social life. Fewer young people believe their path to fortune is buying or selling a stock today."
+
+
+
+Assuming that a younger generation will show benign neglect to their portfolios could be too optimistic. "Right around [losses of] 15 percent, people start running for the exits. If they're down 20, you see the stampede pick up," Faber noted. "I’ve always said the biggest benefit of a traditional advisor is being a coach, and they are worth their weight in gold if they can keep you from doing something really dumb."
+
+
+
+Some robos that grew out of traditional firms have a small cadre of advisers available for clients. Schwab Intelligent Portfolios offers clients access to a small team that can give financial planning guidance, said McDaniel. Finding that a lot of their clients value the human element was "a little surprise for us," he said. "They trust the system but like to know that someone is verifying the information."
+
+Vanguard Personal Advisor Services, another robo hybrid, has also found the human element important, with many clients wanting to speak with a certified financial planner every quarter.
+
+Robo-advisers have weathered the recent market storms pretty well. Betterment and Wealthfront have seen continued growth in customer accounts and net deposits, even after the volatility in August and the first few weeks of 2016. January and March of this year were Betterment's best for customer growth and net deposits, Chief Executive Officer Jon Stein told Bloomberg TV.
+
+Wealthfront's Nash said that the firm added three times as many clients in January 2016, year over year, and saw fewer changes in risk scores as well, meaning that clients aren't choosing to make their portfolios more conservative as a result of recent market volatility.
+
+He credits that to a feature that informs anyone logging in to change their risk score of the good and bad reasons to do so. "It's like the process that exists in consumer software," he said. "When a firm want to understand behavior and find the root cause, they test solutions and then roll out those solutions."
+
+In the end, perhaps there really is only so much that a traditional adviser—or even a robo-adviser—can do to stop investors from doing the wrong things.
+
+"Human behavior is going to be human behavior," said Josh Brown, chief executive officer of Ritholtz Wealth Management.

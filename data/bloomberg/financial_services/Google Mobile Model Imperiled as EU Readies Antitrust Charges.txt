@@ -1,0 +1,54 @@
+Google Mobile Model Imperiled as EU Readies Antitrust Charges
+['Jack Clark']
+http://www.bloomberg.com/news/articles/2016-04-19/google-s-mobile-model-threatened-by-eu-s-android-antitrust-probe
+Google’s means of making money from the smartphone boom is under threat in Europe.
+
+Antitrust regulators in the region are expected to unveil charges as soon as Wednesday that could require the Alphabet Inc. unit to change how it lodges tools like Search onto phones -- and make it harder for Google to generate revenue from mobile ads.
+
+"It’s hugely important," said Victor Anthony, an analyst at Axiom Capital Management. "My main concern is that they force large-scale business model changes on Google."
+
+At issue are agreements that give Google applications prominence on devices running the company’s Android operating system. Without these services pre-installed, ad sales could dip as distribution costs rise.
+
+Margrethe Vestager, the European Union’s competition commissioner, outlined concerns about these agreements in a speech Monday in Amsterdam, saying Google may be stifling innovation by making it harder for other apps to get attention. “By requiring phone makers and operators to pre-load a set of Google apps, rather than letting them decide for themselves which apps to load, Google might have cut off one of the main ways that new apps can reach customers,” she said.
+
+Google will probably fight, as it has other antitrust cases, and the outcome is unclear. But this case strikes at the heart of the company’s mobile strategy. Google gives Android away, letting phone makers including Samsung Electronics Co. and LG Electronics Inc. focus on hardware and avoid the cost of developing their own operating systems. In return, Google requires handset makers to showcase a suite of Google services on their devices. Phone makers can pass, but if they want popular offerings like Gmail or the Play store – with millions of apps that make phones useful – they must take the bundle.
+
+One area of focus for Vestager and her team is the way Google services share information among themselves on Android phones, according to an executive at a mobile company involved in the probe. If competing apps get less access to that data, their services may be less relevant and could lose out to Google offerings, said this person, who asked not to be identified discussing a confidential investigation.
+
+Looser Ties
+
+If Vestager succeeds in loosening the ties between Google’s apps and Android phones, the operating system could become a less valuable distribution tool for Google services and ads in Europe. Phones without Google Search on their home screens may mean fewer mobile searches and fewer ads sold, analysts say.
+
+The company doesn’t disclose Android results, but there are clues to its significance. About a third of parent Alphabet’s $75 billion revenue last year came from Europe, analysts estimate. A lawyer for Oracle Corp. said in January that Android has generated $31 billion in revenue and $22 billion in profit for Google since it started in 2009. Google declined to comment on its Android financials.
+
+Tougher position
+
+Google has denied it breaks antitrust rules and says Android is an open operating system that lets smartphone users easily download competing apps. Gina Scigliano, a Google spokeswoman, declined to comment.
+
+At the same time, Google argues it must exert some control on what services ship with new Android phones -- lest users download apps that don’t work with the operating system or disrupt important existing apps. Without some limits, Google will struggle to keep up with Apple Inc., which tightly controls software on iPhones, often leading to a better user experience.
+
+That point made sense in the years when Google was establishing itself in mobile software, but it’s a tougher sell for antitrust regulators now that Google’s web and mobile offerings are dominant. Android, a scrappy underdog to BlackBerry Ltd. and Apple’s iOS in 2009, is now the most popular mobile operating system in the world, running 70 percent of phones in Western Europe, according to Gartner.
+
+Rising TAC
+
+Europe’s crackdown may also make it easier for handset manufacturers to replace Google services with their own software or those of a partner. That could force Google to pay more to companies to get Search and apps in front of people, some analysts say.
+
+The traffic acquisition costs, or TAC, that Google pays partners to distribute its services amounted to 21 percent of ad revenue in the fourth quarter, down from 24 percent two years earlier. Part of this expense is how much Google pays to get search prominently on mobile devices. It paid $1 billion to Apple in 2014 to be the default search provider on iPhones and iPads.
+
+Google’s TAC could increase if Android phone makers were free to use different search engines, chose to do so and few users switched back to Google, according to Pacific Crest Securities.
+
+"The monetization of Android comes from the fact that when folks do searches on Android they’re not paying TAC to Apple, they’re not paying TAC to Mozilla," said Evan Wilson, an analyst at Pacific Crest Securities.
+
+Without pre-installation, and beyond paying extra for distribution, Google would have to rely more on consumers choosing to download its apps. In April 2015, analysts at Goldman Sachs Group Inc. asked iPhone and iPad users if they would go back to Google if the default search engine changed. The survey found 48 percent would switch, while 43 percent didn’t care or didn’t know.
+
+Apple replaced Google Maps with its own Maps app in 2012 and by the end of 2015 the home-grown version was used more than three times as often as the leading competitor on iPhones, Apple told the Associated Press.
+
+China Shows Threat
+
+Mainland China provides an extreme example of the threat Google faces. There, Google services are mostly blocked, rather than just un-bundled from Android, feeding a dizzying array of rival apps and app stores.
+
+Android runs 87 percent of Chinese handsets, but Google gets little financial benefit from the devices. Chinese apps generated $8.7 billion in gross revenue in 2015, with $5.2 billion flowing through non-Google Android app stores and $3.4 through iOS, according to App Annie.
+
+Another example is Russia, where antitrust authorities ordered Google to change agreements with phone makers to let third-party services be pre-installed on Android devices – even if they use Google’s Play app store. Russian search provider Yandex NV, the main complainant in the case, jumped as much as 13 percent after the ruling. Google faces fines of up to 15 percent of the revenue it gets from services where the violation occurred.
+
+Google has already taken steps that could allay Vestager’s concerns. Last year, it reduced the number of apps in some of its Android bundles, dropping less-popular services like Google Plus to focus on essentials, such as e-mail, calendar and Play. The company declined to say why it made the changes, but they hint at an iterative approach that may serve Google well -- if it’s not forced to scrap the strategy completely.

@@ -1,0 +1,42 @@
+IBM Is Not a Growth Company
+['Justin Fox', 'Megan Mcardle', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-19/ibm-is-not-a-growth-company
+Justin Fox is a columnist writing about business. Prior to joining Bloomberg View, he was the editorial director of the Harvard Business Review. He is the author of “The Myth of the Rational Market.” Fox has also worked at Time, Fortune, American Banker, the Birmingham News and the Advance-Register of Tulare, California, where he was the farm editor.
+
+Here's a somewhat shocking factoid from Bloomberg's coverage of IBM's first-quarter earnings report:
+
+First-quarter sales fell 4.6 percent, dropping for the 16th consecutive quarter.
+
+Sixteen straight quarters of declining sales sounds like a lot. It is a lot! Look back a few more years, and it turns out that IBM sales (aka revenue) are now about where they were 18 years ago.
+
+Some of this lack of revenue growth is due to conscious choices. IBM sold its iconic personal computing division to Lenovo in 2005, because then-Chief Executive Officer Sam Palmisano was convinced that innovation and growth would occur elsewhere. Still, the fact that IBM's $80.8 billion in revenue over the 12 months though March was only modestly higher than the $78.8 billion it took in over the 12 months ending in March 1998 (and substantially lower if you adjust for inflation) seems noteworthy. The days of top-line growth would seem to be over at Big Blue.
+
+
+
+Things do look a bit better on the bottom line.
+
+IBM's earnings are now more than twice what they were back in 1998. Still, there is that stall since 2014 -- which is related to, if not exactly coincident with, those 16 straight quarters of falling sales. The company's consulting, hardware and systems software businesses are shrinking. There is growth in what CEO Ginni Rometty has dubbed IBM's "strategic imperatives" -- cloud computing, analytics, mobile and security -- but so far it hasn't been enough to halt the long run of sales declines.
+
+IBM has of course run into troubles before. It's a survivor, a mature company that has adapted successfully to multiple big shifts in technology. Its managers over the decades deserve credit for that, but it's always a struggle to make the next leap. Palmisano, who was CEO from 2002 through 2011, shifted the company's focus from hardware to services and had to deal with years of investor skepticism before a long run of earnings growth -- coupled with dividend increases and share buybacks -- won over Wall Street.
+
+Now, Rometty is facing the skeptics -- and to some extent Palmisano's successes are being reevaluated, too. In a tough Bloomberg Businessweek cover story two years ago, Nick Summers quoted a short-seller who called the company "the poster child for financial engineering," in that it had found ways to keep earnings growing even when the underlying business was weak. Well, they're not growing anymore!
+
+
+
+IBM isn't the only big company to face such criticism. Some business scholars have proposed that by focusing so much on financial metrics and financial engineering, today's U.S. corporations have been harming both their long-run growth prospects and the overall health of the economy. In a Brookings Institution paper in December, Jerry Davis of the University of Michigan's Ross School of Business argued that "the pursuit of shareholder value has become increasingly detached from the creation of employment."
+
+Here's what the job picture has looked like at IBM going back to 1987:
+
+IBM shed lots of jobs in the early 1990s, both before and after Lou Gerstner -- the first and only outsider ever to run the company -- took over in 1993. Then it began adding jobs, often through acquisitions, with big gains during the Palmisano years. Now it's cutting again -- and is back to employing about the same number of people as it did in the late 1980s.
+
+So, yeah, IBM is not a growth company. It did still employ 377,757 people as of Dec. 31, though. It hasn't yet financially engineered itself out of existence, or been trampled into oblivion by the forces of creative destruction. It's a survivor, which has got to be worth something.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Zara Kessler at zkessler@bloomberg.net

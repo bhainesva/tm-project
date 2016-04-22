@@ -1,0 +1,20 @@
+HSBC Alerts Clients to Bank Debt Risks Amid Swedish Tax Plan
+['Frances Schwartzkopff']
+http://www.bloomberg.com/news/articles/2016-04-13/hsbc-alerts-clients-to-risks-in-swedish-cocos-amid-tax-proposal
+HSBC is warning clients that a Swedish plan to alter tax rules for subordinated debt may have “a material impact” for investors.
+
+Sweden’s government last month said it is looking into the possibility of eliminating tax deductions that banks can currently claim when they issue additional Tier 1 capital and other forms of subordinated debt including contingent convertible bonds. HSBC says the proposal may have far-reaching consequences for Europe’s bank debt market.
+
+“It is possible that should Sweden move ahead with the proposal, it may later be followed by other European countries,” Ivan Zubo and Charlotte Edwards, HSBC Global Research analysts, said in a note. “This would likely be bad news for high cash priced subordinated bonds, particularly those with tax related early redemption clause at par.”
+
+Redemption Risks
+
+Under most redemption clauses in investment prospectuses, banks can call the bonds at par or at a slight premium, they said. For investors, that could mean taking a loss. Zubo and Edwards recommend switching out of higher priced bonds, with a caveat that this strategy “may not be a universal panacea.”
+
+For banks, redemption makes “economic sense” because lenders can book a profit by replacing the securities with cheaper, lower coupon bonds, they argue. That said, most banks probably would resist the temptation because it would anger investors and harm the issuer’s reputation, according to the HSBC analysts. But the uncertainty Sweden has created will disrupt the market in the meantime, they said.
+
+Sweden has two motives behind the possible tax adjustment: to raise money and to encourage investment in equity by putting it on an equal footing with debt in the tax code. Now is a good time to make the change because banks are earning “large profits” and can absorb any additional costs, Finance Minister Magdalena Andersson said last month.
+
+According to analysts at CreditSights, the government’s proposal would probably drive up banks’ issuance costs and potentially disrupt the Swedish market for subordinated debt. The instruments play an important role in banks’ ability to meet current and future regulatory requirements, they said in a note last month.
+
+“It may very well be that this law doesn’t see the light of the day in Sweden or anywhere else in Europe,” Zubo and Edwards said. “But in the current headline-sensitive environment, we believe it is important for our clients to be aware of this potential issue.”

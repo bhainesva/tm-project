@@ -1,0 +1,52 @@
+Digital Couture Is Actually a Thing
+['Virginia Postrel', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-19/digital-couture-is-actually-a-thing
+Virginia Postrel, a Bloomberg View columnist, writes about commerce and culture, innovation, economics, and public policy. She's the author of "The Power of Glamour," "The Future and Its Enemies" and "The Substance of Style."
+
+Attracting celebrities, fashionistas and worldwide press attention, the Metropolitan Museum of Art’s Costume Institute gala is the red-carpet event of the season. This year the accompanying exhibit is sponsored by that well-known fashion brand, Apple. Last year the money came from Yahoo.
+
+To the cynical eye, the sponsorships recall the 19th-century marriages in which an American heiress wed a European aristocrat, giving the bride a pedigree and the groom a fortune. Silicon Valley brings the bucks. New York and Hollywood supply the cachet.
+
+The alliance of fashion and technology can be an awkward one. Each tribe tends to look down on the other.
+
+QuickTake 3-D Printing
+
+“You have the world of technology, which has seen fashion as below it: We’re the geeks, why would we do clothes or shoes?” says Dolly Singh, the founder and CEO of Thesis Couture, a Los Angeles-based startup that is re-engineering high heels. “And then you have the world of fashion, where the highest tier of fashion has always snubbed their nose at technology. ‘Oh, they want to put lights and gadgets on everything -- how ridiculous is that?’”
+
+For designers willing to work closely with technologists, however, digitally driven production techniques are enabling new aesthetic and functional forms. Unlike wearables, which incorporate computing into garments and accessories, here the fashion, not the technology, is the focus.
+
+Take the centerpiece of the Met’s “Manus x Machina: Fashion in an Age of Technology,” opening May 5. A Karl Lagerfeld wedding gown made of neoprene, it features an elaborately embroidered train whose design was hand drawn, scanned into a computer and pixelated. Translated into rhinestones and pearls, the pattern looks traditionally baroque at a distance but digitized from closer in.
+
+Photographer: Nicholas Alan Cope, Metropolitan Museum of Art
+
+“For me technology is a creative tool -- it’s not a functional end product,” says Andrew Bolton, the Costume Institute’s head curator, in an interview in the exhibit catalog. “The show focuses on ‘fashion in an age of technology,’ not fashion and technology per se. It examines materials and techniques that have had realistic -- and practical -- applications within fashion, such as laser cutting.”
+
+The current “#techstyle” (say it aloud) exhibit now showing at the Boston Museum of Fine Arts also highlights such techniques. Some standout pieces, such as a silver laser-cut leather dress by Giles Deacon and a digitally printed dress from Alexander McQueen’s “Plato’s Atlantis” collection, represent high-end versions of processes that have already transformed the look and feel of everyday clothes.
+
+Photographer: Chris Moore, Catwalking.com, Museum of Fine Arts, Boston
+
+Others resemble haute couture sculptures. The exhibit’s inspiration piece is a skirt and cape ensemble that appears to be covered in rubbery barnacles. Combining hard plastic and soft silicone, the outer shell was 3-D printed in panels, which were then sewn onto an inner lining. “It’s still in many ways a hand-crafted garment, but it’s a hand-crafted garment using the best of the new technology,” says curator Michelle Finamore.
+
+Photographer: Ronald Stoops, Museum of Fine Arts, Boston
+
+To create the ensemble, the Dutch fashion designer Iris van Herpen worked with MIT Media Lab’s Neri Oxman, whose publications feature titles like “Multi-Scale Thermal Stability of a Hard Thermoplastic Protein-based Material.” Such joint ventures are growing. “To execute these garments and accessories designers need the specialists, the people with technological skills -- the coding, the programming, how to work the 3-D printer,” says Finamore. “The designers who are successful have really collaborated with the people who know the medium and know the process in-depth. It’s not just saying, ‘This is the silhouette and I need to achieve it. Somebody figure it out.’ It’s working together from the start to conceive and execute the garment.”
+
+Or the shoe.
+
+At Thesis Couture, Singh used the connections and team-building skills she’d developed at Space X and Oculus VR to bring scientists, engineers and materials specialists from outside fashion together with shoe experts, including an orthopedic surgeon and traditional shoemakers. Their goal: to reinvent the stiletto using advanced materials and structural engineering.
+
+Beginning with a mold of Singh’s foot, Thesis built a computer model to identify how to make a shoe that wouldn’t put so much of the body’s weight on the ball of the foot. “It took us two years to figure out what that geometry is that will give us that magic weight shift,” from the usual 80 percent or so to around 50 percent, Singh says.
+
+A key technology was 3-D printing, which enabled the company to test many iterations of its shoe parts before investing in expensive molds and tooling. Without 3-D printing, says Singh, “I never would have gotten around the capital chicken-and-egg problem. You’d have to have lots of money so you can cut lots of metal.” Following the Tesla pattern, Thesis plans to release a limited edition of 1,500 pairs priced at $925 this fall, with three models priced from $350 showing in the winter and shipping in the spring.
+
+Whether a stiletto designed by rocket scientists can span the chasm between the fashion and tech communities remains to be seen. Like the museum exhibits, however, Thesis underscores the growing connections between the two worlds. And for all their mutual disdain, the fashion and technology tribes share a willingness to experiment in pursuit of the new.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Virginia Postrel at vpostrel@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jonathan Landman at jlandman4@bloomberg.net

@@ -1,0 +1,30 @@
+Pioneers of U.S. Energy Savings Turn Targets as Deal Spree Looms
+['Naureen Malik Jim Polson', 'Naureen Malik', 'Jim Polson']
+http://www.bloomberg.com/news/articles/2016-04-08/pioneers-of-u-s-energy-savings-turn-targets-as-deal-spree-looms
+Utilities grappling with weakening electricity demand are muscling their way into the very industry responsible for their plight: energy efficiency.
+
+Companies that enable homes and businesses to shrink their power consumption have helped cut energy use in developed countries to the lowest level since 2000, according to the International Energy Agency. Utility owners including Edison International and Engie SA are vying with software giants such as Google for a piece of the U.S. market, which Edison estimates at $39 billion.
+
+As energy demand drops, utilities can no longer rely on making money the traditional way: building power plants and then charging customers for the electricity they use. Instead, they’re seeking out new sources of revenue, targeting the companies that help consumers monitor their consumption and switch to more efficient appliances and equipment.
+
+“Certainly M&A will accelerate in the space,” Jeffrey Osborne, an analyst with Cowen & Co. in New York, said in an April 7 e-mail.
+
+Including installers of more-thrifty heating and cooling systems, there are about 170,000 energy conservation companies in the U.S., or roughly 55 for every utility that delivers electricity to consumers, according to BW Research Partnership Inc. That makes the industry a prime target for consolidation as power generators seek to diversify.
+
+“If it’s cheaper for them to buy, the value of those boutique firms is going to go up significantly,” Soner Kanlier, vice president for competitive energy markets for DNV GL Group AS, said by phone March 31.
+
+Edison, owner of utility Southern California Edison, said March 29 that it had bought three energy consulting companies and unveiled a unit that targets large businesses looks to cut costs. Gas Technology Institute, a non-profit energy research organization based in Des Plaines, Illinois, said April 7 that unit GTI International had acquired energy consulting company BKi. More than half of the 23 partners of a conference hosted by Bloomberg New Energy Finance in New York this week are in the business of efficiency.
+
+In February, Atlanta-based utility owner Southern Co. agreed to buy PowerSecure International, an energy management firm, and Engie bought California-based OpTerra Energy Services, shifting its U.S. strategy from power generation to customer-side energy management. Google paid $3.2 billion for Nest Labs Inc., maker of a smart thermostat, in 2014.
+
+The technological advances that have transformed the U.S. electricity market have also boosted the potential savings from energy conservation. Improvements in solar panels have made it cheaper for consumers to generate power without connecting to the grid, while new software allows customers to choose between buying electricity from the local utility, producing power on-site, or shutting off lights and equipment until needed.
+
+“If you interweave all these products and services for the right market, for the right customer, what’s the market opportunity?” Kanlier said. “We have over 300 energy companies who are literally looking at this and trying to understand it.”
+
+The pioneering firms that have been helping consumers become more energy efficient for years possess local knowledge of their markets that consolidators may covet, Thomas Rowlands-Rees, an analyst at Bloomberg New Energy Finance based in London, said by phone April 1.
+
+“As soon as you touch a building, you’re subject to whatever building regulations there are, ” Rowlands-Rees said. Because codes vary, “it tends to be a market that’s sort of dominated by people who’ve built up local expertise.”
+
+The relationship between consumers and energy providers will “change radically” over the next decade, and specialists can offer utilities tools to help customers understand their bills and find ways to cut them, said Swapnil Shah, chief executive officer of FirstFuel Software Inc., which provides energy management software for utilities, including one owned by Edison.
+
+“The customer data, the customer intelligence and the customer relationship is going to be the battleground” for utilities, retail providers and technology companies trying to profit from energy efficiency, Shah said at the Bloomberg New Energy Finance conference on Monday. “That is going to be the most critical asset for the relationship between energy supply, all of the different energy choices and the end customer.”

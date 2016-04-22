@@ -1,0 +1,42 @@
+Chip Cards Cause Headaches at Stores Across America
+['Olga Kharif']
+http://www.bloomberg.com/news/articles/2016-04-13/newfangled-credit-cards-cause-headaches-at-stores-across-america
+A majority of credit cards in the U.S. now contain a chip designed to add more security -- yet most payment terminals at retailers can’t read the new technology. And the situation isn’t going to improve anytime soon.
+
+Credit-card networks began pitching chip cards years ago to protect against counterfeits, and merchants were supposed to join banks and payment processors by Oct. 1, or face liability for some fraudulent charges that occur in their stores. By the end of last year, only about 20 percent of terminals had been activated to process them, according to Alex Johnson, a director at researcher Mercator Advisory Group. In contrast, almost 60 percent of credit cards issued by banks are embedded with a chip.
+
+The expenses involved and longer transaction times have given many merchants pause in updating their systems. Retailers, from big-box chains to mom-and-pop stores, will spend a cumulative $30 billion to $35 billion to switch to EMV, according to the National Retail Federation. Now, as store owners get a feel for what it’s like to shoulder the fraud costs, they are racing to buy, certify and deploy the technology, known as EMV -- after backers Europay, MasterCard Inc. and Visa Inc. Yet the retailers are the ones waiting in line as demand for devices and services outpaces supply.
+
+“Frankly the biggest challenge in EMV adoption is the queue,” Vin D’Agostino, an executive vice president at payment terminal-maker VeriFone Systems Inc., said in an interview. Demand has grown substantially “as people are starting to see the liability shift.” D’Agostino wouldn’t quantify the backlog at San Jose, California-based VeriFone, except to say “a lot of people are lined up” for software, certification and testing and the company expects to be done with its current tide of customers this year.
+
+Getting Certified
+
+It’s not just a question of getting the hardware. Stores must test the functionality and be certified, and that takes an average of three tries to get it right, said Greg Burch, vice president of strategic initiatives at Paris-based terminal-maker Ingenico Group SA. Retailers can still accept swiped card transactions and won’t be liable for fraudulent charges if the consumer hasn’t received a chip card yet. The card issuer would typically be liable.
+
+“It’s a complex process, and it takes these merchants months and months to go through certification,” said Derek Ross, head of sales and business development at ICC Solutions Ltd., a U.K.-based company that contracts with payments processor Vantiv Inc. to certify its U.S. merchants.
+
+The push toward chip technology in other countries began more than two decades ago. In 2011, Visa announced Oct. 1, 2015 as the date when liability would shift to U.S. merchants unless they switched to EMV. MasterCard followed suit. Wal-Mart Stores Inc., being proactive, began installing EMV-capable equipment in its stores a decade ago.
+
+‘A Nightmare’
+
+Many other merchants didn’t, expecting a delay in implementation to deal with additional expenses, training and transition, a move supported by the Food Marketing Institute, which represents 40,000 retail grocery stores and 25,000 pharmacies. Yet, following data breaches in 2013 at retailers including Target Corp. and Michaels Cos. that exposed credit and debit card data of millions of customers, the networks didn’t budge. As companies high-tailed it to meet the deadline, many failed to get the equipment, software or certifications in time.
+
+Even when retailers get the technology installed, the results aren’t always encouraging. Bill Mulholland began accepting chip cards in his Dunkin’ Donuts franchises in March. Besides shelling out about $15,000 to put in new payment terminals at his 10 stores in New Jersey, one of which opens this summer, he said each transaction takes 15 seconds longer than the old swipe method -- ages in the fast-paced doughnut and coffee business.
+
+“The chip cards, they are kind of a nightmare, honestly,” Mulholland said. “It costs you business in the long run, because people don’t want to wait.”
+
+Still, Mulholland finally got on board, because not doing so was costing him even more. His merchant-exchange bank told him that he couldn’t dispute some alleged fraudulent charges until the chip readers were in place.
+
+“We wound up losing a lot of money that way,” as much as $150 per store per month, Mulholland said. Over a year, that would total as much as $18,000.
+
+Bumpy Ride
+
+The road to chip-card usage in the U.S. was expected to be bumpy. There are dozens of large banks in the country, compared with, for example, a handful in Canada, and many more payment processors and merchants than in some of the more than 80 countries that have already adopted the technology. And debit cards have been more difficult to implement because of regulatory issues.
+
+It’s been a bumpy ride and confusing for consumers too.
+
+“At the grocery store, I swiped and was told to insert,” Brandon Johnson, 30, said in Portland, Oregon. “I go to a food truck, they have an iPad with a swipe. That’s the problem, it’s not uniform, so it’s hard to form a habit.”
+
+Richard Crone, chief executive officer of payment consulting firm Crone Consulting LLC, said chip cards might become obsolete before they are even fully implemented in the U.S., as more people pay with their mobile phones using services like Apple Pay. Gas stations, for instance, don’t need to have chip terminals in place until October 2017.
+
+“We believe it will take another five to 10 years to complete, if ever, because mobile payments will likely take precedence by then,” Crone said.

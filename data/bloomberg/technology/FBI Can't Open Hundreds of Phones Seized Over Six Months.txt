@@ -1,0 +1,34 @@
+FBI Can't Open Hundreds of Phones Seized Over Six Months
+['Chris Strohm']
+http://www.bloomberg.com/politics/articles/2016-04-19/hundreds-of-phones-seized-by-fbi-over-six-months-can-t-be-opened
+Hundreds of mobile phones seized by the FBI over a six-month period were encrypted using passcodes that couldn’t be broken, a bureau official told U.S. lawmakers examining the conflict between law enforcement and companies over the technology.
+
+The FBI confiscated 3,000 to 4,000 phones of all makes from October through March, of which 13 percent had encrypted data that couldn’t be accessed, Amy Hess, the bureau’s executive assistant director for science and technology, told a House Energy and Commerce panel in Washington on Tuesday.
+
+The newly disclosed statistic underscores the challenge that the expanding use of encryption poses for investigators, while testimony at the hearing demonstrated how difficult it will be to bridge the conflict that’s produced a confrontation in the courts between Apple Inc. and the Federal Bureau of Investigation.
+
+“Apple needs to take some responsibility, as do the other tech companies” because law enforcement agencies “need a mechanism to track bad guys,” Republican Representative Tim Murphy of Pennsylvania, chairman of the oversight subcommittee that held the hearing, said in an interview later with Bloomberg Television. “If they don’t come up with a solution, a solution will be imposed upon them.”
+
+Court Fight
+
+The FBI served Apple with a court order in February compelling the company to help break into an encrypted iPhone used by Syed Rizwan Farook, who with his wife carried out a deadly December attack in San Bernardino, California. Apple resisted and the FBI dropped the case last month after saying it bought a tool from a private organization it hasn’t identified to break into the phone.
+
+However, Apple and the FBI are still in a legal standoff in a case in Brooklyn, New York, over accessing encrypted data on a drug dealer’s phone.
+
+"We haven’t figured out a way we can create an access point and then create a set of locks that are reliable to protect access," Apple’s top lawyer, Bruce Sewell, said during a separate panel at the hearing. "We can create an access point and we can create locks. But the problem is the keys to that lock will ultimately be available somewhere."
+
+Sewell said he invited the FBI last year to swap employees for a day, so that employees of both organizations could understand the other’s viewpoint. An agreement to do so was taking shape until the San Bernardino attack put it on hold.
+
+Sewell said the offer still stands, and Murphy said he would like to help facilitate the swap.
+
+Turning Down China
+
+Sewell also said Apple hasn’t provided the iPhone’s source code to China. He made the comment in response to a question about that possibility raised by Charles Cohen, a captain with the Indiana State Police, who also spoke at the hearing. China asked for the source code within the past two years, but Apple refused, Sewell said.
+
+Under questioning from lawmakers, Sewell acknowledged that Apple is considering whether to add passcode-protected encryption to its iCloud service, a move that would make even more data off-limits to investigators.
+
+In an indication of the scope of Apple’s dealings with government at all levels, the company said in its latest “transparency report” that U.S. law enforcement agencies made 4,000 requests for help with its devices in the last half of 2015, most involving lost phones, and that the company provided some data in 80 percent of the cases.
+
+Worldwide, the company said it received 30,687 requests in those six months.
+
+Although no solution to the encryption challenge came from the hearing, Hess said she agreed with the idea of creating a commission to study the issue. Republican Representative Michael McCaul of Texas, chairman of the House Homeland Security Committee, has introduced a bill with other lawmakers to create such a commission.

@@ -1,0 +1,42 @@
+Four Services to Eliminate Every Chore From Your Life
+['Seth Porges']
+http://www.bloomberg.com/news/articles/2015-12-07/four-services-to-eliminate-every-chore-from-your-life
+Not so long ago, the word “outsourcing” was a political pejorative that denoted big corporations, job killers, and tax dodgers. But since being coopted by productivity-obsessed Silicon Valley types who chase the promise of a perfectly streamlined life, the word has gotten a linguistic makeover. Now, outsourcing more often refers to friendly companies such as Taskrabbit, Upwork, and Zirtual, which hire short-term contractors for small tasks; and "virtual assistants," such as X.ai, that let any type of professional turn her nose up at scheduling meetings.
+
+But even though productivity gurus such as Tim Ferris tout the time-saving virtues of outsourcing everything, committing yourself to an outsourced life can end up requiring serious work. Finding a fitting helper or virtual assistant for each task you want to unload and crafting easy-to-read instructions on how to go about your business, not to mention registering for and maintaining each service, all eat up time.
+
+Enter a new crop of startups designed to solve the efficiency problems produced by those other efficiency-creating services. Concierge services add a layer of convenience to your outsourced stable of helpers, promising to wipe away any trace of inconvenience from your busy life. But is it possible to outsource all of life's nuisances—even the nuisance of doing the outsourcing? I decided to find out by giving a few of these services a shot. First up: canceling quotidian chores.
+
+Stocking the fridge
+
+Hello Alfred, a service currently available in New York and Boston but soon expanding to San Francisco and Los Angeles promises to take low-level errands such as grocery and laundry off your hands. For $100 per month, Hello Alfred sends a real-life, background-checked human helper to your house every week to take care of your shipping, shopping, washing, and all the other -ings that you’ve been putting off.
+
+The service's app (available for iOS and Web) made it easy for me to add items to my to-do or to-buy list. It also offered to keep a steady supply of the same staples coming week after week, a great option for someone like me who has modest and predictable grocery needs (replenish my yogurt and lettuce, and I’m good). But I also had no trouble using it for one-off purchases, such as a new mop or ingredients for a holiday dinner.
+
+I liked how the helpers were willing to stray from expected services such as grocery and laundry. According to the company's chief executive officer, Marcela Sapone, customers have used the service for everything from organizing receipts and meeting a cable repair person to refilling a Koi pond. And if the Hello Alfred helper isn’t able to tackle a particular job—maybe you need a plumber or full-on professional cleaner—they’re pretty good at outsourcing it to somebody or some service that can.
+
+Ending the battle with UPS labels
+
+Up next, I set out to defang a common, but unfailingly painful, task: shipping stuff. As a technology journalist, I often receive loaner gadgets for review that I then have to send back to the manufacturer. The packing and postage this requires can be grueling for us work-at-homers who lack a stocked mailroom, and the DMV-like experience of waiting in line at my local post office is a time (and soul) suck.
+
+So I turned to Shyp, which promises to offload the entire postage process with Uber-like speed and simplicity. For a flat $5 fee, the company will send a courier to your home or office and whisk away up to 20 items (as long as they can fit in a car), pack them, and send them off to their final destination. The company claims to pick the lowest possible rate for your shipping, though it also offers a few pricier options if you’re in a rush.
+
+In recent weeks I’ve used Shyp—which is currently offered in New York, San Francisco, Miami, Los Angeles, and Chicago—for everything from sending EBay purchases to returning lost-and-found house keys, and have found it quick, affordable, and user friendly. Pickups are ordered via an astonishingly (almost suspiciously) Uber-like app that gives you a real-time map view of where your on-the-way courier is, and the drivers typically show up within 10 or 20 minutes. From there, you just hand them your items, and they take care of the rest, including the cost and hassle of packaging things, which is folded into the $5 fee. Yes, I’m fully aware that this quote may be tossed around in some marketing material, but for the shipping-phobic, Shyp really is a revelation—and a steal.
+
+Making Your Job Easier
+
+The pitch behind Wonder should send shivers down the spines of teachers everywhere: For $20, the service will stick a dedicated researcher to the task of answering any question with a lengthy, annotated essay. In addition to serving as a tool for scofflaw students, I wondered if it could help with the sort of basic research and source-gathering that’s a huge part of being a journalist.
+
+To test it, I turned to a story I was writing a story on the history of the boom box and asked Wonder to dig up any lesser-known historical facts or figures that might aid my article. I submitted a query via the simple Web form and was soon greeted with an 800-word essay, complete with seven cited source links and multiple references to relevant experts for further follow-up. The speed was nothing short of ludicrous (it took my Wonder researcher just over two hours to produce the full report), and while I already knew most of the included info (it helps to tell your researcher what not to include), the listed resources and experts gave me a great starting point to expand my search.
+
+I wouldn’t expect this $20 service to do your entire job for you, but I can easily see it as a useful tool for workers looking to fill in a PowerPoint or research report with interesting facts and figures or to get a well-researched and digestible overview of an unfamiliar market.
+
+Almost everything else
+
+Of course, life is full of countless other tiny annoyances that aren’t covered by the above-mentioned services: waiting on hold with customer service, booking a restaurant reservation, calling stores to see which has a hot product in stock. None of these is a huge deal on its own, but together they can add up to a huge slice of life. To see if anything could be done about them, I turned to my outsourcing-obsessed friends, who have long touted FancyHands as an easy way to outsource small tasks without going all-in with the virtual assistant lifestyle.
+
+For roughly $3 to $6 a pop, FancyHands offloads any task that can be completed in less than 20 minutes to its army of virtual assistants. Since this is all about quick and dirty, the process itself is adequately speedy. Users type in their request (or send it via an app, SMS, e-mail, or even voicemail) and it’s taken care of within 24 hours—though there’s also a “Live Request”option that basically lets you chat with a VA to take care of things then and there.
+
+“I turn to this for everything from waiting on hold with UPS to track down a package to having them help my mom out whenever she needs tech support or help with her computer,” said Demir Gjokaj, a productivity coach who runs an outfit called Lifehack Bootcamp.
+
+So should you be outsourcing at least some of your life’s less-loved tasks? I think so, as long as you view these services as time-saving tools and not magic bullets that keep you from actually having to do your job or check in on your mom. With a slew of new services willing to take a similarly affordable and frustration-free approach to other time-consuming errands, it’s hard to imagine that most people who can afford it won’t benefit from taking advantage. At least until the VC funding runs out.

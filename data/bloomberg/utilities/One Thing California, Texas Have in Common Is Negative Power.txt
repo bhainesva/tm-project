@@ -1,0 +1,26 @@
+One Thing California, Texas Have in Common Is Negative Power
+['Naureen Malik Harry Weber', 'Naureen Malik', 'Harry Weber']
+http://www.bloomberg.com/news/articles/2016-04-05/one-thing-california-texas-have-in-common-is-negative-power
+A phenomenon in wholesale power markets that forces prices below zero when renewable energy supplies surge is occurring more than ever in markets from California to Texas. Even the Midwest and Northeast aren’t immune.
+
+It’s expensive for nuclear plants and coal- and natural gas-fired units to turn on and off. So when output from wind and solar farms jumps and supply exceeds demand, prices have to fall below zero to force some generators offline.
+
+Average, wholesale power prices in Southern California have gone negative on about a dozen days over the past year, falling as low as minus $23.87 a megawatt-hour, grid data compiled by Bloomberg show. A year earlier, it happened once. On Tuesday, average spot prices there were negative for three hours as of 8 a.m. local time. In Texas, power at one major hub traded below zero for almost 50 hours in November and again in March, according to Robbie Searcy, a spokeswoman for grid operator Electric Reliability Council of Texas.
+
+The growing frequency of these price plunges are a testament to how renewable power is reshaping U.S. power markets and squeezing the profits of traditional power generators. Clean energy resources, including solar, wind and hydropower, now account for 13 percent of the nation’s power mix, up from 9 percent just a decade ago, government data show. And their share only stands to gain amid state and federal policies designed to cut greenhouse-gas emissions.
+
+Alerting Customers
+
+Negative pricing may become so predictable in California that the state’s utilities may eventually be able to encourage consumers to use power during the hours it occurs, California Public Utilities Commissioner Carla Peterman said in an interview Monday at the Bloomberg New Energy Finance Summit in New York. “We have some predictability about that -- forecasts are getting better,” she said. “So why not encourage people to use power when it’s cheaper with negative prices?"
+
+Across Grid
+
+Texas’s own renewable power boom was driven in part by policies that led to a $7 billion build-out in high-voltage transmission lines designed to carry wind power out of West Texas. The Competitive Renewable Energy Zone, or CREZ as the project is known, was completed in January 2014 with the capacity to deliver more than 18,000 megawatts.
+
+Wind generation on Texas’s grid rose to a record 14,023 megawatts on Feb. 18. It accounted for almost half of the state’s total supply on March 23, the highest ever, according to the state’s grid operator.
+
+Texas is “at the point of wind generation where they are maxing out” capacity on the CREZ lines, Matt Mooren, an energy and utility adviser at PA Consulting Group in Madison, Wisconsin, said by phone. “Negative pricing in the last six to nine months in the western zone is much more prevalent than it was in the prior six to nine months, and it’s because of wind penetration and wind quality levels.”
+
+With more renewable power on the way in Texas, generators have been asking policy makers for incentives to keep conventional plants running. Regulators will probably begin discussing their options soon, Bill Magness, chief executive officer of Ercot, said by phone from Austin.
+
+“It’s a challenging environment” for generators, Magness said. “We’ve got low gas prices, renewables and lots of factors at play. The market is going to determine what happens on prices.”

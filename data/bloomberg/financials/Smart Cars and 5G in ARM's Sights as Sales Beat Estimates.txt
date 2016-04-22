@@ -1,0 +1,28 @@
+Smart Cars and 5G in ARM's Sights as Sales Beat Estimates
+['Jeremy Kahn']
+http://www.bloomberg.com/news/articles/2016-04-20/arm-sales-beat-estimates-as-64-bit-chipsets-drive-royalty-growth
+ARM Holdings Plc, the British chip designer whose technology is found in most smartphones, reported first-quarter sales that narrowly beat analyst expectations as the company pushed into new market segments, from networking equipment to smart cars.
+
+Revenue gained 22 percent to 276.4 million pounds ($397.2 million) from a year earlier, the Cambridge, England-based company said Wednesday. Analysts had forecast 273 million pounds on average, according to data compiled by Bloomberg. As measured in U.S. dollars, ARM said sales rose 14 percent.
+
+The company has been trying to combat tepid growth in part by promoting its 64-bit chip architecture, for which it can charge a higher royalty rate. These more powerful processor designs are found in the latest generation of phones, such as Apple’s iPhones and Samsung Electronics Co.’s Galaxy line, and they accounted for 65 percent of the ARM-based processors shipped in the quarter, the company said.
+
+Chris Kennedy, ARM’s chief financial officer, also said on a conference call with reporters Wednesday that about 25 percent of handsets that its customers shipped in the quarter were "high core count," meaning they contained multiple ARM-based processors in a single device. With more cores in each phone, ARM sees a path for maintaining double-digit royalty revenue growth even if unit sales of mobile handsets expand at single-digit rates.
+
+The company made 137.5 million pounds in pretax profit in the first three months of this year, up 14 percent from the same period in 2015. Earnings per share were 8.2 pence, which missed an average of analysts’ forecasts of 8.3 pence. It narrowly exceeded the 8.1 pence consensus analyst forecast that ARM itself compiles and uses as a benchmark.
+
+Total royalty revenues, which ARM earns when products containing chips based on its designs are sold, grew 17 percent in dollars compared to the same period last year. This was in line with "medium-term" guidance the company gave in October.
+
+Higher Value
+
+Speaking on Bloomberg Television, ARM Chief Executive Officer Simon Segars said the company could maintain a 15 percent growth rate in royalties in the mobile segment for the year by selling more of its higher-value, higher-price chip designs.
+
+Licensing revenue, which is paid to ARM upfront when a company contracts to use one of its designs, grew 11 percent in dollar terms to $148.3 million. Processor licensing revenue was particularly strong, growing 24 percent to $135.3 million. The company said it had signed 39 new processor licenses in the quarter, a quarterly record, and that 16 of those bookings were from new customers.
+
+In a sign of markets ARM is looking to serve, four of those new customers were automotive firms. "Everyone is talking about autonomous vehicles, but it is not either or, and cars are becoming increasingly intelligent and will go on becoming more intelligent," Kennedy said.
+
+The company also sees strong growth potential in selling processors to network equipment manufacturers who are having to redesign their systems for so-called 5G, or fifth-generation, mobile technologies. ARM is also trying to sell its chips to new customers working on connected devices ranging from gas meters to refrigerators, a movement known as the Internet of Things (IoT). Kennedy said ARM already had a 45 percent market share for "embedded intelligence" -- the systems that allow an appliance to monitor its own condition and potentially transmit that data -- and a 75 percent market share in microcontrollers. "Our technology is ideally suited for these devices," Kennedy said.
+
+Analyst opinion on ARM’s earnings announcement was split. Goldman Sachs Group Inc. reiterated its buy call on the stock, emphasizing the company’s strong licensing performance and ability to expand royalty revenue at faster rate than chipset shipments. But brokerage firm Liberum kept its sell rating in place, saying that penetration of ARM’s 64-bit processors may have plateaued and the royalty revenue growth was not accelerating.
+
+As of 10:25 a.m. in London the company’s shares were up 2.85 percent to 992 pence on the London Stock Exchange. For the year, the company’s shares are down 4.7 percent.

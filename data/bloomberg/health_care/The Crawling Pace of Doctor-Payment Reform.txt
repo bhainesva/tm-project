@@ -1,0 +1,28 @@
+The Crawling Pace of Doctor-Payment Reform
+['The Editors', 'Editorial Board', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-13/the-crawling-pace-of-doctor-payment-reform
+Editorials are written by the Bloomberg View editorial board. For more information, go to http://www.bloombergview.com/editors.
+
+Paying doctors a fee for each service they provide gives them incentive to offer the maximum number of treatments, as well as pay less attention to how well patients recover. This is why the Barack Obama administration -- and just about everyone else -- wants to change the way doctors get paid.
+
+But as the administration's latest step away from the fee-for-service model illustrates, it's doing too little, too slowly to accomplish the change that's needed.
+
+On Monday, the Centers for Medicare and Medicaid Services announced its latest payment-reform project, this one aimed at primary-care doctors: a hybrid of fee-for-service and general per-patient payments -- that is, a flat fee paid to doctors for keeping patients healthy.
+
+It's a sensible approach. But it's also voluntary -- only 20,000 of the 290,000 primary-care doctors practicing in the U.S. are expected to participate. And it follows more than 60 similar payment-reform programs that CMS has announced or tried. The list includes nine other primary-care projects, 10 accountable-care models (in which various health-care providers coordinate care for a group of patients), and 10 kinds of so-called episode-based payments (in which doctors get a flat fee to address patients' specific ailments).
+
+Imagine being a doctor trying to keep up with so many boutique initiatives. As large as these are in number, they don't add up to broad reform. At some point, changing the way doctors are paid requires moving beyond pilot projects.
+
+The administration's expressed goal is to have 50 percent of Medicare payments tied to quality of care by the end of 2018. President Obama announced last month that 30 percent now fit the criteria.
+
+Getting to 50 percent is essential to lowering the cost of health care in the U.S. This year, federal spending on Medicare will probably amount to 3.8 percent of gross domestic product, with almost half of it financed by borrowing. And even though Obamacare has slowed the growth of Medicare costs, that percentage is still expected to reach 4.4 percent of GDP by the middle of the next decade.
+
+Limiting Medicare growth shouldn't require imposing a new doctor-payment system overnight. But it's certainly possible to move more quickly.
+
+One option is to expand some of the strategies that are being tried in certain cities and regions, including episode-based payments. This month Medicare began paying hospitals and doctors in 75 metropolitan areas a fixed amount for every hip and knee replacement, rather than reimbursing them for each step in the process. By expanding that to more procedures, in more parts of the country, the agency could shift more payments away from fee-for-service.
+
+Episode-based payments work best for surgeons and other specialists. Reforming payment for primary-care physicians will require a different approach: Many of them work in small practices, and they will need more help adjusting to new payment models.
+
+Many primary-care doctors would prefer to stick with the system they know, which is understandable -- and that may explain why the government is moving so slowly. But the transition needs to take place across Medicare, and the sooner the better.
+
+To contact the senior editor responsible for Bloomberg View’s editorials: David Shipley at davidshipley@bloomberg.net.

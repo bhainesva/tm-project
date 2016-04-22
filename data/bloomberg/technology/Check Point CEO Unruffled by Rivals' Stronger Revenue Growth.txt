@@ -1,0 +1,26 @@
+Check Point CEO Unruffled by Rivals' Stronger Revenue Growth
+['Gwen Ackerman Elliott Gotkine', 'Gwen Ackerman', 'Elliott Gotkine']
+http://www.bloomberg.com/news/articles/2016-04-19/check-point-sees-better-marketing-keeping-it-on-top
+Check Point Software Technologies Ltd.’s chief executive officer is confident better marketing of the company’s data security platform will prevent younger and smaller rivals with stronger revenue growth from overtaking it as market leader.
+
+“I’m sure we will stay ahead of competitors, mainly because if you look at any report we have the highest level of prevention, the more robust solutions,” Gil Shwed said in an interview at his Tel Aviv office. “I think we could have done better on marketing,” and it will improve, he said.
+
+Revenue growth at rival Palo Alto Networks Inc., has been about five times higher than Check Point’s in each of the past three years, topping 50 percent to the Israeli company’s less than 10 percent. Jonathan Ho, analyst at William Blair and Co., sees Palo Alto possibly surpassing Shwed’s company as the largest standalone security player within a few years, but says in the short term, Check Point’s strong technology and loyal base of customers will keep competitors at bay.
+
+Check Point forecast profit and revenue in the current quarter that may miss analysts’ estimates, sending shares down 3.2 percent to $86.06 at the close Wednesday in New York, the biggest single-day decline in four months. The company estimated earnings per share, excluding some items, of $1.02 to $1.09, compared with the $1.09 a share average of analysts’ projections compiled by Bloomberg. Revenue will be $405 million to $435 million, Check Point said, compared with $427 million from analysts.
+
+Quarterly Earnings
+
+First-quarter revenue was $404 million, up 9 percent from the year-earlier period, while GAAP profit per share increased 11 percent to 95 cents, the company reported Tuesday in a statement.
+
+Check Point could be most vulnerable in the Europe, Middle East and Africa region, where Palo Alto’s operations are less mature, Ho said. “If Palo Alto were to gain more share in the region, that could harm Check Point’s global market share more than Palo Alto’s strength in North America,” he said. About 19 percent of Palo Alto’s $928 million revenue came from EMEA in 2015, compared to 37 percent of Check Point’s $1.6 billion in sales.
+
+The MarketsandMarkets research firm expects the global cyber security market to grow to $170 billion by 2020 from $106 billion last year as cyber threats proliferate and evolve amid increasing mobile data and cloud usage. A high-profile example of the risks emerged this month when a Panama law firm said its computers were hacked to release millions of documents showing how political and business leaders avoided taxes.
+
+Check Point is seeing strong revenue growth of between 20 and 30 percent for its newer products that fight more sophisticated attacks, Shwed said. In 2015, subscriptions to these technologies made up about a fifth of the company’s total revenue. In a press release after earnings were announced, Shwed attributed the growth in profit and revenue, which exceeded company projections, to increased sales in these types of technologies.
+
+Future Plans
+
+Further investment in new products will help Check Point maintain leadership, said Mandeep Singh, Bloomberg Intelligence analyst. “There’s no reason for them to lose this battle, but they really need to step up when it comes to partnerships and smaller acquisitions, as well as develop their product line to meet the changing landscape,” he said.
+
+Shwed said innovation at the company is unprecedented as developers continue their constant battle to fend off new methods of attack. With more than $3 billion in cash, he’s also looking for acquisitions. “In the future,” he said, “we will do more on critical infrastructure, national-level security and Internet-of-Things, some maybe in-house and some acquisitions.”

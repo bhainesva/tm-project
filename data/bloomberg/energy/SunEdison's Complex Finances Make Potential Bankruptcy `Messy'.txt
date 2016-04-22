@@ -1,0 +1,50 @@
+SunEdison's Complex Finances Make Potential Bankruptcy `Messy'
+['Brian Eckhouse']
+http://www.bloomberg.com/news/articles/2016-04-18/sunedison-s-complex-finances-make-potential-bankruptcy-messy
+SunEdison Inc.’s potential bankruptcy would be the biggest ever in the renewable-energy industry, and the largest U.S. failure in more than a year. It also promises to be more complicated than most.
+
+The world’s biggest clean-power developer had total debt of $11.7 billion as of Sept. 30, the last comprehensive figure it reported, after a two-year buying binge of wind and solar assets on six continents. The company is preparing to file in New York, according to a person familiar with the matter.
+
+If it does seek protection from creditors, the proceedings may drag in SunEdison’s two publicly traded holding company units, TerraForm Power Inc. and TerraForm Global Inc. A SunEdison bankruptcy also has the potential to trigger defaults on multiple wind and solar farms that are generating revenue from selling electricity.
+
+SunEdison’s global expansion effort was fueled by a complex web of financing that includes loans from banks and hedge funds, credit lines and the initial public offerings of the TerraForm units. It has seven outstanding convertible bonds, according to data compiled by Bloomberg.
+
+“It’s going to add much more complexity than normal,” said Brandon Barnes, a senior analyst at Bloomberg Intelligence, in Washington. “You’re dealing with affiliates that may not want to be associated with the parent company.”
+
+Creditor Talks
+
+The company acknowledged in a regulatory filing April 15 that it’s talking with creditors about financing to carry the company through bankruptcy reorganization. Ben Harborne, a SunEdison spokesman, declined to comment for this story.
+
+Potential creditors may also include insurance companies, at least one university and the residential solar installer that SunEdison tried to buy for $1.9 billion, Vivint Solar Inc., which sued for damages after the deal fell apart in March. TerraForm Global is pursuing another suit, alleging that SunEdison misused the holding company’s cash.
+
+Related: SunEdison Said Near Bankruptcy, Multiple Possible Outcomes Seen
+
+Two SunEdison creditors, New York-based hedge fund D.E. Shaw & Co. and Madison Dearborn Capital Partners IV LP, filed a separate lawsuit this month, seeking $231 million from TerraForm Power because SunEdison allegedly has missed some deferred payments as part of a $1.9 billion acquisition in January 2015.
+
+TerraForm Shares
+
+“These developments reiterate our concerns that there is a small, but non-zero, probability that the TerraForm entities might be substantively consolidated into a SunEdison bankruptcy,” said Swami Venkataraman, a Moody’s Investors Service analyst in New York.
+
+“The creditors of SunEdison are going to be in control,” he said. “If that means monetizing the TerraForms’ Class B shares by selling them, so be it. If that means dragging the TerraForms into bankruptcy, so be it.” SunEdison controls the TerraForm units through ownership of Class B shares.
+
+‘Messy’ Process
+
+The companies’ finances will make a potential bankruptcy a challenge, said Greg Jones, an analyst with CreditSights Inc., a New York-based research company.
+
+“It can potentially be more messy,” he said. “It’ll get really complex and complicated real fast.”
+
+SunEdison’s financial structure is so opaque that its own employees have raised questions, and the company is being investigated by the U.S. Department of Justice and the U.S. Securities and Exchange Commission.
+
+The TerraForm units have attempted to distance themselves from their parent.
+
+“TerraForm Power and TerraForm Global do not rely substantially on SunEdison for funding or liquidity and believe that, in the event SunEdison seeks bankruptcy protection, the companies will have sufficient liquidity to support their respective ongoing operations,” said Joseph Sala, a spokesman for both companies.
+
+Energy Future
+
+Some of the SunEdison complications are similar to two recent blockbuster bankruptcies, Energy Future Holdings Corp. and Caesars Entertainment Operating Co. In those cases, conflicts arose over which investors were in control of the process and the appropriate role of parent companies and subsidiaries during reorganization.
+
+Energy Future filed for Chapter 11 in April 2014 listing almost $50 billion in liabilities and spent months devising a plan to split its money-making electricity-distribution arm and unprofitable power generation business in a way acceptable to creditors and the court. Some Caesars creditors are still disputing actions that the parent Caesars Entertainment Corp. took before the operating unit’s $20 billion bankruptcy filing in January 2015.
+
+In the case of the SunEdison-TerraForm ecosystem, the operating power plants are typically their own legal entities with stable, long-term deals to sell power. Some of those contracts have clauses that trigger different types of defaults if SunEdison files for bankruptcy.
+
+“The solar and wind assets are great assets,” said CreditSights’s Jones. “They’re mostly contracted with investment-grade utilities. It’s just the financial situation of SunEdison that got in the way.”

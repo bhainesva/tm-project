@@ -1,0 +1,38 @@
+San Francisco Can Afford a $15 Minimum Wage. Mariposa Cannot.
+['Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-03-29/san-francisco-can-afford-a-15-minimum-wage-mariposa-cannot
+Megan McArdle is a Bloomberg View columnist who writes on economics, business and public policy. She is the author of "The Up Side of Down."
+
+California has reached a deal to raise its statewide minimum wage to $15 an hour. This would certainly be a breathtakingly broad political experiment. The question is whether it will turn into a breathtaking disaster.
+
+The left wants to believe that it is safe to push for dramatic hikes. Advocates want to believe that economic science has debunked the notion that raising the minimum wage causes unemployment. The evidence is far more equivocal. The best available studies that support that belief cover only limited periods and modest increases in the wage floor. You cannot safely extrapolate that such increases don't cause unemployment in the longer term, or that much larger hikes will be harmless.
+
+Will raising the minimum wage to $15 cause every business to shutter, as zombie hordes of unemployed workers roam the streets? No. The downsides will not necessarily appear immediately, and they will not necessarily manifest everywhere in the same way. A number of cities have recently raised their minimums to $15 an hour. San Francisco and Seattle have not exactly become howling wastelands.
+
+The realistic fear is that the businesses that employ low-skilled workers will, on the margin, find it less profitable to employ those workers. There will be job losses as some employers seek ways to replace labor with capital (think of a fast-food restaurant that installs a self-serve drink station). A few businesses will close their doors when they can no longer make a profit.
+
+The higher the minimum wage, the worse this disemployment effect will become, shutting some folks out of the labor market. Some low-skilled workers will earn more than they used to and will be better off -- but the ones with no jobs at all will be much worse off. At some point, the harm done to workers who lose their jobs far outweighs the benefits conveyed upon workers who still have jobs. Advocates of very high minimums have done little to establish that their proposals fall on the right side of the cost-benefit curve.
+
+At what point do the harms start to outweigh the benefits? So far it's hard to say; the cities that have tried big increases haven’t completed the transition, so we don’t have much data. But even when we get that data, it's probably not a good idea to extrapolate from the experience of a handful of high-wage cities. Their professional class can afford to pay higher prices for goods and services with relatively little pain. The effect of a $15-an-hour minimum wage is apt to be very different in San Francisco (average weekly wage roughly $1,700) than it is in Mariposa County (average weekly wage $640).
+
+Who in counties like Mariposa is going to subsidize increasing the wages of half the population? These are not places with rich and thriving industries that can afford to toss a little of their tech boom wealth at retail and food service workers in the name of social justice. As Keith Humphreys has written:
+
+Will the local family who runs a gas station or a convenience store on a tight margin in El Centro truly start hiring cashiers at a rate higher than what the store manager currently makes? And how will people on fixed incomes (e.g., Seniors living on social security) in low-income counties survive as the wage increases in different sectors increase the price of food, clothing and health care?
+
+Nor is California the only state with this problem. My home state, New York, has agreed to raise the minimum wage for fast-food workers to $15 an hour. In New York City, that will probably mean an increase in the prices of already overpriced retail, and perhaps some unemployment at marginal outfits. But in my mother’s hometown, $15 an hour is not that far off from what a nurse makes. It’s hard to see how fast-food restaurants could plausibly charge the local market enough to make up for such a huge increase in their wage bill.
+
+Whatever your position on minimum wages in general, it shouldn’t be controversial to acknowledge that those minimums affect different regions in different ways. Rich urban areas whose economies are driven by high-margin professional and knowledge businesses will fare better than poorer regions, or those whose economies depend on nationally or globally competitive manufacturing and agriculture.
+
+Unfortunately some of those poorer regions are at the mercy of urban policy makers. Big states like California and New York combine a large and politically powerful urban population with a much poorer rural population that cannot afford the kinds of government interventions that the urban voters want. Policy gets made for the big, powerful urban populations, who don’t know, or necessarily much care, whether that smothers the local economy of their rural counterparts.
+
+If we’re going to try these sorts of experiments, we should try them slowly, with ample time to evaluate their effects, and with an understanding that the results in some places may not generalize well to others. Instead, legislators increasingly seem to be opting for quick blanket solutions that may deal crippling blows to local economies that can ill afford them.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Megan McArdle at mmcardle3@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Philip Gray at philipgray@bloomberg.net

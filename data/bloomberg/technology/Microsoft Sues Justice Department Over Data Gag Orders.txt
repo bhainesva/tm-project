@@ -1,0 +1,60 @@
+Microsoft Sues Justice Department Over Data Gag Orders
+['Dina Bass']
+http://www.bloomberg.com/news/articles/2016-04-14/microsoft-sues-justice-department-over-client-data-gag-orders
+Microsoft Corp. sued the Justice Department in a bid to block authorities from taking customers’ e-mails without their knowledge, ratcheting up pressure on an administration already engaged in a high-profile privacy dispute with Apple Inc.
+
+The lawsuit, which names the Justice Department and Attorney General Loretta Lynch, is the most aggressive step yet by Microsoft in a two-year feud with the U.S. over customer privacy and its ability to disclose what it’s been asked to turn over to investigators -- issues that echo Apple’s fight to preserve the encryption built into its iPhones.
+
+Microsoft called the 1986 Electronic Communications Privacy Act unconstitutional, citing its own First Amendment free speech rights and its customers’ Fourth Amendment right to know if the government has searched or seized their property. The law essentially places the company under an unlimited gag order, according to the complaint filed Thursday in U.S. federal court in Seattle. While it’s concerned with protecting civil liberties, Microsoft said it also wants to preserve its ability to sell Internet-based services that customers trust.
+
+“It’s very important for businesses to know when the government is accessing their file room, whether the file room is down the hall or in the cloud," said Microsoft President and Chief Legal Officer Brad Smith, noting that consumers and privacy groups have expressed concern about the issue. “People shouldn’t lose their rights simply because technology is moving to the cloud.”
+
+The Justice Department is reviewing the filing, said spokeswoman Emily Pierce.
+
+Cloud Transition
+
+The rapid growth of cloud computing, in which customer data is stored by providers like Microsoft, Apple Inc., Amazon.com Inc. and Google in the technology companies’ own data centers, has increased both the frequency of warrants seeking data and government abuse of its search powers, Microsoft said in the filing. The law in question predates the invention of the World Wide Web by three years, and was enacted more than two decades before widespread use of cloud computing, Microsoft said.
+
+“The government, however, has exploited the transition to cloud computing as a means of expanding its power to conduct secret investigations," according to Microsoft’s filing.
+
+Bill Fitzpatrick, the district attorney in Onondaga County, New York, and president of the National District Attorney’s Association, slammed Microsoft’s actions, calling them “obscene.”
+
+“I don’t know what’s in the water over there at Microsoft or Apple corporate headquarters, but this is ridiculous,” he said. “If I’m tracking a serial sex offender, child pornographer or a human-trafficking ring, I can’t tip these people off.”
+
+No Time Limit
+
+Secrecy orders on these warrants generally prohibit Microsoft from telling customers about the requests for lengthy or even unlimited periods, the company said. Over the past 18 months, federal courts have issued almost 2,600 secrecy orders to Microsoft alone, and more than two-thirds had no fixed end date, according to the filing. That means the company can never tell customers, even after an investigation is completed.
+
+“When you extrapolate it to all the providers, the number of gags must be astounding," said Greg Nojeim, senior counsel at the Center for Democracy & Technology, which Microsoft briefed before filing the suit.
+
+Microsoft conceded that there may be times when the government is justified in seeking a gag order to prevent customers under investigation from tampering with evidence or harming another person. Still, the Redmond, Washington-based company says the statute is too broad and sets too low of a standard for secrecy.
+
+IPhone Fight
+
+The conflict between privacy and criminal investigations intensified for the entire technology industry in February, when Apple was ordered to help the FBI break into the iPhone of one of the shooters in a terrorist attack in California. Microsoft was among a long list of technology companies that supported Apple’s refusal to comply, saying it would threaten customer security and set a dangerous precedent. The government withdrew the request last month, saying it had found a way to get into the phone without Apple.
+
+Microsoft has been tussling with the government on similar issues for even longer.
+
+Since National Security Agency contractor Edward Snowden exposed clandestine data collection by the U.S. and implicated companies like Microsoft for aiding the government, the software maker -- led by Smith -- has been fighting back against what they see as government overreach. The ongoing issues have meant that technology companies, once faulted by privacy advocates for mining user data and profiting from things like targeted advertising, are now in a position to take a stronger stance for user data security.
+
+In December 2013, in the wake of Snowden’s revelations, Microsoft offered customers new legal assurances, including pledging to tell businesses if the government had requested their data, or to fight any such gag order in court.
+
+Since then, the software maker has litigated cases in that situation and has found that an increasing number of confidential requests are coming in. The majority are for consumer accounts, not business customers, Smith said.
+
+“This is a significant development and part and parcel of the continued push-back by the American tech sector over surveillance post the Snowden disclosures," said Catherine Crump, a law professor at the University of California at Berkeley.
+
+Microsoft’s other public case against the Justice Department concerns the question of whether the U.S. government can demand that American technology companies turn over files stored in their overseas data centers. That case, which relates to data held in Ireland that involves a narcotics investigation, awaits the ruling of a three-judge panel of an appeals court in New York.
+
+Microsoft also said it plans to work with Congress to pass a law that would be more modern and better suited to cloud computing. Another way to resolve the dispute would be for the Justice Department to voluntarily change the way it uses these orders, Smith said.
+
+“The concerns we are articulating are shared broadly in the tech sector," Smith said. “I fully expect we will hear from a number of other tech companies."
+
+Twitter, Yahoo
+
+Microsoft’s newest battle is similar to a pair of legal cases that involve Twitter Inc. and Yahoo! Inc., both of which are seeking to enhance transparency while trying to curb the government’s indefinite orders of secrecy, according to the complaints.
+
+Twitter is fighting the government for permission to publicly disclose the precise number of so-called national security letters it receives from the FBI, beyond the current government limit that restricts reporting to bands of 1,000.
+
+Last year the U.S. sought to bar Yahoo indefinitely from disclosing the existence of a grand jury subpoena. The government’s petition for secrecy was rejected by a federal judge in San Jose, California, who said the order would “amount to an undue prior restraint of Yahoo’s First Amendment right to inform the public of its role in searching and seizing its information."
+
+The case is Microsoft Corp. v. United States Department of Justice, 16-cv-00538, U.S. District Court, Western District of Washington (Seattle).

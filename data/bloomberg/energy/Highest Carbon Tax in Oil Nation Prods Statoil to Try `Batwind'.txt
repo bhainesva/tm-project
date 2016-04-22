@@ -1,0 +1,36 @@
+Highest Carbon Tax in Oil Nation Prods Statoil to Try `Batwind'
+['Jessica Shankleman']
+http://www.bloomberg.com/news/articles/2016-04-19/highest-carbon-tax-in-oil-nation-prods-statoil-to-try-batwind
+The highest carbon tax in an oil producing nation has persuaded Norway’s state-owned driller to experiment with batteries and wind turbines as an alternative for supplying electricity to offshore rigs.
+
+Statoil ASA is planning to park its floating Hywind turbines next to rigs, using lithium-ion batteries to store energy for times when the wind isn’t blowing, said Stephen Bull, a senior vice president overseeing the work. If it succeeds, the technology may spread to the fish-farming industry, which also has big offshore electricity needs.
+
+The project dubbed “Batwind” is an example of innovation that governments are hoping to encourage by putting a price on the pollution that causes global warming. Norway charges as much as 436 krone ($53) per metric ton of carbon emitted for fossil fuels extracted on its continental shelf, 10 times the price of certificates in the European Union’s offset market.
+
+It’s the “financial upside” that’s making the project more attractive financially, Bull said, whose company wants to be the world’s greenest fossil-fuel producer. “When you look at the platforms and you look at the exposure we have for power and carbon dioxide, it’s considerable.”
+
+Norway’s carbon tax is the fourth-highest in the world behind Sweden, Finland and Switzerland, none of which produce significant quantities of fossil fuels. The next highest at about $25 a ton is the U.K., according to the World Bank’s annual report on the market.
+
+Norway was one of the first countries to adopt a carbon tax in 1991, and the fee now covers about 55 percent of the nation’s CO2 emissions, according to the World Bank. Emissions not covered by a carbon tax are included in the country’s ETS, which was linked to the European ETS in 2008.
+
+Statoil has already committed $214 million to the Hywind offshore wind plant, which will supply 30 megawatts when it’s complete in Scotland in 2017. That in itself is unique, since only about 8 megawatts of floating offshore wind is working worldwide to date, according to Bloomberg New Energy Finance. By 2018, Statoil will add a 1 megawatt-hour of batteries to the Hywind project at a cost BNEF estimates at $1.2 million more.
+
+Batwind is important because it’s one of a handful of large-scale examples where companies are using storage devices to balance the variable power flows coming from a renewable energy generator. If perfected and economical, the technologies used together may spread, challenging diesel generators and maybe even coal plants, whose main selling point is reliability.
+
+“It is expensive, there’s no doubt about it,” said Bull, who declined to provide cost estimates. “The key part for us is being able to offer predictability on power and that has a much higher value than the variability.”
+
+Battery Wind
+
+The lithium-ion battery elements in the battery-wind project, or “Batwind” for short, will come online in 2018. Together, they’ll be attached to Statoil’s floating wind farm in Scotland as part of a demonstration project.
+
+“Statoil is well on the way to competitive costs, having already shown a price per megawatt drop of 77 percent from its from first demo turbine in 2009 to its latest array,” said Tom Harries, an analyst at BNEF.
+
+While it may take another decade or more to make floating wind turbines as cheap as ones anchored to the ocean floor, Statoil’s project is may prove that marrying the two technologies can help generate clean electricity more economically. It’s also being helped by the falling cost of lithium batteries, which are being pushed down by a boom in hybrid-electric vehicles. Battery storage could fall by as much as 52 percent, to $182 per kilowatt hour, by 2025, according BNEF.
+
+Batteries increase the appeal of the project by ensuring a steady supply of electricity will flow, making Batwind as reliable as more polluting incumbents for small-scale backup power. Bull said fish farmers in Norway already have approached Statoil about tapping its electricity.
+
+“Many of them come to us, saying ‘we’re burning a lot of diesel, it’s costing us a lot of money,”’ Bull said. Norway is the world’s biggest salmon market, exporting a record 48 billion Norwegian krone ($6 billion) of trout and salmon in 2015.
+
+Statoil may even seek to sell its Batwind energy-storage solutions abroad. It has bought domain names in key markets including the U.K., Japan and U.S.
+
+“It’s a must-have skill set for us,” Bull said. “We’re going to have to get our head around storage technology -- particularly if we’re going to make floating a valued proposition in other countries beyond Europe.”

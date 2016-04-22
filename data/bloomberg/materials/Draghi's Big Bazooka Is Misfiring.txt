@@ -1,0 +1,52 @@
+Draghi's Big Bazooka Is Misfiring
+['Chris Bryant']
+http://www.bloomberg.com/gadfly/articles/2016-04-07/mario-draghi-s-ecb-has-an-equity-problem
+Apr 7, 2016 2:35 AM EDT
+
+Mario Draghi's unorthodox policies have driven yields on government bonds and corporate debt to record lows. But so far they've had little impact on the cost of equity, which has stayed stubbornly high since the financial crisis. That may explain why the ECB's attempt to kickstart investment has stalled.
+
+The cost of equity is the return investors demand in terms of dividends and capital gains to hold a company's shares. Low interest rates have supported share prices but not enough to prevent a widening gap between the cost of equity and debt. (The chart below shows how this is playing out in Germany.)
+
+Widening Gap Debt has become much cheaper compared to equity Source: KPMG
+
+So why is equity so costly? One big reason is that market volatility has made investors nervous about holding stocks so they want a hefty premium over "risk-free" government bonds. This "equity risk premium" has tended to move in the opposite direction to corporate bond yields as shown in the ECB chart below.
+
+In theory, this shouldn't matter too much because net equity issuance accounts for about 2.5 percent of total financing for European companies, who rely instead on bank lending, according to Natixis chief economist Patrick Artus.
+
+But in reality large companies are beholden to their theoretical cost of equity.
+
+Investments that don't promise returns greater than the weighted average cost of capital (the combined cost of debt and equity) usually won't get funded. The same applies for banks, which can hardly be expected to loan more money if they can't make a return.
+
+And the WACC is typically higher than you might think. Take chemicals giant BASF, which as you'd expect has a low cost of debt. It sold a five-year bond in 2014 with a 1.375 percent coupon, but expects a pretax WACC of 10 percent this year.
+
+Despite central banks doing just about everything bar throwing money from helicopters, companies still won't deploy cash. Global capex fell about 10 percent in 2015, according to Standard & Poor's, and could shrink another 4 percent this year. That's driven by the ailing commodities sector. But if energy and materials are excluded, capex still shrank 2 percent last year.
+
+Capex Strike Standard & Poor's expects global capex to shrink this year and next Source: S&P Corporate Credit Research
+
+What's gone wrong? In a world marred by low growth and industrial overcapacity it's hard for companies to generate a return exceeding their WACC and this is clearly slowing investment.
+
+European companies could just apply a lower WACC but they're reluctant, doubtless because they think interest rates won't be low forever. They could also lower the WACC by bulking up on debt, but unlike more gung-ho U.S. peers they're sniffy about that too.
+
+What Happened to Leverage? Unlike the US, European companies have been reluctant to take on more debt Source: Bloomberg
+
+Citi equity strategist Robert Buckland argues that the high cost of equity has other unhappy consequences. Debt-market investors who've had to switch to equities as central banks gobble up bonds are demanding large dividends to hold stocks. Companies that prioritize long-term investments over cash returns are penalized by this risk-averse class of shareholder.
+
+When Osram, a German lighting company, announced a new 1 billion euro Malaysian plant last year its shares plunged. Peugeot's announcement this week of a U.S. car-sharing venture met a similarly cool response.
+
+Until now, Europe's companies have lagged far behind U.S. counterparts on buybacks but recent plans from Ryanair and Siemens suggest that's starting to change. The ECB decision to buy corporate bonds may also encourage this trend, diverting cash from investments.
+
+There's some cause for hope though. It's possible the ECB corporate bond-buying will force some pension funds and other investors to stop shunning riskier assets like stocks. By pushing up the price of equities, the cost of share capital would fall. Rising share prices would also help repair the hole in corporate pensions, another reason why companies won't invest.
+
+If that doesn't work the ECB could expand QE to include stocks. Less controversially, governments could remove a bias in tax codes that tends to penalize equity. Interest on debt can often be offset against corporate taxes, but shareholder payouts generally can't.
+
+Neither option seems likely. So when central bankers meet to ponder why their interventions haven't done more good, they'd do well to remember the cost of equity.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Chris Bryant in Frankfurt at cbryant32@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Boxell at jboxell@bloomberg.net

@@ -1,0 +1,62 @@
+So Just How Much of an Overshoot on Inflation Will the Fed Tolerate?
+['Timothy A Duy']
+http://www.bloomberg.com/news/articles/2016-04-07/so-just-how-much-of-an-overshoot-on-inflation-will-the-fed-tolerate
+The author is the professor of practice and senior director of the Oregon Economic Forum at the University of Oregon and the author of Tim Duy’s Fed Watch.
+
+The Federal Reserve formally adopted a 2 percent inflation target back in January of 2012.
+
+Policymakers at the central bank amended their objective this year to clarify that they expect "symmetric errors" around the target; in other words there is the possibility of the central bank overshooting or undershooting its self-proclaimed goal on inflation. Despite this clarification, concerns about the Fed’s commitment to the target persist and have intensified following Fed Chair Janet Yellen's speech last month. Even before then, however, it was easy to see why such worries existed. The central bank began the process of policy “normalization,” first by ending quantitative easing and then by raising benchmark interest rates, even though inflation has fallen short of the Fed's self-proclaimed target every month since May of 2012.
+
+This raises a simple question: Given consistently below-target inflation since the Fed adopted its target, how much, if any, overshooting might the Fed be willing to tolerate as the expansion continues?
+
+This question is especially important now that the Fed has embraced the reality of the asymmetric policy risks they face.
+
+From the minutes of the Fed’s March 2016 meeting, which were published on Wednesday this week:
+
+Many participants noted that, with the target range for the federal funds rate only slightly above zero, the FOMC continued to have little room to ease monetary policy through conventional means if economic activity or inflation turned out to be materially weaker than anticipated, but could raise rates quickly if the economy appeared to be overheating or if inflation was to increase significantly more rapidly than anticipated.
+
+Policmakers are now clearly willing to risk overshooting their target, but we still don't know what's a tolerable overshoot.
+
+Indeed, part of the communications challenge facing Fed Chair Janet Yellen is that she doesn’t seem to have a good handle on what the Fed’s inflation target actually means for the practice of monetary policy. Or at least she can’t seem to explain it.
+
+From the September 2015 press conference:
+
+So let me be clear—2 percent is our objective. We want to see inflation go back to 2 percent; 2 percent is not a ceiling on inflation. So we’re not trying to push the inflation rate above 2. It’s always our objective to get back to 2, but 2 percent is not a ceiling. And if it were a ceiling, you would have to be conducting a policy that, on average, would hold the inflation rate below 2 percent.
+
+And from December 2015:
+
+We—I would point out, you asked me, would we tolerate overshoots. For a number of years between 2004 and 2008, we had a series of increases in oil prices that for a series of years raised inflation above—again, we didn’t have a 2 percent objective then, but—raised it above 2 percent, and we judged those increases to be transitory as well and looked through them. We do monitor inflation expectations very carefully. If we saw in a meaningful way that inflation expectations were either moving up in a way that made it—them seem unanchored or down, that would be of concern.
+
+And from March 2016:
+
+So I want to make clear that our inflation objective is 2 percent, and we are projecting a move back to 2 percent. And we are not trying to engineer an overshoot of inflation, not to compensate for past undershoots, so 2 percent is our objective. But it is a symmetric objective, and we certainly don’t seek to overshoot our objective. But some undershoots and overshoots are part of how the economy operates, and our tolerance for those is symmetric with respect to under- and overshoots. … As I indicated in December—the Committee indicated in December, we want inflation to go back to 2 percent. But we also want to be careful not to see some significant overshoots, so that we would get behind the curve and potentially be faced with a need to tighten in a very rapid fashion later in a way that could undermine the sustainability of the employment gains we have had.
+
+So 2 percent is the target. And if they want to maintain a policy that, on average, delivers 2 percent, they have to tolerate overshooting and undershooting of that target. But they won’t deliberately try to overshoot or undershoot. So then 2 percent is a ceiling? No, it can’t be a ceiling since Yellen said it’s not a ceiling. But if it is not a ceiling, then why rule out a consciously planned overshoot? Because they don’t overshoot. Or maybe they do, because Yellen said they will tolerate overshooting as long as it is not significant. But how big is “significant?” 10 basis points over 2 percent? 25 bps? And if you say you will tolerate overshooting, isn’t that the same as running a policy that overshoots?
+
+Let's try to untangle this very tangled ball of string.
+
+First and foremost, we need to begin with the Fed’s forecast. The Summary of Economic Projections reinforces the idea that 2 percent is a ceiling, as it always forecasts inflation to trend toward target but without overshooting. But I have come to believe that under no circumstances will the Federal Reserve issue a forecast that suggests intentional overshooting of the inflation target.
+
+This places Fed communications in a box regarding the symmetry of the target. They can’t say they expect to overshoot even if they wanted to overshoot. Why? Because they fear that any forecast other than one that reverts to target will leave inflation expectations unanchored—meaning that economic agents would no longer expect inflation to be low and stable. Anchored inflation expectations are the Holy Grail of central banking. Policymakers fear that once expectations lose their mooring, they also lose any hope of meeting their target. Once you have your hands wrapped around that Grail, you don’t let go.
+
+This also explains why Janet Yellen put her much-lauded optimal control approach on the shelf to gather dust. Recall that the key feature of optimal control theory is to deliberately allow inflation to run above target to accelerate the return to full employment. But now where is optimal control in Yellen’s policy approach? It doesn’t exist because it can’t exist, because it represents an existential threat to the stability of inflation expectations.
+
+So even if Yellen still believes in optimal control theory, she can’t say she still believes in optimal control theory. The 2 percent inflation target prohibits the explicit pursuit of such a policy. Inflation forecasts can only trend toward target. Do not pass "Go." Do not collect $200.
+
+So if you want to overshoot, but you can’t say you want to overshoot, what do you get? The answer is a communications nightmare. You get to talk about symmetric targets with no overshooting. And—most importantly—policy that will appear dovish relative to communication. Because although the Fed will reaffirm commitment to the inflation target, they will tolerate more overshooting than they suggest they will tolerate. We will see less of a policy response than their rhetoric would currently suggest.
+
+Indeed, Yellen provides a big hint about the acceptable magnitude of overshooting by specifically calling attention to the 2004-08 period. Recall how inflation behaved back then:
+
+Source: Bloomberg/Tim Duy
+
+If Yellen believed that to be a tolerable level of inflation, then a roughly 25 bps overshoot would not be considered significant. But a greater overshoot might be acceptable. As Yellen notes, the Fed did not have an explicit inflation target prior to the recession. But the meeting transcripts of the time indicate that the Fed went into the 2008 recession with a lower implicit inflation target.
+
+Former Fed Chair Ben Bernanke, from the Sept. 20, 2006, FOMC meeting:
+
+I’d like to make a few other comments about some of the conversation around the table. I’m bemused by the de facto inflation targeters that we have become here [laughter] with the 1.5 percent goal. …The extent to which we’re concerned about potential recessionary effects should make us be a little more cautious and make us move a little more slowly. I would add that, although a number of us, including myself, have mentioned this 1 to 2 percent zone, it has also been noted around this table that it may not, in fact, be the right zone. If we do determine that we want to announce a target and it is 1.5 percent, we should lay out a plan for getting to that level over a period of time and not immediately. But we might choose as an alternative possibility, for example, 1.5 to 2 percent, in which case we would be somewhat closer to that target in a shorter time.
+
+The Fed went into the recession with an implicit inflation target as low as 1.5 percent (almost certainly too low, and something I increasingly believe was the Fed’s biggest policy error), which implies the overshooting in the period Yellen refers to was as much as 75 bps. That leads to a natural question for Yellen at the next press conference: "Chair Yellen, you have described the 2004-08 period as an example of an acceptable overshoot. Please discuss the magnitude of that overshoot, recalling that the transcripts suggest the Fed was leaning toward an inflation target of 1.5 or 1.75 percent."
+
+This, I think, would force her to clarify the acceptable level of overshooting. My guess is that in practice it will be 50 bps. My guess is that she won’t say so, which will leave policy disconnected from rhetoric.
+
+Bottom Line: The Fed will not forecast an overshooting, it will not say it is planning an overshoot, but we know from her past work that Yellen is sympathetic to overshooting. And note that the only way they can prove that the inflation target is not a ceiling is by allowing some overshooting. Finally, Yellen cites a period of time of potentially significant overshooting relative to the implied target then as acceptable. Altogether, this adds up to what might be a surprisingly dovish Fed even if inflation crosses the 2 percent mark.

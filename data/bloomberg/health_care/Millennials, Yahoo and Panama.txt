@@ -1,0 +1,116 @@
+Millennials, Yahoo and Panama
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-11/millennials-yahoo-and-panama
+People are worried about millennials.
+
+I love this story:
+
+What Mr. Wu says he didn’t expect was the drudgery—the amount of trivial work that got passed on to entry-level bankers. One night, he says, after he had worked until 1 a.m. preparing a 60-page client book, his managing director told him to replace all the logos in the presentation because they appeared “fuzzy.”
+
+Mr. Wu is Steve Wu, who was an investment-banking analyst at Moelis & Co. for 11 months before quitting "for a mobile-gaming startup." What was the point of the logos? One point is that the MD was going to meet with the client and pitch a deal, and he wanted Moelis to come off in the best possible light. Everything about the book had to be professional, impressive, pleasing to the client's eye; fuzzy logos would distract the client and dim, at least momentarily, her admiration for Moelis.
+
+Another purpose is to train the analyst in the care and attention to detail that would be required of him as a junior banker. The logos don't matter -- they do, but not that much -- but the numbers sure do. Junior bankers are responsible for massive spreadsheets, and errors in their calculations can have disastrous consequences for clients and for the bank. An analyst who doesn't pay attention to the details is dangerous; fuzzy logos can too easily become fuzzy math.
+
+But the most important explanation is that the analyst needs to learn to take ownership of the presentation: not just to do what he was asked to do (put in logos), but to look at the final product critically and make sure that it's good enough to send to a client (are the logos good?). It is a transition from school, where you do what is asked of you and let others evaluate your efforts, to work, where your job is to produce results, not just follow instructions. It can be a painful process, and sometimes, paradoxically, it can involve infantilizing 1 a.m. instructions to redo the logos.
+
+In an ideal world, this would be unnecessary: You give the young person an intrinsically fulfilling and motivating task, and he jumps into it, proudly taking ownership because he feels a genuine personal connection with his work. Hey great that's super. It's harder to do at an investment bank. The job is to pitch mergers, and Mr. Wu, less than 11 months into the job, is not the right guy to do it. He's the right guy to put the logos in the book. One hopes.
+
+What is going on here is that companies have to socialize young people to feel connected to the work that the companies actually do. This is relatively easy if that work is, you know, saving the world, but sometimes that work is pitching merger assignments. Then the socialization will inevitably be imperfect. Some junior bankers will adapt, internalize the industry's expectations, and one day wake up as vice presidents demanding that a new generation of analysts sharpen up some logos. Others will quit in 11 months for mobile gaming.
+
+Lucy Kellaway is not impressed by the current process of socialization, and she has a point. For one thing, employers over-promise:
+
+Most of these graduates have been told over and over again by prospective employers that they are extraordinary, and that their jobs are amazing. The Bain website is typical: “We need smart, innovative thinkers who aspire to incredible things. The learning curve is steep. But the work is exhilarating. And your career potential is infinite.”
+
+And need to either scale back those promises or improve their delivery:
+
+They must stop telling them they have landed the most amazing job in the world. Instead they should give them something interesting to do, or at least be able to explain why filling in that particular spreadsheet really matters.
+
+But of course the senior bankers, who have long since been acclimated to working in banking, do think that their job is pretty interesting. They want the junior bankers to share that excitement. It can be hard to remember why they don't.
+
+One other thing. Steve Wu left for a mobile gaming startup. The other millennials in that article left finance to learn to code, or to work at Google. And of course the great threat to junior banker retention comes from private equity firms; the article begins with Goldman Sachs investment banking co-head David Solomon disingenuously telling young analysts not to leave for private equity in a year or two because "they would be more marketable after four or five years." One theory of millennial disengagement from banking is that the kids these days want work that is meaningful for the world, not just for their own bottom line, and that there is a stigma attached to finance, a perception that it is socially useless. But ... mobile gaming? Selling online ads? Private equity? I don't buy it.
+
+Elsewhere, Goldman is saving money by making its workforce more junior. And "when adjusted for inflation, wages for investment bankers and securities-industry employees, including salary and bonuses, increased 117 percent from 1990 through 2014," versus 21 percent for all other industries.
+
+Yahoo!?
+
+A lot has been written about Yahoo's crisis of identity in deciding whether it is a tech company or a media company. (There is a third possibility, that it is a hot dog stand with a pile of Alibaba shares, but never mind that.) You can see how that uncertainty would make it hard to run a company: Do you use editors to curate the home page, for instance, or algorithms? On the other hand, it has some advantages in trying to sell a company: You can shop it to media companies, you can shop it to tech companies, and you can shop it to all the other companies -- they are surprisingly numerous -- who also can't decide if they are tech or media companies. It also helps that Yahoo is pretty agnostic about how it sells itself -- all at once, or in pieces, or whatever -- so it can shop the media properties to the media companies, and the tech properties to the tech companies, or vice versa I suppose. It all seems very good for stirring up competition, and if you are auctioning an asset with a negative market value, every little bit helps.
+
+Anyway, last week it was reported that Verizon might be bidding for Yahoo, and now the Daily Mail is also apparently considering a bid. "In one scenario, a private-equity partner would aim to acquire the entirety of Yahoo’s U.S. operation, with the Mail taking over the news and media properties." Most companies know whether they are phone companies or newspapers; Yahoo's uncertainty on this point has been a problem so far, but it finally seems to be paying off.
+
+Panama.
+
+"Panama Furor Rumbles Into Second Week as Global Pressure Mounts" is the Bloomberg headline, but the takes have become rather mellower and more curious. I enjoyed Dan Davies's explanation of secret tax loopholes as "a safety valve for upper class rage," in which postwar governments were able to build large welfare states with high taxation because they provided rich people with an implicit opt-out. Tax havens, on this view, are the opiate of the 0.01 percent: If you don't like paying high taxes to fund a welfare state, you can just move your money to Panama, rather than supporting a small-government revolution. One might ask how this analysis is connected to (1) the relative absence of Americans in the Panama Papers so far and (2) the Tea Party, etc. I also endorse Davies's line that "'Technically legal,' after all, is a phrase which means 'legal.'"
+
+Elsewhere, Tyler Cowen discusses the privacy problems in the Panama Papers:
+
+Furthermore most of those individuals probably did nothing illegal, but rather they were trying to minimize their tax burden through (mostly) legal shell corporations. Admittedly, very often the underlying tax laws should be changed, just as we should repeal the deduction for mortgage interest too. But in the meantime we are not justified in stealing information about those people, even if some of them are evil and powerful, as is indeed the case for homeowners too.
+
+It is weird how many people advocate both privacy and transparency, which do seem to be opposites. As Cowen puts it: "Somehow 'good things' such as 'privacy' and 'transparency' cannot stand in such conflict because all good things, like all bad things, must come together." And here is a claim that the Russians -- specifically "Putin's personal financial intelligence unit" -- might be behind the Panama Papers leaks.
+
+Addyi.
+
+Here is a delightful deep dive into the troubles of Addyi, the "female Viagra" developed by Sprout Pharmaceuticals, which Valeant bought for $1 billion last summer, just before things started going wrong at Valeant. The Addyi situation hasn't helped; the drug has been prescribed "fewer than 4,000 times as of February." But whose fault is that? One possibility is that Addyi just wasn't a very good product. "It wasn’t a very good product," says a health policy professor. But the other possibility is that Valeant just messed up the distribution. For example: Sprout had arranged for Addyi to be distributed through Cardinal Health. After buying it, Valeant canceled that arrangement. Instead Addyi would be distributed through a little pharmacy called Philidor Rx Services. Remember what happened to Philidor? That's right, it became the centerpiece of a huge scandal at Valeant and was shut down. Also Valeant doubled Addyi's price, making some insurers unwilling to pay for it.
+
+This is all controversial because Sprout's former shareholders have earnout arrangements and think they are being shortchanged by Valeant's distribution decisions. Valeant disagrees. Awkwardly, one of Sprout's former shareholders is Bill Ackman, who in his day job -- as manager of Pershing Square -- is a massive shareholder, and now board member, of Valeant. He bought his Sprout shares in his personal account, though; he was introduced to the company by "Sally Greenberg, executive director of the National Consumers League, which campaigned for the drug." And how did he know her? Well, he "had worked with Ms. Greenberg years earlier on his crusade against Herbalife, the supplements company." It all comes together so perfectly.
+
+Scandals abroad.
+
+I've written before about my fascination with the bribery industry, because it is an industry, and because it so closely resembles other, regular industries. Like, for instance, what do you call a person who gets you an introduction to the decisionmaker who will be hiring companies to do a big lucrative deal? Conceivably, that's an "investment banker"; conceivably, it's just a guy who distributes bribes. Or what do you call a firm that helps you resolve safety and customs disputes with the local government? I mean, classically that's a "law firm," though it could also be a "lobbying firm" or "political-risk consultancy" or whatever. Or it could be ... look, if it's a "catering company," something may have gone wrong. Here is a story about how Olympus hired a Chinese company to run the cafeteria at an Olympus factory in China, and then used that company as a consultant to resolve customs and safety disputes with the government:
+
+The caterer had connections. In 2013, Olympus hired the company, Anyuan, to be a fixer, acting as a go-between with government officials in the customs case, according to an internal investigation into the matter. Soon after, the eight-year-old case was inexplicably dropped, and with it demands that Olympus pay at least $9 million in penalties and uncollected import duties.
+
+Olympus commissioned an investigation, which found that senior executives had signed off on payments to Anyuan:
+
+And they did so despite the knowledge that Anyuan’s chairman was linked to prominent bribery cases that were reported by China’s state-run media. Some Olympus executives, the report said, understood that Chinese fixers “could commit bribery.”
+
+It is a hard puzzle. If you are operating in a foreign country and have troubles with the government, you might very well need to hire a local consultant to help you resolve them. And you are hiring the local consultant precisely for its local knowledge of how to get problems resolved. If the consultant's expert judgment is that the answer is bribery, well, you did hire it to make judgments like that. Also I guess to run the cafeteria though.
+
+Elsewhere, maybe the biggest flaw exposed by the Bangladesh central bank heist is that the Fed is basically unreachable on weekends. And here is a story about the founder of the surprisingly aptly named Chilean private equity fund Grupo Arcano, who seems to have disappeared a bit:
+
+In the latest twist, colleagues and family members received an e-mail Wednesday from Chang’s personal account with “from Malta :-)” in the subject line. The 42-year-old said he was quitting his “job, company and life” after a “plan to fix things from abroad had failed.” Now, executives of the firm are resigning, telling investors they’re providing information to authorities.
+
+People are worried about unicorns.
+
+I don't know if it is actually a unicorn, but Skincential Sciences is a skincare company that is funded by the Central Intelligence Agency's venture capital arm and whose main product is "a convenient option for restoring the glow of a youthful complexion — and a novel technique for gathering information about a person’s biochemistry." Isn't 2016 weird? Elsewhere, Dan Lyons compares a startup where he worked with "a frat house mixed with a kindergarten mixed with Scientology." And supposedly Saturday was National Unicorn Day? I don't know what to tell you.
+
+People are worried about bond market liquidity.
+
+The relative illiquidity of the bond market is one major reason why bond index funds have less appeal than stock index funds. If a massive S&P 500 index fund gets a small additional inflow of money, it can go buy one share of each stock in the S&P and keep tracking its index. The stock market is good at trading small amounts of shares without much in the way of transaction costs. If a big bond index fund gets a small additional inflow of money, it will have a harder time buying one of each bond in the index. So the average bond index fund will have more sampling, and more tracking error, and more active management, than the average stock index fund. But the problems are not insurmountable, and exchange-traded funds -- which require much less buying and selling to accommodate new money -- help. Anyway here's a story about the rise of bond index funds:
+
+U.S. managers tracking indexes oversaw a record 27 percent of the money in taxable-bond mutual funds and exchange-traded funds as of Feb. 29, compared with 20 percent at the end of 2013, according to Morningstar Inc. While the proportion is smaller than the roughly 40 percent of equity-fund assets in passive products, the trend and the reasons -- cost savings and a poor performance of active managers on average -- are similar.
+
+Meanwhile, the recent "crackdown on mergers and acquisitions" (tax scrutiny of Pfizer/Allergan, antitrust scrutiny of Halliburton/Baker Hughes) is bad for bond market liquidity:
+
+In their absence, investors — who depend on the cash from coupon payments and redemptions — are concerned that they will struggle to replace the paper as competition for US high-grade debt heats up.
+
+Bizarro people are worried about bond market liquidity.
+
+The big bond market liquidity worry is, you know, there's a run on a bond mutual fund, it has trouble selling the bonds, it can't satisfy investors' demand for redemptions, everyone is sad. Sort of the Third Avenue Focused Credit story. But here is a version of that story -- sort of -- playing out in a big equity mutual fund:
+
+Typically, mutual fund investors expect cash instead of stock when they ask for their money back. But investors seeking to pull large sums from Sequoia are getting a combination, according to people familiar with the matter. The $5.5 billion fund is wrestling with heavy withdrawals as clients asked to pull more than $500 million in the first quarter, according to Morningstar Inc.
+
+Sequoia Fund is a big Valeant investor, so you can understand why investors are nervous and/or fed up. But the in-kind redemptions aren't a symptom of panic or illiquidity or investor-unfriendliness. They're a symptom of tax optimization:
+
+Unlike with sales for cash, the fund doesn’t have to recognize a capital gain on such transactions. As a result, remaining investors don’t bear the tax implications of sales associated with exiting shareholders, according to fund and tax lawyers.
+
+So it's investor-friendly, particularly for the investors who stay. (Or the investors who redeem now but who have saved a lot of taxes over the years: The in-kind redemptions are "part of a longstanding fund policy" at Sequoia, which "has done thousands of in-kind transactions over many years.") There is nothing particularly new or worrying about it. Except of course that now people are worried about Sequoia's Valeant exposure, so they're more inclined to criticize Sequoia for anything unusual that it does. And of course that people have been endlessly worried about liquidity mismatches in bond mutual funds, so they're more inclined to see any unusual redemption procedures, at any mutual fund, as a worrying sign.
+
+Me Friday.
+
+I wrote about bank capital and footnote 151. Elsewhere, here is Matt Klein on "the case for more capital." And here is the Bank for International Settlements' "Tenth progress report on adoption of the Basel regulatory framework."
+
+Things happen.
+
+John Micklethwait interviews Christine Lagarde. “The whole subject is retirees, a 40-year savings phenomenon, and so-called alpha or investment skill is completely irrelevant for 99 per cent of people.” Alpha or Assets. Estimating Future Stock Returns. China eyes revamp of sovereign bonds. Russia’s Most Important Bank Needs a Bailout. The old bets on defaulted bonds won’t work this cycle. Fintech Lenders Dial Back Marketing in Response to Softer Investor Demand. Banks Eye Victory on Derivatives in EU Trading-Revamp Delay. Billing by Millionths of Pennies, Cloud Computing’s Giants Take In Billions. SunEdison's TerraForm Global Acquires Solar Farm in Uruguay. GE Capital’s Czech Business to Pursue I.P.O. MetLife CEO Steven Kandarian: The Man Who Beat Uncle Sam. Tyler Cowen on MetLife and too-big-to-fail. "Iraj Parvizi, 50, told the jury after half a day of pugnacious cross-examination at Southwark Crown Court that the first he heard that spreading misleading information to induce others to invest could be market abuse was in the witness box on Friday." What Donald Trump Doesn’t Understand About Negotiation. Swamp dragons. Dog DNA testing. Dog pilots.
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

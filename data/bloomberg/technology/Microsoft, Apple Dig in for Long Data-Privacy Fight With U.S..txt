@@ -1,0 +1,50 @@
+Microsoft, Apple Dig in for Long Data-Privacy Fight With U.S.
+['Dina Bass Kartikay Mehrotra Christie Smythe', 'Dina Bass', 'Kartikay Mehrotra', 'Christie Smythe']
+http://www.bloomberg.com/news/articles/2016-04-15/microsoft-apple-dig-in-for-long-data-privacy-fight-with-u-s
+The technology industry’s data-privacy battle with the U.S. government started before the fight over a killer’s iPhone, and it’s going to last long after.
+
+Microsoft Corp. sued the Justice Department Thursday to block authorities from taking customers’ e-mails and other data stored by Microsoft without ever having to let them know, an escalation of a two-year tussle with the government over privacy and cloud computing. On Friday, Apple Inc. is set to continue its fight to keep the government out of another iPhone -- this one seized from a drug dealer in a Brooklyn case, just weeks after the FBI dropped its effort to force Apple to help it break into one used by a terrorist who with his wife killed 14 people last year in San Bernardino, California.
+
+While these high-profile legal cases have added momentum, the industry’s push against government intrusion into their customers’ private information began at least two years ago, in the wake of Edward Snowden’s disclosures about covert data collection that put them all on the defensive. Meanwhile, some U.S. lawmakers want to require companies to give investigators access to data even when it’s protected by encryption.
+
+It’s a debate that is unlikely to be resolved anytime soon as Microsoft and Apple argue the very future of mobile and cloud computing is at stake if customers can’t trust that their data will remain private, while investigators seek digital tools to help them fight increasingly sophisticated criminals and terrorists savvy at using technology to communicate and hide their tracks.
+
+“The companies are trying to find a way forward in a world in which the law is not very good,” said Greg Nojeim, senior counsel at the Center for Democracy & Technology. "It doesn’t provide in the digital world the same protections it provides in the physical world. Securing those protections is good for both their users and their bottom line."
+
+In Brooklyn federal court on Friday, Apple is expected to make the case for preserving a favorable ruling from a magistrate judge who refused the government’s request for an order forcing the company to extract data from a drug dealer’s phone. A decision on the matter could help establish who has the current law on their side in future courtroom battles over privacy and encryption.
+
+Apple’s Response
+
+The technology company is slated to file its response to the government’s appeal of the magistrate’s ruling. The Justice Department said this month that it would move forward with that proceeding, even though it had dropped its demand for the company to help unlock the shooter’s phone in California, after an unidentified third party came forward with a method to hack it. FBI Director James Comey has said that method only works on limited categories of phones, and Apple has said that its continuing technology improvements are likely to make any tool the government has for unlocking phones short-lived.
+
+While the companies dig in against the government’s efforts, U.S. senators this week released draft legislation that would grant the courts greater power to demand companies let investigators access secure information. The proposal has been denounced by civil liberties advocates as a ban on encryption, which they argue is needed to protect data from the growing threat of hackers.
+
+Microsoft’s lawsuit, which names the Justice Department and Attorney General Loretta Lynch as defendants, is the most aggressive step yet by Microsoft in its feud with the U.S. over customer privacy and its ability to disclose what it’s been asked to turn over to investigators -- issues that echo Apple’s fight to preserve the encryption built into its iPhones.
+
+Speech, Seizure
+
+The software maker called part of the 1986 Electronic Communications Privacy Act unconstitutional, citing its own First Amendment free speech rights and its customers’ Fourth Amendment right to know if the government has searched or seized their property. The law essentially places the company under an unlimited gag order, according to the complaint in federal court in Seattle.
+
+The road to the lawsuit started in December 2013. Roiled by disclosures by Snowden, a former NSA contractor, about U.S. government surveillance -- which implicated Microsoft and other technology companies for collaborating -- Microsoft issued a blog post pledging new privacy protections for customers. The company promised to expand the use of encryption and said it would go to court to protect customer data privacy.
+
+Specifically, Microsoft said it would notify enterprise customers when the government requested their data and put up a legal fight against any gag orders that stood in the way. It also pledged to fight back when governments seek customer data stored in other countries that Microsoft doesn’t think they have the right to see.
+
+Those two steps have put the company on a collision course with the U.S. government, resulting in two public lawsuits -- the one filed Thursday and another awaiting an appeals court ruling on whether the U.S. government has the right to Microsoft customer data stored in Ireland.
+
+Unfamiliar Role
+
+It has also created a spectacle one isn’t accustomed to seeing -- Microsoft and its President and Chief Legal Officer Brad Smith winning the admiration of privacy advocates and leading the charge of technology companies fighting back.
+
+Bill Fitzpatrick, the district attorney in Onondaga County New York, endorsed legislation proposed in the Senate and questioned whether Microsoft and Apple truly understand what it takes to investigate a murder or prevent a terrorist attack Without the tools offered only through secrecy, the country’s law enforcement would fail to prevent another domestic, mass casualty attack, he said.
+
+“The government doesn’t want to be in your phone, it wants to be in the phones of people plotting against our communities,” he said. “There needs to be that understanding and I don’t think these corporations are anywhere close to that.”
+
+Microsoft, which vigorously supported Apple during its skirmish over the San Bernardino terrorist’s iPhone, said it expects broad support from other technology companies in its own efforts. Already, cloud-file sharing service Box Inc. spoke out in favor of Microsoft, a partner and rival.
+
+‘Right Case’
+
+“The concerns we are articulating are shared broadly in the tech sector," Microsoft’s Smith said. “We felt that we had the right facts to bring the right case at the right time to address an issue that has been recurring and therefore needs to be resolved but I fully expect we will hear from a number of other tech companies.”
+
+Neither the proposed legislation nor the companies’ legal tactics are aimed at finding a compromise to benefit the American public, said DJ Rosenthal, a former White House counterterrorism and cybersecurity expert in the Obama administration.
+
+“These issues are both just further manifestation of the gulf that now exists between the two sides," he said in an interview. “I don’t think this issue can be resolved until they both stop fighting each other and sit down to find a solution that protects privacy and national security.”

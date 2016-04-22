@@ -1,0 +1,32 @@
+Investment Banks Win Research Rule Concessions From EU
+['Julia-Ambra Verlaine']
+http://www.bloomberg.com/news/articles/2016-04-07/eu-research-rules-said-to-allow-market-commentary-with-no-fees
+Banks and brokers will be able to continue to offer market commentary without charging a separate fee, winning a concession from European regulators seeking to break apart the traditional model for distributing research.
+
+Under rules adopted Thursday, the European Commission will allow quick-turn analysis to be paid for indirectly through trading commissions or the spread on fixed-income trades, which are the traditional practices. For more detailed and proprietary research “capable of adding value,” banks may be required to charge separately.
+
+The regulators’ crackdown on how brokers charge customers for their insights is part of an overhaul of post-crisis financial industry rules known as MiFID II that are due to come into effect in 2018. They moved to unbundle research and defined the product as an “inducement,” which managers are banned from receiving under the regulation.
+
+Resistance to the plans was particularly fierce in the fixed-income market, with banks insisting research is a soft service to clients. Requiring separate payment would lead to extra costs for asset managers without the narrowing of spreads foreseen by regulators, they say. Moreover, banks insist the existing model gives access and market information to smaller clients who couldn’t necessarily afford it otherwise.
+
+The rules approved on Thursday are almost identical to draft regulations circulated in December. They are based on technical advice from the European Securities and Markets Authority.
+
+MiFID Delay
+
+Their completion will allow banks and investment managers to plan with more certainty. While the commission adopted a portion of the implementing measures on Thursday that deals with rules on research spending, the EU’s executive arm still has to complete the remainder of the delegated acts in MiFID II.
+
+“We remain committed to making sure that the whole MiFID II package is operational as rapidly as possible,” said Vanessa Mock, a spokeswoman for financial services at the European Commission. “Today we are adopting the first delegated acts. These are essential to ensure that MiFID II can work well on the ground, and that the benefits expected from MiFID are delivered.”
+
+European lawmakers agreed to delay MiFID II by a year in a vote on Thursday in Brussels. Lawmakers have been impatient with the pace of work on the market-rules overhaul and continued to warn the commission to speed up or risk derailing the schedule for implementation. Market participants have said they need enough notice about the new rules to prepare for a safe transition, especially with their technology.
+
+The research rules will come into effect with the rest of MiFID II, which has been delayed by one year to January 2018 after the European Securities Markets Authority said the original deadline wouldn’t allow financial firms enough time to prepare.
+
+“It is good to see that Commission finally started to adopt the first pieces of MiFID II implementing legislation, but this delegated directive is only the first step,” Markus Ferber, the European Parliament’s lead lawmaker overseeing the MiFID II market overhaul, said in a statement. “I expect the Commission now to adopt the missing pieces implementing legislation quickly and in line with the European Parliament’s concerns.”
+
+Fewer Analysts
+
+In the measures approved today, the commission differentiates “non-substantive material or services,” which an investment manager can accept as a “minor non-monetary benefit,” from research containing “analysis and original insights” for which the firm must pay. The distinction allows for the survival of bread-and-butter research sent to clients such as short-term market commentary on economic developments.
+
+Though banks won concessions on market commentary, the effect of the rules will still have a profound effect on the industry, Richard Kramer, senior analyst and founder of London-based Arete Research, said at a conference in February.
+
+“There is not an investment bank out there that has a standalone business model for its research department,” Kramer said. “The number of people who are traditional research analysts in three to four or five years time is going to be substantially lower than it is today.”

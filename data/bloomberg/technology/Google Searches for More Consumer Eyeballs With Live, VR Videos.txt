@@ -1,0 +1,26 @@
+Google Searches for More Consumer Eyeballs With Live, VR Videos
+['Jack Clark']
+http://www.bloomberg.com/news/articles/2016-04-18/google-searches-for-more-consumer-eyeballs-with-live-vr-videos
+Google is adding live, 360-degree video and audio to its YouTube videos, as the company seeks to capture people’s attention and advertisers’ budgets with more elaborate content.
+
+The videos can be viewed on standard personal computers or with virtual reality headsets via the YouTube app on Android phones that use the company’s Cardboard technology. YouTube has had 360-degree videos since March 2015. With the upgrade, people can now tune-in to live broadcasts of events like sports games and music concerts and turn their head to look around them. The video and audio changes as they move.
+
+“If you can’t make it to that Beyonce concert the next best thing is to be able to watch it in live 360 with all the fans surrounding you and with her up on stage from the front row,” said Neal Mohan, chief product officer of YouTube, in an interview. “The YouTube app is really what you should need to consume content in whatever way you want.”
+
+Alphabet Inc.-subsidiary Google is trying to make YouTube the catch-all place for videos, and is investing in new technology like live 360, as well as original content, to draw people to the site. It has also built a 360-degree camera with GoPro Inc., named Jump and developed software to make it easy for people to create virtual reality-friendly videos.
+
+The company plans to broadcast live, 360-degree videos from the Coachella music festival, Mohan said. Google also is developing new musical talent in an initiative called Foundry that seeks to draw more exclusive songs and music videos to the site.
+
+VR competition
+
+Google is competing with Facebook Inc. along with traditional TV channels for advertising budgets, spurring the companies’ to develop technology to draw people to their platforms. “Advertisers are extremely excited about this,” Mohan said. “They want to be associated with content and experiences that their fans and their audiences and the buyers of their products love.”
+
+Facebook has had 360-degree videos since September, and last week released the designs for a free 360-degree camera. It does not yet have live, 360-degree videos. A Facebook spokesman declined to comment.
+
+Along with 360-degree video, Google has built Cardboard, a technology that can turn any Android phone into a virtual reality headset, and has invested in Magic Leap, a startup making VR hardware. Facebook has poured money into Oculus, which makes a headset that can transport people into a VR world of games, entertainment, and socializing.
+
+Google’s approach to virtual reality lets people access the technology without needing to “invest in a fancy headset or any other sort of prohibitive tech,” Mohan said.
+
+Videos serve as a kind of appetizer for full-fledged virtual reality, said Jamie Pallot, co-founder of virtual reality company Emblematic Group. “It’s by far not the most immersive form of virtual reality but it can make you feel more present at an event,” he said.
+
+“In general it works better in smaller, more intimate spaces,” Pallot said. “You’d be better off being in the coach’s office when he’s lambasting his players than at the side of the field for a big game.”

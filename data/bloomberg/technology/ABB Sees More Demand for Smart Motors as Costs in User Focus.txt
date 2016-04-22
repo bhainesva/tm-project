@@ -1,0 +1,16 @@
+ABB Sees More Demand for Smart Motors as Costs in User Focus
+['Alice Baghdjian']
+http://www.bloomberg.com/news/articles/2016-04-18/abb-sees-rising-demand-for-smart-motors-as-users-focus-on-costs
+ABB Ltd. is developing a range of products to add sensors that tell users when a motor needs servicing, as the world’s largest maker of power grids searches for growth amid a slowdown in its main markets.
+
+The Swiss maker of industrial robots sees demand for the so-called smart sensors coming from customers who need to cut costs, Chief Technology Officer Bazmi Husain said in a telephone interview on Monday. Knowing precisely when a motor needs to be serviced helps to reduce energy consumption, he said.
+
+“The motor is by far the most common piece of electrical equipment in any industry,” Husain said ahead of an annual technology fair in Hanover, Germany. “With 70 percent of total energy in an installation being used by these devices, clearly the market for these sensors is huge.”
+
+In September, ABB cut its global economic growth forecasts for the years through 2020. The company is trying to halt a decline in orders of less than $15 million, its core business, which fell 6 percent year-on-year in the fourth quarter.
+
+Husain declined to give details on projected sales and order sizes for the smart-sensor products. They can be used on low-voltage motors made by any company, in any industry, from food and beverage businesses to steel and chemical plants, he said.
+
+“The big challenge is how can you retro-fit existing installations,” said Husain, who was appointed CTO in January. “Most industrial production happens with existing plants, so the idea of retrofitting is key here.”
+
+Shares in ABB have fallen 7 percent in the last 12 months, giving the company a market capitalization of 45.1 billion ($47 billion) Swiss francs by end of trading at 12:45 p.m. in Zurich on Tuesday.

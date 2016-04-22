@@ -1,0 +1,68 @@
+Don't Be Tricked by 'Alpha Mirage'
+['Michael P. Regan']
+http://www.bloomberg.com/gadfly/articles/2016-02-22/don-t-be-tricked-by-the-alpha-mirage-from-smart-beta
+Feb 22, 2016 2:18 PM EST
+
+People are worried about smart beta.
+
+
+
+This shouldn't be too surprising because, as Matt Levine's work has clearly shown, people are worried about everything.
+
+
+
+However, what may be somewhat unusual in this case is the party doing the worrying. Warning of the "reasonable probability" of a crash in smart beta is none other than Rob Arnott's Research Affiliates, one of the pioneers of the concept.
+
+
+
+Smart beta has become a catchall name for a variety of equity-investing strategies that create indexes and ETFs based on factors other than traditional weighting by market capitalization, the method used by the most popular passive index-tracking mutual funds and ETFs. Some examples of smart beta include tilting toward stocks that are relatively less volatile, that have shown strong price momentum or are considered higher quality based on certain measures.
+
+
+
+Arnott and his colleagues studied several popular smart-beta and factor-based strategies and determined that the historical outperformance -- aka alpha -- that made many of them look so attractive was often simply a result of rising valuations. They call this "alpha mirage" (which, come to think of it, would be a decent band name ).
+
+
+
+From their report:
+
+These data suggest that common sense prevails: lower risk, higher quality, and safety have all earned a strong premium only as a consequence of becoming more expensive!
+
+From 1967 through 2015, rising valuations accounted for a significant portion of the outperformance by many strategies:
+
+The Value Illusion Outperformance of some smart beta strategies can be explained by rising valuations. Source: Research Affiliates
+
+While momentum was the trade to be in last year, the appeal of low-beta stocks -- i.e. those whose prices don't tend to jump around as much as the market -- appears to have grown this year. The defensive industries of utility, telephone and consumer-staple companies are the only three groups among 10 in the S&P 500 whose shares are higher year-to-date. They also have the lowest one-month beta readings:
+
+Beta Scorecard Sectors with the lowest beta have performed the best this year amid a volatile market. Source: Bloomberg data
+
+This has resulted in staples stocks, companies such as Campbell Soup, Procter & Gamble and Kellogg, trading as a group at the highest price relative to profits in 12 years, as Bloomberg News reported last week.
+
+
+
+The danger here is that investors chasing well-performing strategies tend to push prices and valuations even higher, reducing potential future returns. It also creates the risk that an eventual reversion to historical valuation norms will cause a lot of pain for holders of stocks that have benefited from swelling valuation ratios.
+
+
+
+On the other hand, value stocks -- those with low price-to-book or price-to-earnings ratios -- have underperformed in recent years, and that's made them even cheaper on a relative basis. In fact, according to Research Affiliates, value stocks are cheaper than they've ever been outside of the so-called Nifty Fifty craze in the early 1970s, the tech bubble around the turn of the century, and the global financial crisis.
+
+
+
+The tricky part is timing when reversions to mean will take place. Some of the value hunters out there believe that the time may be at hand. They are rejoicing in the battering that momentum stocks such as Amazon.com and Netflix are taking in 2016 after more than doubling last year, as Bloomberg's Dani Burger reported on Monday.
+
+Price-to-Book Ratio for Consumer Staples 5.1
+
+On a price-to-book basis, the deepest value in the S&P 500 appears to lie in financial companies trading at 1.2 times book and energy shares trading at 1.5, both near historical lows relative to the broader index. (At 5.1 times book, on the other hand, consumer staples are almost twice as expensive as the S&P 500.)
+
+
+
+For investors who believe in mean-reversion trades, these may be hard to resist. But ultimately, and frustratingly, it may be wild cards in other asset classes -- oil and interest rates -- that will determine if and when that takes place.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Michael P. Regan in New York at mregan12@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Daniel Niemi at dniemi1@bloomberg.net

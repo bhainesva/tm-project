@@ -1,0 +1,52 @@
+Global Stocks Sink Most Since February as Yen Soars to 2014 High
+['Inyoung Hwang Oliver Renick', 'Inyoung Hwang', 'Oliver Renick']
+http://www.bloomberg.com/news/articles/2016-04-04/japan-stock-futures-fall-amid-yen-gains-as-crude-extends-selloff
+Stocks around the world fell by the most in almost two months as heightened concern over global growth drove investors toward haven assets, boosting government bonds and propelling the yen to its strongest level since 2014.
+
+U.S. shares capped their steepest two-day slump since the start of February, with Allergan Plc plunging amid a government clampdown on tax inversions that torpedoed shares from banks to biotechnology companies. Utilities drove declines in the Standard & Poor’s 500 Index as yields on the 10-year Treasury notes touched a more than one-month low. The yen jumped to a 17-month high versus the dollar as gold also advanced amid the bout of risk aversion.
+
+After a rally in risk assets since mid-February, investors are turning cautious with International Monetary Fund chief Christine Lagarde highlighting greater risks to the global economy and amid middling economic data out of some of the world’s biggest economies. It’s marking a reversal in last month’s optimism, when dovish comments from Federal Reserve Chair Janet Yellen helped add $4.5 trillion to the value of global equities. The U.S. central bank releases the minutes from its latest meeting on Wednesday.
+
+“We’re stalling out,” Michael Block, chief strategist at Rhino Trading Partners LLC in New York, said by phone. “That’s part of it and it’s being exacerbated by this continued rally in the Japanese yen and the release from the Treasury that’s causing a lot of pain in Allergan. Pain is being felt everywhere. We have Fed minutes tomorrow and the expectation is for it to be super dovish and if it’s not then people might get confused.”
+
+Stocks
+
+The S&P 500 slid 1 percent to 2,045.17 as of 4 p.m. in New York, halting the longest streak of calmness in 13 months. The index hasn’t moved more than 1 percent in either direction over the past 15 sessions, a trend not seen since March 2015.
+
+The U.S. benchmark has lost 1.3 percent already this week, its biggest two-day slump since Feb. 9, which was two days before it hit a 22-month low only to rebound 13 percent. Data out of the U.S. Tuesday showed orders for durable goods fell in February, while another report indicated services industries accelerated.
+
+Allergan tumbled 15 percent, the most since 2004, while Pfizer Inc. rose 2.1 percent, after analysts said Treasury Department rules to limit the tax-cutting power of corporate inversions may jeopardize the drugmakers’ planned $160 billion merger. John Paulson’s Paulson & Co., Daniel Loeb’s Third Point LLC and Andreas Halvorsen’s Viking Global Investors LP are among the hedge funds that are top holders of Allergan, according to data compiled by Bloomberg.
+
+The MSCI All-Country World Index lost 1.4 percent Tuesday for its biggest daily drop since Feb. 8, led by financial companies and utilities.
+
+The Stoxx Europe 600 Index dropped 1.9 percent to its lowest level since Feb. 25. Germany’s DAX gauge fell 2.6 percent, the second biggest decline among western European markets, after a report showed Europe’s largest economy suffered an unexpected drop in factory orders in February.
+
+In Asia, futures on stock measures from Japan to Australia signaled more declines ahead, after MSCI’s Asia Pacific Index dropped 1.7 percent to its lowest level since March 2.
+
+Currencies
+
+The yen added 0.9 percent in a third day of gains, rising to 110.34 per dollar, the strongest level since the Bank of Japan eased monetary policy in October 2014. The currency appreciated even after BOJ Governor Haruhiko Kuroda said he will keep monitoring foreign-exchange markets and reiterated the potential for additional stimulus.
+
+“I don’t think we’re close to any type of levels where they would be willing to intervene,” said Charles St-Arnaud, a senior foreign-exchange strategist at Nomura Holdings Inc. in London. He sees the dollar likely strengthening beyond 110 yen, and anticipates a greater chance of intervention should it break below 108 yen.
+
+Currencies of commodity-exporting countries retreated, with both the Australian and the New Zealand dollar dropping by at least 0.4 percent. The euro was little changed at $1.1383.
+
+Bonds
+
+U.S. Treasuries advanced, pushing 10-year yields down four basis points, or 0.04 percentage point, to 1.72 percent, the lowest level since Feb. 25.
+
+The gap between yields on two-year notes, which are sensitive to Fed policy, and 30-year bonds, which are more influenced by expectations for inflation and economic growth, narrowed for a fourth day. The measure, known as the yield curve, declined four basis points to 1.82 percent.
+
+Ten-year German yields fell to the lowest level in a year as a report showed February factory orders unexpectedly fell in Europe’s largest economy. Rates declined as much as five basis points to 0.08 percent, the first time they’ve slipped below 0.1 percent in about a year.
+
+Emerging Markets
+
+The MSCI Emerging Markets Index dropped 1.7 percent for the biggest decline since Feb. 11. It has fallen 2.9 percent this month, following a 13 percent surge in March. All 10 industry measures fell on Tuesday. The benchmark gauge trades at 11.9 times the average projected 12-month earnings of its members, compared with a multiple of 15.6 for developed-nation stocks, which have dropped 1.6 percent this month.
+
+A Bloomberg gauge of emerging market currencies fell 0.7 percent to bring it down 1.3 percent in April. The rand led currencies lower as concern mounted that South Africa’s credit rating may be cut with lawmakers rejecting a motion to impeach President Jacob Zuma. South Korea’s won and Turkey’s lira retreated after hawkish comments from a Federal Reserve official on Monday.
+
+Commodities
+
+Oil advanced on speculation a pact to freeze crude output may be reached without the participation of Iran. West Texas Intermediate for May delivery increased 0.5 percent to settle at $35.89 a barrel. While Saudi Arabia had indicated it wouldn’t take part in a freeze unless Iran followed suit, Kuwait said an agreement among oil-producing nations to cap production could be forged even if Iran doesn’t join.
+
+Gold gained the most in a week as equities fell. Futures for June delivery gained 0.8 percent to settle at $1,229.60 an ounce in New York. The metal dropped 1.3 percent in the previous two sessions.

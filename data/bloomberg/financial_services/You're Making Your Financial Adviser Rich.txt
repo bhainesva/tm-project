@@ -1,0 +1,52 @@
+You're Making Your Financial Adviser Rich
+['Noah Smith', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-11/those-tiny-fees-make-your-financial-adviser-rich
+The Department of Labor last week published new rules for financial advisers, requiring them to adhere to a new, stricter fiduciary standard. This is designed to prevent advisers from acting as salespeople, ripping off clients by selling them bad financial products that someone else pays them to unload. For more about this important policy change, you can read my Bloomberg colleagues Barry Ritholtz and Nir Kaissar. The president’s Council of Economic Advisers estimates that this policy change will save investors $17 billion a year.
+
+This is a good step, and there’s bound to be a lot of debate over whether more needs to be done. I wonder if there’s an even more important issue that few people are talking about: Americans simply don’t understand how much they pay for asset management. The fees seem tiny, but over time they do a lot of harm to your lifetime savings.
+
+First, some background. There are many different people and organizations in the finance industry who invest other people’s money. These include funds, like mutual funds and hedge funds, but they also include asset and wealth managers. Those two classes often overlap, and are mainly distinguished by who regulates them and which rules they have to follow. To complicate things, many wealth managers are called financial advisers, since they also provide investment and financial planning. I’ll just refer to all of these as wealth managers for now.
+
+What most of these managers have in common is how they are compensated. Many of them collect a management fee -- a certain percent of the total amount being managed, which gets sliced off of the top and put into the manager’s pocket every year. So if you have $100,000 invested with a wealth manager, and he charges a 1 percent management fee, then this year you will pay him $1,000, and he’ll invest the other $99,000.
+
+This is easy to understand when it’s just one year. And $1,000 sounds pretty reasonable. But when you keep your money with the same manager year after year, the fees add up. And it’s that part that I suspect investors are very bad at comprehending. Every year, the fee gets charged again. It’s like a little slice is lopped off of your net worth, year after year, whether your investments go up or down. That $1,000 is only the slice in the first year. Whether your wealth grows or shrinks, another 1 percent slice is going to be lopped off of your entire net worth the next year. Slice, slice, slice. Those slices add up, big time.
+
+To show how enormous even a 1 percent management fee becomes over time, let’s imagine that you start working and saving money when you’re 25 and retire when you’re 65. Suppose that you start out with no savings, and you save 6 percent of your income each year -- in the ballpark of the average savings rate for U.S. households. Assume you make $100,000 a year -- about double the median household income -- and set aside $6,000 in savings.
+
+Now suppose you give your money to a wealth manager, who puts all your money in very safe assets that get a 0 percent return after accounting for inflation. Here’s what your net worth will look like if the manager charges that 1 percent fee -- the standard in much of the wealth-management industry -- versus the 0.5 percent charged by a cheap automated robo-adviser such as Wealthfront. The third alternative in the chart below is no fee at all:
+
+As you can see, your net worth when you retire -- in other words, your life’s savings -- will be 18 percent lower with the standard 1 percent management fee compared with no fee at all.
+
+That’s 18 percent of your entire life’s savings paid for one single service! Even with the cheap 0.5 percent management fee, your life’s savings will be 10 percent lower than with no fee at all.
+
+OK, but most investors put their money in risky assets like stocks, which tend to earn a higher return over time. Suppose you get a 7 percent return, equivalent to the long-term average real return of the Standard & Poor’s 500 Index. Here’s what your net worth will look like:
+
+It’s even more expensive! Now, with the industry-standard 1 percent management fee, you pay a full 25 percent of your life’s savings to your money manager. It’s much higher than before, and because since you’re earning a higher return, the fee gets sliced off of a bigger and bigger salami.
+
+Think about that for a moment. What else would you spend so much money on? Your house, and that’s it. After your house, asset management will be the most expensive thing you ever buy.
+
+And this ignores that some investors pay multiple management fees for multiple layers of management -- a wealth manager may hand off your money to a mutual fund, which will charge a second layer of fees. With multiple fee layers, the total you pay could easily balloon to half of your life’s savings.
+
+Across the economy, asset management fees add up to titanic sums. Economists Robin Greenwood and David Scharfstein found in 2013 that asset-management fees were one of the two main reasons (along with household lending) that the financial industry grew from 4.9 percent of the U.S. economy in 1980 to 8.3 percent in 2006. In other words, asset management fees aren’t just taking a huge bite out of your nest egg -- they’re taking a giant slice of the U.S. economy as well.
+
+Now ask yourself: What value are you getting in exchange for 10 percent or 25 percent of your life’s savings? Financial blogger Bob Seawright has a good rundown of what you might expect to get. First, wealth management often comes bundled with other services like financial planning, which can be very helpful. A wealth manager can take advantage of tax benefits. Most importantly, a wealth manager may save you from doing something stupid with your money. If you try to pick stocks and time the market on your own, you’ll probably do poorly. But if you steer clear of the stock market out of an instinctual fear of stocks, you’ll pass up the opportunity for high long-term returns. A wealth manager or financial adviser can hold your hand and assure you that it’s safe to take risks, much like a doctor can reassure you about getting a necessary operation.
+
+If your wealth manager helps you take more risk and make fewer bad choices, and if this boosts your average lifetime return by 2 percent a year, then he has more than earned his 1 percent fee.
+
+What a wealth manager won’t do, however, is consistently beat the market for you. Everyone knows that most mutual fund managers don’t do better than the average, and the same applies to wealth managers, asset managers, family offices and the like. Many people, unfortunately, still expect their money managers to beat the market, a fallacy that State Street Corp., a big institutional asset manager, calls the “folklore of finance.” So if you’re hoping to find that rare wealth manager who can beat the market average year after year, you might be overpaying.
+
+One piece of good news is that with interest rates near zero and the stock market looking expensive, many Americans may now be paying closer attention to fees. This may explain the appearance of flat-fee money management, in which people pay a set amount each year, rather than a percentage of their total assets.
+
+Many American investors may be overpaying for asset management. And if they are, it isn’t just a problem for rich people with lots of money to invest. A lot of middle-class people have their savings in pension funds, which also can take huge slices off of people’s savings.
+
+What’s the answer? In a well-functioning capitalist economy, people need to know how much they’re paying in order to assess whether they’re getting value for their money. The best way to do this is for money managers to show investors what percentage of their life’s savings they can expect to pay under a range of plausible assumptions. This kind of disclosure would be a big step toward making money management a more transparent, useful and trusted industry.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Smith at nsmith150@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

@@ -1,0 +1,36 @@
+Watchdog Urges Fed to Strengthen Embargoed Release Practices
+['Craig Torres']
+http://www.bloomberg.com/news/articles/2016-04-20/fed-watchdog-urges-central-bank-to-safeguard-embargoed-releases
+The Federal Reserve’s inspector general said the central bank’s Board should beef up its safeguards for releasing market-sensitive economic data and policy statements, highlighting risks of its practice of giving journalists some information under embargo.
+
+In a report released Wednesday, the IG said Board officials should “more strictly adhere” to controls already established and put in place new measures to “more effectively safeguard embargoed economic information.”
+
+The Federal Reserve’s public affairs staff handles some of the most sensitive economic releases in world financial markets, including the Federal Open Market Committee statement that announces interest-rate changes, economic projections by Fed officials, and minutes of FOMC meetings that can provide clues to the future direction of policy.
+
+The IG audit didn’t address the Fed’s own internal leaks or inadvertent releases by staff. The document follows a 2013 report which criticized Board staff for weak controls after a member of the Fed’s Congressional Liaison Office accidentally e-mailed FOMC meeting minutes to a contact list that included Wall Street banks, trade groups and congressional staff hours before public release.
+
+Accidentally Released
+
+In July, the Fed accidentally released staff projections for interest rates and the economy on a public website. The projections are normally released with a five-year lag. In the report, the Fed also referred to an unidentified news organization that broke an embargo in August of the release of FOMC meeting minutes. The organization was Bloomberg News.
+
+“Our report contains recommendations designed to strengthen the Board’s controls to safeguard sensitive economic information provided to news organizations under embargo,” the IG said. “The Board notes that substantial improvements were planned before we began our review and that many were implemented during our review.”
+
+The Fed uses two methods to release information under embargo to the media: a secure website, and a high-security lock-up room where Board officials control news organizations’ ability to send information to the public. Wireless devices are prohibited in the lock-up.
+
+Media Lock-Ups
+
+In recent months, the Board’s public affairs unit has shifted more releases, such as Fed minutes, from the website to the lock-up. Some sensitive information, including speeches by Fed Board members, continues to be distributed through the secure website, but the audit suggested this process was also under review.
+
+The IG audit focused on the Fed Board’s controls to protect the information from unauthorized disclosure when it is provided under embargo and covered FOMC statements, projections, minutes, the regional economic survey known as the Beige Book, and the four principal federal economic indicators. Michelle Smith, the Fed’s chief spokeswoman, heads the unit that oversees public releases and the procedures to keep them secure.
+
+The IG issued nine recommendations, including the charge to “analyze the sensitivity” of remaining embargoed information provided through the Fed’s secure website, such as Fed speeches, and “document” whether the benefits outweigh the risks.
+
+Embargo Violations
+
+Another recommendation was for “specific steps for Board personnel to take when news organizations violate embargo requirements,” and a request the Board “formalize as a policy statement the purpose of providing information under embargo.”
+
+Smith, in a letter to the IG’s office that was included in an appendix to the report, said the Board was in “general agreement” with the IG’s recommendations and had already conducted “substantial improvements” in release processes before the audit began.
+
+The IG took the unusual step of issuing an “early alert memorandum” in July because of issues “that warranted the Board’s immediate attention.”
+
+The audit didn’t cover an ongoing probe into a 2012 leak of confidential policy deliberations to Medley Global Advisors, a research firm that provides analysis for hedge funds and other investors. Medley issued a report to clients on the information on October 3, 2012. That leak was probed by both Board staff and the IG. Investigations were reopened by the IG and later joined by the Justice Department after Bloomberg News reported the leak in December 2014. The House Financial Services committee is also investigating. Both the joint IG-Justice Department probe and the House probe are ongoing.

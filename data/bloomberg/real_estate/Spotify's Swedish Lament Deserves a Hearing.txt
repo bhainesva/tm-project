@@ -1,0 +1,40 @@
+Spotify's Swedish Lament Deserves a Hearing
+['Leonid Bershidsky', 'Megan Mcardle', 'Justin Fox', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-14/spotify-s-swedish-home-needs-an-upgrade
+Sweden is supposedly one of the most innovative countries in Europe, and one of the happiest. And yet the founders of one of Sweden's showcase companies -- Spotify, the world's biggest music streaming service -- are unhappy with the country's business climate and threatening to halt expansion at home. Politicians should worry about that, but not all the solutions proposed are in Sweden's interests.
+
+A recent policy paper from Bruegel, the Brussels-based think tank, lists Sweden as a European innovation leader, along with Germany, Denmark and Finland. That assessment is based on the European Commission's Innovation Union Scorecard, which takes into account factors such as the availability of a highly educated workforce, investment, infrastructure, government-funded research and innovation. Sweden scores relatively high on all these points.
+
+That, however, is not enough for Daniel Ek and Martin Lorentzon, the duo responsible for Spotify. In a Swedish-language blog post this week, they wrote that if one believes growth should come from new, fast-growing technology companies, then "we are well behind, and worse than that, we are heading in the wrong direction." They have three specific gripes with Sweden that they want politicians to address.
+
+One is that it's difficult to move out-of-town talent to Stockholm because it barely has a functioning apartment rental market. Rents are typically controlled, so there's little investment in rental housing development. It's easier to buy an apartment outright than to find one to rent, but the real estate market is overheated so new employees can't afford to buy. A small one-bedroom apartment in the center of Stockholm sells for upwards of $600,000.
+
+Another gripe is that the Swedish education system is not geared to produce enough tech specialists. "There are still mandatory crafts in Swedish schools, but not programming," Ek and Lorentzon wrote.
+
+The third complaint is that in Sweden, stock options are taxed as employment income -- at 70 percent, rather than as investment income as in the U.S., at 15 to 20 percent. Ek and Lorentzon suggest that Swedish legislators' latest attempt to make stock options more accessible should be thrown out because it's too restrictive: It is, for example, limited to young companies with fewer than 50 employees.
+
+It's because of problems such as these, Ek and Lorentzon contend, that "in Europe, with a larger population than the United States, there isn't a single company on a par with Facebook, Google, Apple, Microsoft, Amazon." Even Sweden's tech leaders -- such as Spotify, Skype, Minecraft creator Mojang, Candy Crush developer King Digital Entertainment and payment platform Klarna -- are having trouble staying independent, complain the two entrepreneurs. Three of the five companies -- excluding Spotify and Klarna -- have been acquired by big U.S. firms.
+
+Ek and Lorentzon's specific reform requests regarding housing, education and stock options make sense; but there are two logical flaws with their broader argument about Sweden. The first one has do with the fundamental difference between the American and the northern European way of life. Bernie Sanders's competitors in the U.S. presidential election keep telling him it's impractical to expect the U.S. to become more like Sweden; it's equally naive to want Sweden to become more like the United States without losing many of the advantages that make it attractive to new talent in the first place. The country's socialist, egalitarian, non-competitive, live-and-let-live culture contributes to Sweden's eighth place in the 2015 global happiness ranking. Even Ek and Lorentzon acknowledge, "We love Sweden and believe that this is basically the best environment for us."
+
+The U.S., with its entrepreneurial spirit, fluid markets and lack of any lifetime guarantees is in 15th place.
+
+If Sweden becomes more like the U.S., creating a less sedate, more competitive and fluid environment, it may hold few advantages for young, often left-leaning people who take up tech jobs in startups. Why not go to California, where at least the climate is consistently better, or New York, which has a livelier indie music scene and more bars than Stockholm?
+
+The other flaw has to do with talking about the huge European market and tiny Sweden's regulatory problems in the same breath. Europe is still not quite a united market. Even a cosmopolitan company such as King, with its Swedish roots and its Dublin head office, cannot operate across Europe as seamlessly as a U.S. company can in its home market. Fix Sweden's options rules and real estate market -- and that still won't cure the inconvenience of dealing with 28 different regulatory frameworks and 11 currencies in the European Union alone. This is a fundamental disadvantage for European companies: Though they can operate throughout the continent, they can't claim the entire EU market -- which is, indeed, bigger than the U.S. one -- as their home turf. Entrepreneurs should be interested in maximum EU integration much more than in Sweden-specific regulatory changes, yet they aren't actively pushing for it.
+
+It's a natural consequence of the remaining division in Europe that innovative companies face their biggest constraint compared with U.S. peers: Less access to private investment. In that area, Bruegel's Reinhilde Veugelers wrote, "there is no sign of improvement. On the contrary, performance has slipped. This area has persistently been Europe’s weakest spot in terms of innovation capacity."
+
+Ek and Lorentzon know all about that. Early this year, the company -- which is not yet profitable globally due to rapid expansion and cutthroat competition in its industry -- issued $1 billion in convertible notes. Interest among Swedish investors was cool. They were wary of strong competitors such as Apple, wanted more transparency and firmer guarantees of eventual profitability. U.S. investors led the funding round; they are much wealthier, more diversified and therefore more adventurous and more patient than their relatively parochial Nordic peers. If truly pan-European financial markets and investment businesses existed, that wouldn't have been a problem.
+
+The question why Europe hasn't produced technology leaders on a par with the U.S. internet and software giants is legitimate. Answers and remedies, however, aren't about making Europe more like the U.S. -- except perhaps in creating a truly borderless environment in which the advantages of the European lifestyle would still be preserved.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Leonid Bershidsky at lbershidsky@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Therese Raphael at traphael4@bloomberg.net

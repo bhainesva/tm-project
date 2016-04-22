@@ -1,0 +1,42 @@
+Your Kid Just Got a Drone. Should You Get Insurance?
+['Justin Bachman']
+http://www.bloomberg.com/news/articles/2015-12-14/your-kid-just-got-a-drone-should-you-get-insurance-
+The next wave of hobby drones will be wrapped in boxes underneath Christmas trees before they fill the skies. If industry sales projections come true, the holiday season will put tens of thousands of relative novices at the controls of small unmanned aerial vehicles in densely populated cities and suburbs. All that amateurish swooping over houses and cars, spooking pets and dodging humans, will invariably lead to cracked windows and more than a few bloody injuries.
+
+First come the toy drones; then the liability claims start flying.
+
+“Almost no one is thinking about insurance coverage when they’re opening the box,” says Jeff Antonelli, a Chicago attorney who specializes in federal regulations for unmanned aerial systems. The liability protection in homeowners or renters insurance policies will sometimes cover damage or injury from a drone crashing into a neighbor’s house, vehicle, or child. Yet this coverage isn’t universal, Antonelli says, and some policies specifically carry an aviation exclusion that encompasses recreational drones, which the Federal Aviation Administration currently classifies as small aircraft.
+
+There's little doubt that 2015 marks a vast expansion in hobby drone ownership. The Consumer Technology Association calls this “a defining year” for small drones, projecting total U.S. sales of 700,000 units in what would mark a 63 percent increase from 2014. The wide range of drone models available this Christmas—from the $40 Protocol Neo-Drone Mini to a $3,000, 15-pound DJI T6000 with a sophisticated 4K video camera—means there’s now a model on the market to fit almost any budget.
+
+“Things can happen, and this isn’t bulletproof technology”
+
+Best Buy, which does a brisk business in recreational drones, has posted safety brochures in more than 1,000 stores in the hope of breeding safer rookie pilots. Shoppers bringing home a drone for the holidays can also purchase from Best Buy a one-year membership in the Academy of Model Aeronautics, an Indiana-based organization for model aircraft enthusiasts, to take advantage of group liability coverage. Another major drone retailer, Amazon.com, also posts links to a “Know Before You Fly” educational website established by drone manufacturers to promote safe flying.
+
+Of course, most of the affordable recreational drones are small and weigh less than two pounds—less a hazard to a window than the average errant football toss. Even so, a rash of drone accidents and injuries could lead to stiff regulations that might squelch the industry’s growth. And there have already been a scattering of high-profile examples, including an onstage mishap this year in which a lightweight drone turned pop star Enrique Iglesias’s hand into a bloody mess.
+
+One of the only insurance policies designed to cover hobbyist drone pilots comes from membership in the Academy of Model Aeronautics, which charges adults $75 per year. All the group's 185,000 members enjoy $2.5 million in personal liability coverage from Westchester Surplus Lines Insurance, part of ACE Group, and $25,000 medical coverage.
+
+“Most of the claims we have are small claims,” says Rich Hanson, the AMA’s director of government relations. The most common case involves an out-of-control drone flying into a car. The AMA declined to reveal how many claims on average are filed per year.
+
+A DJI Inspire drone flies over Brooklyn's Calvert Vaux Park. Manufacturers expect to sell 700,000 recreational drones in 2015. Photographer: Michael Nagle/Bloomberg
+
+Homeowner policies at Allstate, one of the largest property insurers, will cover damage if a policyholder crashes a drone and damages someone else’s property. But a “first-party claim”—damage you do to your own home—isn’t covered, says Allstate spokesman Justin Herndon. The insurer sees a drone-mishap situation as akin to having your pet lion maul a neighbor’s furniture; Allstate would cover the big cat’s destruction of your neighbor’s stuff, but not your own.
+
+A spokesman for State Farm says that its homeowner policies would generally cover a drone accident like any other mishap. “Damages from drones pose nothing new in this regard,” says State Farm spokesman Chris Pilcic.
+
+Beyond insurers, regulators also are preparing for how to manage increased drone flying. Starting on Dec. 21, just ahead of the Christmas holiday, owners of small drones must register the machines with the federal government so that authorities will be able to more easily investigate crashes and illegal flights. Only the smallest toy drones weighing less than 250 grams will be exempt from the registry.
+
+“Things can happen, and this isn’t bulletproof technology,” says Hanson of the Academy of Model Aeronautics. As drone registration increases, he and other observers predict that some states will require recreational drone operators to carry insurance coverage, much like mandatory insurance for motorists.
+
+The current situation is “a balancing act between insurance and regulation,” says Matthew Henshon, a Boston attorney whose practice covers emerging technologies. States and cities are beginning to address some of the regulatory issues that accompany drone flying, and he predicts that any surge in property damage or injuries will cause politicians to react quickly.
+
+“If bad things are happening, someone is going to figure it out and step in from a regulatory standpoint,” Henshon says. “If enough damage is being done, someone is going to call their congressman.”
+
+Someone might also call a personal-injury lawyer.
+
+Michael Brevda, who spends most of his time pursuing nursing home neglect cases, has registered the website DroneInjuriesLawyer.com as a way to hang out a shingle for people wounded in a drone mishap. Brevda, an attorney at Domnick Law in Palm Beach Gardens, Fla., has so far settled one drone-related case for a small amount and sees the drone side of his business as still in its infancy.
+
+Even if the skies are abuzz with drones, don’t look for the kind of rampant personal-injury legal pitches that accompany auto accidents and medical malpractice, staples of television, radio, and billboard advertising. Most amateur drone enthusiasts won’t have the kind of financial resources that make civil litigation worthwhile. The issue of a deep pocket is also one reason major commercial operators—be it Amazon, real estate agents, surveying companies, motion picture studios, or aerial photography firms—are likely to carry far more insurance and face greater regulation of their activities.
+
+But the lawsuits probably won’t have to wait for corporate drone disasters. Hanson and other attorneys predict that invasion of privacy claims against commercial drone operators—not personal-injury torts—will likely spur most legal work.

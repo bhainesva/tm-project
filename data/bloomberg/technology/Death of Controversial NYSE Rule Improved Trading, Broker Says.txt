@@ -1,0 +1,24 @@
+Death of Controversial NYSE Rule Improved Trading, Broker Says
+['Annie Massa']
+http://www.bloomberg.com/news/articles/2016-04-19/death-of-controversial-nyse-rule-improved-trading-broker-says
+The New York Stock Exchange’s decision to phase out a rule blamed for spurring volatility during Aug. 24’s wild session has led to more orderly trading, according to an analyst at Investment Technology Group Inc.
+
+ITG examined NYSE’s performance at getting stocks trading during two recent periods of high market volatility: August and January. It found that delays to the start of trading in January were much shorter than they were on Aug. 24.
+
+Rule 48, the NYSE rule in question, was designed to calm markets during times of turmoil. But BlackRock Inc., the world’s largest asset manager, and other observers said it made trading even worse on Aug. 24, when stock prices swung wildly. NYSE’s stated intention to get rid of Rule 48 was a step in the right direction for the exchange group, according to an analyst at ITG, which runs a brokerage and dark pool.
+
+“Getting rid of it is an indication they’re moving toward a more automated open,” Philip Pearson, director of algorithmic trading at ITG, said in a phone interview. “A lot of the criticism was that the opening process was broken, contributing to volatility.”
+
+The median delay to opening on NYSE for the three days starting Aug. 24 was more than five minutes. On Jan. 15, the most volatile day since then, the delay was less than three minutes, according to the ITG paper.
+
+‘Bearing Fruit’
+
+“It seems that the emphasis NYSE has put on improving the opening process has begun to bear fruit,” Pearson wrote.
+
+When NYSE invokes Rule 48, it allows market makers to suspend their obligation to disclose the likely price at which stocks will open for trading. The idea is to relieve market makers of a cumbersome manual procedure on a day of high volatility. In the aftermath of Aug. 24, however, Rule 48 was accused of exacerbating volatility by adding to confusion over the price of securities.
+
+The rule has been used just 69 times since it was first adopted in December 2007, according to NYSE Group Inc., which is a unit of Intercontinental Exchange Inc. It has not been invoked in 2016.
+
+NYSE formally proposed eliminating Rule 48 in a March 31 filing with the Securities and Exchange Commission. The exchange has made other changes in the months since Aug. 24, including sc rapping a “land mine”-like order type that was seen as exacerbating volatility that day.
+
+“We have made significant enhancements to NYSE’s market structure to ensure our rules perform as intended on days when there is extreme volatility,” Stacey Cunningham, NYSE’s chief operating officer, said in an e-mailed statement. “We believe these enhancements have already strengthened our market by more efficiently adjusting for volatility.”

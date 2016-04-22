@@ -1,0 +1,40 @@
+Fintech's Wakeup Call
+['Lionel Laurent']
+http://www.bloomberg.com/gadfly/articles/2016-02-22/fintech-funding-will-suffer-as-banks-tighten-reins
+Feb 22, 2016 2:00 AM EST
+
+Banks are having a torrid time on the market, in the grip of falling revenue, rising regulatory costs and fears of an economic downturn. Surely this is music to the ears of bearded entrepreneurs in Hoxton and Silicon Valley, who are toiling away on finance start-ups designed to woo Generation Smartphone away from these creaky, out-of-touch behemoths?
+
+The number of fintech startups could be 25,000
+
+Not quite. Expect the trials of the banking sector and the stock market to feed through to start-up fundraising this year. Valuations will come down.
+
+The world of fintech -- a portmanteau term covering everything from money-transfer websites to peer-to-peer outfits like Lending Club -- relies on traditional finance almost as much as it tries to challenge it. After much hesitation, banks have become keen investors in and buyers of ventures such as challenger banks, bundles of peer-to-peer loans and platforms that will help them cut costs; asset managers have also waded into the fray.
+
+Overall, banks are a smaller slice of the investment pie than traditional venture capital -- for example, Santander's $100 million fintech fund is a sliver of Silicon Valley entrepreneur Marc Andreessen's 2014 $1.5 billion venture capital pool. But if the big banks are less free to cut a check and take a risk on the next new doohickey, that's going to hit fintech. Same again for an IPO market that's fizzled out -- if investor appetite is drying up, as happened in the U.S. in January, that means fewer exit opportunities for start-ups.
+
+Still In Crisis European banks' underperformance is getting worse
+
+And what about those VC funds? They're unlikely to be as enthusiastic as before about paying premium valuations for an increasingly crowded space that has never been tested by an economic downturn. Bloomberg's Tracy Alloway has written about marketplace lender Lending Club -- frequently held up as the ultimate fintech success story -- hiking lending rates amid the recent disruption in credit markets. Former U.K. regulator Adair Turner warned earlier this year that peer-to-peer losses over the next five to 10 years would make "bankers look like lending geniuses." All part of the game of putting risk capital to work, investors might say, but hardly a support for bullish valuations.
+
+There's a reason the relationship between finance startups and banks is often characterized as David versus Goliath -- without the financial crisis and the popular anger it spawned against the whole banking system, there would be no fintech. But companies born in the ashes of Lehman Brothers haven't yet been forced to battle their way through a global macro slump.
+
+So if 2014 was the year international money mover TransferWise got a mob of semi-naked Londoners to protest against banks over-charging their customers, 2016 will be the year fintech gets a wake-up call. Expect valuations to come down, potentially by as much as a third, according to Victor Basta of Magister Advisors, a boutique investment bank focusing on technology. For a sign of just how much valuations have risen, look at five-year-old TransferWise itself. It reportedly was valued at close to $1 billion even though it doesn't turn a profit.
+
+Fintech Falling? Next-gen finance IPOs are underperforming the U.S. market
+
+That doesn't mean fintech is about to disappear anytime soon. There are lots of ideas clearly gaining traction -- artificial intelligence, robo-advisors, tools for compliance and regulation -- that could become must-haves for a banking sector in need of cost-saving solutions. But there are also lots of "me-too" products that rely on marketing budgets rather than engineering talent to build market share.
+
+Consultant David Gyori reckons that there could be as many as 25,000 fintech startups in the world, about twice the number of banks in the U.S. and euro area. If funding oxygen to the fintech sector gets sucked away as a result of market nerves, expect quite a few start-ups to vanish -- especially copycat businesses that are competing more with each other rather than the aging lender down the road. The likely success stories will be those selling back-office products that can survive the discretionary and IT spending cuts at an under-pressure banking sector, rather than pure consumer plays.
+
+The more worrying threat may instead come from an established tech titan like Google or Apple wading into the fray. Talk of Google's parent buying insurer AIG may look like a tall order for now, but there is every chance that tech companies will one day find themselves taking that road -- landing fintech with its very own home-grown Goliath.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Lionel Laurent in London at llaurent2@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jennifer Ryan at jryan13@bloomberg.net

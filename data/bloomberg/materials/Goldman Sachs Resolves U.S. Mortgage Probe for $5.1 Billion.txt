@@ -1,0 +1,44 @@
+Goldman Sachs Resolves U.S. Mortgage Probe for $5.1 Billion
+['Tom Schoenberg']
+http://www.bloomberg.com/news/articles/2016-04-11/goldman-to-pay-5-1-billion-to-settle-u-s-mortgage-bond-probe
+Goldman Sachs Group Inc. will pay $5.1 billion to resolve U.S. allegations that it failed to properly vet mortgage-backed securities before selling them to investors as high-quality debt.
+
+New York-based Goldman Sachs, which announced details of the accord in January, will pay a $2.39 billion civil penalty, make $875 million in cash payments and provide $1.8 billion in consumer relief, according to a Justice Department statement.
+
+“This resolution holds Goldman Sachs accountable for its serious misconduct in falsely assuring investors that securities it sold were backed by sound mortgages, when it knew that they were full of mortgages that were likely to fail,” said Acting Associate Attorney General Stuart Delery.
+
+Monday’s resolution is the fifth multibillion-dollar settlement reached with U.S. banks resulting from the government’s push to hold Wall Street firms to account for creating and selling subprime mortgage bonds that helped spur the 2008 financial crisis.
+
+Other banks, including Royal Bank of Scotland Group Plc and Deutsche Bank AG remain under investigation, people familiar with the matter have said.
+
+Bank Provisions
+
+"We are pleased to put these legacy matters behind us. Since the financial crisis, we have taken significant steps to strengthen our culture, reinforce our commitment to our clients, and ensure our governance processes are robust," said Michael DuVally, a company spokesman, in an e-mailed statement.
+
+The bank already provisioned for most of the charges. Goldman set aside $1.95 billion for legal and litigation expenses in the fourth quarter, and $4.01 billion for all of 2015, more than double the totals for the two previous years combined.
+
+In addition to the Justice Department, the deal resolves claims from authorities including New York, California and Illinois attorneys general for the bank’s securitization, underwriting and sale of bonds from 2005 to 2007. The accord would also resolve claims by the National Credit Union Administration and the Federal Home Loan Banks of Chicago and Seattle, according to the statement.
+
+Working Group
+
+The government’s mortgage-backed security resolutions stem from a working group of prosecutors and other officials that President Barack Obama ordered up in 2012 to punish Wall Street for fueling the financial crisis with bonds linked to souring mortgages. Until then, the Justice Department had been pilloried for years for not having brought significant cases against banks and their executives.
+
+Goldman acknowledged a statement of facts put together as part of the resolution, which gives examples of what the government said were false and misleading representations to investors.
+
+In one August 2006 RMBS, the bank’s due diligence reported an “unusually high” percentage of loans with credit and compliance defects, according to the statement.
+
+When presented with the results, the Goldman employees responsible for overseeing the securities asked “How do we know that we caught everything?” One transaction manager responded “we don’t,” according to the statement. Another responded, “Depends on what you mean by everything? Because of the limited sampling . . . we don’t catch everything . . .”
+
+Goldman approved this RMBS for securitization without requiring any further due diligence, according to the statement.
+
+Cutting Corners
+
+Goldman also boasted of its efforts to ensure mortgage pools contained quality loans, yet failed to disclose information showing that some of the originators were cutting corners, according to the Justice Department. Between December 2005 and 2007, Goldman’s internal committee responsible for overseeing RMBS approved every pool of bonds that it was presented.
+
+In at least one, some 25 percent of loans that were vetted were dropped because of poor quality. Still, Goldman didn’t examine approximately 70 percent of the total pool of loans to determine whether there were similar problems, according to the statement of facts.
+
+As Goldman was preparing a bond sale backed by loans originated by Countrywide Financial Corp. in April 2006, a Goldman manager circulated a "very bullish" equity research report that suggested the purchase of Countrywide stock. Goldman’s head of due diligence, who had just overseen the examination of six Countrywide mortgage pools, responded, "If they only knew . . ."
+
+In late 2006, Goldman told investors in marketing materials that one of its underwriters, a unit of Fremont General Corp., was committed to "loan quality over volume" though its internal analysis of the originator found the company was "at the aggressive end" of standards and used "off market" guidelines, according to the statement of facts.
+
+Fremont shuttered the home loan unit after the Federal Deposit Insurance Corp. said in March 2007 that the lender provided mortgages to people who couldn’t repay them.

@@ -1,0 +1,54 @@
+Google: Paranoid About Android
+['Leila Abboud', 'Shira Ovide']
+http://www.bloomberg.com/gadfly/articles/2016-04-20/facebook-and-china-bigger-google-threats-than-brussels
+Apr 20, 2016 5:51 AM EDT
+
+Europe's top antitrust cop Margrethe Vestager should be commended for expanding charges against Google from search to mobile. Few other regulators are keeping a necessary check on Silicon Valley's superpowers.
+
+Yet her efforts to rein in Google's dominance are hamstrung by the slow pace of justice. By the time she imposes fines or restricts how it does business, many of the start-ups, app developers and handset makers Vestager wants to defend will be extinct. On Wednesday, she said Google had breached EU rules by abusing its position with restrictions on Android, its mobile operating system.
+
+The case will probably run at least another year. A separate probe, into whether Google tilts the scales for its Web-shopping service over rivals', has dragged into a seventh year.
+
+In the end, Facebook, China's tech giants and rapidly evolving technology are a bigger worry for Google, because they threaten to narrow its longstanding dominance of online advertising.
+
+A reminder of how Google makes money from Android: it lets smartphone-makers use the software for free in exchange for featuring Google services such as Gmail, Maps and the Google Play app store. More users of these services translates into more Google ad dollars, the heart of its business model.
+
+The phone-makers can just use Android and not the Google services, but it's an all-or-nothing choice. If they decide against one Google app, they can't use any of the others. Vestager's beef is that this enforced bundling has illegally hindered rival apps from emerging.
+
+Android Attack Worldwide smartphone sales by operating system at end of 2015 Source: Gartner
+
+Google doesn't disclose Android's contribution to its $67.4 billion annual advertising revenues. It's clear, though, that it helped Google extend its lock on Web ads to the smartphone era. Research firm eMarketer estimates about half Google's 2015 net ad revenue came from mobile, and expects that to reach 70 percent in 2017.
+
+Search-based advertising is the biggest money-spinner to emerge on the Web in its 20-year life. The pressing question for Google is whether technology changes (not Brussels) will loosen its tight grip on that business.
+
+Facebook's rapid rise as one of the world's biggest advertising companies is a warning. Power is shifting from companies such as Microsoft, Google and Apple that control operating systems to the next strata: apps companies.
+
+Today Google still counts itself as one of those app powers, alongside Facebook: together they have nine tech services with at least 1 billion monthly users. Collectively they take 43 percent of worldwide digital advertising sales.
+
+Riding the Digital Wave Google, and more recently Facebook, are the biggest winners of the digital advertising boom Source: eMarketer estimates and Bloomberg Intelligence
+
+But tomorrow's winners could be companies that figure out new ways to make money on smartphones, in virtual reality systems, messaging apps, or some unforeseen digital hangout. The point is, Google's financial dominance has been predicated on its role as the front door to digital life. This position is no longer secure.
+
+The threat is most visible in China, the world's biggest online ad market after the U.S. Google pulled out in 2010 and barely makes money there. That left an opening for local companies to sell billions of smartphones running Android, but without Google's apps or app store. New powers such as Tencent's WeChat emerged to siphon most of China's ad spending.
+
+It's tough to know how painful Vestager's penalties will be. Google can afford the maximum fine of $7.5 billion (or 10 percent of revenue), although few think the penalties will go that high. The company is sitting on $78 billion in cash and marketable securities. More painful will be any forced changes to Android's business model, even if they're applied only in Europe.
+
+As Easy as A-B-C Alphabet's (Google's) market value has risen inexorably
+
+Google may need to open its wallet anyway if it wants to keep serving searches on Android phones. For now it doesn't make payments to Android phone-makers, but it did pay Apple $1 billion in 2014 to provide built-in search on iPhones and iPads.
+
+Its European regulatory troubles also have unwelcome parallels to last decade's EU crackdown on Microsoft. Restrictions on Microsoft's Europe business and 2.2 billion euros of fines did hurt, but hubris and time are really what caused it to lose its edge in consumer technology. That said, the distraction wrought by a decade of antitrust battles made it harder for Microsoft to translate its PC ubiquity into the Internet age.
+
+Google won't want to repeat that mistake.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the authors of this story:
+
+Leila Abboud in Paris at labboud@bloomberg.net
+
+Shira Ovide in New York at sovide@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Boxell at jboxell@bloomberg.net

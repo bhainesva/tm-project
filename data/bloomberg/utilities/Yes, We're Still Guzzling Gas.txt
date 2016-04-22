@@ -1,0 +1,36 @@
+Yes, We're Still Guzzling Gas
+['Justin Fox', 'Megan Mcardle', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-13/yes-we-re-still-guzzling-gas
+Justin Fox is a columnist writing about business. Prior to joining Bloomberg View, he was the editorial director of the Harvard Business Review. He is the author of “The Myth of the Rational Market.” Fox has also worked at Time, Fortune, American Banker, the Birmingham News and the Advance-Register of Tulare, California, where he was the farm editor.
+
+Gasoline is going to be really cheap in the U.S. this summer. Here's what the Energy Information Administration had to say in its short-term energy outlook Tuesday:
+
+During the 2016 April-through-September summer driving season, U.S. regular gasoline retail prices are forecast to average $2.04/gallon (gal), compared with $2.63/gal last summer. ... For all of 2016, the forecast average price is $1.94/gal, which if realized would save the average U.S. household about $350 on gasoline in 2016 compared with 2015, with annual average motor fuel expenditures at the lowest level in 12 years.
+
+Run the numbers back to 2000, and the gas-price trajectory looks like this:
+
+With gas getting cheaper, America is driving more. The country set a new record for annual vehicle miles driven in 2014 (and has kept setting records every month since). It has yet to set a new record for gasoline consumption, because vehicles have gotten more fuel efficient, but the EIA is projecting that the U.S. will (just barely) surpass 2007's all-time high this year.
+
+So much for hitting peak environmental impact, eh?
+
+Peak impact is the notion -- which I kinda sorta subscribe to -- that efficiency gains, renewable energy, changing tastes and habits, and slower population growth might be bringing the earth near the point where resource use begins to decline and environmental degradation begins to reverse. A related notion is "decoupling," meaning that economic and social progress are no longer necessarily dependent on increased resource use. Linus Blomqvist of the Breakthrough Institute, an environmental think tank that's big on decoupling, wrote a useful roundup last month of recent research -- some of which showed evidence of decoupling, and some of which did not.
+
+
+
+Record-high gasoline use would seem to fall into the latter category, and is perhaps an indication that some apparent recent signs of decoupling were instead the temporary product of a weak global economy and high prices for energy and other natural resources. Now, in the U.S., the economy is pretty strong and gas is pretty cheap -- so we're consuming more of it. And, yeah, maybe some of that talk about millennials turning away from consumer society in general, and cars in particular, was a little premature.
+
+Still, I'm not willing to give up on decoupling. In fact, there's another way to look at the gasoline-consumption data that paints a different picture. Here's per-person U.S. gasoline consumption since 1960:
+
+Per-person gasoline use peaked in the U.S. in 1978, and has basically been on a plateau (or at least a series of gently rolling hills) since the early 1980s. That's despite light trucks (minivans, sport utility vehicles and pickup trucks) pushing aside cars as Americans' vehicles of choice, and electric cars going through disappointment after disappointment.
+
+Gas prices will go up again. Population growth will keep slowing. Electric vehicles will surely find their footing eventually. Self-driving cars might bring more efficient energy use. Virtual reality might reduce the need for travel. I still think we're getting close to peak overall gasoline use. But we're not there yet.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Zara Kessler at zkessler@bloomberg.net

@@ -1,0 +1,28 @@
+The Financial Threats That Machines Can See
+['Mark Buchanan', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/the-financial-threats-that-machines-can-see
+Mark Buchanan, a physicist and science writer, is the author of the book "Forecast: What Physics, Meteorology and the Natural Sciences Can Teach Us About Economics."
+
+Humans have a terrible track record of predicting financial crises in time to fend them off. Some computer scientists think that algorithms might help.
+
+Given the right information, some crises can be foreseen. In “The Big Short,” Michael Lewis told the story of the scattered few who saw the imbalance growing in the mortgage market and profited as a result. Over decades, academic research has shown that many banking crises come with early warning signals, such as rapidly increasing debt and leverage. Yet economists and policy makers routinely miss such danger signs, in part because the financial world is so complex.
+
+So can computers see what humans cannot? In a new study, computer scientists Samuel Rönnqvist and Peter Sarlin explore what can be achieved with so-called Deep Learning algorithms -- similar to those that Google used to beat the world Go champion or to play 1980s Atari video games at expert human level. Such algorithms work by studying data and learning to recognize patterns. Unleashed on a database of 6.6 million financial news articles over the period 2007 to 2014, the researchers’ algorithm accurately identified episodes of banking distress, and also provided a text extract describing the financial reality that most likely led to each one. It even recognized distress at banks that fell outside the group it initially studied, suggesting that it really captured meaningful and perhaps extremely subtle patterns.
+
+This isn’t quite prediction, because the algorithm was working with historical data. But Rönnqvist and Sarlin, based on further work, believe such algorithms will soon be able to measure market exuberance or overheating in real time by focusing on the emotional shades of the words and phrases in news stories or online discussions. That really could be predictive.
+
+Sarlin and colleague Markus Holopainen, for example, have already examined how algorithms do at spotting the conditions that make crises more likely, as opposed to recognizing actual distress at banks. Using macroeconomic data for 15 European nations since the 1980s, the machine-learning methods predicted banking crises more accurately -- and, importantly, with fewer false warnings -- than did any of a wide range of more commonly used statistical methods.
+
+How is this going to change finance and economics? The first thing we’ll likely see is tools to cope with the overwhelming complexity of the financial world, by focusing human brains on the things that matter most. This could help traders to find profit opportunities and policy makers to spot systemic risks. Human understanding of how economies work, after all, isn’t too impressive: Economists today don’t even agree on whether low interest rates tend to make inflation go up or down. Machine learning methods might bypass dubious theory and learn straight from the data, finding ways to identify vulnerabilities that, with the right trigger, could lead to a crisis.
+
+In the battle between Google’s AlphaGo and Go champion Lee Se-dol, the algorithm came up with moves that seemed beyond human understanding. Future algorithms might do the same with financial and economic data, pointing to warning signs that no human could recognize.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Mark Buchanan at buchanan.mark@gmail.com
+
+To contact the editor responsible for this story:
+
+Mark Whitehouse at mwhitehouse1@bloomberg.net

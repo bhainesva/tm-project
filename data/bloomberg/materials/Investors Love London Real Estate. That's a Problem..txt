@@ -1,0 +1,34 @@
+Investors Love London Real Estate. That's a Problem.
+['Jean-Michel Paul', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-06/hot-london-houses-fuel-britain-s-current-account-deficit
+Britain's economy may be growing at a faster rate than its European counterparts, but there are two statistics that ought to give concern: London's stratospheric real estate prices and the country's current account deficit (which measures the sum of exports and imports and net investment flows as well as net transfers). They are, in fact, two sides of the same coin. And both point to a painful correction to come if measures aren’t taken to restore balance.
+
+Such a correction would unfortunately not be a first: A number of the worst current account crises that have been observed since the end of the Bretton Woods agreements have ended in severe real estate and currency corrections. One need only think of Spain or Ireland during the recent financial crisis. Similarly, while not to the same extent, a number of countries such as Australia or New Zealand have material current account deficits financed by real estate investment inflows inflating local housing prices.
+
+According to the UBS Global Real Estate Bubble Index, real estate is overvalued across Europe's cities, but nowhere more so than London, which scores highest in the world for "bubble risk." London has seen a nearly 40 percent rise in the average price of a dwelling since the start of 2013, more than making up for losses from the financial crisis.
+
+Rising real estate values are pleasing to homeowners benefiting from the incurred wealth effect. But when housing restrictions prevent adjustments to the supply of homes, prices become largely decoupled from the real economy.
+
+Where there is relatively fixed supply, as in London, real estate is best understood as a commodity. When countries offer a commodity in such high demand, it leads to what economists refer to as the "Dutch disease" -- the growing commodity crowds out other tradable industries in the country, both by attracting resources and by supporting an overvalued currency.
+
+As a world leading capital and cultural center, London has long attracted foreign investment. With the city population expanding, waves of wealthy investors from around the world have acquired property in the city as a safe haven, each time pushing prices higher.
+
+Over the last 10 years, capital flows to London real estate purchases have been just short of 200 billion pounds ($283 billion) and accelerating. In 2015, 70 percent of central London commercial real estate purchased was by foreigners, while half of the new prime property acquired in central London was by non-residents. Some developments have been pitched to foreign buyers exclusively, forcing the mayor to intervene. In the process, rents have become more expensive, affecting even the productive service sector of the city, with workers in London facing rents that are often 60 percent of gross earnings. Yet even rising rents have failed to keep pace with escalating housing prices, resulting in net yields to investors of below two percent. With such low yields, many foreign owners have decided not to rent out their vacant properties, transforming their real estate from a productive good into a purely value-hoarding asset, exacerbating the housing shortage for the "real" economy. That explains why some of London's fanciest neighborhoods seem relatively deserted -- call it the London disease.
+
+The material foreign inflows into commercial and residential real estate have been financing the current account, by some estimates to the tune of a third or a half. Many economists, including former Federal Reserve chief Ben Bernanke, have acknowledged a correlation between the current account and real estate prices. Economist Francois Geerolf and Thomas Grjebine go further and claim that for 34 countries over the last 40 years, the link is causal. This creates the potential for an overvalued currency, penalizing exporters. If left unchecked imbalances can result in a currency crash, as the current account deficit exceeds real estate inflows. By whatever means real estate prices are corrected in real terms, the rebalancing can be painful while the country reconstructs a tradable sector.
+
+To avoid such a dramatic outcome, two sets of solutions exist. First, measures must be taken to allow the supply of real estate to respond to raising prices. London boroughs are notorious for their restrictive building permissions. Despite rising prices, registrations for new construction fell by 9 percent in 2015 in London. The government has promised to do more to liberalize construction, but the effects have yet to be seen.
+
+The second solution is to change behavior through taxes. The government has tried to do this, but unfortunately the tax chosen for this purpose has been the (more politically acceptable) stamp duty -- a transaction tax paid by the buyer and which rises with the purchase price. Increasing the stamp duty on higher-priced properties has had the effect of limiting liquidity and reinforcing hoarding. Instead, an increase in council taxes, which are linked to property prices, would make sense; particularly for properties held by owners who are non-domiciled or non-resident. Income from this tax could then be used to reduce taxation on exporting sectors.
+
+Such measures would be the best way for Britain to reduce its deficit without a painful correction.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Jean-Michel Paul at JPaul@acheroncapital.com
+
+To contact the editor responsible for this story:
+
+Therese Raphael at traphael4@bloomberg.net

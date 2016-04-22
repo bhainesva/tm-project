@@ -1,0 +1,66 @@
+Fannie, Freddie Investors Fight to Undo U.S. `Net Worth Sweep'
+['Andrew M Harris']
+http://www.bloomberg.com/news/articles/2016-04-14/fannie-freddie-investors-fight-to-undo-u-s-net-worth-sweep
+The U.S. government’s 2012 decision to take all the profits from Fannie Mae and Freddie Mac, the mortgage companies bailed out by taxpayers in the financial crisis, will get a federal appellate review Friday when investors argue the appropriation was illegal.
+
+Shares in both firms, which back about two-thirds of the $6.46 trillion U.S. residential mortgage market, climbed more than 40 percent this week on speculation that a three-judge panel in Washington might force the government to share the profits with the companies’ retail stockholders.
+
+Since it started capturing those profits in a so-called “net worth sweep” that
+
+began in January 2013, the government has been sued by individual and
+
+institutional investors challenging the lawfulness of its action, including the
+
+Fairholme Funds and Perry Capital LLC. Some say it was unconstitutional, while
+
+others contend it amounted to a breach of contract, of good faith and of fair
+
+dealing.
+
+In 2014, U.S. District Court Judge Royce Lamberth rejected all of those arguments. Shareholders’ lawyers on Friday will ask a U.S. Court of Appeals in Washington to at least reverse that ruling if not the sweep itself.
+
+“It’s one of the most egregious appropriations of private economic rights in history,” Hamish Hume, who will argue on behalf of a class representing all who held preferred and common stock in the companies at the sweep’s inception, said in a statement Wednesday. He is a partner in New York-based Boies Schiller Flexner LLP.
+
+Bailout Recouped
+
+By mid-2012, the Treasury Department had provided $187.5 billion in taxpayer money to the two government-sponsored entities, taking back $189 billion in preferred stock, according to court papers filed by Hume’s firm. With the sweep in place, the government had recouped more than $230 billion by early last year.
+
+Fannie Mae and Freddie Mac provide liquidity to the housing market by packaging mortgages into securities on which they guarantee payments of principal and interest. Outside of that core business, they each also have investment portfolios and finance commercial real estate.
+
+Freddie Mac in February reported its fourth consecutive year of profitability, with $6.4 billion in net income last year. A day later, Fannie Mae reported net income of $11 billion for 2015, down from the $14.2 billion reported for the prior year but extending its streak to four straight years in the black.
+
+Former U.S. Solicitor General Theodore Olson will argue for Perry before the three-judge panel. Bill Ackman’s Pershing Square Capital Management filed a friend of the court brief, backing Perry and Fairholme, and has a parallel case pending in a different D.C. court.
+
+Fairholme too filed suit in that court, the U.S. Court of Federal Claims, where -- taking advantage of its rules -- its lawyers were able to question under oath former Fannie Mae Chief Financial Officer Susan McFarland.
+
+‘Sustainable Profits’
+
+In transcript excerpts made public by the court this week, McFarland testified that the impetus for the appropriation of profits may have been her telling Treasury officials that Fannie Mae and Freddie Mac had weathered the economic storm.
+
+“I had expressed a view that I believed we were now in a sustainable profitability, that we would be able to deliver sustainable profits over time,” she said. “So when the amendment went into place, part of my reaction was they did that in response to my communication of our forecasts and the implication of those forecasts, that it was probably a desire not to allow capital to build up within the enterprises and not allow the enterprises to recapitalize themselves.”
+
+U.S. Court of Claims Judge Margaret M. Sweeney said she was unsealing parts of McFarland’s testimony and other evidence at the request of Fairholme and Perry lawyers so they could refer to it openly in their appellate arguments. Her ruling spurred Fannie Mae shares to climb 35 percent to $1.79 April 12, and to rise further rise, to $1.95, the next day. Freddie Mac gained 29 percent to $1.65 on April 12 and increased to $1.80 a day later.
+
+The Treasury Department’s defense rests largely upon HERA, the Housing and Economic Recovery Act of 2008, which created a new federal agency, empowered it to act as a conservator or a receiver for the two mortgage companies and provided only limited avenues for legal challenges. At that time, the Federal National Mortgage Association, also known as Fannie Mae, and the Federal Home Loan Mortgage Corp., or Freddie Mac, owned or guaranteed more than $5 trillion in residential mortgages, about half the U.S. market, according to a government court filing.
+
+In exchange for its commitment of capital to prop up the teetering government sponsored enterprises, or GSEs, the U.S. took a controlling interest in each and assured itself a senior position in the event one or both companies was liquidated. It also allocated to itself, at least initially, quarterly dividends equal to 10 percent of its liquidation stake value.
+
+Open-Ended Commitment
+
+For a time, the government’s commitment was open-ended, enabling Fannie and Freddie to ultimately draw $187 billion to prevent their insolvency while paying the government its guaranteed dividend.
+
+That situation changed with the amendment announced in August of 2012, which replaced the fixed dividend obligation “with a requirement that the enterprises pay, as a dividend, the amount, if any, by which their net worth exceeds a capital buffer,” lawyers for the U.S. said in court papers. That buffer is slated for elimination in 2018.
+
+Lamberth, who threw out the investor suits in 2014, found most of their claims barred by the Congressionally-created HERA. Their right to dividends, he added, were “wholly dependent” on the discretion of the GSEs’ directors and their regulator, the Federal Housing Finance Agency.
+
+“The plaintiffs’ grievance is really with Congress,” the judge said. “It was Congress, after all, that parted the legal seas so that FHFA and Treasury could effectively do whatever they thought was needed to stabilize and, if necessary, liquidate the GSEs.”
+
+David Min, a professor of law at the University of California at Irvine, said by phone that Lambert’s ruling and rationale gives an edge to the government on appeal, but not an insurmountable one.
+
+“Sometimes ‘Hail Marys’ are completed,” Min said, comparing the investors’ claims to a desperation pass in a football game.
+
+While HERA endowed the FHFA -- whose mandate is to conserve and preserve Fannie and Freddie -- with a measure of immunity from most of the asserted claims, shareholders can argue the agency is violating its reason for being.
+
+“I think you can make a strong argument that maybe FHFA has not been acting with that goal in mind,” Min said.
+
+The case is Perry Capital LLC v. Lew, 14-5243, 14-5254, 14.5260 and 14-5262, U.S. Court of Appeals, District of Columbia Circuit (Washington).

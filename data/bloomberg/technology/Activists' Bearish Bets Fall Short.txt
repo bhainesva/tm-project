@@ -1,0 +1,42 @@
+Activists' Bearish Bets Fall Short
+['Gillian Tan']
+http://www.bloomberg.com/gadfly/articles/2016-04-15/activists-bearish-stock-bets-are-falling-short
+Apr 15, 2016 7:30 AM EDT
+
+When it comes to shareholder activism, much attention has been paid to the long side of things -- well-known folks like Carl Icahn and Nelson Peltz who take stakes in companies and agitate for changes they feel will unlock hidden value. But how are the shorts doing?
+
+These are the investors who make bearish bets on stocks and then lay out their cases publicly, often backing up their arguments with reams of research. While individual results vary, the verdict for this group's performance as a whole is not all that great in the short term -- or in recent years either, at least as far as market-beating returns are concerned.
+
+Just this week, investor Ben Axler's Spruce Point Capital disclosed a short position in travel technology company Sabre Corp., which processes reservations for hotels and airlines. Spruce Point, whose other recent shorts have included gym operator Planet Fitness, released a 54-page report Wednesday that takes issue with Sabre's accounting practices and alleges the company has been masking the pressure on its business model. The firm believes the stock is worth between $12 and $17 a share, a far cry from its closing price Thursday of $28.82.
+
+Quick Recovery Shares of Sabre Corp. rebounded sharply from initial losses after Spruce Point unveild its contrarian thesis. All but one of 14 analysts believe the stock is a buy, giving it an average price target of $33.27. Source: Bloomberg
+
+Sabre's stock initially sank 5 percent on the news but has since rebounded, indicative of a trend: The initial impact of announcing a short campaign appears to have lost some of its punch. So far this year, stocks that have been targeted by shorts have fallen an average 4.8 percent in the week after a bearish bet was revealed, compared with 12.9 percent in 2011, according to data from Activist Shorts Research.
+
+Short Squeeze The average one-week return following the revelation of a campaign is declining. Source: Activist Shorts Research
+
+Looking out over a longer time frame, stocks of companies targeted by activist short investors since the start of 2013 declined 19.6 percent on average over the life of an investment, according to Activist Shorts Research. During the same period, the S&P 500 outpaced those returns by roughly 26 percentage points.
+
+When Down Is Up As these returns show, short activism can pay off (negatives here mean gains on bearish bets). Source: Activist Shorts Research
+
+To be fair, activist shorts have scored some big victories. Andrew Left's Citron Research criticized Valeant Pharmaceuticals, and we all know how that's turned out. Offshore bets were among the most successful: Muddy Waters' assertions of financial manipulation resulted in China's Sino-Forest filing for bankruptcy protection. Gotham City Research's proven claims that Spanish Wi-Fi provider Gowex published misleading financial results saw the company declared insolvent and China Metal Recycling Holdings was eventually liquidated after accusations of deception and fraud by Glaucus Research Group were proven.
+
+Instant Hits Some activist shorts score early wins, but this isn't always sustainable. Source: Activist Shorts Research
+
+But there's wide scope for failure. Mergers and acquisitions activity may be slowing from its record pace but it's still chugging along, leaving activist shorts open to the risk of getting burned if targets are acquired (this happened to David Einhorn's Greenlight Capital when Keurig Green Mountain struck a deal with a buyer). Even without deal risk, sometimes ideas just don't pan out: Since Bill Ackman revealed his belief that Herbalife was a pyramid scheme in 2012, the stock has rallied roughly 40 percent.
+
+With all this in mind, investors may want to consider with care a new Kerrisdale Capital Management fund being set up to short the equity of just one company, rather than a basket of short bets as is typical for other funds. Details are scarce: The target is in the technology sector and will have a market cap of at least $10 billion, according to Bloomberg Briefs.
+
+Kerrisdale's recent picks have had mixed results to date. Since making its bets against these companies public, private golf club operator ClubCorp has fallen 2 percent, biotech companies Sage Therapeutics and Zafgen have added 9 percent and shedded 19 percent, respectively, while spectrum license owner Straight Path Communications has sunk 37 percent. Notably, all of these are much smaller in market cap (below $1.5 billion) than its mystery technology target, in part due to the size constraints.
+
+Whether the firm delivers a knockout blow when it unveils its technology target next month remains to be seen, but it will be closely watched. Barring a disaster, such co-investment funds for "best ideas" could fall into favor as investors seek out returns. But they must remember that nothing is guaranteed.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Gillian Tan in New York at gtan129@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Beth Williams at bewilliams@bloomberg.net

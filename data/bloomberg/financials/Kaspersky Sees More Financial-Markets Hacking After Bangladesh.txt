@@ -1,0 +1,10 @@
+Kaspersky Sees More Financial-Markets Hacking After Bangladesh
+['Ilya Khrennikov Ryan Chilcote', 'Ilya Khrennikov', 'Ryan Chilcote']
+http://www.bloomberg.com/news/articles/2016-04-14/kaspersky-sees-more-financial-markets-hacking-after-bangladesh
+The founder of cyber-security firm Kaspersky Lab expects more attacks on financial targets after hackers recently stole funds from Bangladesh’s central bank and moved the Russian ruble’s exchange rate.
+
+“Criminal innovations that we see in some parts of the world become massive because criminals communicate" and spread techniques around the world, Eugene Kaspersky said in an interview with Bloomberg TV Thursday. “The most professional cyber-criminals are looking for new types of victims -- stock exchanges, for example."
+
+Attacks of this kind are akin to cyber-terrorism, Kaspersky said. Technology that cracks banks’ safety systems is available for purchase, and it’s possible that some individuals hire professionals to hack financial systems to paralyze them, rather than to profit from the attack, he said.
+
+Global losses from hacking and undesired spamming exceed $100 billion a year, according to Kaspersky Lab. Some advanced attacks, such as using malware to make ATMs distribute all their cash, were designed by Russian-speaking hackers, but have spread to the U.S., Europe and Asia, the company said.

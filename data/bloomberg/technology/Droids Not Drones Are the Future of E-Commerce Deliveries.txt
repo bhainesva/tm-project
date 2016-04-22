@@ -1,0 +1,60 @@
+Droids Not Drones Are the Future of E-Commerce Deliveries
+['Jeremy Kahn']
+http://www.bloomberg.com/news/articles/2016-04-18/droids-not-drones-are-the-future-of-e-commerce-deliveries
+In the shadow of Greenwich’s 02 Arena - the futuristic dome originally built as London’s showpiece for the Millennium - what looks like a picnic cooler on wheels zips among groups of gawking children. This little delivery robot, designed to autonomously navigate sidewalks, not roads, later this year will begin making deliveries from local businesses direct to customers.
+
+In doing so, it may just conquer e-commerce’s final frontier: the Last Mile, the least efficient and most problematic step in the delivery process.
+
+“Thirty to forty percent of the cost of delivery comes in the last mile,” says Allan Martinson, the chief operating officer of Starship Technologies, the company building this robot. The venture is the brainchild of Ahti Heinla, one of Skype’s original developers, and is backed by billionaire Skype co-founder and tech investor Janus Friis.
+
+Ahti Heinla, co-founder of Starship Technologies, sits beside a prototype self driving parcel delivery robot at the Starship Technologies headquarters. Photographer: Peti Kollanyi/Bloomberg
+
+The little delivery robots designed by Starship and a competing U.S. startup called Dispatch are the BB-8s and Wall-E's of e-commerce. These scrappy droids are up against tech's strongest forces. Amazon is testing airborne drones, as are Wal-Mart and Google. Google has also sought patents for a driverless truck that would carry an array of storage lockers that unlock with a text message. And Uber is deploying drivers for food delivery, a concept that could be expanded to other products. And don't forget incumbents from Federal Express and UPS to government postal services.
+
+While Starship's robot may be first to market, victory isn't assured. The droids have limitations, with economic viability confined urban areas. Drones have a higher sticker price and bigger regulatory hurdles to surmount, but may prove less expensive on a per-mile basis. And for the foreseeable future, some logistics experts say, humans still have the edge over any sci-fi inspired contenders.
+
+Heinla, a tall, gaunt Estonian with shaggy blond hair and the disheveled look of an engineer for whom form matters more than fashion, says delivery droids have their advantages. Smaller robots are easier and cheaper to build. Because Starship’s droid weighs less than 35 pounds and travels slowly, it's less likely to cause damage. As a wheeled vehicle, there are no spinning rotorblades that could cause injury - unlike drones.
+
+Most importantly it travels on sidewalks not roads, which simplifies getting regulatory approval to operate. Starship robots have already covered more than 1,900 miles in the U.K., Germany, Belgium, Estonia and the U.S., with more than 50,000 miles planned this year. In comparison, drones are being tested in highly-controlled environments, with commercial deliveries on hold until regulators work out safety, liability, air rights and privacy issues. Autonomous vehicles are so far only allowed limited tests on public roads.
+
+With its current battery design, the little robot from Starship Technologies can operate for more than two hours continuously between charges. Photographer: Peti Kollanyi/Bloomberg
+
+“We’ve tested it in snow, slush, ice and rain – you name it,” Martinson says. In the U.S., Starship is testing its robot in Fayetteville, Arkansas, about 35 miles from Wal-Mart’s Bentonville headquarters, in conjunction with an innovation lab at the University of Arkansas named after the family of Wal-Mart chief executive Doug McMillon. This has lead to speculation the giant retailer may be interested in the little robot. Wal-Mart's 415C Lab, an internal unit investigating various disruptive technologies, has said it is monitoring the testing program. Starship won’t comment on a possible tie-up with Wal-Mart. But Martinson says he expects the first e-commerce customers to start using the robots later this year.
+
+San Francisco-based Dispatch, which was founded by former computer scientists from the University of Pennsylvania and the Massachusetts Institute of Technology and is backed by Silicon Valley venture firm Andreessen Horowitz, is also testing its own ground drone called Carry.
+
+Gur Kimchi, the Amazon executive in charge of its Prime Air drone project, says they considered delivery robots and driverless trucks too. But Amazon decided drones were a better bet. “The other options cannot guarantee very fast, very economic and very safe delivery,” he says. Drones, he says, can serve a range of rural, suburban and even urban environments – while delivery robots work best only in urban areas. And autonomous trucks or delivery drivers only add to already congested roads, he says.
+
+Prime Air: Amazon considered delivery robots but decided drones were a better bet. Source: Amazon
+
+Kimchi says that Amazon’s drones, which can carry up to five pounds for 15 miles at speeds of up to 60 miles per hour, will cover 80 percent to 90 percent of its shipments. “It is a surprisingly large subset of our selection,” he says. In a May 2015 analysis by investment research firm ARK Invest, analyst Tasha Keeney estimated that by using drones, Amazon could reduce its delivery costs to less than $1 per package, or as little as 10 cents per mile.
+
+To ensure safety, drones have “sense and avoid” technology that will steer clear of obstacles – or potential hazards – including even the family dog. “If the drone cannot make the delivery safely it is programmed to abort and fly back home,” Kimchi says.
+
+Without a clear regulatory framework, Amazon can't start using its drones commercially. So the company has proposed that a segment of airspace between 200 and 400 feet be reserved for autonomous drones with sophisticated collision avoidance and safety features, while lower-tech craft be restricted to the airspace beneath 200 feet, which is about the height of an 18-story building. Manned aircraft would stay above 500 feet, or about the height of the Washington Monument.
+
+So far this type of regulation doesn't exist anywhere, and it's anyone's guess how soon it might. “I am generally impatient and would love to get into the market,” Kimchi says, adding that he thinks the regulatory framework will be in place “in much less than 10 years.”
+
+Nine cameras give Heinla's robot a fly-eye view of its environment and sensors help it avoid tree roots, toddlers and dog poo. Photographer: Peti Kollanyi/Bloomberg
+
+This uncertainty is why Burton White, a consultant at Chainanalytics, an Atlanta-based logistics consultant, says retailers should wait for a shakeout. “This is still the wild west,” he says. “Automation and drones are something to keep your eye on but they are further out.”
+
+Because population density is the biggest factor in determining Last Mile costs, there may not be one solution. In crowded cities a network of bicycle couriers might be the best option, White says, while in rural areas drones may be most efficient. Starship says its ideal delivery area isn't as densely populated as a city like New York or London, which have more than 5,000 households per square mile. But many suburbs and smaller cities, like Montreal or Copenhagen, are in Starship's target zone.
+
+Heinla had long been interested in robots, even competing in a NASA competition to make a robot that could bring back soil samples from Mars missions. But in 2014, Heinla had his Last Mile eureka moment. “I knew it was technically possible to build a small robot that would still go fast enough, that you wouldn’t need a big vehicle to do the job that is done by big vehicles today,” he says.
+
+Because small robots are less expensive to build than trucks or drones, Starship anticipates being able to offer them to local shopkeepers on a leased basis – essentially “robot-delivery-as-a-service,” says Martinson, the chief operating officer. With a target delivery cost of £1 to £3 per delivery ($1.40 to $4.20), the robots will allow these businesses, which have often been shut out of e-commerce by high delivery costs, to begin selling online, he says. A business might break even on a robot if it did just 15 deliveries a day, he says.
+
+The company has planned the robots to cover deliveries within a three-mile radius of a central logistics hub. Photographer: Peti Kollanyi/Bloomberg
+
+Starship’s prototype design will deliver up to 20 pounds of goods, traveling 4 miles per hour. “It’s basically designed to carry the equivalent of three good-sized bags of groceries,” Martinson says. Also, because the robot has a simple cargo hold, customers could use the robot to return items to the retailer. An electronic lock keeps cargo safe en route, while the robot's ability to transmit its current location and live video feed from its cameras is designed to deter thieves.
+
+The company has planned the robots to cover deliveries within a three-mile radius of a central logistics hub, navigating using a 3G GPS signal. Nine cameras provide a fly-eye view of its environment, and sensors help avoid tree roots, toddlers and dog poo. And a human can drive remotely if the robot encounters trouble.
+
+With its current battery design, the little robot can operate for more than two hours continuously before needing to recharge or have a fresh battery pack swapped in. Martinson says the company chose a relatively low-capacity battery to save weight but might consider a longer-life one later.
+
+In its trials so far, Martinson estimates that the Starship robots have encountered some 120,000 pedestrians, including thousands of children. So far, no one has tried to abuse it. “Children are curious but they love it,” he says. Starship co-founder Friis says that people of all ages seem to greet the small machine with a sense of awe. “It is really amazing but people seem to have an instant emotional connection to the robot,” he says. Emotional connection? Just try delivering that with a drone.
+
+In Pictures: Droids Not Drones
+
+This version corrects the number of pedestrian encounters with the robots in the final paragraph.

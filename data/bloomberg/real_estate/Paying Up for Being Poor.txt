@@ -1,0 +1,30 @@
+Paying Up for Being Poor
+['Mark Whitehouse', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/paying-up-for-being-poor
+Mark Whitehouse writes editorials on global economics and finance. He was previously at the Wall Street Journal, where he covered economics in New York and served as a deputy bureau chief in London. He was also the founding managing editor of Vedomosti, a Russian-language business daily. He was part of a team that won a Pulitzer Prize for international reporting on Russia in 1999.
+
+Being poor in the U.S. can be expensive. Judging from the latest inflation data, it’s becoming more so.
+
+Overall, inflation isn’t much of a problem in the U.S. For the past several years, the Federal Reserve has been struggling to get its preferred measure of consumer-price inflation up to its target of 2 percent -- and many Fed officials think it could take a few more years to get there.
+
+That said, individual experiences of inflation can differ, depending on what a person buys. Some spend more on Hamptons real estate and high-end art, while others are just trying to put food on the table. To get a sense of what inflation might look like for different income groups, I combined data on prices with estimates of spending on specific categories of goods and services (taken from the 2014 Consumer Expenditure Survey). The categories don’t match precisely across the data sets, but they’re close enough to draw some conclusions.
+
+The result: The bottom two-tenths of households have experienced more inflation than most other groups. This is true over the past one, three and five years, and with or without including relatively volatile food and energy prices. The main exception is the very top tenth, which has benefited less from the sharp decline in oil prices because fuel accounts for a much smaller share of this group’s typical budget. Here’s a breakdown of annualized inflation rates during the five years through March, by decile of income:
+
+The cost of rent has been the main driver of inflation for the poor: It took up about a sixth of the average household budget, and increased by almost 4 percent during the 12 months ended in March. Another noticeable driver is education, on which the poorest 10 percent spend more, as a share of their total budget, than any other group. These effects are more pronounced in so-called core inflation measures, which exclude food and energy. Here’s a breakdown, again showing annualized rates over the five years through March:
+
+Granted, the difference isn’t huge. That said, it could over time weigh heavily on the poor, who already tend to face higher costs for many basic goods and services. Because they can’t afford to buy in bulk, they end up paying a premium at corner stores. Because they lack savings, they’re commonly hit with account maintenance, overdraft and check-cashing fees, or get locked into payday loans at exorbitant effective interest rates. All of this makes it tough to get ahead and build wealth, aggravating inequality.
+
+What to do? Reforming zoning rules could help address the rent issue by allowing more affordable housing to be built in desirable neighborhoods (see this from my colleague Justin Fox). Also, housing subsidies are overdue for a rethink: The average wealthy household receives a government subsidy -- via the tax deduction on mortgage interest -- about four times larger than the average poor family does through the underfunded federal housing voucher program.
+
+As it stands, the cost of living is unduly high -- and seems to be rising -- for those who can least afford it.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Mark Whitehouse at mwhitehouse1@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

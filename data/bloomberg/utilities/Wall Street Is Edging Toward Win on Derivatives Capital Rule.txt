@@ -1,0 +1,36 @@
+Wall Street Is Edging Toward Win on Derivatives Capital Rule
+['Silla Brush']
+http://www.bloomberg.com/news/articles/2016-04-06/wall-street-edging-toward-victory-on-derivatives-capital-rules
+Wall Street is making progress in its effort to soften a crisis-era capital requirement that banks argue places onerous expenses on trading.
+
+The Basel Committee on Banking Supervision on Wednesday proposed a new method for banks to assess their exposure to derivatives, which could wind up lowering the amount of capital lenders need to meet restrictions on leverage. The committee, which includes the Federal Reserve and European Central Bank, also took steps toward alleviating banks’ concerns that they’re taking a capital hit on the billions of dollars in collateral they receive from customers for handling derivatives.
+
+The committee said it was proposing the changes to the leverage rule, which determines how much capital a bank must have against all its assets, to make it more sensitive to the risks of the derivatives market and to better account for when banks have collateral backstopping trades. The leverage rule was originally intended to ignore lenders’ estimates of the riskiness of those assets.
+
+Potential Conflict
+
+The committee is “carefully considering” the industry’s views, it said, examining whether the restriction on leverage conflict with separate regulations requiring more derivatives to be settled at clearinghouses such as CME Group Inc., LCH.Clearnet Group Ltd. and Intercontinental Exchange Inc. Regulators have sought to utilize clearinghouses, which require collateral from buyers and sellers, for more trades after largely unregulated transactions helped fuel the 2008 crisis.
+
+At issue is one aspect of the leverage rule, which requires banks to have capital for cleared trades their clients do and that are subsequently guaranteed at the clearinghouses. The leverage ratio currently doesn’t allow derivatives-dealers, such as JPMorgan Chase & Co. and Credit Suisse Group AG, to consider the collateral they get from clients as reducing their exposure to risks from the trades.
+
+U.S. Federal Deposit Insurance Corp. Vice Chairman Thomas Hoenig warned against granting exemptions, saying Basel is suggesting changes that threaten to weaken the leverage ratio even before it has a chance to take effect.
+
+“I have a lot of reservations about this, and I’m disappointed that the Basel committee would introduce this at this stage,” Hoenig said in a phone interview after the rule was released. “The effect is to provide for greater leverage.”
+
+Penalizing Banks
+
+The industry has argued that the rule penalizes banks by requiring more capital for the trades than is necessary and, as a result, makes it overly expensive to offer derivatives to clients. The Futures Industry Association and International Swaps and Derivatives Association, alongside clearinghouses and other traders, have lobbied for changes, saying collateral, often cash or highly-rated bonds, is held in segregated accounts that banks can’t tap to finance risky trading. The chairman of the Commodity Futures Trading Commission, the main U.S. derivatives regulator, and the Bank of England have supported the industry’s arguments.
+
+“It’s critical that we get the calculation for the leverage ratio right,” Walt Lukken, president and CEO of FIA, said in a statement after the proposal was published. “The leverage ratio should not stand in the way of the G20’s goal of reducing systemic risk through greater adoption of central clearing.”
+
+Less Risky
+
+Basel said the proposal would result in a “significant decrease” in a bank’s assessment of its potential future exposure to cleared derivatives. The proposal allows for banks to consider cleared trades for clients as less risky than non-cleared transactions.
+
+Basel also said it would study the economic impact of the leverage rule on the derivatives market and opened the door to future changes. Specifically, the committee said it would consider granting the industry its request and allow client collateral to offset a bank’s exposure.
+
+“We welcome the fact that the Basel committee is re-looking at this issue,” Mark Gheerbrant, head of risk and capital at ISDA, said in a statement. “It is positive that the committee has decided to seek further evidence.”
+
+Still, Gheerbrant said, “we are disappointed the committee has not taken the opportunity to consult more generally on the recognition of initial margin.”
+
+The committee said it would receive comments on the proposal by July 6.

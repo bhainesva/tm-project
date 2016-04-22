@@ -1,0 +1,22 @@
+Prescription Drug Spending Hits Record $425 Billion in U.S.
+['Michelle Cortez']
+http://www.bloomberg.com/news/articles/2016-04-14/prescription-drug-spending-hits-record-425-billion-in-u-s
+Spending on prescription drugs in the U.S. rose 12 percent to a record $425 billion before discounts last year, boosted in part by the introduction of breakthrough medicines for cancer and the growing number of patients seeking treatment for hepatitis C.
+
+While net growth slowed as pharmaceutical companies offered more rebates and patient assistance programs to help cover the costs, spending will continue to rise at a steady mid-single-digit rate through 2020, when it’s expected to hit $610 million to $640 million, according to a report from the IMS Institute for Healthcare Informatics.
+
+Drugmakers have been criticized for surging costs, and concerns about exploiting the health-care system have sparked congressional hearings and an outcry on the campaign trails. While high-profile examples such as Martin Shkreli, a former industry executive who bought older medicines then boosted their prices, and Valeant Pharmaceuticals International Inc. have dominated the debate, the reasons underlying last year’s overall gains were more nuanced, said Murray Aitken, executive director of the IMS Institute, the research unit of information and technology firm IMS Health Inc.
+
+“Drug spending growth remains at historically high levels, even as it’s moderated from 2014,” Aitken said. “A surge of new drugs being approved and becoming available for patients is a driver of increased costs.”
+
+More than half of the spending growth stemmed from medicines approved within the past two years. Specialty pharmaceuticals, including drugs to treat hepatitis C, cancer and multiple sclerosis, generated invoices worth $151 billion, an increase of 20 percent from a year earlier.
+
+Drugmakers, facing competition and under pressure from health plans and pharmacy benefit managers to reduce costs, gave back an increasing amount of money in the form of price concession and rebates, according to the report. Those concessions reached $115.3 billion in 2015, more than double the $52.4 billion offered in 2009.
+
+The introduction of generic drugs, the low-cost rivals of medicines that have lost patent protection, didn’t put as much pressure on pricing as they did during the patent cliff in 2012. Spending on brands facing new generic medicines fell $14.2 billion in 2015, versus a drop of $32.6 billion in 2012.
+
+There also may be signs of slowing growth for novel hepatitis C therapies from Gilead Sciences Inc., AbbVie Inc. and Merck & Co. While 250,000 patients were treated in 2015, up from 170,000 a year earlier, the number of people beginning the therapy slowed as the year progressed, suggesting many of those most in need of the medicines may have received them, according to the IMS Institute.
+
+The number of prescriptions for pain-relieving narcotics, led by acetaminophen-hydrocodone, plunged 17 percent. Still, oxymorphone, another controlled substance under brand names including Endo International Plc’s Opana ER, rose 5.3 percent.
+
+The report was crafted independently by the IMS Institute without funding from the pharmaceutical or biotechnology industries or government sources.

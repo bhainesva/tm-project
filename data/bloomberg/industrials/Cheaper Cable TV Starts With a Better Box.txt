@@ -1,0 +1,18 @@
+Cheaper Cable TV Starts With a Better Box
+['The Editors', 'Editorial Board', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-20/cheaper-cable-tv-starts-with-a-better-box
+Like a lot of Americans, President Barack Obama thinks cable TV costs too much. Unlike a lot of Americans, he is in a position to do something about it -- and even if he fails, it’s still worth the effort.
+
+Last Friday, Obama took the unusual step of announcing his support for a proposal from the Federal Communications Commission intended to make it easier for customers to purchase their own set-top cable boxes. Whether the idea would actually save consumers money remains to be seen, but it could help bring more competition, improved technology and greater choice to viewers.
+
+Currently, about 99 percent of cable-TV subscribers rent their set-top boxes from their local providers. The average household pays more than $200 a year, generating as much as $20 billion in revenue for the companies (the cable industry disputes these numbers). The FCC’s past attempts to open up the cable-box market have failed -- in large part because cable providers did their best to make buying third-party boxes a hassle. This time, though, the government has powerful new allies: Google and other tech players with just as much muscle and money as the cable giants.
+
+What they’re after isn’t so much sales revenue as information. They want all that data on subscriber habits and interests, which they could then use to sell personalized ad space on video channel guides and the like. The cable industry is trying to persuade viewers that this plan is a threat to their privacy, but for all anyone knows, the cable companies may already be doing the same thing. (The FCC is working on separate guidelines to let cable subscribers block providers from collecting personal data.)
+
+The FCC wants not just more competition, but a world in which consumers need only one box and a single remote control to explore all the information coming through their cable wires. This seems unlikely. More plausible is a future in which all these competing services, along with new app-based technologies, combine to give viewers an (even more) dizzying array of choices, from all-you-can-surf packages to more narrow, interest-based collections of channels. Either way, the FCC proposal is likely help bring more disruption more quickly, which is a good thing.
+
+Some technical but important details will need ironing out. The proposal would create a commission devoted to standardizing data flows for all devices, as well as protecting content creators’ copyrights and viewers’ personal data. There will be time to work these things out. The public comment period is about to end for the proposal, which will almost certainly face a legal challenge from the cable industry. By the time the plan is ready, in a year or two, both traditional set-top makers and newer tech rivals will surely have refined the technology to take better advantage of the unshackled market.
+
+For the monopolistic cable industry -- already squeezed by consumer cord-cutting; Internet video-streaming services; and popular programming from Netflix, Amazon and other upstarts -- this will be another blow to the bottom line. But these stodgy companies largely have themselves to blame for their unpopularity and obsolescence. The FCC’s proposal is a small but smart step in an inevitable march toward greater competition. Americans should be able to appreciate that on whichever screens they choose.
+
+To contact the senior editor responsible for Bloomberg View’s editorials: David Shipley at davidshipley@bloomberg.net.

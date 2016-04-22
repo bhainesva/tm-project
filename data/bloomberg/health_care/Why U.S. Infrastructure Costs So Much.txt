@@ -1,0 +1,42 @@
+Why U.S. Infrastructure Costs So Much
+['Justin Fox', 'Megan Mcardle', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-08/why-u-s-infrastructure-costs-so-much
+Justin Fox is a columnist writing about business. Prior to joining Bloomberg View, he was the editorial director of the Harvard Business Review. He is the author of “The Myth of the Rational Market.” Fox has also worked at Time, Fortune, American Banker, the Birmingham News and the Advance-Register of Tulare, California, where he was the farm editor.
+
+The U.S. ought to be spending more on infrastructure. This is the view of all right-thinking people, and as a right-thinking person I of course endorse it. With interest rates near record lows and the working-age population still, by historical and international standards, underemployed, governments (or in some cases entrepreneurs) should be borrowing much more to repave roads, shore up bridges, expand mass-transit systems, build new sewage-treatment plants, replace water mains, you name it. Such borrowing and spending would make the nation richer by stimulating economic activity now and paving the way for stronger economic growth in the future.
+
+That said, the U.S. probably also ought to be spending less on infrastructure. Not overall, but on something like a per-mile basis. Broad international cost comparisons across all kinds of infrastructure don’t seem to be available, but there is a growing body of evidence on one particular infrastructure area that matters a lot to me as a New York City commuter: subways and other rail systems. And it shows that U.S. construction costs are among the world’s highest.
+
+Transportation blogger Alon Levy has probably done the most to raise awareness of this, with five years of posts documenting the cost differences. And last year, Tracy Gordon of the Urban-Brookings Tax Policy Center and David Schleicher of Yale Law School examined 144 planned and finished rail projects in 44 countries and found that the four most expensive on a per-kilometer basis (and six of the top 12) were in the U.S.
+
+To put these numbers in global perspective, New York's Second Avenue Subway will cost roughly eight times more than Tokyo's Koto Waterfront line and 36 times more than Madrid's Metrosur tunnels on a per-kilometer, purchasing power parity (PPP) basis.
+
+Why is this? It’s actually pretty hard to answer. Here’s Levy, writing in November 2014:
+
+I try to avoid giving explanations for these patterns of construction costs. If I knew for certain what caused them, I would not be blogging; I would be forming a consultancy and teaching New York and other high-cost cities how to build subways for less than $100 million per kilometer.
+
+Still, others have been willing to offer explanations. In a 2012 Bloomberg View piece, New York land-use and transit writer Stephen Smith blamed over-reliance on outside consultants, overly ambitious station architecture and a legal system that favors contractors over the agencies paying them to build things. Gordon and Schleicher agreed that the legal system may be an issue, but for other reasons:
+
+Many of the world's most expensive projects are in the United Kingdom, Australia, and New Zealand, which, like the United States, have common-law systems. So it might be that common-law systems provide legal protections for property owners -- allowing more lawsuits over noise, smoke, and other nuisances, as well as limits on eminent domain -- that increase costs by forcing the government to pay off opponents or to locate projects inefficiently to avoid angering property owners.
+
+They also cite political fragmentation as a factor that drives up costs -- U.S. commuter rail systems often cross city and state lines, which brings coordination challenges -- and note that when regional authorities are created to manage these challenges, they can bring a whole new set of problems.
+
+Others have argued that labor laws governing infrastructure projects drive up costs. Gordon and Schleicher are dubious of that as an explanation for why the U.S. has higher costs than other countries, though, because “American laws would have to be tougher than those in Europe, where trade unions are much more powerful. (France, anyone?)”
+
+I’m not so sure, though, that labor laws and regulations and the accompanying heavy unionization of public-transportation infrastructure construction aren’t a factor. A Moody’s report last month on the New York, London and Paris transit systems found that New York’s had an operating cost of $4.11 per ride compared with $2.61 in London and $1.93 in Paris. Part of the reason is that New York’s Metropolitan Transit Authority operates commuter trains that require higher staffing levels -- but as Smith wrote in another 2012 Bloomberg View piece, those higher staffing requirements are the result more of union rules than of necessity. Another big difference is the cost of health and retirement benefits, which according to Moody’s add up to almost $1 a ride in New York but “are provided primarily by the sovereign governments for the London and Paris systems.”
+
+That’s operating costs, not construction costs, but I imagine the story is similar with construction. Overall, unions are much weaker in the U.S. than in Western Europe, and one result is that national policy on health care and pensions is for the most part less worker-friendly here than there. But unions remain strong in the U.S. among state and local government employees (which is what most transit workers are) and in the government-funded parts of the construction industry.
+
+Sure enough, state and local government employees get higher wages and much more generous benefits than private-sector workers, while within the private sector those who are represented by unions get higher wages and much more generous benefits than those who are not. Because the focus of U.S. unions is now often so narrow, it appears that they are also able to negotiate more generous (or at least more expensive) benefits for their members than the ones provided at a national level in the U.K. and France.
+
+All of this is to some extent evidence of the power of unions to improve members’ lives -- overall, I think the decline of unions in the U.S. has been bad news for workers. But the strength of unions in the public sector and among government contractors, coupled with their weakness everywhere else, may be leading to the perverse result that infrastructure projects that would benefit everybody don’t get built.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Zara Kessler at zkessler@bloomberg.net

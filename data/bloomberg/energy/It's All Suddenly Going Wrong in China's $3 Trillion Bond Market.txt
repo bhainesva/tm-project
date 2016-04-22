@@ -1,0 +1,64 @@
+It's All Suddenly Going Wrong in China's $3 Trillion Bond Market
+['Bloomberg News']
+http://www.bloomberg.com/news/articles/2016-04-18/it-s-all-suddenly-going-wrong-in-china-s-3-trillion-bond-market
+The unprecedented boom in China’s $3 trillion corporate bond market is starting to unravel.
+
+Spooked by a fresh wave of defaults at state-owned enterprises, investors in China’s yuan-denominated company notes have driven up yields for nine of the past 10 days and triggered the biggest selloff in onshore junk debt since 2014. Local issuers have canceled 61.9 billion yuan ($9.6 billion) of bond sales in April alone, and Standard & Poor’s is cutting its assessment of Chinese firms at a pace unseen since 2003.
+
+While bond yields in China are still well below historical averages, a sustained increase in borrowing costs could threaten an economy that’s more reliant on cheap credit than ever before. The numbers suggest more pain ahead: Listed firms’ ability to service their debt has dropped to the lowest since at least 1992, while analysts are cutting profit forecasts for Shanghai Composite Index companies by the most since the global financial crisis.
+
+“The spreading of credit risks is only at its early stage in China,” said Qiu Xinhong, a Shenzhen-based money manager at First State Cinda Fund Management Co. “Many people have turned bearish.”
+
+The Problem in China's Bond Market
+
+Debt Boom
+
+
+
+China’s leaders face a difficult balancing act. On one hand, allowing troubled companies to default forces money managers to pay more attention to credit risk and accelerates government efforts to curb overcapacity. The danger, though, is that investor panic leads to tighter credit conditions, dealing a blow to President Xi Jinping’s plan to keep the economy growing by at least 6.5 percent over the next five years.
+
+Economic figures for March reveal a growing dependence on debt. China’s aggregate financing -- a broad measure of credit that includes corporate bonds -- almost doubled from a year earlier to 2.34 trillion yuan, exceeding all 24 forecasts in a Bloomberg survey as policy makers turned on the taps to support economic growth.
+
+Yet even that wasn’t enough to save the seven Chinese companies that reneged on bond obligations this year. Three of those were part-owned by China’s government, seen not long ago as a provider of implicit guarantees for bondholders. Dongbei Special Steel Group Co. on April 13 missed a third payment since its chairman was found dead by hanging last month, while Chinacoal Group Shanxi Huayu Energy Co. failed to make a distribution on April 6.
+
+Spreads Widen
+
+
+
+Baoding Tianwei Group Co., a government-owned maker of electrical transformers that first defaulted a year ago, said on April 14 it may not be able to repay principal and interest on five-year bonds due this month. State-owned China Railway Materials Co. halted its bond trading on April 11, saying it’s studying debt “repayment issues.”
+
+The reaction has been swift in China’s 18.8 trillion yuan corporate bond market (a figure that excludes certificates of deposit). The extra yield investors demand to hold seven-year onshore corporate bonds with top ratings over similar-maturity government notes has jumped by 28 basis points from an almost nine-year low in January, to 91 basis points as of Monday. At least 64 Chinese firms have postponed or scrapped planned note sales this month, six times more than the same period a year earlier.
+
+“To Chinese investors at the moment, default risks are high almost everywhere,” said Shi Lei, the head of fixed-income research at Ping An Securities Co. The yield premium on corporate bonds will probably rise by 30 to 50 basis points over the next several months, Shi said.
+
+Earnings Risk
+
+
+
+There’s little sign that China Inc. is on the road to recovery. Non-financial companies traded in Shanghai and Shenzhen are generating just enough operating profit to cover the interest expenses on their debt twice, down from almost six times in 2010, data compiled by Bloomberg show.
+
+Analysts are getting more downbeat. Twelve-month earnings forecasts for Shanghai Composite companies have dropped by 7.8 percent this year, the most since 2009, according to data compiled by Bloomberg. S&P has cut its credit ratings or reduced its outlook on 63 Chinese companies this year while upgrading just two, on course for the highest annual ratio of downgrades to upgrades in 13 years.
+
+“As more and more issuers default, lenders and investors will reassess their portfolio and lending, and that will cause yields to rise,” said Christopher Lee, chief ratings officer for Greater China at Standard & Poor’s in Hong Kong. “If the onshore market has any dislocation, that will have a spillover effect in the offshore market.”
+
+‘Swimming Naked’
+
+
+
+The overseas bonds of Chinese issuers have so far proven resilient. The yield premium on corporate dollar notes has dropped 57 basis points from this year’s high in February to 250 basis points, near the lowest since 2007, according to Bank of America Merrill Lynch indexes.
+
+Rising defaults are actually healthy for China’s bond market, said Xia Le, the chief economist for Asia at Banco Bilbao Vizcaya Argentaria SA in Hong Kong.
+
+“It shows the government is taking away the implicit guarantee,” Xia said. “Now risk awareness is rising, so we will see which issuers are swimming naked.”
+
+People’s Bank of China Governor Zhou Xiaochuan appears fully aware of the risks. The PBOC, which has cut official lending rates six times since November 2014, still has “ample monetary ammunition” to counter a deeper selloff in the bond market, said Tommy Xie, a Singapore-based economist at Oversea-Chinese Banking Corp.
+
+Boom-Bust
+
+
+
+Still, China’s recent history shows that a turn for the worse in markets can be hard to control once it starts. The nation’s equities lost more than $5 trillion of value last summer as authorities struggled to contain an unwinding of margin trades. Leverage is a big factor for corporate bond investors, too, with outstanding repurchase agreements in the interbank market reaching a record 9.7 trillion yuan in December.
+
+A reversal in China’s bond markets would likely have a greater impact on the economy than the rout in stocks, given the country’s reliance on debt. Corporate obligations climbed to a record 165 percent of GDP at the end of last year, the latest figures from Bloomberg Intelligence show.
+
+“The market is worried about the building up of debt,” said Iris Pang, senior economist for Greater China at Natixis SA in Hong Kong. “The cost has built up in the form of corporate credit risks and bank risks for the whole economy.”

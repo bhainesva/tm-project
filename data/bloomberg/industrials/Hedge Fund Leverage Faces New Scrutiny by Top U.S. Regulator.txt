@@ -1,0 +1,30 @@
+Hedge Fund Leverage Faces New Scrutiny by Top U.S. Regulator
+['Jesse Hamilton']
+http://www.bloomberg.com/news/articles/2016-04-18/hedge-fund-leverage-faces-new-scrutiny-by-top-finance-regulator
+The amount of borrowed money at big hedge funds is ringing alarm bells with Wall Street’s uber regulator, which made a new push to try to assess whether the $2.9 trillion industry could threaten the financial system.
+
+The Financial Stability Oversight Council announced at a meeting Monday that it will form an interagency group to dig into hedge fund leverage. The new group will focus on analyzing data and studying risk factors such as counterparty exposures and trading strategies, said the council, whose members include the heads of the U.S. Treasury Department, the Federal Reserve and the Securities and Exchange Commission.
+
+“There appears to be a concentration of leverage in a small number of large hedge funds,” the FSOC concluded in a lengthy examination of asset managers. The group’s members approved a report that calls for closer scrutiny of hedge funds, even as Treasury Secretary Jacob Lew said at the meeting that concentrated borrowing doesn’t necessarily mean big funds are overly risky.
+
+The decision could thrust firms such as Citadel LLC, Millennium Management, D.E. Shaw & Co. and Bridgewater Associates into the spotlight. Including leverage, the companies oversee a combined $654 billion, according to SEC filings.
+
+Insufficient Information
+
+While FSOC’s report didn’t name any specific companies, the council has worked for years trying to decide how to keep tabs on potential risks stemming from fund managers. The document released Monday shows a narrowed focus, even if the eventual outcome remains unclear.
+
+Among the council’s findings is that it lacks sufficient information to weigh threats posed by hedge funds. It also plans to consider the “establishment of standards governing the current measurements of leverage,” according to the report. While hedge funds rely on leverage to boost investment returns, it can also amplify losses.
+
+The FSOC, created by the Dodd-Frank Act to flag emerging threats to financial stability, added that the mutual fund industry needs more “robust” liquidity management -- especially in planning for how to unload harder-to-sell assets in a crisis. Such investments should be limited, the council said, and firms should make more disclosures about liquidity and their external funding sources.
+
+The industry’s main regulator, the SEC, is already working on mutual-fund regulations. Last year, it proposed new protections to ensure investors can easily get their money out of mutual funds and that firms don’t hold an excessive amount of illiquid investments. FSOC’s report is “complementary” to her agency’s efforts, SEC Chair Mary Jo White said at the meeting, adding that she expects the regulator to issue further proposals.
+
+MetLife Rejection
+
+The FSOC’s chief power under Dodd-Frank is its ability to cite specific companies as posing a threat to the economy should they fail. It is reeling from a legal setback last month that rejected its decision to label insurer MetLife Inc. as systemically important. While the government said it will appeal, the MetLife ruling has already undermined confidence in its designations.
+
+After pressure from industry and Congress, FSOC long ago abandoned the possibility of labeling individual asset managers, such as Fidelity Investments or BlackRock Inc. Instead, the council has focused on flagging certain industry wide activities and products as posing undue hazards.
+
+Fed Governor Daniel Tarullo said last year that asset managers might pose potential risks in a crisis if they are pushed into fire sales. He said new regulations might be warranted.
+
+The FSOC asked the industry in 2014 for input on how the government should weigh activities that might be inappropriately risky, and some of the leading firms suggested this work should really be in the hands of the SEC. They also argued that their industry is different than banking and doesn’t pose a threat to the financial system.

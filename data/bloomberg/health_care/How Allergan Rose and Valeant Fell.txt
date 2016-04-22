@@ -1,0 +1,50 @@
+How Allergan Rose and Valeant Fell
+['Max Nisen']
+http://www.bloomberg.com/gadfly/articles/2016-03-24/allergan-and-valeant-similar-starts-different-outcomes
+Mar 24, 2016 1:53 PM EDT
+
+Not long ago, two pharmaceutical companies found similar ways to escape New Jersey's primordial ooze. But one is still flying high, while the other is right back in the muck.
+
+In the spring of 2010, Watson Pharmaceuticals was a Parsippany-based generics company of middling size. Valeant was a struggling company founded by a Serbian ex-Olympian with a relatively new CEO named Mike Pearson, who had briefly run the company out of an old YMCA about a 20-minute drive away. Watson was worth about $5 billion, Valeant about $2.5 billion.
+
+The two have grown just a bit since then.
+
+Valeant bought Biovail in 2010 for its Canadian tax address and went on an acquisition rampage on the way to a peak market cap of nearly $90 billion. Watson, after a series of deals and its own Irish tax inversion, obtained Forest Laboratories and now-CEO Brent Saunders for $25 billion in early 2014. Saunders snatched Allergan from under Valeant's nose for $70.5 billion later that year. Allergan, formerly known as Actavis, formerly known as Watson, peaked at $133 billion in market cap in July of 2015.
+
+The two used superficially similar playbooks to rise from relative obscurity. Both are highly acquisitive, relatively averse to R&D, and have accumulated huge amounts of debt. Both sell drugs that are aren't always at medicine's cutting edge and avoid high U.S. taxes. But small differences in approach have led to a big difference in outcomes.
+
+Allergan's shares are up 308 percent since buying Actavis in 2012 (and briefly taking that company's name in 2013). It is now selling itself to Pfizer for $160 billion, the biggest pharmaceutical deal of all time. Valeant's share price has fallen nearly 90 percent from its peak last summer after a series of controversies. Allergan is arguably on top of the pharma world, while Valeant is scrambling for survival.
+
+Divergence Allergan and Valeant had similar origins, similar strategies, but only one came out on top. Source: Bloomberg
+
+Both companies bucked traditional pharma's focus on expensive, often-unproductive early-stage research. Both tended to buy late-stage or marketed drugs, with a particular taste for expensive specialty drugs. Saunders even had a name for it: Growth Pharma.
+
+But Valeant's approach was more extreme. Exploiting inefficiencies or loopholes in the health-care market, Valeant often focused its acquisitions on what it called "mispriced" assets -- drugs that weren't worth much without price hikes, or companies whose value depended largely on Valeant's low tax rate and willingness to cut costs to the absolute bone.
+
+Valeant has done a few large deals, but many more of its deals were for small companies that were troubled or not making a lot of money. Allergan, on the other hand, has tended to pay premiums for bigger and arguably higher-quality assets. From the summer of 2010 through the fall of 2015, Valeant did 50 deals worth $35 billion, paying a median of three times revenue. During that time, Allergan spent $105 billion on just 22 deals, paying a median of six times revenue.
+
+Valeant has gone after easy targets in a wide range of treatment areas. Allergan's approach has been more focused, and the company has real internal growth, according to Bloomberg Intelligence analyst Elizabeth Krutoholow.
+
+Allergan hasn't exactly been a fan of R&D spending and internal drug discovery; it spent just 7.5 percent of sales on R&D in the third quarter of 2015, well below conventional pharmaceutical firms. But it spent 16 percent of sales for the full year. And Valeant's spending has consistently hovered around an industry bottom of 3 percent of sales.
+
+Allergan has not been nearly as aggressive about raising drug prices as Valeant. According to an analysis of changes in manufacturer prices from 2014 and 2015 by health-care software firm Rx Savings Solutions, Valeant's average price hike per drug across 147 drugs was 75.6 percent. Actavis/Allergan's average across 291 drugs was 8.47 percent. Valeant's biggest cumulative increase over the period was 608 percent on Wilson's disease drug Cuprimine. Allergan's was 185 percent for a topical cream for a skin disease.
+
+Manufacturer prices aren't perfect; companies offer discounts to pharmacy benefit managers, and there are mandatory government rebates. But comparing them gives a good directional sense of how the companies approached pricing.
+
+The companies are also conspicuously different at the top. Allergan under Saunders has been substantially more open and transparent than Pearson's Valeant. And Allergan has managed to avoid the sorts of scandals Valeant has suffered. Allergan is no angel; the company ran into legal trouble over its attempts to switch patients onto a longer-acting version of Alzheimer's drug Namenda. But it has gone through no financial restatements, no boardroom brawls, and no blowups over specialty pharmacy relationships.
+
+The companies' fight over acquiring Allergan in 2014 is telling. Allergan fought Valeant tooth and nail, but greeted the company formerly known as Watson, then called Actavis, with open arms. Allergan's board at the time leveled serious attacks at Valeant's accounting, strategy, and operations. Criticized in the moment by Bill Ackman and others, that board has been rather vindicated.
+
+Sometimes similarities are just skin-deep.
+
+-- Graphics by Rani Molla
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Max Nisen in New York at mnisen@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Gongloff at mgongloff1@bloomberg.net

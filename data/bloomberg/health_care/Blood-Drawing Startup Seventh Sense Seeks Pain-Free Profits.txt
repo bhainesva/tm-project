@@ -1,0 +1,40 @@
+Blood-Drawing Startup Seventh Sense Seeks Pain-Free Profits
+['Doni Bloomfield']
+http://www.bloomberg.com/news/articles/2016-04-01/blood-drawing-startup-seventh-sense-seeks-pain-free-profits
+First, Elizabeth Holmes made blood diagnostics cool. Then her embattled startup, Theranos Inc., made it controversial. Now a small private company in the suburbs of Boston is trying to make it both painless and profitable. That may prove challenging.
+
+Seventh Sense Biosystems Inc., based in a drab office building in Medford, Massachusetts, is everything Holmes’s Theranos is not. While Theranos is a Silicon Valley company that has been valued at $9 billion and has high-profile backers, Seventh Sense is a heads-down, East Coast firm run by an executive who worked for Merck & Co. Its walls are covered in stodgy, 1960s-era paintings of the history of the pharmaceutical industry.
+
+Still, Seventh Sense has big ambitions: improving on a cheap standby of everyday medicine, the blood draw. Seventh Sense, which was founded in 2008 and has raised $30 million over the past five years, wants to make blood collection friendly to needle phobics and easy. It’s filing for approval of its product, a tiny disposable device that has 30 minuscule needles arrayed in a small circle, by the U.S. Food and Drug Administration in April. Among investors is the Swiss pharmaceutical giant Novartis AG, which is also a customer planning to use the device in clinical trials.
+
+Howard Weisman Source: Bloomberg TV
+
+“Our focus really is in reinventing the front end, because the back end -- the analytical platforms that exist today -- are all quite good,” Seventh Sense Chief Executive Officer Howard Weisman said in an interview. “Because of the tiny needles and the way we do this, it’s literally pain-free and most patients who have experienced it have told us they’d opt for this versus any other method.”
+
+Seals to Skin
+
+Seventh Sense’s Tap100 device, once placed on the forearm, seals to the skin and briefly punctures it with its tiny needles. It creates a vacuum inside the bulb-shaped tab, and the process is meant to be virtually painless.
+
+TAP100 Source: Seventh Sense
+
+When a Bloomberg News reporter tested the Tap100 in Seventh Sense’s offices last week, it was indeed pain-free -- leaving barely a mark -- and filled with blood in minutes. It also didn’t work properly, a sign that taking on the decades-old traditional needle draw procedure isn’t that simple. The device, which is supposed to draw 100 microliters of blood, or about a 50th of a teaspoonful, took in about 75 microliters, not enough for testing on the company lab’s lipid panel. In a second test on Wednesday, the Tap100 drew more than 100 microliters and was able to get results from a lipid panel.
+
+Failures like the first test are very rare, and was probably because the device’s adhesive hadn’t sealed perfectly, CEO Weisman said. The company is still tweaking the adhesive. Across more than 600 units of various versions of the Tap100, the average draw has been 103 microliters, he said.
+
+Disrupting Technologies
+
+Theranos is the classic example of how tough this field is to change. The closely held company was valued at several billions of dollars, based on venture-capital fundraising, in the hope it would revolutionize blood testing with cheap tests using just a few drops of blood. It has since come under scrutiny after the Wall Street Journal questioned its finger-prick technology and the accuracy of its tests. Theranos has limited the use of its proprietary nanotainer collection-tube technology while it awaits U.S. regulatory approval on more of its tests, according to a spokeswoman.
+
+“When you disrupt a field like health care, we understand that it’s not going to be an easy task,” Theranos spokeswoman Brooke Buchanan said. “It’s going to take time.” She said comparing Theranos to Seventh Sense was “like apples and oranges” since Theranos focuses on blood analytics rather than just the initial draw.
+
+The traditional blood draw is inexpensive at about $2.50 for supplies such as needles, disposable bin and rubber tie-offs. Seventh Sense plans to keep its pricing range close to the existing market, including labor costs, Weisman said. The startup isn’t alone in the field. Velano Vascular Inc. has an FDA-approved device to use already existing intravenous insertions to draw more blood, and Tasso Inc. is trying to make a tab that would draw blood with the push of a button.
+
+Thousands of U.S. physicians’ offices would likely be very interested in a device like Tap100 that draws small amounts of blood painlessly, according to Karen Koski, an analyst at BTIG. It’s potentially a sizable market. Becton Dickinson & Co., a diagnostics maker, booked $1.39 billion in sales from what it calls preanalytical systems -- specimen collection products including those used in blood draws.
+
+Elderly, Babies
+
+Some patients, particularly babies and the elderly, may need alternative technologies such as the Tap100, said Barbarajean Magnani, chairman of pathology and laboratory medicine at Tufts Medical Center in Boston. Blood collection specialists often try to take as little as possible from babies, she said, and when blood clots or tests misfire, repeating the procedure can be painful for the patient while costing the hospital.
+
+The 10 most common blood tests by the U.S. government’s program for the elderly can be done using 100 microliters of blood on several devices, according to Seventh Sense, including some made by firms like Roche Holding AG and Abaxis Inc. The FDA approval Seventh Sense is seeking will initially require the Tap100 to draw only 10 microliters or less, according to the company.
+
+“It’s very hard on babies and you don’t want to go back and stick them repeatedly,” Magnani said. “If this device could eliminate some of that, it could be quite helpful.”

@@ -1,0 +1,30 @@
+It's Tax Week. You've Been Hacked. This Software Is Fighting It.
+['Kristen Schweizer Olga Kharif', 'Kristen Schweizer', 'Olga Kharif']
+http://www.bloomberg.com/news/articles/2016-04-13/it-s-tax-week-you-ve-been-hacked-this-software-is-fighting-it
+With rampant fraud draining as much as $6 billion a year away from U.S. taxpayers, technology vendors are competing for billions themselves, selling software that helps governments identify the cheats.
+
+“The market has gone from a handful of clients to an explosion,’’ said Avivah Litan, an analyst at researcher Gartner, who estimates the market for software aimed at fighting identity theft -- including tax fraud -- is worth $2 billion a year. “The government agencies got caught off guard, and they are very slow to react.’’
+
+According to the Federal Trade Commission, tax fraud was the No. 1 reported form of identity theft in 2015. The U.S. Internal Revenue Service says it stopped 1.4 million confirmed identity-theft returns last year, avoiding $8.7 billion in fraudulent payouts. Ahead of this tax season -- the filing deadline is April 18 this year -- the IRS partnered with states and tax preparers to set up new password standards for tax-filing and to share information about identity theft. At least a dozen states have hired outside companies to help fight the problem.
+
+Companies that make tax-filing software and third-party vendors have had some success introducing tools that verify taxpayers’ identities via checks on everything from marital status to prison records. These companies are usually paid monthly fees or get a cut of the savings from payouts on fake returns.
+
+Relx Plc’s LexisNexis Risk Solutions started offering refund-fraud software in 2012. Now used in five states, the product cross-references 20,000 public sources like voter rolls and police records covering hundreds of millions of individuals.
+
+Tax filers who are flagged as questionable -- about 10 percent of returns -- must take a quiz online, by phone or in person to quickly answer questions about personal details. The company says about 60 percent of those asked to take the test decline to do so -- typically indicating the returns were fraudulent. Of those who take the quiz, half fail.
+
+“This is a crime with a high rate of return and little risk of being caught,’’ said Haywood Talcove, who heads the government division at LexisNexis Risk Solutions, which estimates tax-refund fraud totals $20 billion a year. “If you’re living in the U.S., the probability that your info has already been stolen is high. The question is, will it be used.’’
+
+Verafin Inc. has developed a program that can be used by banks, which often see the refunds roll in as electronic deposits. When they see hundreds of refund checks going into one account (as has happened), they can investigate, says Mauriceo Castanheiro, Verafin’s director of analytics.
+
+“We were really surprised at the number of cases our customers were identifying,” Castanheiro said.
+
+There are signs the programs are working. Indiana said less than 1 percent of returns last tax season were fraudulent, down from 12 percent in 2014, an improvement it attributes to its work with LexisNexis and Revenue Solutions Inc., which set up software to further check identities of tax-filers with public sources. Indiana says it has stopped more than $100 million being paid out to criminals, and has paid LexisNexis $5 million for its help.
+
+“I don’t think that our tax-filing programs had been that insecure, but you don’t foresee the ways in which people will manipulate the system,’’ says Amanda Stanley, a spokeswoman for the Indiana Department of Revenue.
+
+Makers of tax-filing software are also incorporating beefed up security features into their offerings. Intuit Inc., maker of TurboTax, unveiled new security options in November, including fingerprint authentication on Apple devices and multi-step account sign-ins using one-time codes. Since many customers have used the tax software for years, the company can also check patterns of use such as how early the person files or the pace at which she works.
+
+Still, online tax software is a juicy target. Rival TaxAct identified suspicious activity late last year, and says fewer than 500 returns were accessed. It’s added security measures since then.
+
+“At this point in the season,” TaxAct said in a statement, “we are not currently seeing unusual levels of fraudulent activity.”

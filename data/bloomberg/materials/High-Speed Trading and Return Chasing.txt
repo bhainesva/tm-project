@@ -1,0 +1,118 @@
+High-Speed Trading and Return Chasing
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/high-speed-trading-and-return-chasing
+Market structure.
+
+Congratulations to exchange operator BATS Global Markets, which successfully listed itself on its own BZX Exchange on Friday and traded up 21 percent on its debut, giving it a 50 percent success rate for initial public offerings on its platform. ("The exchange operator’s biggest feat was avoiding technical problems like those that doomed its first attempt to go public four years ago.")
+
+Elsewhere in exchange debuts, the Securities and Exchange Commission continues to ponder IEX's controversial application to become a public stock exchange. I sympathize with the SEC in its indecision -- the controversy is real and central to equity market structure, and the positions are heartfelt -- but I am not sure that dragging the process out for so long has been good for anyone. The SEC's proposal to settle the controversy over IEX's 350-microsecond speed bump by allowing any exchange to use a uniform delay of up to one millisecond, which looked like a quick blunt fair solution, has not gone over well:
+
+“We are concerned that the SEC’s proposal would likely introduce significant unnecessary market complexities and create significant risks for investors,” wrote William Stephenson, global head of trading at Franklin Templeton Investments, which manages $742bn of assets. “We worry that the SEC’s proposal could create future unknown conflicts that simply reside in a one millisecond world.”
+
+That seems right? One model you could have for the IEX application is:
+
+IEX are nice. They want to do a new weird thing that will complicate market structure. Basically every problem in equity market structure comes from introducing new weird things that high-frequency trading firms know how to exploit but that regular long-term investors don't fully understand. But IEX will be nice about it. But once you let them do it, you have to let everyone do it. No one else is nice.
+
+I am not sure that model is accurate in every detail, but I suspect it helps explain Franklin Templeton's worries. Here is a comment letter from the Committee on Capital Markets Regulation to similar effect. On the other hand, here is a comment letter from Eric Budish, the leading proponent of "batch auctions" in equity markets, arguing that allowing a 1 millisecond "de minimis" delay would allow exchanges to experiment with batch-auction-like mechanisms to cut down on latency arbitrage. And here is a comment letter from high-speed trading firm Hudson River Trading that is sort of eye-opening:
+
+In the fourth quarter of 2015, over 13% of displayed orders in large stocks are canceled within one millisecond. Since the sender of an order knows it is outstanding immediately upon sending, it may determine to cancel the order at any point after sending it. However, market participants that may want to trade with the order must be informed of the order on a market data feed and respond to it. To the extent that a market with similar order cancelation patterns implemented a one millisecond delay, over 13% of quotes in large stocks would not be available for execution when a firm receives the order on a market data feed and responds to it. In addition, the Commission’s data show that over 9% of displayed orders in large stocks are executed within one millisecond. Given that over 20% of orders are either executed or canceled during the first millisecond they were displayed, it seems likely that a one millisecond delay would have a material impact on a participant’s ability to access the quotations.
+
+"One millisecond is not de minimis in any context except from the perspective of a human trader," writes Hudson River, and it is useful to remember that in the stock market the "human trader" is a weird interloper and hardly worth worrying about.
+
+Elsewhere, here is Robin Wigglesworth on high-frequency trading. And here is John Lanchester on bitcoin, and money, and this paradox:
+
+In the case of the pound coin, if we ask how much it’s worth, the answer is obvious: a pound is worth a pound. It shouldn’t be, though. According to the Royal Mint, which actually makes the stuff, 3 per cent of all pound coins in circulation are fake. Allowing for that, we should discount the price of our pound coin, and mathematically assign it a value of 97p. In real life, there’s no need to do that, because the overwhelming probability is that you won’t have any difficulty spending your fake pound for its full nominal value.
+
+But how would you know? If every pound was worth 0.97 pounds, wouldn't that make it worth a pound? What would it look like if it was worth 97p?
+
+SunEdison.
+
+SunEdison, the hedge-fund darling renewable energy company that flew too close to the ... well, you know ... is reportedly "preparing to file for bankruptcy protection in New York," brought down by having had a bit too much fun with financial engineering. Part of its undoing came from its decision to set up two yieldcos, TerraForm Power and TerraForm Global, to buy completed projects from SunEdison. The yieldcos were public companies but were controlled by SunEdison, which created inevitable conflicts vividly described here:
+
+“They’d kind of created a three-headed dog where all the heads were biting at each other,” said Tyler Ogden, a research associate at Lux Research.
+
+Here is Ronald Barusch on the yieldco conflicts, particularly the one where an independent committee of TerraForm Global directors rejected a deal to buy some SunEdison assets and were then fired by SunEdison so it could push through the deal anyway:
+
+If an independent committee’s ability to turn down a transaction can be avoided in this manner, then the negotiating leverage of independent directors will be undermined even before the controlling shareholder exercises a nuclear option like replacing directors. Independent directors facing this possibility likely would be limited to extracting the best deal they can from a controlling shareholder. Outright refusal would appear to be out of the question. This is not the process envisioned by Delaware courts when they are deferential to independent committees. Controlling shareholders that promise a robust committee process should be held to their word. Independent committees need the power to say no if they are to be effective.
+
+On the other hand, if you can't fire the board, what's the point of controlling the company? Elsewhere in troubled energy companies, Goodrich Petroleum filed for bankruptcy on Friday after selling stock last year to try to stave off that result:
+
+Goodrich is not the first of last year’s stock sellers to go under. Emerald Oil Inc. filed for bankruptcy protection last month, about a year removed from a $27.5 million stock offering, highlighting the risks investors took buying stock of beleaguered producers.
+
+I mean, yes, on the one hand, the best thing for over-levered oil producers in a tough oil market to do is to raise equity. On the other hand, who wants to be the one buying it? Elsewhere, Moody's has downgraded a lot of oil companies. And banks are building reserves for energy loans.
+
+Morgan Stanley.
+
+Peter Eavis's view of the bank "living wills" exercise is that it is designed to unsettle bankers who might otherwise get too complacent about their ability to game regulations: "How Regulators Mess With Bankers’ Minds, and Why That’s Good." That is ... perhaps the most optimistic explanation of why the Federal Reserve had to revise its letter failing Morgan Stanley's living will because it contained a mistake:
+
+The corrected letter removed a sentence saying the Fed decided part of Morgan Stanley’s bankruptcy playbook contained a “deficiency,” a term regulators use when they believe a living will violates the legal standard in the 2010 Dodd-Frank law.
+
+"The change has no impact on the firm or the required remediation," says the Fed, and isn't that odd? Shouldn't there be some difference in the required remediation, depending on whether an aspect of your living will plan violates the law or not? Anyway, let's hope that drafting error keeps bankers on their toes. Also Morgan Stanley reported earnings this morning:
+
+Morgan Stanley reported first-quarter profit that beat Wall Street estimates as the firm cut costs and revenue from trading stocks and bonds declined less than some analysts predicted. The shares climbed. Net income fell 53 percent to $1.13 billion, or 55 cents a share, from $2.39 billion, or $1.18, a year earlier, the New York-based company said Monday in a statement. Profit surpassed the 47-cent average estimate of 22 analysts surveyed by Bloomberg.
+
+Here are the press release and supplement.
+
+Hedge funds.
+
+Here is Tom Brakke on how investors should select investment managers. Specifically, he argues that they should not start by screening for good past returns:
+
+Faced with a large number of potential managers, nothing culls the herd quite so quickly as screening, even though that means that many prized bulls of the future are left out and a lot of bum steers who were lucky in the past are kept in. In my view, performance chasing has been designed into the decision processes of most organizations.
+
+Isn't investing weird? I mean, it is reasonably obvious that you shouldn't buy a stock just because it went up in the past: You should buy stocks because they will go up in the future, and past performance is no particular guarantee of that. Similarly, when you choose an investment manager, you want to choose one who will perform well in the future, not just one who performed well in the past.
+
+But you also want an investment manager who is actually good at investing, as opposed to one who will have a few good coin flips next year. And surely a key sign of investing skill is persistence of returns? In other words, past performance may not generally predict future results, but in choosing an investment manager, you don't just want good future results -- you want a manager whose past performance predicts future results. Or I would, anyway. Perhaps that is too much to ask. Stocks are supposed to be martingales; investors aren't. I mostly just index. Elsewhere, Saba Capital is having a good year. And: "Lights, Camera, Ackman: Herbalife on the Big Screen."
+
+Corporate speech.
+
+We've talked once or twice around here about how strange it is that powerful U.S. politicians are explicitly calling for people to be punished for disagreeing with them politically. Well, actually, they are calling for corporations to be punished for disagreeing with them politically -- and calling those disagreements "fraud" -- but the basic weirdness remains. My Bloomberg View colleagues also find it weird: Here is Megan McArdle on the strange effort to silence climate-change deniers by subpoenaing their communications, and here is Stephen Carter last week on New York Attorney General Eric Schneiderman's racketeering investigation into climate-change denial:
+
+Schneiderman's investigation is a flatly unconstitutional assault on speech the state dislikes. I find something terrifying in the notion that the government can go after a private entity, even a for-profit one, because it doesn’t like the entity’s views. And you needn’t agree with me on the proper reading of the First Amendment to see the danger of crafting a rule that says corporations are allowed to take some political positions and not others.
+
+Elsewhere in corporate speech: "How Corporate America Became A Major LGBT Ally."
+
+And elsewhere in things that we have talked about here that now people are talking about elsewhere, here is a Council of Economic Advisers issue brief on competition and market power that finds "evidence of 1) increasing concentration across a number of industries, 2) increasing rents, in the form of higher returns on invested capital, across a number of firms, and 3) decreasing business and labor dynamism." The CEA lists as one possible cause the "common ownership of stocks by large institutional investors," which we talked about a bit here back when it was a goofy fringe theory, but which by now is positively mainstream. (It's just one of several possible explanations calling for more research, with "big data" being another possible factor in reducing competitiveness.)
+
+What Drives Corporate Inversions?
+
+Taxes.
+
+People are worried about unicorns.
+
+Here's some of the usual. And some more. Unicorns: People are worried about them. And: Space unicorn bubble?
+
+People are worried about stock buybacks.
+
+That is one aspect of this Gretchen Morgenson column about how BlackRock should vote against executive pay packages more often.
+
+People are worried about bond market liquidity.
+
+The best thing about bond market liquidity worrying is that it is unfalsifiable, and the second-best thing is the embedded and frequently mixed metaphor ("Playing With Fire: Illiquidity In The Bond Market"), but the third-best thing is the contrast between classic corporate bond market liquidity worrying ("bond trading is too slow!") and classic equity market structure worries ("stock trading is too fast!"). People who trade in fast electronified markets like equities worry that those markets trade too fast, too frequently, with too much order-book transparency; prices move too much because too many high-frequency traders respond immediately to every trade. People who trade in slow telephone markets like bonds worry that those markets trade too slowly, too infrequently, with too little transparency; prices move too much because too few dealers respond at all to any trade. Every market is broken; the only good market is the one that you traded in back when you started your career. Why did they have to go and change that?
+
+Here is a fun story about how buy-side Treasury traders like trading futures (fast, electronified, equity-like) rather than cash Treasury bonds (somewhat slower, telephonic, more corporate-like, at least for end users):
+
+What’s more, Priyadarshi can see trades in real time in the futures market, which helps him determine how best to react. It also helps him get a read on market sentiment faster after big events, such as the March 16 Fed statement. Higher volume shows stronger conviction behind a move. His team also looks at market depth, which captures a top-level snapshot of trader demand to buy­—on the bid side—and sell—on the offer side—at various prices. Large imbalances between the two provide clues about sentiment and where the market may move next, he says.
+
+Of course using real-time trading and order-book data to react is what people don't like about high-frequency traders in the stock market. Elsewhere on that theme, here's a market commentary piece from KCG about bond exchange-traded funds that notes that it's "eye-opening (for equity traders) to see just how different the bond market structure is, and how unfair it still is for some long-term investors":
+
+Over the last 20 years, regulators have introduced rules that have made equity markets highly automated, extremely transparent and very competitive. And despite a current focus on issues like maker taker and adverse selection, passive liquidity is overwhelmingly protected from missed fills, while takers are also protected from trading through the best-price as well as from last-look style fade, thanks to the current market structure. Bond markets, in contrast, are relatively un-automated, not integrated, lack transparency and, despite trading more value perday than equities, have much lower breadth of liquidity.
+
+Elsewhere, here's some of the usual worrying about bond market liquidity. ("The amount of corporate credit owned by fund structures that are highly susceptible to a ‘first mover’ redemption risk has ballooned since 2009.") Here's some of the usual response from regulators. (Jerome Powell of the Fed: "And although observable measures of overall liquidity in corporate bond markets appear good, there is some evidence that liquidity has deteriorated for the lowest-rated bonds.") The government is moving to collect more Treasury market trading data. A Treasury-market implied volatility measure is falling. "What’s behind the March Spike in Treasury Fails?"
+
+Things happen.
+
+Rousseff Hangs by a Thread After Losing Impeachment Vote. Oil Prices Fall 5% in Asia After Doha Talks Fail to Bring Production Freeze. Discord Grows Among the Parties Over Greek Debt Talks. Jose Cuervo Said to Be Making Arrangements for an I.P.O. Wall Street Veterans Bet on Low-Income Home Buyers. Malaysia’s 1MDB and Abu Dhabi Feud Over Coming Bond Payment. Spain vs. Portugal. Fannie Mae, Freddie Mac Shareholders Argue Against Government’s Profit Sweep. The U.S. government scammed immigrant students with a fake university. Kremlin says sorry to Goldman Sachs, German paper over Panama Papers slip-up. Ted Cruz: Why a stock 'crash will be coming.' What's Nicolas Berggruen up to? Fear of the robots is founded in the messy reality of labour. Owning a sports team is basically tax deductible. "Eric Bandholz, a former financial adviser for Merrill Lynch, who says he faced anti-beard sentiment for years," eventually "left the firm and started Beardbrand, a line of facial-hair products like beard oil and mustache wax." Banana fungus. Coachella prep. Boaty McBoatface.
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+( Corrects company name in 13th paragraph to SunEdison from SunPower. )
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

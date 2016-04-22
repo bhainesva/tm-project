@@ -1,0 +1,106 @@
+Systemic Risk and the Purple Pages
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-19/systemic-risk-and-the-purple-pages
+FSOC is worried about hedge-fund borrowing or whatever.
+
+I have to say that I am becoming a little more sympathetic to MetLife's view that the decision of the Financial Stability Oversight Council to designate it as "systemically important" was "arbitrary and capricious." The thing about the FSOC is that it was set up to be a sort of free-floating regulatory body, made up of the heads of all the already-existing financial regulators (the Federal Reserve, the Securities and Exchange Commission, etc.), whose mission is to spot systemic financial risks and do something about them. That is a really hard job. It is, particularly, a really hard job to do in a rule-bound, logical, predictable way: Systemic risks probably won't come from obvious dumb stuff, but from stuff that is so well-accepted that no one even perceives it as a risk. And it's hard for FSOC to show its work: Any systemic risk that it finds will have a low and unknowable probability of actually causing a crisis, so it will be hard for FSOC to make the case that it needs to be regulated.
+
+On the other hand, I am also sympathetic to the FSOC. It's the supergroup of financial regulators, and you really would expect them to have a sense of what is systemically risky and how to regulate it. Getting all the regulators in a room and telling them to find problems and fix them however they think best is sort of a straightforwardly sensible regulatory approach, though also a bit intellectually unsatisfying.
+
+Anyway yesterday FSOC released "a public update on its review of potential risks to U.S. financial stability that may arise from asset management products and activities." Here is that update, which spends some time on hedge-fund leverage among other topics (mutual fund liquidity risk, securities lending maturity mismatch, etc.), but which does not exactly identify smoking guns and propose crisp clear plans to regulate them. It's more like ... well, here is how some FSOC members characterized it:
+
+“The need for further analysis or information sharing is clear,” Mr. Lew said. He added that the oversight council would form a working group to further study risks in hedge funds. “We do not have a good metric for leverage in this context,” Commodity Futures Trading Commission Chairman Timothy Massad said at Monday’s meeting. “We have not yet connected the dots.” “The aim should be to better assess potential systemic risks from these funds,” Federal Reserve Chairwoman Janet Yellen said of the working group.
+
+Those are perfectly sensible things to say at the start of a review process. (Though to be fair this is kind of the middle of the FSOC's review of asset managers.) But what do you say at the end? How do you develop a good metric for leverage? How do you decide whether a hedge fund's borrowing poses a systemic risk, or is just, like, if the hedge fund loses money it will lose extra money because of the leverage? (That is allowed.) It seems to me that the deep challenge for FSOC is not figuring out a metric for hedge fund leverage; it's figuring out what "systemic risk" means in an intuitive and coherent way, so that it can have some frame of reference to apply to stuff like hedge fund leverage.
+
+Anyway here's some stuff about hedge fund leverage (NAV is net asset value, GNE is gross notional exposure, and QHFs are qualifying hedge funds):
+
+The use of leverage appears to be concentrated among a small number of hedge funds. The top 10 funds sorted by NAV represent less than 10 percent of the NAV of all QHFs. However, when sorted by GNE, borrowings, and notional value of derivatives, the top 10 funds represent 28, 35, and 49 percent, respectively, of all QHFs. When sorted by NAV, the top 100 funds account for 39 percent of the NAV of all QHFs, but when sorted by GNE, borrowings, and notional value of derivatives, the top 100 funds represent 66, 73, and 83 percent of GNE, borrowings, and notional value of derivatives, respectively, of all QHFs. The data suggests that some of the largest (by gross assets) and most leveraged funds are relative value, fixed-income arbitrage funds that use repo and derivatives—primarily interest rate swaps and foreign exchange—to obtain leverage. These funds’ leveraged positions generally appear to be offsetting—that is, their market exposures appear to be largely hedged on a long/short basis— but there are limitations to these reported metrics, requiring further analysis.
+
+So the average top-10 hedge fund is a fixed-income arb fund responsible for about 7 percent of total hedge-fund industry notional exposure. Is that systemic? How could you find out?
+
+Elsewhere in systemic risk, "Minneapolis Federal Reserve Bank President Neel Kashkari on Monday doubled down on his call for reforms to the U.S. banking system," though his calls for reform basically involve higher capital requirements for banks, which is honestly pretty mild tinkering. I feel like there are some number of more or less coherent bold frameworks for financial-system reform, but actual regulation will always be incremental and somewhat unsatisfying.
+
+Yahoo!?
+
+It seems like Verizon is the leading candidate to buy Yahoo, but surely anyone with a heart will be rooting for plucky upstart YP Holdings LLC, which is also a bidder. YP's main appeal is probably that it is "the digital advertising business of what was formerly called Yellowpages.com," and it is hard to imagine a more perfect outcome than for Yahoo to be acquired by the actual Yellow Pages. Thinking about Yahoo for too long gives you a disorienting sense that time might be moving backwards: First Yahoo bought Tumblr, which seemed like the '90s acquiring the '00s, and now the Yellow Pages might buy Yahoo? Maybe next Cornelius Vanderbilt will buy the combined company and sell it to the Dutch East India Company.
+
+But that does not exhaust the joy of a possible YP acquisition. There is also, of course, some tax optimization:
+
+Its size makes it a candidate for a Reverse Morris Trust with Yahoo: a tax-free transaction in which YP would merge with a spun-off subsidiary of Yahoo’s core business, the person said.
+
+This will not raise the same sort of tax-lawyer eyebrows as Yahoo's original plan, now thwarted, to get rid of its Alibaba shares in a tax-free spinoff, but it would be sort of a shame to see Yahoo sold to Verizon in a taxable all-cash deal. Tax optimization has been a central theme in Yahoo's strategic-alternatives process, and a Reverse Morris Trust would at least pay some respect to that tradition. Plus there is this:
+
+A Reverse Morris Trust would give Yahoo shareholders a partial stake in the combined company, with the ability to capture future earnings growth.
+
+That's right, somehow Yahoo's process of trying to sell its oddly mismatched collection of Internet assets could end up with it remaining a public company, only with even more mismatched Internet assets. If you liked Yahoo, you'll love Yahoo plus the Yellow Pages! I hope they'll rename it the Purple Pages. But with an exclamation point.
+
+Hedge funds.
+
+Here is a story about a hedge fund called Numerai that "uses a monthly 'tournament' for data scientists to develop models using AI fields such as 'machine learning' to predict stock market movements, with the best predictions winning money from the company." The fund is still pretty small but I think there may be an arbitrage here:
+
+The current leader on Numerai’s tournament board is a user called “NCVSAI”, who works in genomics and biostatistics, according to Mr Craib. He has earned $5,563 since starting to submit predictions earlier this year, but as the hedge fund grows Numerai intends to ramp up the rewards.
+
+One way to think about hedge fund management is from a sort of meta-efficient-markets perspective: If investing skill exists, and if some people can repeatably generate above-market returns, why should they do that for you? The answer might well be "because you pay them all of the above-market returns they generate, and then some, in fees." So the next frontier in investing research is not just about finding ways to beat the market, but finding ways to convince people to beat the market for you without appropriating all of the gains for themselves. (This explains a lot of "smart beta," quantitative hedge fund replication, etc., which are essentially about replacing greedy hedge fund managers with selfless computers.) Running a fun cool artificial-intelligence tournament to find the best stock-picking algorithms, and paying the winner $5,563, seems like a promising approach.
+
+Elsewhere, the headline of the press release announcing this academic paper is "Fewer romantic prospects may lead to riskier investments," which right there is a wonderful result. (The paper itself has the distinctly worse title "Going All In: Unfavorable Sex Ratios Attenuate Choice Diversification.") And you could easily imagine a psychological mechanism by which an unlovable hedge fund manager ramps up the risk of his fund, hoping to make a big score and win the admiration of his beloved. "I'll put it all in May $50 Valeant calls, then she'll notice me!" But the actual study suggests another possibility, since it proxies "romantic prospects" with "an important cue to mating-related risk: skew in the operational sex ratio, or the ratio of men to women in the local environment."
+
+Counter to the typical strategy of choice diversification, findings from four studies demonstrated that the presence of romantically unfavorable sex ratios (those featuring more same-sex than opposite-sex individuals) led heterosexual people to diversify financial resources less and instead concentrate investment in high-risk/high-return options when making lottery, stock-pool, retirement-account, and research-funding decisions.
+
+One simple dumb way to interpret this result is that just being around women makes heterosexual men take fewer financial risks, and vice versa, so funds with a more even gender balance are likely to be less risky. Not that I necessarily endorse romancing your co-workers I mean, just that I am not sure whether this result is more about romantic prospects or about gender-balanced environments.
+
+Banks.
+
+Goldman Sachs announced earnings this morning, with sort of a gloomy beat:
+
+Goldman Sachs Group Inc., the worst performer in the Dow Jones Industrial Average this year, reported a 60 percent drop in profit as first-quarter revenue fell to the lowest since Chief Executive Officer Lloyd Blankfein took the top post in 2006. Net income declined to $1.14 billion, or $2.68 a share, from $2.84 billion, or $5.94, a year earlier, the New York-based company said Tuesday in a statement. That beat the $2.48 per-share estimate of 23 analysts surveyed by Bloomberg, as the firm cut costs deeper than expected. Goldman Sachs’s revenue fell 40 percent to $6.34 billion, missing the average estimate of $6.69 billion.
+
+Here is the press release. Elsewhere, Morgan Stanley "cut about 1,440 positions in the first quarter, the biggest reduction since the start of 2013." And it is a rough time to be a financials-stock analyst or manager.
+
+Welcome back Argentina.
+
+I have occasionally expressed some incredulity around here about all the weird stuff that Argentina has been doing in preparation for its return to the international capital markets (backing away from previously agreed settlements, changing the calculations on its GDP warrants, talking up plans for its next default to be even worse), which you might expect would turn some investors off on Argentine bonds. But, nah:
+
+Argentina is receiving strong demand for a global debt offering that could reach $15 billion, attracting an array of investors looking for higher yields in a period of low interest rates. The bonds are likely to be priced Tuesday, said a person familiar with process. The underwriting banks still are taking orders, though demand has already reached about $70 billion, this person said.
+
+The 10-year should come between 7.5 and 7.625 percent. "A prodigal son has returned," said Finance Minister Alfonso Prat-Gay. Also this time there are collective-action clauses.
+
+Business schools.
+
+Here is a Bloomberg Businessweek ranking of the top U.S. undergraduate business schools. It says here that Villanova is in first place, and Wharton is in 16th. So there you go!
+
+People are worried about unicorns.
+
+Everything's fine at Theranos, the Blood Unicorn (Elasmotherium haimatos), why do you ask?
+
+Federal prosecutors have launched a criminal investigation into whether Theranos Inc. misled investors about the state of its technology and operations, according to people familiar with the matter.
+
+The Securities and Exchange Commission is also inquiring, though "investigations into companies often do not lead to any charges." I have to say that there is a pretty stark gap in public perceptions of Theranos between 2014, when it raised hundreds of millions of dollars at a $9 billion valuation and founder Elizabeth Holmes was getting glowing cover stories about how she was revolutionizing health care, and now, when Theranos is getting threats from regulators left and right, one glowing cover story has been disavowed, and Holmes says things like "Let’s rebuild this entire laboratory from scratch so that we can ensure it never happens again." If investors got the 2014 public narrative, and the 2016 one turns out to be correct, then you can see how they might feel misled. One hopes they got a bit more detail, and more conservatism, about the state of Theranos's technology in 2014, and invested with their eyes open, but one never knows.
+
+Elsewhere, "General Mills, based in Minneapolis, is part of an increasing number of old-economy companies, including the convenience chain 7-Eleven and the Campbell Soup Company, that have joined a crowd of technology companies to create venture capital funds." I am not really plugged into the culture of Silicon Valley, so let me ask here: If you are a brilliant young entrepreneur, is it cool to get a venture investment from 7-Eleven? Like, I could see that being less of a validation of your startup than an investment from, like, Sequoia or Kleiner Perkins. On the other hand I feel like 7-Eleven would be more fun to talk about at parties. Anyway it will not surprise you to learn that "critics say the corporate-run funds have contributed to inflated valuations for start-ups."
+
+And here is a funny Sam Biddle article about a ... thing ... called Helena? It seems like one of those vague nonprofits where fancy people get together to discuss problems, like Davos or TED, except that it is run by a Yale undergraduate and has a pitch deck for some reason. Biddle describes the pitch deck as being "like startup marketing lorem ipsum," and his headline is "I Have No Idea What This Startup Does and Nobody Will Tell Me," but that isn't quite fair. The pitch deck reads more like Davos blather, Helena is not a startup but a nonprofit fancy thinkery, and it probably doesn't do much, both because it is brand new and because nonprofit fancy thinkeries tend not to do much generally. They seem to be mostly for networking. This one may or may not include Selena Gomez.
+
+People are worried about stock buybacks.
+
+Here is an article about companies' return on investment from their share buyback programs; some are -- surprisingly? -- quite positive. (The leader is Tesoro Energy, a refiner, with a 57.1 percent return on its buybacks in the two years ended in December.) And the S&P 500 is doing well despite the drop-off in buybacks during earnings season: "The notion that the S&P needed buybacks to get close to new highs doesn’t seem to be playing out."
+
+People are worried about bond market liquidity.
+
+Here is a story about how high-yield bonds are risky; one of the risks, you will not be surprised to learn, is illiquidity. Another is default risk -- though how bad is the default rate really? Elsewhere in bond market liquidity, congratulations to Wells Fargo, which is the newest primary dealer for Treasuries.
+
+Things happen.
+
+Magic Leap. Malaysia Prime Minister’s Confidant Had Central Role at Troubled 1MDB Fund. It's All Suddenly Going Wrong in China's $3 Trillion Bond Market. Puerto Rico's Bondholders Divided in Fight Over Federal Rescue. A Very Surprising Hearing In The Fannie and Freddie Appeal. Where have all the small loans gone? Tech Companies Face Greater Scrutiny for Paying Workers With Stock. Jeffrey Gundlach says things. Seven & I Appoints Activist Investor Loeb's Candidate as Group President. The Energy Transfer/Williams Companies merger can't get a 721 opinion for some reason. Buffett facts. Salad popularity. Street dogs. Iguana rescue. Bicycle drawings. Coachella taxes. Commenter bios. Merle Hazard. FRED birthday. Tinder scholarship. Web brutalism. 3D-printed duck feet. Drone dentistry. Perfect Clickhole. "It was somewhat lit but not as lit as it could be."
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

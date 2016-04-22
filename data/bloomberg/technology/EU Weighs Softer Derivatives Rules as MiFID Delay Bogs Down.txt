@@ -1,0 +1,32 @@
+EU Weighs Softer Derivatives Rules as MiFID Delay Bogs Down
+['Silla Brush John Detrixhe', 'Silla Brush', 'John Detrixhe']
+http://www.bloomberg.com/news/articles/2016-04-16/eu-weighs-softer-derivatives-rules-as-mifid-delay-bogs-down
+Banks and asset managers moved closer to winning easier rules for derivatives as European Union member states signaled support for amending regulations as part of a delay in the wider law that revamps oversight of trading across the continent.
+
+EU states are considering attaching the policy changes to legislation postponing until January 2018 the vast MiFID II law that overhauls rules for stocks, bonds, commodities and derivatives in the 28-nation bloc, according to a proposal from the Netherlands, which holds the rotating presidency of the EU. The exclusion for certain derivatives from trading transparency requirements was included in the proposal.
+
+The undated Dutch proposal, prepared for an April 20 meeting of national officials, attempts to “strike a right balance” among the views of the 28 EU countries as they prepare to negotiate with the European Parliament on a final version of the bill. The discussion paper was obtained by Bloomberg. Bouke Bergsma, a spokesman for the Dutch presidency of the EU, declined to comment on the document.
+
+The European Commission, the EU’s executive arm, first floated a delay of MiFID II in November, but the process has become bogged down as lawmakers debate the best approach. Both the European Parliament and the Council of the European Union, which represents the interests of member states, must approve the change. The parliament settled on its negotiating position on the bill earlier this month; now member states are trying to do the same.
+
+Data Reporting
+
+The initial goal of delaying the law was to give banks and other financial firms time to build data-reporting systems and other technology to meet the new requirements. But the proposed delay has also opened the door to industry lobbying for softer rules.
+
+The commission has sought to streamline the MiFID delay, pushing back the start date without significant further changes to the legislation. The parliament attached significant conditions to its version of the bill.
+
+At an April 4 meeting of national officials, “no clear majority” emerged for the commission’s quick-fix approach, and some member states were “in favor of including substantive amendments on the topics covered by the proposed amendments of the European Parliament,” according to the Dutch paper.
+
+‘Legal Consequences’
+
+As a result, the Dutch proposed five changes, starting with pushing back by one year to July 3, 2017, the deadline for national lawmakers to convert the EU rules into national law. Member states and “market participants can be exposed to legal consequences if no clarity is provided on the extension of the dates by July 3, 2016,” the Dutch paper states. “That leaves the Council with very limited time to reach a general approach on this file.”
+
+The Dutch proposal also supports exempting certain derivatives from requirements designed to increase transparency and price competition on platforms before trades are completed. At issues are so-called package transactions that include two or more linked contracts that firms use to hedge or speculate on the price of an interest rate or other asset.
+
+The International Swaps and Derivatives Association, whose members include Goldman Sachs Group Inc. and Barclays Plc., has said the carve-out is necessary for traders to manage risks and cut costs. The price quoted for a package transaction is typically less than the combined price of the components when they’re priced individually and traded separately, the association has said.
+
+Swap Market
+
+Depending on the scope of the final bill, the exemption could apply to a large number of derivatives transactions. Packages represent about half the U.S. interest-rate swap market, with similar estimates possible in the EU, Clarus Financial Technology has said.
+
+The Dutch proposal includes a waiver for packages in which at least one component doesn’t have a liquid market. However, the proposal said the exclusion wouldn’t apply to packages that are standardized, frequently traded and considered to have a liquid market.

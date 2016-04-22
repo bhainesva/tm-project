@@ -1,0 +1,32 @@
+Technology May Be the Last 'Safe Haven' Propping Up the Stock Market
+['Luke Kawa']
+http://www.bloomberg.com/news/articles/2016-01-20/technology-may-be-the-last-safe-haven-propping-up-the-stock-market
+A gauge of market fear isn't reacting the same way to the sell-off that's marked the start of 2016 as it did when the Standard & Poor's 500-stock index hit its 2015 low in August.
+
+While the Chicago Board Options Exchange Volatility Index, better known as the VIX, closed above 40 amid the carnage that followed the shock Chinese devaluation back in August, it has remained rather subdued lately, closing around 26 on Tuesday:
+
+Bloomberg
+
+The VIX index tracks the implied volatility of the S&P 500 over the next 30 days, based on at-the-money options prices.
+
+Some have attributed the VIX's new-found stubbornness to the fact that the recent market sell-off began after the index had already climbed to about 18, thereby limiting the need for volatility-linked products to reposition broadly. "During the rare sell-offs of 2013 or 2014, we typically started from an extremely low (12-14) level in VIX," said Pravit Chintawongvanich, head derivatives strategist at Macro Risk Advisors.
+
+According to Ken Veksler, director at Accumen Management, the subdued VIX is a function of the fact that the traffic in stocks has been one-way, with a dearth of big investors seeking to buy the dip. "Now while the price action of late has been undeniably brutal, it has also been rather unidirectional," he wrote in a note to clients. "Thus, the underlying volatility has been frankly absent. "
+
+Nicholas Colas, chief market strategist at Convergex, is among those who noted this gap. He dug a little deeper into the data to look at implied volatility on a sector level derived from options prices for exchange-traded funds. What he found was surprising.
+
+Technology stocks have seen the biggest decline in implied volatility relative to August (apart from the lightly-weighted telecom sector) despite having modestly underperformed the broad market.
+
+Here's the strategist:
+
+Tech stocks are well away from their August 'VIX 'peaks (38 percent lower) and consumer staples (37 percent) aren’t far behind. The latter sector’s risk pricing makes sense; it has outperformed the broad market year to date. Technology, however, hasn’t managed the same trick. That means tech companies are the last line of defense against the broader market setting new lows.
+
+Unlike "FANG," the four-stock group that became emblematic of the S&P 500's lack of breadth in 2015, the expected calm is broadly distributed throughout the tech space.
+
+"This does not seem to be due to individual 'super cap' names like Apple, Google, Facebook or Microsoft, most of which are close to or right on top of their implied volatility readings from last August," the strategist observed. "Rather, it seems to be a more sector-wide observation."
+
+According to Colas, this means that investors are treating technology as a "safe haven" relative to other sectors, a development that could break down if market conditions continue to deteriorate, or the group posts underwhelming quarterly results and pushes the VIX index closer to levels seen in August.
+
+The comparatively depressed level of the VIX index, while superficially indicating lower levels of fear, isn't necessarily a positive development, he added.
+
+"Many traders and market watchers I speak to want to see a real 'flush' in stocks before they feel it is safe to buy this market," the strategist wrote. "Most market participants would feel better about buying U.S. equities if that number were closer to 40."

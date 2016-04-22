@@ -1,0 +1,26 @@
+Qualcomm Forecasts Are In Line on Progress in China Dispute
+['Ian King']
+http://www.bloomberg.com/news/articles/2016-04-20/qualcomm-profit-forecast-disappoints-on-slowing-phone-demand
+Qualcomm Inc. forecast third-quarter sales and profit that were in line with analysts’ estimates, buoyed by the resolution of licensing disputes in Asia and increased interest in its newest chips even amid weaker consumer demand for expensive smartphones.
+
+Revenue in the period that ends in June will be $5.2 billion to $6 billion, the company said Wednesday in a statement, and profit before certain items will be 90 cents to $1 a share. Analysts on average had projected profit of 99 cents on sales of $5.51 billion, according to data compiled by Bloomberg.
+
+The San Diego-based company said it’s making progress in fixing issues that hurt its earnings and stock price last year. Qualcomm signed up more licensees in China, resolved a dispute with South Korea’s LG Electronics Inc. and secured more orders for its newest Snapdragon 820 chip, Chief Executive Officer Steve Mollenkopf said. Those steps forward are being undermined by weaker mobile demand in some emerging markets and by slower consumer interest in buying the latest smartphones -- expensive products that typically carry Qualcomm chips and boost its licensing.
+
+“The China market is continuing to be strong,” President Derek Aberle said after the report. “We have a more bullish view than we had a few months ago. That’s being offset to some extent by a weakness in some of the other emerging regions, primarily based on some of the macro economic issues we’ve seen.”
+
+Qualcomm’s stock, up 4.2 percent this year, rose less than 1 percent to $52.09 at the close of regular trading in New York. After the report, the shares initially slipped, then gained 1.2 percent in extended trading.
+
+Second Quarter
+
+Net income in the second quarter, which ended in March, rose 11 percent to $1.16 billion, or 78 cents a share, Qualcomm said. Sales declined 19 percent to $5.55 billion. Excluding some costs, profit was $1.04 a share. On that basis, analysts had projected profit of 96 cents and sales of $5.33 billion.
+
+Qualcomm’s modem chips are the components that connect the majority of the world’s smartphones to cellular networks, making the company’s earnings a bellwether for demand across the wireless industry. Those communications chips generally offer the best performance, enabling Qualcomm to profit from the switch to networks and phones that can handle ever-faster data speeds.
+
+The company’s licensing business owns patents that cover the fundamentals of all modern mobile-phone systems. Qualcomm gets a percentage of the selling price of every handset sold, regardless of whether the phone maker uses its chips. Companies in China had been holding out on paying these royalties until Qualcomm paid to settle an antitrust investigation there last year. In exchange, the company agreed to accept a lower rate for units sold for use in China.
+
+While chips provided more than 60 percent of Qualcomm’s revenue in fiscal 2015, the lucrative royalty business contributed more than 70 percent of pretax income. That profit stream has attracted the scrutiny of regulators from South Korea to Europe to the U.S., who are investigating the company’s business practices, creating concern that management will be distracted by legal issues.
+
+Mollenkopf, who took the top job in 2014, is looking for ways to restore growth rates that were once the envy of the industry. From 2011 to 2013, the company averaged revenue gains of more than 30 percent a year.
+
+The CEO has been trying to reverse sales declines that have cut Qualcomm’s revenue by more than 10 percent for four straight quarters. As the company’s main phone-chip business becomes more competitive and overall growth slows, Mollenkopf is working to get Qualcomm’s technology into new markets such as servers, cars and medical devices.

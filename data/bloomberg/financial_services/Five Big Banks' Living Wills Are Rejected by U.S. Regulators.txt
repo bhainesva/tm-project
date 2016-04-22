@@ -1,0 +1,52 @@
+Five Big Banks' Living Wills Are Rejected by U.S. Regulators
+['Jesse Hamilton Elizabeth Dexheimer', 'Jesse Hamilton', 'Elizabeth Dexheimer']
+http://www.bloomberg.com/news/articles/2016-04-13/five-big-banks-living-wills-rejected-by-u-s-banking-agencies
+JPMorgan Chase & Co., Bank of America Corp. and three other major U.S. banks failed to persuade regulators they could go bankrupt without disrupting the broader financial system and could now face a tighter leash from Washington after government agencies used one of the most significant post-crisis powers bestowed under the Dodd-Frank Act.
+
+The banks -- also including Wells Fargo & Co., Bank of New York Mellon Corp. and State Street Corp. -- must scrap their resolution plans, or living wills, after the Federal Reserve and the Federal Deposit Insurance Corp. said versions submitted last year failed to satisfy their requirements. The lenders will have until Oct. 1 to rewrite the plans -- but under the pressure that another failure would give regulators power to subject them to more capital or liquidity constraints on their businesses.
+
+“The FDIC and Federal Reserve are committed to carrying out the statutory mandate that systemically important financial institutions demonstrate a clear path to an orderly failure under bankruptcy at no cost to taxpayers,” FDIC Chairman Martin Gruenberg said in a statement Wednesday.
+
+Investors shrugged off the news as shares of all the banks whose living wills were rejected rose and the KBW Bank Index increased 2.27 percent to $65.36 at 10:02 a.m. in New York. JPMorgan posted first-quarter profit earlier Wednesday that beat Wall Street estimates as the company slashed bankers’ pay and trading revenue declined less than most analysts predicted.
+
+Overhaul Strategies
+
+While the rejected banks face the arduous process to overhaul strategies that in some cases run into thousands of pages, Citigroup Inc. can breathe a sigh of relief, having won provisional approval from both regulators. Goldman Sachs Group Inc. and Morgan Stanley also escaped having their plans termed “not credible,” but only because they didn’t get failing grades from both agencies. Goldman Sachs’s plan was faulted by the FDIC and Morgan Stanley’s by the Fed.
+
+The living-wills exercise was a key check on the biggest banks written into Dodd-Frank, the regulatory overhaul prompted by the 2008 financial crisis. The fall of Lehman Brothers Holdings Inc. in September 2008 demonstrated what could happen when huge, complex financial firms land in bankruptcy court, so the resolution plan process was designed to ensure big banks in the U.S. can be wound down quickly without taking others with them.
+
+Almost two years ago, 11 of the largest banks were told their plans fell far short of what regulators deemed acceptable, though the agencies didn’t formally reject them. Since then, the industry has rehashed how derivatives contracts are written, and the agencies have imposed tough capital and liquidity demands on each lender. Even so, bankers were anxious to hear whether their efforts had gone far enough.
+
+Worst-case Scenario
+
+The worst-case scenario for a bank that continually fails to present credible plans is that regulators eventually could get authority to break them up, according to the law. Those are uncharted waters, because this marks the first time regulators have taken the initial step to find fault.
+
+“We’re going to do everything possible to fix this issue,” JPMorgan Chairman and Chief Executive Officer Jamie Dimon said Wednesday in a conference call after the bank reported first-quarter results. Marianne Lake, JPMorgan’s chief financial officer, added that the bank is disappointed, but it should only face a modest expense to fix the plan.
+
+Each bank received a letter detailing regulators’ expectations. JPMorgan was credited with having made some improvements since its last submission but was told that it lacked “appropriate models and processes for estimating and maintaining liquidity” during a resolution period. The bank was also told that its internal structure fails to promote an easy resolution.
+
+Legal Structures
+
+Feedback to other banks often faulted the complexity of their legal structures and the inadequacy of their liquidity preparations -- or how easily their assets can be converted to cash. In the letter to Bank of America, for instance, the Charlotte, North Carolina-based lender was instructed to fix its process for estimating how much liquidity would be needed to make sure subsidiaries could keep going after a failure, and Larry DiRita, a spokesman, said the firm will “expeditiously address the shortcomings and deficiencies.”
+
+Andrew Williams, a Goldman Sachs spokesman, noted that “significant progress has been made” -- a point the regulators acknowledged for all the banks even as they were finding fault. Both Goldman Sachs and Morgan Stanley said they’d keep working with regulators to improve their plans, according to their spokesmen.
+
+Wells Fargo, which was the only top bank to get a passing grade in regulators’ first review, was faulted for “material errors” that undermine confidence the San Francisco-based lender is prepared in the event of a wind-down. The company said in a statement Wednesday that it understood the importance of the response and would fix its strategy by October.
+
+Business Lines
+
+The regulators said State Street and Bank of New York Mellon need to clarify their business lines and legal entities to improve their ability to be resolved. Bank of New York Mellon said it will address the issues by October. State Street, which also said in a statement that it’s committed to addressing its deficiencies by the deadline, was additionally told to revise its estimate for how much capital it would need in a resolution.
+
+“It is in the best interest of the industry that all large institutions have credible resolution plans and, with that in mind, institutions will continue to work to address the technical shortcomings identified in this round of regulatory feedback,” said John Dearie, acting head of the Financial Services Forum, in a statement that highlighted “enormous progress” he said the industry has made.
+
+Campaign Trail
+
+The living-wills failure by several of the largest U.S. financial firms will further fuel Wall Street criticism in Washington and on the political campaign trail. Calls to break up banks has been a prominent feature of this year’s presidential race -- especially from Senator Bernie Sanders as he pursues the Democratic nomination. The industry and regulators have taken a beating from candidates and members of Congress over the perception that they haven’t fixed problems that led to the 2008 crisis.
+
+The industry’s bad news comes a day after banks learned they may get a break on future living-will efforts. The Fed and FDIC agreed to a few concessions after the Government Accountability Office found flaws in the process. In response to GAO criticism, the two agencies said they would figure out a way to give banks more time to write the plans and also disclose more about how they decide whether a bank’s plan is credible.
+
+Filing Deadline
+
+Though the annual filing deadline for the 12 largest banks is July 1, the eight U.S. institutions the regulators responded to will be given until that date in 2017 for their next round, assuming the five that failed get their October plans approved. The agencies said they are still considering the living wills for four non-U.S. firms, including Barclays Plc, Credit Suisse Group AG, Deutsche Bank AG, and UBS Group AG.
+
+“No firm yet shows itself capable of being resolved in an orderly fashion through bankruptcy,” FDIC Vice Chairman Thomas Hoenig, who has been critical of the process, said in a statement. “Thus, the goal to end too big to fail and protect the American taxpayer by ending bailouts remains just that: only a goal.”

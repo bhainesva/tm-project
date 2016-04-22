@@ -1,0 +1,32 @@
+Green Ammonia Made With Wind Is Future of Fertilizer at Siemens
+['Jessica Shankleman']
+http://www.bloomberg.com/news/articles/2016-04-20/green-ammonia-made-with-wind-is-future-of-fertilizer-at-siemens
+Siemens AG will trial a technology that turns wind power into ammonia gas, a product that could clean up pollution from the fertilizer industry.
+
+The world’s biggest power-equipment maker is building a plant near Oxford, England, that makes ammonia by electrolysis instead of through the traditional reaction fed by fossil fuels, said Armin Schnettler, the company’s head of energy and electrical research. If fed by idled renewable power plants, the process would make emissions-free fertilizer used by farmers everywhere.
+
+The technology could solve three problems at once. It would reduce emissions from the fertilizer business, which is responsible for 1 percent of carbon pollution worldwide, according to a United Nations panel. The technology also could absorb excess output from wind and solar farms as well as store electricity in the form of a usable gas. Siemens estimates it could help cut emissions by 360 million tons a year, more than the annual carbon output of France.
+
+“We can store the surplus electricity somewhere and create a valuable product which we can sell,” said Schnettler in a phone interview from Munich. “Our key research activities are related to the big picture, decarbonizing the world, which is a very tough target that politicians have set.”
+
+Ammonia is one of the main products farmers use to inject nitrogen into the soil. It’s usually made from hydrogen extracted from burning natural gas or coal, which is then subjected to high temperatures triggering a chemical reaction -- the so-called Haber-Bosch process that yielded Nobel prizes in 1918 and 1931.
+
+The Siemens process extracts hydrogen by passing live wires thorough water. What makes its method greener is the ability to use excess renewable energy to power the electrolysis. Their solution is one of myriad ways -- ranging from batteries to rail cars on a hill -- that researchers are pursuing to store renewable power generated intermittently.
+
+New wind and solar power spurred on by government incentives have clogged transmission grids with excess supply from Germany to China and Texas. Solar power floods German grids at midday and then disappears at dark. Elsewhere, like in China, wind farms stand idle because grid managers can’t connect them as quickly as they’re built.
+
+“Wind generation in Germany is at a point where both the transmission and distribution grid is struggling to cope,” said Monne Depraetere, an analyst at Bloomberg New Energy Finance in London.
+
+Siemens isn’t alone in looking for ways to benefit from excess renewable power. Companies including Audi AG are developing power-to-gas technology that turns excess energy into hydrogen, which can then be stored and used in fuel cells. Siemens takes the process a step further, turning hydrogen into ammonia that can either be used as a fertilizer or blended into fuels.
+
+Its 30-kilowatt trial plant costs 2 million pounds ($2.8 million) and will begin testing next year, Schnettler said. It’s being funded with a 1 million pound grant from government agency Innovate UK.
+
+Even though the technology is mature, it’s still too expensive, said Claire Curry, an analyst for Bloomberg New Energy Finance.
+
+“There’s no way this is commercially viable with current natural gas prices and the current expensive cost of this electrolysis technology,” Curry said.
+
+Siemens reckons technology costs will come down over time, especially if the market for hydrogen-powered vehicles grows.
+
+“It’s really a market readiness question,” said Ian Wilkinson, systems team manager at Siemens. “Our estimate is 10 years or so for making ammonia as a commodity and then it’s probably some time after that as an energy vector.”
+
+Siemens’s Outlook for Gas Prices

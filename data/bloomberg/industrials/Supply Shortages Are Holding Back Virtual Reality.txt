@@ -1,0 +1,18 @@
+Supply Shortages Are Holding Back Virtual Reality
+['Joshua Brustein']
+http://www.bloomberg.com/news/articles/2016-04-20/supply-shortages-are-holding-back-virtual-reality
+Supply shortages at virtual reality headset makers are keeping the industry from growing as fast as it could, according to SuperData, a research company focused on the video game industry. On Wednesday the firm lowered its forecast for combined sales of virtual reality hardware and software to $2.9 billion in 2016, down 22 percent from a forecast it made last month before the Oculus Rift and HTC Vive headsets went on sale. It’s the second time this year that SuperData has lowered its expectations for virtual reality; in January it predicted that the VR industry would bring in $5.1 billion in revenue.
+
+Oculus Rift customers who order a headset today through its website shouldn’t expect to receive it until August, according to the company, and they’re limited to one per person. Pre-orders of the HTC Vive are now planned to ship “around June.” There are also still only a limited numbers of PCs with graphics cards powerful enough to display virtual reality. SuperData says Samsung is also having trouble keeping up with demand for its Gear VR, a cheaper headset that works with the company’s smartphones.
+
+While 13 million Americans say they plan to buy a VR headset this year, only 7.2 million units will actually be shipped, according to SuperData’s predictions. The headset companies haven’t made public sales projections.
+
+SuperData sees the supply shortage in part as an indication of better-than-expected demand. While it has become increasingly pessimistic about the short-term growth potential for virtual reality, SuperData hasn't changed its longer term projections. It sees the total market worth more than $40 billion by 2020.
+
+With such a limited number of headsets in circulation, it will be hard to expand interest beyond the core market, which SuperData describes as hard-core gamers and “industry hopefuls.”
+
+Stephanie Llamas, director of research at SuperData, says even word-of-mouth promotion is being stymied by early adopters’ difficulties in getting their hands on devices. “Broad consumer adoption relies on building awareness, but today nearly 80 percent of customers only occasionally or never hear about VR,” she said.
+
+Clifton Dawson, the founder of Greenlight VR, a firm that tracks the industry, predicts that it will be seven years before virtual reality is considered mainstream. “The challenges in the supply chain setbacks are temporary, but there are structural obstacles. And honestly, we’re just starting to understand them,” he said.
+
+The reality seems to be setting in for people who have been expecting the release of Facebook Inc.'s Oculus to change the technology landscape permanently. But there are still bulls out there. Greenlight VR surveyed 58 developers making virtual reality content. About half of them had been in business for less than a year, and most thought it would take two to three years for virtual reality to go mainstream. At the same time, about three-quarters of the developers Greenlight spoke with predicted that their companies would be profitable by the end of 2016. Greenlight’s report described this self-confidence as “aspirational.”

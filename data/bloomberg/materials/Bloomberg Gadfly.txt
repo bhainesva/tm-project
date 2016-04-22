@@ -1,0 +1,50 @@
+Bloomberg Gadfly
+['David Fickling']
+http://www.bloomberg.com/gadfly/articles/2016-04-13/iron-ore-s-price-bounce-still-has-some-spring-left-in-it
+Apr 12, 2016 11:47 PM EDT
+
+When iron ore surged above $60 a metric ton last month, the 19 percent gain was so abrupt that it was easy to dismiss.
+
+The move was labeled (by Gadfly, among others) a short squeeze with hardly any fundamental factors behind it. Lo and behold, the measure fell $10 in the subsequent week.
+
+Since then, benchmark ore delivered to China's Qingdao port has been on a steady climb, and is now within a whisker of $60 again. Fortescue Metals Group, the fourth-biggest ore miner, said Wednesday that shipments rose 6 percent from a year earlier in the March quarter, while mining costs fell to $14.79 a wet metric ton -- roughly enough to give the company about $30 of profit on each of the 41.8 million tons it shipped in the quarter .
+
+On the Mend March's rally in iron ore prices looked like a fluke at first. Now, not so much. Source: Metal Bulletin, Bloomberg data
+
+Fortescue is, if anything, trailing the iron-ore export pack. All the major miners -- Vale, Rio Tinto and BHP Billiton are the leaders -- are profitable at current prices, and new producers such as Australian billionaire Gina Rinehart's Roy Hill are joining the fray. Global iron-ore shipments in the first quarter were up 10.4 percent from a year earlier, Bernstein analysts led by Paul Gait estimated in a note to clients last week.
+
+Global iron-ore shipments first-quarter increase 10.4%
+
+There's a simple reason why these producers have been able to ramp up output in a quarter when, regardless of the recent price surge, iron ore has been at depressed levels. China still gets the majority of its supply from domestic mines, which are generally of lower quality and frequently in less accessible locations than import harbors close to the metal-bashing centers of the industrial northeast.
+
+Charity Begins at Home China still gets the majority of its iron ore from domestic mines Source: China Customs General Administration, National Bureau of Statistics of China
+
+Faced with declining or negative profitability, the country's steelmakers are cutting costs every way they can -- and one way to do that is to replace lower-quality domestic ore with better stuff from overseas. That decision has become even easier as the surge in supply from the likes of Fortescue has pushed down the price of imported rock to below even what domestic producers charge:
+
+Cheap at the Price Imported iron ore prices have dropped below domestic ones over the past two years Source: Bloomberg data
+
+China's iron-ore production peaked in 2014. It fell last year at the fastest rate since 1998, according to the U.S. Geological Survey. That's giving offshore businesses a chance to seize market share.
+
+Back in Black China's steel mills became profitable again during March for the first time since May Source: Bloomberg Intelligence
+
+There are other bullish straws in the wind. Chinese steel mills were profitable last month for the first time since January 2015, according to Bloomberg Intelligence data. The country's exports jumped the most in a year in March, indicating that its industrial machine still has some life left in it.
+
+Prices for cement, another crucial construction material, have jumped to their highest level since November, rising 4.2 percent last month according to China's National Bureau of Statistics. There's no futures market in Chinese cement, so that improvement is genuine: If speculation is driving the price up, it's by producers and consumers of the physical product.
+
+There are still significant clouds on the horizon.
+
+How much Chinese production exporters can displace is an open question, given that local mines are often tied by proximity and long-term contracts to the mills that consume their ore. China's flood of steel exports has been a safety valve for domestic producers, but has helped contribute to the collapse of plants in the U.K. and Australia over the past month. That's raising the prospect of trade restrictions in India, the U.S. and elsewhere.
+
+The industry is still too big. Steelmakers in China are likely to reduce output by about 18 percent between last year and 2018, according to consultancy World Steel Dynamics. Stockpiles of ore at the country's ports may rise above 100 million tons in data due out Friday, a glut that ought to weigh on prices. Adding to the problems, China can now produce steel from scrap for not much less than the cost of making it from iron ore and coal in blast furnaces, according to Bloomberg Intelligence.
+
+Still, for the moment, the picture is looking brighter than it has in months. This iron still has a bit of spring left in it.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+David Fickling in Sydney at dfickling@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Matthew Brooker at mbrooker1@bloomberg.net

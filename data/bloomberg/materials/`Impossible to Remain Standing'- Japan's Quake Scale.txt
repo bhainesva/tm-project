@@ -1,0 +1,38 @@
+`Impossible to Remain Standing'- Japan's Quake Scale
+['Gearoid Reidy']
+http://www.bloomberg.com/news/articles/2016-04-19/-impossible-to-remain-standing-japan-s-quake-scale-explained
+On April 15, the day after the first in a series of damaging earthquakes struck a rural part of southern Japan, all of the nation’s major newspapers carried the same headline: "Shindo 7 in Kumamoto." No further explanation was needed.
+
+When Japan’s earthquake-battered populace feel the ground shake under their feet, they turn on their TVs and open their Twitter feeds not to check the magnitude of the temblor but rather the shindo, or shaking intensity.
+
+On every TV channel, digital overlays report the region hit and a series of digits rippling away from the epicenter: one area might register a shindo 3, defined on the scale as "felt by most people in that zone;" another with level 4 ("most people are startled"). The first magnitude estimates typically come later. A shindo 7 - the maximum level - is a panic-inducing event recorded only four times under the current measuring system. On each of those occasions people were killed.
+
+While the shindo scale may seem baffling to outsiders, by communicating the strength of the earthquake felt in a specific area, it offers a far more immediate indication of the potential for damage than magnitude does. Magnitude, which is the value of the energy released at the source of an earthquake, can be a poor indicator of the impact on the surface: a quake of a large magnitude striking deep underground will do far less damage than a smaller one hitting at a shallow depth.
+
+"Earthquake waves are attenuated as they propagate," said Prof. Robert Geller, a seismologist at the University of Tokyo. "They don’t attenuate much when the quake is only a few kilometers deep, right underneath a populated area." As magnitude is inferred rather than directly measured, he says, there are discrepancies between the magnitude assigned by different agencies - the 1995 Kobe quake that killed more than 6,000 people was a magnitude 6.9 according to the United States Geological Survey, but a magnitude 7.3 according to the Japan Meteorological Agency (JMA). The magnitude scale is logarithmic, meaning that’s a difference in energy release of almost four times.
+
+10-Point Scale
+
+Unlike magnitude, shindo is a relative, arbitrary measure of the intensity of the earth’s shaking in a specific location. The shindo right above the epicenter will typically be the strongest, with the level falling in areas further away.
+
+Shindo map of April 14 earthquake in Kumamoto Copyright (c) Japan Meteorological Agency
+
+Shindo is a 10-point scale that runs from zero to seven, with levels five and six confusingly sub-divided into "upper" and "lower" strengths. The March 11, 2011 earthquake that triggered a tsunami and the Fukushima nuclear disaster was felt across almost all of Japan, but the shindo readings varied depending on the distance from the epicenter, ranging from seven in a part of Miyagi prefecture and upper five in parts of Tokyo to a barely perceptible 1 in Kyushu.
+
+There have been only four occasions when a shindo was recorded as level 7, data from the Japan Meteorological Agency going back to 1923 show - 2011, the Kobe quake in 1995, the 2004 Chuetsu earthquake that killed 46 and derailed a bullet train, and now in Kumamoto.
+
+At shindo 7, the JMA says, it is "impossible to remain standing." People may be "thrown through the air," wooden buildings may fall down, and even reinforced concrete walls may collapse.
+
+Until 1996, shindo was mostly measured by JMA staff stationed around the country who for more than a century reported how strong they felt the shaking and then surveyed the extent of the damage left behind, according to documentation on the JMA website.
+
+Now a network of seismographs spans the country, measuring the initial P-waves when an earthquake strikes. JMA computers collate the data and almost instantaneously issue estimates of the potential size and likely location of the quake.
+
+Early Warning
+
+This network is crucial to informing Japan’s early-warning alert system. When an earthquake of a certain size is detected, warnings are issued to iPhones, TV screens and factory lines to automatically halt trains and give people time to prepare before the more damaging S-waves strike.
+
+The warning system has become a source of pride in Japan, hailed in government pamphlets as a unique example of national ingenuity. "It’s useful but not perfect," said Prof. Geller of the University of Tokyo, "because it gives warnings that let them stop trains for distant quakes but not for quakes right under the track."
+
+In 2013 the agency was forced to apologize after mistakenly warning of an impending magnitude 7.8 quake in the central Kansai region that never materialized.
+
+Two major earthquakes hit southern Japan in less than two days

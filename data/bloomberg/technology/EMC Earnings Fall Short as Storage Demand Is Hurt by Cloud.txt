@@ -1,0 +1,22 @@
+EMC Earnings Fall Short as Storage Demand Is Hurt by Cloud
+['Dina Bass']
+http://www.bloomberg.com/news/articles/2016-04-20/emc-earnings-fall-short-as-storage-demand-is-hurt-by-cloud
+EMC Corp. reported first-quarter sales and profit that fell short of analysts’ estimates in a slowing market for storage devices, as the company nears a $67 billion takeover by Dell Inc.
+
+First-quarter profit excluding certain items was 31 cents a share, EMC said in a filing Wednesday. Revenue was little changed from a year earlier at $5.48 billion. Analysts on average had projected profit of 33 cents and sales of $5.63 billion, according to data compiled by Bloomberg.
+
+EMC’s older and pricier storage devices are facing slowing demand and newer models using flash technology aren’t growing rapidly enough to make up lost ground. As the largest data storage maker, Hopkinton, Massachusetts-based EMC is also being hurt as more customers opt to rent space from cloud vendors like Amazon.com Inc. and Microsoft Corp. rather than buy their own gear from companies like EMC.
+
+"The core storage business is moving to the cloud at an accelerated pace and that’s a net negative for the company," said Abhey Lamba, an analyst at Mizuho Securities USA Inc. "Flash is doing well for EMC but a lot of that is cannibalizing their own legacy systems."
+
+Dell’s planned purchase, the biggest technology acquisition ever, will combine EMC’s dominance in storage devices with closely held Dell’s No. 2 position in servers, the powerful machines that run corporate computing.
+
+“We continue to make progress on our combination with Dell,” Joe Tucci, chairman and chief executive officer, said in a statement. “Integration planning has accelerated to ensure we begin at full speed upon closing, the leadership team has been established, and we’ve received the vast majority of anti-trust approvals required.”
+
+EMC rose 2.9 percent to $26.30 at 10:30 a.m. in New York. The shares were down less than a percent this year through Tuesday.
+
+China remains the only country that has yet to provide regulatory approval for the merger, Tucci said on a conference call. Terms for the transaction are unchanged, and the deal should be completed within the originally announced time frame, he said. There are currently no plans regarding Tucci’s role at the combined company, he said.
+
+“This is all about making sure it’s a good deal for our customers, our shareholders and our people,” he said. “I’m just not making myself a part of this process or a condition or any factor in this process.”
+
+VMware Inc., which is majority-owned by EMC, forecast sales and profit for the second quarter that exceeded estimates and announced a new share buyback plan Tuesday. Shares jumped as much as 15 percent -- the most in more than two years -- to $59.23. They were trading at $57.99 at 10:30 a.m. in New York, erasing losses on the year.

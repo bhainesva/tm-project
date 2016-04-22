@@ -1,0 +1,48 @@
+Treasury Market’s Fastest Traders Don’t Like Trading Treasuries
+['Alexandra Scaggs']
+http://www.bloomberg.com/news/articles/2016-04-17/treasury-market-s-fastest-traders-don-t-like-trading-treasuries
+Sam Priyadarshi knew the Federal Reserve’s March statement was good for the Treasury market before he’d read a word of it.
+
+Just as the statement was released, Vanguard Group’s head fixed-income derivatives trader saw a chart of 10-year Treasury futures prices go vertical. The price move, a jump in trading volume, and other indicators of market depth all flashed bullish signals for Priyadarshi’s team on the trading floor of Vanguard’s “Goliath” fixed-income building in Valley Forge, Pa. Goldman Sachs analysts later said the statement was one of the most dovish releases since the financial crisis.
+
+Priyadarshi and his Vanguard team use {IGPV <GO>} to look at futures market depth and volume.
+
+On the other side of the floor, Gemma Wright-Casparius wasn’t looking at her screen at all. She handles portfolio decisions and trading for more than $60 billion of U.S. government-debt portfolios for Vanguard and was reading a printout of the Fed statement, pen in hand.
+
+That contrast captures a deep fracture in the $13.4 trillion Treasury market. Even large, sophisticated institutional investors who want to buy or sell U.S. debt still make most of those trades by calling a bond dealer on the phone, according to a recent report from the New York Fed. That’s a practice nearing extinction in markets such as currencies. In the highest-tech corners of the Treasury market—the futures market and platforms where dealers trade with one another—traders work in milliseconds, not minutes.
+
+The speed has drawn Priyadarshi to futures. He trades Treasuries for some of the company’s actively managed portfolios as well, but he says the futures market is quicker, because dealers and brokers let their clients trade directly on the market’s central order book. “There’s deeper liquidity in futures, and we can execute much faster,” says Priyadarshi, a finance Ph.D. from Virginia Tech who joined Vanguard in 2009 from Lincoln Financial Group. For Treasury securities, “it’s a relationship market, so you have to call dealers.”
+
+For a company of Vanguard’s size, it’s important to be strategic about trading, because large trades could move the market against them and raise trading costs. Vanguard manages more than $3 trillion globally and is the largest private-sector holder of Treasuries, according to data compiled by Bloomberg. Priyadarshi’s global team traded about $500 billion in fixed-income derivatives and Treasuries last year.
+
+The U.S. Department of the Treasury and four other agencies are now grappling with the market’s split in their first comprehensive review of its structure since 1998. The review was prompted by a gut-wrenching, 12-minute round trip in yields in October 2014. As part of that review, it asked market participants about their views on liquidity earlier this year. In February a group of analysts at JPMorgan Chase led by Joshua Younger said regulators should take note: The futures market held up better than cash Treasuries during the so-called flash rally in the global benchmark market. “To the extent that the relative resilience of futures markets persists through these episodes,” they wrote, “it will serve to reinforce this structural shift away from cash” Treasuries trading.
+
+The futures market is an attractive destination for investors such as Priyadarshi, who use algorithms to trade directly and anonymously with market makers and other investors. One basic algorithm widely used in the futures market is the “iceberg,” which splits up a large trade into smaller chunks in order to hide its size so that sophisticated traders don’t see the volume and trade against it.
+
+Yuriy Shterk, head of derivatives product management with financial-technology provider Fidessa Group, says his company’s algorithms and trading tools have become more popular in the Treasury market over the past 18 months, as a growing number of fund managers seek to wring extra returns by arbitraging price discrepancies between futures and cash markets. An average $311 billion worth of Treasury futures traded each day last year, up 21 percent from five years prior, according to data from CME Group. While volumes were higher for comparable Treasury securities—investors and primary dealers traded an average $410 billion of those each day—that figure has dropped 7 percent over the past five years, according to data from the New York Fed.
+
+One reason for the rising popularity of the futures market among investors is it generally requires less capital than bond trading. Banks’ balance sheets have gotten squeezed in recent years, with regulators introducing capital requirements limiting the amount of leverage they can take on.
+
+What’s more, Priyadarshi can see trades in real time in the futures market, which helps him determine how best to react. It also helps him get a read on market sentiment faster after big events, such as the March 16 Fed statement. Higher volume shows stronger conviction behind a move. His team also looks at market depth, which captures a top-level snapshot of trader demand to buy­—on the bid side—and sell—on the offer side—at various prices. Large imbalances between the two provide clues about sentiment and where the market may move next, he says.
+
+To break down the distribution of trading, go to {VWAP <GO>} for the volume-weighted average price.
+
+While the cash market’s prices went vertical around the same time on March 16, there’s no data available on Treasury market transactions each day, much less in real time. The most detailed public report comes each Thursday, when the New York Fed releases aggregate positions, transactions, and financing from the 22 primary dealers that trade with the Fed.
+
+The Treasury Department is developing a plan for regulators to access more detailed trading data by the end of this year as part of its review of the market. Regulators are also determining how broadly to disseminate that data, a topic that U.S. Treasury Counselor Antonio Weiss called “controversial” in a Senate subcommittee hearing last week.
+
+The lighter capital burden for futures trades also makes it easier to use that market to add leverage or bet on Treasury market declines, strategists say. For cash Treasuries, one common source of investor leverage in the market is short-term securities lending arrangements known as repurchase agreements, which regulatory restrictions have squeezed since the financial crisis.
+
+The futures market is also considered to be home turf for high-speed electronic trading firms that use smaller amounts of capital to make markets, such as KCG Holdings and Virtu Financial. Automated-trading firms have been active in futures markets for more than a decade and are now playing a bigger role in the market for new, ultra-liquid cash Treasuries. New York Fed analysts found that those traders erase price differentials between the most heavily traded current Treasuries and futures in a matter of milliseconds and said the practice makes both markets more efficient.
+
+Shterk of Fidessa says his company randomizes its algorithms to disguise the intentions of its clients from high-speed trading firms. Those firms now make up more than half of the central trading platforms where dealers trade Treasury notes, bonds, and bills with one another, according to a July government report.
+
+“We randomize things a lot, and we make sure there’s no predictive pattern in there for the other algos, to protect what our clients are doing,” he says. “You don’t want to expose your complete order size.”
+
+High-speed trading firms generally don’t make markets in old securities, however, because those trades typically require more capital. So, broadly, Wall Street banks are still the market’s main intermediaries. The 22 primary dealers see about $500 billion of overall trading volume each day, according to New York Fed data.
+
+Priyadarshi says it has become cheaper and quicker to trade futures as automated-trading technology has improved, but he isn’t complaining about the way the banks execute his trades, either. “We’re agnostic about who’s on the other side, as long as we’re executing efficiently,” he says. As for cash execution, “it’s pretty fast. But it’s not as fast as futures.”
+
+
+
+Scaggs covers government bonds at Bloomberg News in New York.

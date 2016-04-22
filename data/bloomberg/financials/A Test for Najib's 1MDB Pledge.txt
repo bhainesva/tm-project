@@ -1,0 +1,38 @@
+A Test for Najib's 1MDB Pledge
+['Christopher Langner']
+http://www.bloomberg.com/gadfly/articles/2016-04-19/a-1mbd-default-would-test-najib-s-pledge
+Apr 19, 2016 12:05 AM EDT
+
+A technical debate in Asian bond markets is about to get a real-life test.
+
+The assertion by Abu Dhabi's International Petroleum Investment Co. that state investment company 1Malaysia Development Berhad is in default could entitle buyers of the Malaysian company's $3 billion bonds due in 2023 to request immediate repayment. And unless the embattled fund has that kind of cash available, investors could fall back on a letter signed by Prime Minister Najib Razak stating that if 1MDB cannot pay, ``Malaysia shall then step in to inject the necessary capital in the issuer or make payments to ensure the issuer's obligation in respect of the debt are fully met."
+
+1MDB failed to pay more than $1 billion on a loan made last year by Abu Dhabi’s sovereign wealth fund, according to a London Stock Exchange filing. The 4.4 percent bonds have a clause that says if the company misses any payment larger than $30 million, it triggers what is technically called an acceleration: a requirement for immediate repayment of the bonds.
+
+Size of missed payment that would trigger acceleration $30 million-plus
+
+The debt was held by large institutional investors such as BlackRock and Fidelity until very recently, according to data compiled by Bloomberg. Such high-profile portfolio managers may have found reassurance in the letter of support attached to the debt documents as investigations into 1MDB's finances coincided with near brushes with default.
+
+Through Fire and Brimstone In spite of heavy swings, the prices of 1MDB's bonds never reflected a high possibility of non-payment Source: Bloomberg
+
+Malaysian history under Najib’s predecessors holds warnings for investors, however. Seven years ago, the government spooked a major port project’s bondholders by disputing their notes’ letter of support. At that time, lawmakers questioned the ballooning cost of building the Port Klang Free Trade Zone industrial park. Kuala Dimensi, the project’s contractor, sold almost 4 billion ringgit ($1 billion) of bonds to finance the development, all of which had letters of support from the Transport Ministry.
+
+A state investigation found such letters breached Malaysia’s Financial Procedure Act of 1957. The act says that ``no guarantee involving a financial liability shall be binding upon the federal government, unless it is entered into with the written authority of the Treasury or in accordance with federal law.” Most of the project’s bonds have since matured, and were eventually paid in full.
+
+Yet the ghost of that denial of a letter of support haunts investors in 1MDB. The fact that the company's own letter is signed by the minister of finance (Najib holds that post too) has given them some comfort. Still, the current administration said in 2014 it wasn’t responsible for all of 1MDB’s 41.9 billion ringgit ($10.7 billion) debt -- without denying the validity of the letter.
+
+On a Ride With 1MDB The travails of the state-backed investment fund have caused big fluctuations in the premium investors charge on Malaysian debt Source: Bloomberg; J.P. Morgan Indexes
+
+Unless 1MDB manages to remove the default sign now hanging on it, investors will have the occasion to test the strength of that support document. A default by 1MDB would be viewed internationally as a failure by Malaysia itself, so the chances are, the Treasury will make sure everyone is paid, as it did with Port Klang. Given the political sensitivity, however, don't be surprised if in the meantime there is some questioning of the letter's validity.
+
+All this is a useful reminder for investors that anything short of an outright guarantee can be challenged. Letters of support can be comforting when bonds are sold. In a default, they might be just letters.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Christopher Langner in Singapore at clangner@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Paul Sillitoe at psillitoe@bloomberg.net

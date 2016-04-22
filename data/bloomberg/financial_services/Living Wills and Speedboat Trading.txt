@@ -1,0 +1,132 @@
+Living Wills and Speedboat Trading
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-13/living-wills-and-speedboat-trading
+Living wills.
+
+Look, I am not one of those people who have a magical faith in simplicity, who believe that the solution to every complex problem can be written on a napkin. I am perfectly willing to believe that the response of a massive diversified financial services company to a global financial crisis would involve a lot of moving pieces. It would be weird if it were otherwise. And yet the whole idea of big banks' "living wills," and their detailed inspection by regulators, does seem a bit baroque to me. Here's how you plan for a large systemic bank to fail:
+
+Capitalize the holding company reasonably thickly. Spread a nice thick layer of unsecured long-term holding company debt on top of that capital. Do all the systemic stuff (deposit banking, repo, derivatives, etc.) at operating subsidiaries. Try not to lose money. When the crisis comes, write down the holding company's equity and debt until the operating subs are well capitalized again. Sell those subs, if you have to, in their entirety, to avoid disruptions to their systemic businesses. Respond to the conditions of the actual crisis to avoid losing any more money than you have to. If losses have eaten through all of the holding company's equity and all of its debt ... [looks around furtively] ... [whispers] ... you're probably gonna need a bailout.
+
+This is more or less the official model (though the official model looks around very furtively indeed in step 8); it is called "orderly liquidation authority," or "single point of entry," or "Title II." It has the virtue of relative simplicity, which is a particularly important virtue in planning for an unforeseen financial crisis: Any much more detailed plan would run into the problem that you don't know what the crisis will be. Imagine a bank in 2005 planning for a crisis by saying "in hard times, we will rely on our vast reserves of AAA-rated mortgage-backed securities to raise ready cash and weather the storm."
+
+But in addition to the relatively simple model, the big banks need to submit "living wills" that lay out in some detail how they would wind themselves down, with lots of inevitably untestable assumptions about how they'd operate their business during their own catastrophic failure. And then the regulators go and find fault with the plans.
+
+Today the Federal Reserve and the Federal Deposit Insurance Corporation rejected the living wills of JPMorgan, Bank of America, Wells Fargo, Bank of New York Mellon and State Street; the FDIC also rejected Goldman Sach's plan, while the Fed rejected Morgan Stanley's. (Citigroup was approved by both agencies.) The critiques are ... detailed; JPMorgan's runs to 30 pages, with a lot of redactions.
+
+The debate always seems to sound a bit like this:
+
+J.P. Morgan has previously said its living will is credible and that it has a “fortress balance sheet” that would prevent it from ever needing to tap taxpayers for help in a crisis. “We will be vigilant and will never take such a high degree of risk that it jeopardizes the health of our company … this is a bedrock principle,” Chief Executive James Dimon said in his recent shareholder letter.
+
+Yeah no none of that matters. The question is, once you already have jeopardized your health, how do you wind down your bank without a bailout? There are relatively simple answers (capitalization, single-point-of-entry), which require a certain amount of faith, and there are relatively complicated answers (thousand-page plans for how to operate dozens of businesses in quasi-bankruptcy), which require even more faith but somehow inspire less.
+
+Financial technology.
+
+Hmm yes:
+
+“We’ve had people trading in the Hamptons, from airplanes, from a speedboat,” said Gerald Starr, chief executive officer of Cloud9, who worked previously for several trading technology firms.
+
+Don't you wish a little bit that he'd said something like "We've had people trading while volunteering at soup kitchens, meditating at silent retreats, spending quality time with their families"? Actually I guess that would be worse, never mind. Speedboats it is. I do not even slightly understand the appeal of trading from a speedboat. Cloud9, as its name implies, provides an "Internet-based cloud computing service" that lets traders trade from anywhere, and JPMorgan is thinking about signing up. Upsides include "higher voice quality and data security"; downsides include a fleet of traders recklessly speedboating through the oceans of the world, putting on massive trading positions from their soggy iPads. Also, I am sorry to bring up a painful memory, but JPMorgan has been humbled by under-supervised cetacean trading in the past; what if one of the speedboat iPads falls into the hands (flippers) of a literal whale with a penchant for trading credit derivatives?
+
+Speedboats, really. Can you imagine the pitch?
+
+CLOUD9: With our systems you can trade from anywhere.
+
+JPMORGAN: I mean, it is the 21st century, our traders can log in remotely.
+
+CLOUD9: From a boat though?
+
+JPMORGAN: Ooh good point, where do we sign?
+
+In other breathless technology news, Commodity Futures Trading Commissioner J. Christopher Giancarlo doubled down on his claim that the blockchain could have prevented the disorderly failure of Lehman brothers (which we've discussed previously), and suggested that this is a reason not to regulate blockchains (or "distributed ledger technology") too much:
+
+Fortunately, there is a good model for the healthy development of DLT — the “do no harm” approach to the early internet. In the mid-1990s, a Republican US Congress and the Clinton administration were clear: the private sector should lead.
+
+There are those who would argue that taking a different approach to the deregulatory '90s could also have prevented Lehman, but, hey, blockchain.
+
+Meanwhile in the "fintech" areas of financial technology, the former co-head of Charles Schwab's retail brokerage is joining Betterment's board. And Charles Hallinan, who is "known in the payday-loan industry for pioneering the tactics some lenders use to circumvent state laws banning the costly advances" (and who was recently indicted for some of those tactics), is an investor in a bunch of fintech firms. You can sort of see the generational shift here: Where once discount brokerages democratized access to investing advice, and payday lenders democratized access to lending (sort of!), now those roles are filled by fintech.
+
+JPMorgan earnings.
+
+JPMorgan announced earnings "that beat Wall Street estimates on cost cuts and a smaller decline in trading revenue than most analysts predicted," with $1.41 of adjusted earnings per share versus $1.25 estimates. Here are the press release and earnings supplement.
+
+Valeant.
+
+The way Valeant's bond indentures work is:
+
+Valeant is required to file its annual report on Form 10-K "within the time periods specified in the SEC's rules and regulations" (section 4.3). That's basically February 29, though Valeant can get a grace period through March 16. After March 16, holders of 25 percent of any bond series can send Valeant a letter saying it's in default. But then it gets 60 days to fix the default (section 6.1(d)), and if it does, everything is fine again.
+
+So while the bonds sort of require Valeant to file its 10-K when it's due at the end of February, nothing actually happens unless Valeant fails to file by at least mid-May. Valeant "is working diligently and is on schedule to file its 10-K on or before April 29, 2016," two months late, but still not too late.
+
+Nonetheless Centerbridge Partners, which owns about 25 percent of Valeant's 5.5 percent bonds due 2023, sent Valeant a notice of default this week, starting the clock running. Centerbridge could have sent the notice a month ago, but waited, apparently "so as not to complicate Valeant’s negotiations with lenders" under its credit facility. The delay means that Valeant has until June 11 to get its filings in order. The credit agreement is a bit stricter than the bonds: It requires Valeant to file the 10-K by March 30 (section 5.1(b)); if it can't, there's a default, and Valeant has 30 days (until April 29) to cure the default (section 8.1(e)). Again, Valeant is "on schedule" for that, but just in case it got its credit-facility lenders to extend the deadline to May 31 in exchange for a 0.50 percent fee (and an extra 1 percent interest until it files its second-quarter 10-Q this summer).
+
+It seems like the most likely outcome here is that Valeant will file its 10-K later this month, or maybe even early in May, and everything will be fine. Or, at least, that's what Valeant is saying. But you never know! Valeant has been wrong before. And the only way for Centerbridge to get a seat at the table for any future renegotiation, and maybe even to claim some of that sweet sweet 50-basis-point extension-fee money for itself, is by filing a notice of default. I would say that the contract's default-notice requirement encourages a certain amount of antagonism between the company and its creditors, but that isn't even really true. The notice isn't that antagonistic; after all, Centerbridge was kind enough to wait to file it until Valeant had cleaned things up with the credit facility. This is more, just: The contracts call for some legalistic stuff, and the legalistic stuff happens, and everyone is just used to it.
+
+Elsewhere, Valeant investor and director Bill Ackman has a movie coming out tomorrow that apparently features a scene of him in a Chicago church:
+
+As the snow fell outside, the hedge-fund titan worked the pews, shaking hands and listening to tales of woe, then stood in front of the sanctuary’s stained-glass windows, where he gave nothing short of a sermon on why Herbalife was a pyramid scheme that was, as he put it, “stealing the American Dream” from new Latino immigrants, who make up the bulk of Herbalife’s U.S. ranks. A spontaneous chant, “Ackman amigo,” sprang from the largely Hispanic crowd.
+
+Should mutual funds be illegal?
+
+I admit that I sometimes make fun of the idea that the ownership of shares in multiple companies in the same industry by diversified mutual funds discourages competition and violates the antitrust laws. I seem to have called it "kooky" more than once. But I also think that I am one of the few people in the media who takes it particularly seriously. You should take it seriously! It is a fascinating idea, with interesting theoretical and empirical grounding, that has deep implications for the structure of our economic system. It's also kooky though.
+
+But now it seems to be getting more and more mainstream. It's gotten an article in the Harvard Law Review, a mention at a congressional antitrust hearing, a Justice Department antitrust investigation (and another antitrust complaint that seems related to the theory), and now an article by Steven Davidoff Solomon in the New York Times. Davidoff Solomon seems to come out more or less the same way I do: fascinating, but kooky.
+
+Institutional investors may engage with management on their business, but it is not extensive and it is done at the fund level, not globally from each asset manager. Instead, funds engage in quasi-passive governance, often herding toward activist investors that do not have these cross-holdings. BlackRock, which is known for not challenging management, just ran its first activist campaign in Hong Kong. It is hard to believe that these shareholders are influencing pricing at these smaller levels without engagement with the company.
+
+Anyone who comes to this issue by looking at how big mutual fund complexes actually operate will tend to dismiss the possibility that they discourage competition. They just ... you know ... sit there. How can they be masterminding a giant antitrust conspiracy across multiple industries? But if you come at at from a theoretical-econometric perspective instead, you might be more persuaded: Competition does seem to be going down, cross-ownership seems to be going up, and there's a vaguely plausible governance theory in which the two things could be related. Again, I am basically with Davidoff Solomon: The actual practice of big diversified mutual funds doesn't seem all that anticompetitive. But the idea that they are leading an antitrust conspiracy that is so massive and so secret that even they aren't aware of it has an obvious romantic appeal, and part of me wants it to be true.
+
+Argentina.
+
+Here's a chart of the yield on Argentina's 8.28 percent U.S. dollar bonds due 2033:
+
+There is a big asterisk to that chart, though, which is that these bonds stopped yielding anything in the summer of 2014: They are "exchange bonds" that Argentina has been enjoined from paying by a New York federal court for almost two years. Soon that injunction will probably be lifted, and Argentina can go back to paying interest on the exchange bonds. The bondholders, you'd have to say, don't seem all that worried.
+
+But as part of the deal to lift the injunction, Argentina has to sell new bonds to pay off its holdout bondholders. How's that going?
+
+Underwriters leading a sale of Argentine debt that could reach $15bn have received expressions of interest from fund managers after the first day of investor marketing, according to three sources familiar with the transaction. The orders of interest for the 10-year bonds indicated pricing to yield between 8 and 8.25 per cent, Eric Platt and Mary Childs report in New York.
+
+A good start, though it strikes me as a little odd that a defaulted 17-year bond would trade at a 6 handle while a brand-new 10-year would come with an 8 handle. Also fun is that the prospectus for the new bonds mentions that "from time to time, the Republic carries out debt-restructuring transactions":
+
+"It does make you wonder if transparency has gone almost to the point of humor," said Gabriel Sterne, the head of macro research at Oxford Economics Ltd. in London, when told of how the document was phrased. "The interesting thing is if they’ve put it in there so that if it ever came to another legal case they could say, well, we told you.”
+
+Indeed. Meanwhile, Argentina still seems to be trying not to pay some of the holdouts it had previously agreed to pay.
+
+In somewhat less sovereign bond news, Mitu Gulati and Mark Weidemaier claim that their students may have found a solution to Puerto Rico's debt problems:
+
+Puerto Rico may not need to act retroactively. As several of our students discovered, Commonwealth law, like that of other civil law jurisdictions, recognises that creditors in a debt crisis must act collectively. This includes the duty to co-operate in negotiating a workout when a debtor cannot pay. For instance, some of our students discovered a longstanding provision of Puerto Rico’s Civil Code, §5178, which envisions a judicially-supervised restructuring vote that binds all creditors if a majority approve.
+
+That's a good student project, saving a struggling U.S. commonwealth from the ravages of vulture capitalists. I am not sure I'd count on the students to succeed, but then, the alternative is "Bill to Ease Puerto Rico Debt Crisis Introduced in House," and I'm not sure I'd count on the House either.
+
+People are worried about unicorns.
+
+Even unicorns need to live somewhere, and while some prefer to sleep on a pillow of dew under a blanket of starlight in the heart of the Enchanted Forest, a lot of them require Class A office space in San Francisco. Which is creating worries about an office-space bubble:
+
+San Francisco’s office market “continues to defy expectations and common sense in some ways,” said Jed Reagan, an analyst who follows the office market for Green Street Advisors. “There is a speculative growth component to a lot of the tech demand out there,” he added. “That’s a big concern.”
+
+One part of this concern is the delightfully named "space banking," which is not the provision of interstellar financial services but rather the process of leasing far more office space than you need right now, so that you can expand in the future even if all the other offices have been snapped up. It's a little like the startup approach of raising as much money as you can right now even if you don't have any immediate use for it, but with the opposite implications: Raising too much money is a hedge against the market crashing; leasing too much space is a hedge against it continuing to be hot.
+
+Meanwhile here's Peter Thiel:
+
+“Startup tech stocks may be overvalued, but so are public equities, so are houses, so are government bonds,” said Thiel, speaking Tuesday at the LendIt USA Conference in San Francisco. “Silicon Valley is quite far from it. If the bubble is in cash, illiquid startup investments may be a place to hide.”
+
+I just feel like analyzing the startup bubble, or lack thereof, as a consequence of monetary policy feels so ... unimaginative. I prefer to analyze it as terrible children's fantasy literature. Speaking of which, "Unicorn Capital Partners, a China-focused venture capital fund-of-funds launched by former partner at Emerald Hill Capital Partners Tommy Yip, has closed its debut fund at about US$210 million." A good name for a VC fund-of-funds would be Private Technology Startup Valued at $1 Billion or More Capital Partners. Elsewhere, "Lady Gaga's Startup Just Went Out of Business."
+
+People are worried about bond market liquidity.
+
+It is quiet on this front, I must confess. Perhaps everyone is soothed by JPMorgan, whose "fixed-income trading revenue fell just 13 percent to $3.6 billion, beating the $3.24 billion estimate of Goldman Sachs Group Inc. analyst Richard Ramsden and the $3.42 billion estimate of Susan Roth Katzke at Credit Suisse Group AG." Dealers are still trading bonds!
+
+Things happen.
+
+Prosecutors raid Panama Papers law firm Mossack Fonseca. Released Court Documents Send Fannie, Freddie Shares Soaring. At D.E. Shaw, a Star Falls Over Concerns About Risk. Peabody Energy Files for Chapter 11 Bankruptcy. Talks Between Greece, Creditors Could Finish in Month, Bailout Fund Chief Says. Oil Producers Risk Severe Price Slump If Freeze Deal Fails. Prosper Talks With Goldman, Others to Replace Citigroup on Loan Arrangement. Twitter and the Stock News Echo Chamber That Whips Up Volatility. A Potential Warren Buffett Successor Gets More Duties at Berkshire. BuzzFeed slashes forecasts after missing 2015 targets. Yale Advances in Shaping Portfolio to Address Climate Change. "Empowerment." Supercars. Pencil store. Want a Higher Salary? It Helps If You're a Man With Rich Parents. "Princeton sprint football will never be as successful or notable as lacrosse or squash."
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

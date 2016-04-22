@@ -1,0 +1,36 @@
+Fitbit's Move Into Medical Gadgets Risks Attracting FDA Scrutiny
+['Selina Wang']
+http://www.bloomberg.com/news/articles/2016-04-15/fitbit-s-move-into-medical-gadgets-risks-attracting-fda-scrutiny
+Fitbit Inc. won over Wall Street with a series of hit fitness trackers. Now, with competition intensifying and new products selling less briskly than expected, investors are clamoring for a next act.
+
+Fitbit’s answer is turn itself into a “digital health company” that relies less on consumers. Having introduced a heart-monitoring bracelet last year, the company eventually wants to sell a range of clinical technology to the health-care industry.
+
+The strategy has merit since it would dramatically broaden Fitbit’s market beyond fitness enthusiasts. But counting a runner’s paces is relatively simple: tracking someone’s vital signs is far more fraught. Exhibit A: a class-action lawsuit filed by consumers in several states alleging that Fitbit’s heart-monitoring technology is “wildly inaccurate” and could cause harm because it under-counts heart rates by as much as 75 beats per minute. As Fitbit pushes further into medical technology, it could attract the attention of the U.S. Food and Drug Administration, which regulates medical devices.
+
+That would complicate the business, said Charlie Anderson, a Dougherty & Company analyst. “It will make things trickier from a timing perspective,” he said. “If you don’t have to go to the FDA you can release products when you want to. If you go to the FDA it depends on when they can approve things.”
+
+Chief Executive Officer James Park is determined to remain a leading player amid competition from Apple on the high end, China’s Xiaomi Corp. on the low end and multiple players in between. He sees clinical technology as a natural next step for nine-year-old Fitbit. The company has more than quintupled its annual research and development budget in the last three years to $150 million and has hired scores of software developers and hardware engineers -- “mad scientists,” investor-relations chief Brad Samson jokingly calls them.
+
+Fitbit devices are already used in diabetes and weight-management programs for two of the largest U.S. health insurers. Its corporate wellness program, where companies give employees Fitbit activity trackers to encourage healthier lifestyles, generates less than 10 percent of revenue for now but is growing in size. Park, who declined to discuss specific products, said Fitbit is working on more advanced sensors and moving in a more clinical and medical-grade direction. Ultimately, Fitbit gadgets could monitor blood pressure, blood sugar and even diagnose disease.
+
+“We’re not there yet,” Park, 39, said in an interview. “But we think five to 10 years down the line, the power of these devices to help consumers, health-care providers, the whole health-care ecosystem track and give diagnoses to people -- I think it’s incredibly tantalizing.”
+
+Park said Fitbit is on the lookout for digital health companies to acquire . “M&A is definitely an important part of out strategy,” he said.
+
+Analysts say that while the health-care push makes sense in the long-term, it will take time to get there, meaning profits will take a hit as the company ramps up R&D and fends off competition in the consumer wearables market.
+
+“The health-care market is still early-stage and is going to be more expensive to develop for than the consumer market,” said Steven Wardell , an analyst at Leerink Partners. “If they choose to make clinical claims and seek FDA approval, then they’ll probably find that it will cost more and take longer.”
+
+That emerging reality has put pressure on the shares, which have fallen more than 40 percent this year. And the heart-monitor lawsuit isn’t exactly easing investors’ concerns.
+
+The plaintiffs allege that Fitbit’s advertising -- with slogans like “Every beat counts” and pictures of users doing strenuous activity accompanied by images of charts delivering real-time elevated heart readings -– made consumers believe that they could rely on the accuracy of the product.
+
+Plaintiff David Urban bought a Fitbit PurePulse Tracker to monitor his heart rate while training for a marathon. Because Urban has a family history of heart disease, his doctor recommended that he keep his heart rate from exceeding 160 beats per minute. Urban alleges the tracker consistently under-recorded his pulse by as much as 25 bpm. Dr. Vincent Pedre, who practices internal medicine, says if users with cardiovascular diseases rely on a device that under-reports their heart rates, then the user could exercise at a level that puts stress on the organ, potentially leading to a heart attack.
+
+Asked about the case, Fitbit CEO Park said: “People need to use common sense. It’s not a medical-grade device; it’s a consumer device. In that setting, it works incredibly well. You should probably follow your doctor’s advice and use whatever device they prescribe to you. Just use your judgment.”
+
+Fitbit says the suit has no merit and plans to contest it vigorously.
+
+So far the FDA has opted not to regulate what it calls “general wellness devices.” But in an interview Bakul Patel, the agency’s associate director for digital health, said the FDA would start regulating the technology if and when Fitbit claims to diagnose and treat specific conditions.
+
+Park professes little concern. “I think we’ve had a pretty open policy with regulators,” he said. “I’ve been out to DC multiple times already. We want to work together with the government to find the right balance.”

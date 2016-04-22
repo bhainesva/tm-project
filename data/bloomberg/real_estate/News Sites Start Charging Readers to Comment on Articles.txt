@@ -1,0 +1,22 @@
+News Sites Start Charging Readers to Comment on Articles
+['Joshua Brustein']
+http://www.bloomberg.com/news/articles/2016-04-20/news-sites-start-charging-readers-to-comment-on-articles
+News publishers have such a fraught relationship with the people who comment on their articles that many websites have been removing the comments section altogether (including this one). Michael Robertson thinks he has a better idea: start charging the people who hang out there.
+
+Robertson, an entrepreneur in San Diego best known for founding MP3.com and fighting a long legal battle with the record industry, argues that the prospect of a new revenue stream will convince a struggling industry to reconsider the value of comments. A self-proclaimed libertarian, he believes his company, SolidOpinion.com, can provide a market solution to trolling. “If we can turn this into a revenue producer, then all of a sudden publishers will want it; they can invest time in it; and we can improve comments,” he said.
+
+One big news company is already on board. Tribune Publishing, which owns the Chicago Tribune and the Los Angeles Times, turned on SolidOpinion’s software for the San Diego Union-Tribune’s website over the weekend. Readers can earn points, which can be used to buy more prominent placement for their comments at the end of news stories, by posting comments, visiting the site regularly, or spending real money. The newspaper sells 800 points for $10. The minimum price of a promoted spot is 15 points. Tribune isn’t using the software on its biggest papers at first.
+
+Until now, the newspaper was using Facebook’s commenting system. The Union-Tribune had mixed feelings about its dependence on the social network. It was hungry for more data about its readers and felt that Facebook wasn’t sending as much traffic back to its site as expected. The company also pays for online moderators and was tempted by the idea of offloading that cost to the people leaving the comments, said Tom Mallory, the paper’s online news director. But Mallory’s main goal was straightforward: “to stamp out troll-ism.”
+
+Not everyone who wants to leave a comment has to pay. SolidOpinion leaves the bulk of the comments section to operate as it always has, but it adds three slots at the top for “promoted comments,” which can be auctioned off to the highest bidder. Publishers have the option of using SolidOpinion's software to moderate all their comments. The startup's service is free to use, but it takes a cut of all cash transactions.
+
+Robertson’s startup is one of an increasingly broad spectrum of experiments to bring controversial commenters under control. Another startup, called Civil, makes a tool that requires readers to rate the quality of two comments and then certify that their own comment is civil before their post goes live. The New York Times, the Washington Post, and the Mozilla and Knight foundations are collaborating to create open-source tools that publishers can use to manage comments.
+
+Then there’s the nuclear option. Last year, Tablet magazine, a New York-based Jewish publication, started charging people to post any comment on its website. Readers can pay $2 a day, $18 a month, or $180 a year. Alana Newhouse, the magazine’s editor-in-chief, said she was sick of anonymous commenters haranguing her writers but wanted to leave an option for people willing to prove their good intentions by making what amounts to a donation.
+
+The result has been far fewer comments, but Newhouse doesn’t mind. She said making money was never the priority. “They are not just flailing and throwing spitballs at you because they’re trying to impress their Facebook friends,” she said. Since first implementing the system last February, Newhouse said she’s lost count of how many publications have contacted her as they explore similar moves.
+
+Robertson’s vision for paid comments is something more akin to advertising. He expects political groups will pay for digital real estate under articles related to their cause, and businesses will see the comments section as a more cost-efficient ad.
+
+His first client may not be on board with this vision. When the Union-Tribune started using SolidOpinion, Mallory revised the paper’s guidelines to strengthen prohibitions against using the comments section to shill for specific products or services. He said: “I don’t want to discourage a small business from posting a comment or promoting it, but I would discourage blatantly commercial use of that place.”

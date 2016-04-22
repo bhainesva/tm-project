@@ -1,0 +1,46 @@
+Apple-FBI Battle Over IPhone Encryption Rages on in New York
+['Christie Smythe']
+http://www.bloomberg.com/news/articles/2016-04-15/apple-fbi-battle-over-iphone-encryption-rages-on-in-n-y-case
+The tug-of-war between Apple Inc. and the FBI over encryption shows no signs of easing with the company standing fast in its refusal to help investigators in Brooklyn access a drug dealer’s phone.
+
+The government’s argument that it needs Apple’s help to extract the data is undercut by its revelation in California that it cracked a terrorist’s phone without the tech giant’s assistance, even though it was more secure, Apple said in court papers filed in Brooklyn on Friday.
+
+After months of fighting, both sides are now deeply entrenched in their positions -- arguments that have drawn other technology companies and government officials into an intensifying public debate over privacy. A day before Apple’s latest filing, Microsoft Corp. took a stand in defense of its customers’ data-protection rights, suing to overturn a U.S. law requiring it to comply with data requests without telling its customers.
+
+In the Brooklyn case, the U.S. government is asking a federal judge to order Apple to help, after a magistrate judge rejected the prosecutors’ request. Apple said the magistrate judge’s ruling should stand.
+
+“The government’s failure to substantiate the need for Apple’s assistance, alone, provides more than sufficient grounds to deny the government’s application,” Apple said in its filing.
+
+Privacy Fight
+
+The outcome of the case could influence what individuals can expect in terms of privacy, as well as how technology companies and law enforcement interact. The U.S. has a week to respond to the Friday filing, and on Tuesday Apple General Counsel Bruce Sewell is set to testify at a Congressional hearing on encryption issues along with representatives from the FBI and the New York police department.
+
+Justice Department spokeswoman Emily Pierce said in a statement Friday that the company had "changed course" in the Brooklyn case after initially agreeing to help the government. Apple had previously regularly complied with orders under the All Writs Act as well as demands to extract data from phones with older operating systems, she said.
+
+"As we have made clear in our previous filings, Apple expressly agreed to assist the government in accessing the data on this iPhone -- as it has at least 70 times before in similar circumstances," she said. "Apple has said it would take them only a few hours to open this kind of phone, because they already have a mechanism that would allow them to do so.”
+
+Tensions Escalate
+
+Tensions between the technology industry and government have escalated sharply in the two months since a California judge ordered Apple to help prosecutors access data on an iPhone used by one of the killers in the December San Bernardino attack. U.S. senators this week released draft legislation that would give courts more power to force companies to let investigators access secure information. The proposal has been denounced by civil libertarians as a ban on encryption, which they argue is needed to protect data from the growing threat of hackers.
+
+While the government dropped the California case after finding another way to access the data, it refused to back down in the Brooklyn case.
+
+Other Means
+
+Apple said in its filing that the government has failed to disclose whether it even tried to use the third-party’s method on the drug dealer’s phone, and has otherwise "made no showing that it has exhausted alternative means for extracting data from the iPhone at issue here."
+
+The company also disputed what it described as the government’s "sweeping interpretation of the All Writs Act." The far-reaching law, originally passed in 1789, gives courts authority to make rulings necessary to enforce other lawful orders, such as warrants. Apple has argued that the law shouldn’t be used to force it to hack through its encryption at the government’s behest.
+
+"While Apple strongly supports, and will continue to support, the efforts of law enforcement in pursuing criminals" the government’s view of the law "is plainly incorrect and provides no limit to the orders the government could obtain in the future," lawyers for the company said in the filing. "And that is precisely what the government seeks here: to obtain an order that it can use as precedent to lodge future, more onerous requests for Apple’s assistance."
+
+Congress’s Role
+
+Apple argued it’s Congress’s responsibility to define what technology companies must do to aid investigators.
+
+The phone seized from the methamphetamine dealer in Brooklyn runs iOS 7, which has weaker security than the iOS 9 operating system on San Bernardino shooter’s device, or another one belonging to an alleged gang member in Massachusetts that the government also wants to get into.
+
+In bringing its appeal of the magistrate’s order, the government may find it is a "victim of the cry wolf syndrome," after already arguing it needed Apple’s help to unlock the terrorist’s phone and then dropping its case, said Scott Vernick, head of the data security and privacy practice at Fox Rothschild LLP. The same situation could arise in Brooklyn, he said.
+
+"The question that is going to be talked about is whether they really can’t get into the phone on their own," he said.
+
+The case is U.S. v. Yang, 1:14-cr-387, U.S. District Court, Eastern District of New York (Brooklyn).

@@ -1,0 +1,130 @@
+Inversions, Short-Termism and Congress
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-06/inversions-short-termism-and-congress
+Inversions.
+
+The consensus seems to be that the anti-inversion rules that Treasury released late Monday were aimed directly at one deal: the Allergan/Pfizer merger. In particular, the inversion rules have for a long time prevented transactions in which a small foreign company acquires a big U.S. company and takes the foreign tax address, but have allowed transactions in which a big foreign company acquires a similarly-sized U.S. company and keeps its foreign address. That's not an inversion, that's just a merger. (Though everyone calls it an inversion anyway.) But the new rules "will prevent a foreign company (including a recent inverter) that acquires multiple American companies in stock-based transactions from using the resulting increase in size to avoid the current inversion thresholds for a subsequent U.S. acquisition." That's Allergan, which inverted last year as part of a deal with Actavis, itself the product of inversions. If you strip out all of the U.S. assets acquired in the previous inversions, you get a small foreign company acquiring a big U.S. one, and under the new rules the combined company must remain a U.S. taxpayer.
+
+There are perhaps some things that are objectionable about this procedure. For one thing, Victor Fleischer is "not sure if the new guidance will survive a legal challenge." The idea of the new rules is basically to treat a series of inversions as a single inversion, something that tax law often does with a planned series of transactions, but not so much with truly independent transactions:
+
+But it would be unusual to step together transactions that occur over a period of years, each of which had independent legal and economic substance and significance, in the absence of evidence of a plan to complete the series of transactions.
+
+Also it is just weird to issue general rules like this to stop a single transaction, especially when the legality of those rules is up for debate.
+
+But while it is weird, it works!
+
+Pfizer Inc. decided to terminate its $160 billion merger with Allergan Plc, a person familiar with the matter said, marking an end to the largest-ever health-care acquisition as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal, the person said, asking not to be identified as the information is private.
+
+One thing that we have learned in the last year is that the government has a lot more power than anyone thought to stop tax-minimizing transactions that it doesn't like. We saw this with Yahoo, whose efforts to spin off its Alibaba stake were probably legal under current law: The Internal Revenue Service refused to bless the spin-off, and made ominous noises that it would oppose it, and so Yahoo, which was pretty sure it was right, decided not to take the risk and move on to Plan B, or Plan Q maybe. And now we see it with Pfizergan: Pfizer was "examining options including fighting the rules in court or restructuring the deal," writes Bloomberg Gadfly's Brooke Sutherland, and if it went to court it would have a decent case, but, you know, court takes years. It's tough to take the time and risk to fight Treasury in the middle of a merger; Treasury can accomplish what it wants simply by creating uncertainty. Even if the new rules aren't strictly right, even if they don't quite work as a legal matter, they got the job done.
+
+Panama.
+
+The Panama Papers continue to affect politics around the world, and yesterday the leak "claimed its first political casualty" as Iceland's Prime Minister Sigmundur David Gunnlaugsson resigned over accusations about his offshore holdings. And government officials in the U.K., Pakistan, China, Russia and many other places have come under some pressure. "Even the Chilean head of Transparency International, a prominent anticorruption advocacy group, was forced to step down," oops.
+
+But ... no Americans. (Well, a few Americans, but not, like, political figures or mega-celebrities.) Why is that? Here is a Fusion explainer cautioning that all the documents haven't been reviewed yet, and that more Americans may crop up in the leaks -- but also noting that Americans "really don't need to go to Panama," since you can set up a trust or a limited liability company in Delaware, and "we have an onshore haven industry in the US that is as secretive as anywhere." (Also, here is a Fusion explainer of the "internal social network and database" that journalists built to collaborate on the Panama Papers.)
+
+Here is a Vox interview with Margaret Peters about shell companies and authoritarianism. Peters explains:
+
+In authoritarian countries, there's no rule of law, so there's no real concrete legal system. It's much easier for the government, the ruling party, or whatever's in power to take money from individuals — especially those individuals who might be threats. People who might be threats [include] successful business leaders or other people who have a lot of money, who could spend that money to challenge the regime. So we might think that successful business leaders might have a reason to hide their money — because they might be worried the government will come after them. In that case, we might think that it's legitimate for somebody who opposes the regime to move a lot of his or her money offshore.
+
+She gives some examples: "You've seen Vladimir Putin do this quite often, taking money from anybody who's tried to start a political movement against him," and suggests that China's anti-corruption campaign is "also about targeting elites who might have power against the ruling members of the Communist Party."
+
+John Cassidy writes:
+
+At least one observer, Craig Murray, a former British diplomat, has suggested that the journalists investigating the leak may be overemphasizing the role of non-Western figures, such as Putin and Assad. “What if they did Mossack Fonseca searches on every listed company in the western stock exchanges, and on every western millionaire they could trace?” Murray wrote in a blog post on Monday. “That would be much more interesting.”
+
+Maybe! Or maybe there's a good reason that, Iceland notwithstanding, the revelations seem to be heavy on figures from outside of Western democracies. I mentioned yesterday the analogy between secretive offshore shell companies and strong encryption of iPhones. One worry about Apple giving the U.S. Department of Justice a backdoor into a locked iPhone is that less sympathetic foreign security services would then have access to the same backdoor -- and that people in repressive states may have much more legitimate reasons for hiding their data from the government. You could imagine something similar happening with Panamanian companies. Sure, hiding assets from the U.S. Internal Revenue Service, or from the Icelandic parliament, looks bad. Hiding assets if you're Vladimir Putin looks bad. But hiding assets from Putin?
+
+Short-termism.
+
+Here is a fun column from Steven Davidoff Solomon about an activist campaign that BlackRock ran against a Hong Kong mining company called G-Resources Group. The joke here is that BlackRock, and its Chief Executive Officer Larry Fink, are notable and public critics of a lot of shareholder activism. "Only in February, Mr. Fink wrote to hundreds of chief executives to warn against what he termed short-term activism like share buybacks and dividends, calling on them instead to focus on 'long-term value creation.'"
+
+BlackRock was a 9.2 percent shareholder in G-Resources, which "was formed to develop the Martabe gold mine in Indonesia," did so, and eventually agreed to sell the mine in November for $775 million in cash. Then what? Well, G-Resources had a long-term investment plan:
+
+Instead of distributing the proceeds of the sale to G-Resources shareholders, the company announced that it would use the money to enter into the “principal investment” and “financial services” business. The members of the management team, hired to run a gold mine, would continue in office, now ready to be financial company executives.
+
+BlackRock pushed for short-termism:
+
+BlackRock campaigned against this acquisition, making the pretty reasonable point that it had invested in G-Resources in 2009 to invest in a gold mine. BlackRock also complained that G-Resources “has not provided adequate disclosure and explanations to shareholders on its change of strategy,” as well as even details on “how funds from the sale of the mine will be used effectively.”
+
+This is what I often say about the activism/short-termism/whatever debate: There is no such thing as short-termism. There is only a debate about who should allocate capital: Corporate managers, or investment managers. G-Resources' managers had developed their gold mine, found a buyer, and wanted to move on to the next thing. They had a long-term plan to, you know, keep running a public company. BlackRock had invested in a gold mine, and if the gold mine was getting cashed out, BlackRock wanted to decide what to do next with that cash, rather than just letting G-Resources play with it. BlackRock wasn't going to spend that money partying at the club, and neither was G-Resources. Both wanted to invest it productively for the long term. They had different visions about what that productive investment meant, though, and about who should decide. Anyway, BlackRock lost.
+
+Elsewhere in activism, Starboard Value will scale back its role at Darden Restaurants, and its CEO will resign from Darden's board. Starboard, of course, won a proxy fight to replace Darden's entire board, basically because Darden's Olive Garden restaurants didn't salt their pasta water. (I mean, there were other issues too -- like how the unlimited breadsticks were delivered -- but the salt was high up there.) So can you believe this?
+
+Not all of Starboard’s ideas worked out—for example, adding salt to the pasta water, a traditional cooking method. Executives said that adding salt to the boiling water could jeopardize warranties on its expensive pots. While the company tested salting the water for the new board, it decided that the sauces delivered enough flavor, and Starboard came around, one person familiar with the matter said.
+
+See, salting the water was a good short-term solution (the pasta tastes good), but a bad investment for the long term (the pots rot). Classic activism.
+
+Congressional hedge funds.
+
+The Office of Congressional Ethics found that "Representative Alan Grayson, Democrat of Florida, may have improperly used his House office and staff to handle personal financial matters involving a family-run hedge fund." Grayson disagrees, colorfully:
+
+“The referral itself verges on the demented, in all of its Captain Ahab attempts to spear the white whale by coming up with something — anything — with which to try to argue that some unethical conduct has occurred,” Mr. Grayson’s lawyer, Brett G. Kappel, wrote in a formal response to the Office of Congressional Ethics report.
+
+You can read the Office of Congressional Ethics report, and Grayson's response, and the exhibits. Obviously the question that I have is: How good was Grayson as a hedge fund manager? The evidence is ... mixed. The OCE did not, alas, provide the Grayson Fund's financial statements, but it did provide a June 2013 marketing document (Exhibit 22 here) showing an average annual return of a bit worse than negative 11 percent. And when Grayson eventually cashed out his (two) outside investors, in 2015, "Representative Grayson decided to refund each investor the amount of its original investment, rather than the value of its investment at the time of the withdrawal," which presumably means that they lost money and he made it up to them.
+
+On the other hand, the OCE report "found that at the end of CY 2014, there were $5,848.27 in management fees payable and $784,280.00 in incentive fees payable" to the manager of the fund. The fund charged a 2 percent management fee and a 20 percent incentive fee. (There's an e-mail from Grayson to a former employee saying "I think that both the fee and the allocation will generate substantial revenue and profit.") The fund had about $9 million in assets in late 2014. Now, $784,280 is 20 percent of ...$3.9 million? That is, his $9 million fund included $3.9 million in profits from 2014? That can't really be right, can it? It is perhaps best not to ask. Anyway, the point is, Congressional hedge funds: Kind of a weird thing!
+
+How are things in Argentina?
+
+Remember how Argentina settled its 15-year battle over its 2001 debt default in February, by agreeing to pay its defaulted bondholders a negotiated percentage of their claims by April 14? Remember how, a month later, Argentina told some of those bondholders that it was just kidding and would no longer honor its agreements with them? (To be fair, at least one of those agreements was never signed.) Well, for the rest of the bondholders, the April 14 thing isn't going to work out either:
+
+Argentina called on bondholders to give the country more time to repay about $12 billion in debt still owing from its 2001 default as a court hearing prevents the government from making the paymen t within the deadline. The New York Appeals Court will begin to hear the case on April 13, one day before Argentina has to make the payment. It’s up to the litigators led by Paul Singer’s Elliott Management to agree to an extension of the deadline or risk the collapse of the accord, Finance Minister Alfonso Prat-Gay said on Tuesday.
+
+The hearing is a pretty good excuse, but you can understand why, after 15 years of this, the bondholders would be a little paranoid.
+
+How are things at Valeant?
+
+They're fine, they're all fine here now, thank you, how are you? From a press release yesterday:
+
+Valeant Pharmaceuticals International, Inc. (NYSE: VRX and TSX: VRX) today announced that the ad hoc committee of the board of directors (the "Ad Hoc Committee") believes that its review of various Philidor and related accounting matters is complete, and that it has not identified any additional items that would require restatements beyond those required by matters previously disclosed.
+
+The stock jumped. For myself, I have never really believed that Valeant's major problem was accounting; it seemed like the accounting oddities at Philidor, though odd, were just warning signs of business-practice oddities there. So coming to the end of the accounting problems is not quite the same as coming tothe end of the problems. Still, nice work. And hard work: Dan McCrum points out that the committee's review of "over one million documents" required it to review one every 13 seconds.
+
+Directors.
+
+JPMorgan has named Karen Simon "head of its Director Advisory Services, a new role serving as a central contact for directors across the globe seeking board roles, helping boards change their compositions and serving as a conduit with third-party recruiting firms placing directors." That service is the classic investment-banking approach of flinging free things at companies now in the hopes of getting paid assignments later: "J.P. Morgan does not plan to charge for this service though it could strengthen its connections to corporate board members." As always, the client is the corporation, but the relationships are with individuals, and if JPMorgan got the individuals their job at the corporation, then that can't hurt the relationship.
+
+Disclosure, or whatever: I often think that I would be a good corporate director. My skills and interests include kibitzing, spotting problems with the hard work of other people, and not working very many days a year, which is pretty much what I assume directors do. And yet I am never asked to serve on any boards. (Except my condo board, which I have so far dodged.) I am just putting this out there.
+
+People are worried about unicorns.
+
+I don't know if I've mentioned it here, but a few readers have e-mailed me about Unicorn Kisses, the new flavor of Polar Seltzer, and people do seem to be worried about it:
+
+The seltzer water isn’t sweet but it smells like bubblegum, Jolly Ranchers and Sweet Tarts. Fans of Polar Seltzer’s fruity flavors will probably start craving Unicorn Kisses. But if you’re not a fan of seltzer, this may not be for you. “It tastes like sea water,” said a young taster. "It's basically cough medicine," said another taster. "But I do feel better after drinking it!" Many tasters agreed that the mysterious, hard-to-identify fruitiness could very well be the authentic essence of a unicorn.
+
+No the essence of a unicorn is raising money at a $1 billion valuation in the private you know what, never mind, hard-to-identify fruitiness it is.
+
+People are worried about bond market liquidity.
+
+I don't know, I guess this is a worry about Treasury market liquidity:
+
+“The Treasury market is the lifeblood of the American economy,” Mr. O’Brien said. “It doesn’t operate as efficiently as it could.”
+
+That's William O'Brien, who formerly ran Direct Edge Holdings, and who is "one of the most outspoken proponents of the benefits of high-speed trading." He is joining Direct Match, a Treasury-trading startup, to bring those benefits to the Treasury market, though there are those whose worry about Treasury liquidity is that there is too much high-speed trading. Elsewhere, the European Central Bank's corporate bond-buying plans raise the usual concerns:
+
+"My major worry is liquidity, which the ECB is compounding by buying corporate bonds,” said Chris Telfer, a portfolio manager at ECM Asset Management.
+
+In happier news, the coming default cycle will be terrible: "Losses on bonds from defaulted companies are likely to be higher than in previous cycles, because U.S. issuers have more debt relative to their assets." I mean, that isn't really happy news at all, but at least it's something to worry about in bonds other than liquidity. At least it's variety.
+
+Me yesterday.
+
+I wrote about transition management.
+
+Things happen.
+
+The Department of Labor's final fiduciary duty rules are out (fact sheet, comparison chart, FAQ). Retirement-Savings Rule: Who Wins. Financial-Advice Rule Has an Unlikely Champion. Puerto Rico’s Senate Declares Debt Moratorium. Australian Regulator Accuses Westpac of Manipulating Rate. Trial Opens for Ex-Barclays Employees in Libor Case. Andrew Caspersen’s Charmed Life, Thrown Into Turmoil. Protecting Trade Secrets Challenges Wall Street Blockchain Play. Private equity’s mark-to-make-believe problem. Bernie Sanders's bank-breakup answers were fine: Mike Konczal, Peter Eavis. Rich U.S. Schools Defend Tax-Free Status, Spending of Endowments. SunEdison CEO Cancels Wharton Graduation Speech. "Legend of Zelda" is 30. "Touching a Mechanical Body: Tactile Contact With Intimate Parts of a Human-Shaped Robot is Physiologically Arousing." Don't wear a virtual reality headset on the subway, come on. Here are highlights of Gary Cohn interviewing Shaquille O'Neal. (Here's the full interview.) Buy gold!
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+( Corrects first sentence to indicate that the inversion rules were released late Monday, not yesterday. )
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

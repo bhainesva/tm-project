@@ -1,0 +1,46 @@
+Two Surprise Votes for the Power of Courts
+['Noah Feldman', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-20/two-surprise-supreme-court-votes-for-the-judiciary-s-power
+Noah Feldman, a Bloomberg View columnist, is a professor of constitutional and international law at Harvard University and the author of six books, most recently "Cool War: The Future of Global Competition."
+
+The Supreme Court ruled on Wednesday in favor of terror victims and against the Central Bank of Iran. That came as no surprise.
+
+But what’s remarkable about the case, which raised important separation-of-powers concerns, is that the court reached its 6-to-2 decision over a stinging dissent by the conservative Chief Justice John Roberts. And that his dissent was joined by the court’s most liberal member, Justice Sonia Sotomayor.
+
+QuickTake U.S. Supreme Court
+
+To understand what was going on, you have to know that the case, Bank Markazi v. Peterson, arose from a nearly unique statute passed by Congress with the goal of resolving a lawsuit against Iran by the families of people who died in the 1983 bombing of a U.S. Marine barracks in Beirut and the 1996 Khobar Towers attack on an Air Force housing complex in Saudi Arabia.
+
+As I explained when the case was argued in January, Iran didn’t mount a defense and lost the verdict. While the families went after assets owned by Iran’s central bank, Congress passed a special law designed to apply only to this case. It said that the assets under litigation – which amount to some $2 billion after interest -- should be used to pay the victims’ families.
+
+The Iranian bank’s argument was that Congress can’t pass a law that identifies a specific court case by name and dictates the result. In Wednesday's opinion by Justice Ruth Bader Ginsburg, the court rejected that claim. She wrote that Congress has the authority to amend laws that are applicable to particular cases even if they're still being decided by the courts.
+
+In the process, Ginsburg sidelined the best precedent that the bank had on its side, a post-Civil War case called U.S. v. Klein. In the Klein case, the court had held that Congress can’t prescribe rules of decision to the courts in pending cases. Citing the federal court scholar Daniel Meltzer, Ginsburg said the Klein holding was “deeply puzzling.” Its language, she went on to say, cannot be “taken at face value.”
+
+The result of the court’s holding is that there is no longer any meaningful line to block Congress from dictating results in ongoing cases. Once a decision is final, a principle against retroactivity would limit what Congress can do. But until then, it ain’t over 'til it’s over: Congress can make a law saying one side in the case must win.
+
+So why did the unlikely bedfellows Roberts and Sotomayor dissent? The Chief Justice, who dissents infrequently, was focused on protecting the power of the court he heads. He put the matter simply: Congress, not the court, decided this case in favor of the victims and against Iran.
+
+The essence of the separation of powers, Roberts urged, is for Congress to make a rule and for the courts to apply it. In this instance, the line between rule-making and rule-application was breached. Thus one institution was infringing on the authority of another.
+
+Roberts offered historical context, emphasizing that the framers of the Constitution were accustomed to overlapping roles of legislatures and courts, and sought to give each branch separate powers. Unlike Ginsburg, he embraced the Klein decision as a clear instance where Congress intervened in pending lawsuits and was rebuffed.
+
+But Roberts’s dissent rested on the realization that, to Iran, it will be clear that Congress changed the rules in the middle of the game, leaving the federal courts looking like chumps. His opinion was intended to stand up for the rule of law. It’s especially poignant in the light of the inevitable fact that Iran will see the decision as evidence that the rule of law in the U.S. isn’t very robust.
+
+Sotomayor joined Roberts, I think, not because she’s so committed to the institutional integrity of the court, but because she’s emerging as an ardent believer in judicial activism – a throwback to the Warren court and the great activist justices William O. Douglas, William Brennan, and Thurgood Marshall.
+
+The rest of the court’s current liberals are all pretty cautious about finding new rights. All three of them -- Ginsburg, Stephen Breyer and Elena Kagan -- studied law at Harvard. All three were law professors, two at Harvard. Ginsburg’s opinion cited what are called the “Legal Process Materials,” writings edited and produced at Harvard by Henry Hart and Albert Sacks, two influential professors who were skeptical of aggressive judicial review.
+
+Sotomayor, in contrast, went to Yale Law School. Unlike the other Yalies on the court -- Justices Clarence Thomas and Samuel Alito, who didn’t like Yale much at the time and haven’t really been embraced by it since -- Sotomayor is a core Yale liberal. Her teachers at Yale, and her contemporaries who still teach there, lionize a golden age of activist liberal jurisprudence.
+
+For the court to make important decisions, it must be capable of acting on its own, not subordinated to Congress. Sotomayor and Roberts almost never see eye to eye. But this time, when it came to protecting the court’s prerogative, they did.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Feldman at nfeldman7@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jonathan Landman at jlandman4@bloomberg.net

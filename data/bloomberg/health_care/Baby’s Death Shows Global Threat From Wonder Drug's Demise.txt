@@ -1,0 +1,66 @@
+Baby’s Death Shows Global Threat From Wonder Drug's Demise
+['Natalie Obiko Pearson Adi Narayan', 'Natalie Obiko Pearson', 'Adi Narayan']
+http://www.bloomberg.com/news/articles/2016-03-29/baby-s-death-shows-global-threat-from-wonder-drug-s-demise
+The antibiotic colistin was the last resort for saving babies at the King Edward Memorial Hospital in Pune, India. That defense was breached last year.
+
+In early 2015, a pediatrician at the hospital for the first time encountered two cases in which newborns had bloodstream infections caused by bacteria resistant to the critically important medicine. One of the babies died; the other survived.
+
+“That is a warning to us that maybe we’re already losing this drug,” said Umesh Vaidya, who runs the hospital’s 50-bed neonatal intensive care unit. “If we lose colistin, we have nothing. It’s an extreme, extreme worry for us.”
+
+The more than half-century-old drug, spurned by doctors for decades because it damages the kidneys, came back into vogue in recent years after less toxic broad-spectrum antibiotics began to fail. Colistin has since saved thousands of patients -- a track record some researchers say is threatened by its indiscriminate use on farm animals, which may be passing on drug-resistant germs to unwary consumers.
+
+Scientists in China reported in November a colistin resistance gene called mcr-1 that can spread among and across different species of common bacteria, heralding a wave of untreatable ailments -- from urinary tract infections to pneumonia.
+
+Selective Pressure
+
+The use of colistin on farms may be to blame for the drug’s demise, said Jianzhong Shen, a professor of veterinary medicine at Beijing’s China Agricultural University. “The selective pressure imposed by increasingly heavy use of colistin in agriculture in China could have led to the acquisition of mcr-1 by E. coli,” he said.
+
+Since November, the resistance gene has been reported in at least 20 more countries and prompted calls to curb the drug’s use in animals. In India, where colistin is used by some farmers to promote growth and prevent disease in poultry flocks, hospital laboratories are finding colistin resistance in as many as 10-to-15 percent of specimens tested, said Abdul Ghafur, an infectious diseases physician at the Apollo Hospital in Chennai.
+
+India Also?
+
+“If we look for mcr-1, we will definitely find it in India,” said Ghafur, who convened the first meeting of Indian medical societies in 2012 that led to a national plan to tackle antibiotic resistance. “If it’s in China, it should be in India also.”
+
+Investigations are already underway. At New Delhi’s All India Institute of Medical Sciences, Vinod Paul and colleagues have tracked about 90,000 newborns to gauge the burden of drug-resistant infections and to identify their genetic causes, including mcr-1. The findings are being reviewed for publication, possibly by mid May, said Paul, who heads the hospital’s pediatrics department.
+
+Consultant microbiologist Camilla Rodrigues hasn’t found the gene in about 100 specimens of colistin-resistant bacteria collected at Mumbai’s P.D. Hinduja Hospital since 2011, she said. “We’ve just been lucky so far,” said Rodrigues, who chairs the private hospital’s infection-control committee. “Once it shows up, it will be the beginning of the end. We are very worried about it.”
+
+Pediatrician Vaidya said his neonatal patients with colistin-resistant infections had been transferred from other hospitals, where they had received multiple antibiotic treatments. Doctors, too, are often quick to prescribe colistin, especially if a sick child starts to deteriorate, he said.
+
+‘Whims and Fancies’
+
+“It plays to their anxieties,” Vaidya said. “Unfortunately, there is no tight regulation on prescribing. Every clinician will prescribe it according to his whims and fancies.”
+
+Sales of colistin for human use in India have more than doubled since 2013 to 1.2 billion rupees ($18 million) in the year ended February, according to data from AIOCD Pharmasofttech AWACS Pvt., a pharmaceutical market research company based in Chennai.
+
+Pigs and Poultry
+
+About 11,942 tons of colistin, worth $187.2 million, was used worldwide last year -- mostly on swine and poultry farms, Beijing-based QYResearch Medical Research Center estimated. Of the 10-largest producers of colistin, one is Indian, one is Danish, and eight are Chinese, it said in a report in August.
+
+EnCiprox, which lists ciprofloxacin, enrofloxacin and colistin as ingredients, in a broiler house in Ranga Reddy. Photographer: Dhiraj Singh/Bloomberg
+
+In southeastern India’s main poultry-producing district of Ranga Reddy, farmers reported using colistin on three of 14 farms visited, while three veterinary supply stores named combinations of colistin, ciprofloxacin and another antibiotic among their best-selling drugs. The antibiotics are permitted to be used on farms in India under veterinary supervision, and broiler companies said they are used only as a last resort.
+
+Those colistin mixtures are especially hazardous because bacteria exposed to ciprofloxacin aren’t able to readily repair their drug-damaged DNA, prompting them to scavenge for genetic material from other bacteria -- which could include colistin-resistant bugs, said Timothy Walsh, a professor of medical microbiology at Cardiff University in Wales.
+
+‘Defies All Imagination’
+
+“The combination of colistin and ciprofloxacin is just stupidity on a scale that defies all imagination,” said Walsh, who along with Shen, co-wrote the paper in Lancet Infectious Diseases that first described the mcr-1 gene.
+
+Cameo Health Care (India) Pvt., based in Thane, Maharashtra state, sells “CiproCame,” a combination of colistin, ciprofloxacin and neomycin, and Bangalore-based Entrix Nutrition sells “EnCiprox” in 5-liter containers, a cocktail of colistin, ciprofloxacin and enrofloxacin. Both CiproCame and EnCiprox are labeled as “feed supplements” to be administered preventatively in poultry through their drinking water. Representatives at both companies didn’t respond to e-mailed questions.
+
+Microbial Mating
+
+Shen, Walsh and colleagues showed that mcr-1 is carried on mobile loops of DNA called plasmids that can be spread through a form of microbial mating. The gene’s discovery was made during routine surveillance of drug-resistant germs in food animals and meat products in southern China. When researchers widened their search to hospitals, they found it in 16 of 1,322 specimens from inpatients suffering infections.
+
+“What people don’t realize is it’s all linked -- it’s a single pool of bacteria between animals and humans,” said Ramanan Laxminarayan, director of the Center for Disease Dynamics, Economics & Policy in New Delhi and one of 15 experts appointed to a task force advising President Barack Obama on antibiotic resistance.
+
+Since the Lancet paper was published, mcr-1 has been found by researchers in Algeria, Belgium, Cambodia, Canada, Denmark, France, Germany, Italy, Japan, Laos, Malaysia, Netherlands, Portugal, Thailand, Tunisia, South Africa, Sweden, Switzerland, the U.K. and Vietnam.
+
+Spread of the MCR-1 gene through humans, farm animals, food and environment
+
+The European Medicines Agency called for data on colistin ahead of a review of the drug’s use in animals requested by the European Commission. The London-based agency recommends that colistin’s veterinary use be limited to the treatment of infected animals and those in contact with them, not at low doses to prevent illnesses -- as it’s used in some countries, including India.
+
+“Antibiotics are like a dam that protects us from this flood of potential pathogens,” said Lance Price, a genomic epidemiologist at George Washington University, who testified to U.S. Congress in April 2013 on antibiotic resistance. The “dam” was first built with Alexander Fleming discovering penicillin, and each new antibiotic stacked the dam higher. But as resistance spreads, that dam is cracking, Price said.
+
+“Water is coming and big chunks are starting to fall out now,” he said. “We’ve lost the battle in some respects with what’s happened with colistin.”

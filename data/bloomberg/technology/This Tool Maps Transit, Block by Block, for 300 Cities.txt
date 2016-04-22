@@ -1,0 +1,20 @@
+This Tool Maps Transit, Block by Block, for 300 Cities
+['Eric Roston']
+http://www.bloomberg.com/news/articles/2016-04-19/this-tool-maps-transit-block-by-block-for-300-cities
+Surprise, Arizona, northwest of Phoenix, scores lowest among U.S. cities larger than 100,000 people in a ranking of transit systems, according to a new online tool launching Tuesday. The city of 124,000 pulled a 0.09 out of 10. If you don’t have a car, you’re walking.
+
+More than 800 municipal transit agencies in 287 cities across the U.S. contributed data to the project, called AllTransit. It shows, in neighborhood-level detail, where people live and work and how well public transit shuttles them back and forth. The agency data are combined with data from the Census Bureau, the Low-Income Housing Tax Credit Program, and the Department of Agriculture.
+
+Cities have emerged in recent years as laboratories where technology can enhance health, efficiency, and livability. Mayors, city councils, and infrastructure companies have all benefited from systemic data collection. AllTransit puts an enormous amount of information in the hands of anybody with a browser window open and offers sample profiles to show how you might use the data: A small business looking for an underserved transit hub to set up shop. Home hunters seeking a well-connected suburb or part of town.
+
+Or affordable-housing advocates researching where better transit might lead to more job opportunities for residents of poor communities. In December, the NAACP sued the governor of Maryland for canceling a rail line that would have served African-American residents of Baltimore who rely on public transit. (The office of Governor Larry Hogan called the suit baseless.)
+
+Source: AllTransit database, Center for Neighborhood Technology
+
+The AllTransit project is the work of the nonprofit Center for Neighborhood Technology, which built a tool a few years ago that lets anyone see what housing and transportation costs add up to all over the U.S. AllTransit was funded by TransitCenter, a group that funds and helps manage projects that improve public transportation.
+
+Users can analyze a city across more than two dozen metrics, including how many jobs there are near transit stations, transportation costs as a percentage of income, the location of stations near low-income housing, and the number of farmer’s markets in the area. The tool serves up data by census block group (a continuous area where roughly 600 to 3,000 people live), city, county, U.S. House district, and state legislative district. The database includes 544,000 transit stops along 15,000 routes across the country. Where city agencies weren't able to provide their data in the common format used by mapping services like Google and Bing, the research team collected route information and processed it themselves.
+
+AllTransit was built to answer three main questions: How often is transportation available? Where can it get you within half an hour? And how many people use it? In practice, it answers many thousands of questions.
+
+Its biggest shortcoming is that you can't search by category—by percentage of income spent on transportation, for example—only city by city. Peter Haas, chief research scientist at the Center for Neighborhood Technology, said he and his team will be taking feedback and thinking through what features they might add next.

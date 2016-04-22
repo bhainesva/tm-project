@@ -1,0 +1,56 @@
+Drones Are the New Threat to Airline Safety
+['Justin Bachman']
+http://www.bloomberg.com/news/articles/2016-04-04/drones-are-the-new-threat-to-airline-safety
+You’re landing at New York’s LaGuardia Airport on the “expressway” approach—it’s called that because you come in low enough to buzz the Grand Central Parkway and Mets’ Citi Field before dropping down quickly on a runway that perches over the middle of a bay.
+
+As it is, it’s one of the more jarring landings in the U.S. What, then, would happen if a drone suddenly appeared in the flight path?
+
+QuickTake Domesticating Drones
+
+The threat in recent years of pilots blinded by high-powered lasers may soon be superseded by this potentially more fearsome prospect: drones finding their way into restricted airspace around airports. Each month, pilots and air traffic controllers report more than 100 drone “sightings” to the Federal Aviation Administration, which has begun compiling and releasing periodic reports on these encounters. The FAA says such reports have surged since 2014, with more than 1,200 incidents nationwide last year.
+
+
+
+Over the latest reporting period, from August 2015 through January, the New York metro area led the nation in drone sightings by airline pilots with 43. The Los Angeles area was next, with 25, according to an analysis of FAA data released March 25. The Dallas area was third, with 18.
+
+Center for the Study of the Drone
+
+Pilots consider drones a safety risk that must not be underestimated. “We’re not kidding when we say it has to be mitigated as a threat,” said Tim Canoll, president of the Air Line Pilots Association, or ALPA, and a drone hobbyist himself. “Your imagination can run wild with the problems of hitting hard metal objects at 200 mph.”
+
+One of the most recent incidents occurred March 18, when a Lufthansa flight from Frankfurt approaching Los Angeles International Airport reported a drone flew about 200 feet above the Airbus A380. Police and sheriff’s department helicopters were dispatched to search for the drone, the Los Angeles Times reported.
+
+Because of incidents like this, regulators have been working feverishly to formulate rules for how to incorporate commercial drone operations into U.S. airspace and trying to educate hobbyists about staying out of the way of airliners.
+
+“We don’t want to fuel fears over drones and we don’t want the flying public to be overly concerned with this issue, but we do want to say this should be a consideration going forward,” says Dan Gettinger, co-director of the Center for the Study of the Drone at Bard College. “A lot of things have to go wrong for a collision to happen.”
+
+In a statement accompanying its data, the FAA said it wanted “to send a clear message that operating drones around airplanes and helicopters is dangerous and illegal.”
+
+Current FAA rules restrict drone operators from flying within five miles of an airport and above 400 feet (drone flights are allowed ​inside that perimeter if the operator contacts the airport and the control tower before flying, according to the agency). About 92 percent of the most recent pilot sightings occurred above 400 feet; 60 percent were closer than the five-mile limit. So, apparently, a lot of people aren't listening.
+
+In all but 11 instances, these encounters required no evasive action by pilots, nor was it clear how close the aircraft and drone actually were. In two dozen cases, the drone came within 50 feet of a manned aircraft, according to a close analysis of the FAA’s raw data by the drone center.
+
+“The probability of [a collision] is still pretty, pretty low—not that it couldn’t happen,” says Rich Hanson, director of governmental relations with the Academy of Model Aeronautics, a nonprofit group that promotes recreational model aircraft flying.
+
+The pilots union believes that enthusiast drones should be policed by geo-fencing technology, which could prevent the devices from flying near airports. Get too close and they crash to the ground. Embedded software could also restrict altitude, ALPA's Canoll said. “If we ignore this, I can promise you it will be a problem,” he warned. “It will be a contributing problem to an accident.”
+
+One of the critical problems in assessing the overall risk is a lack of information about what actually would happen should a small unmanned aerial vehicle strike a Boeing 737 or Airbus A321 airplane or be sucked into an engine.
+
+The FAA has been conducting computer simulations of drones hitting commercial aircraft and expects to release a report on its findings in September. “The FAA takes the possibility of airborne collisions seriously,” spokesman Les Dorr said in an email.
+
+Researchers at Virginia Tech’s CRASH (Crashworthiness for Aerospace Structures and Hybrids) Lab have performed such simulations. In one scenario, engineers introduced an 8-pound quad-copter rotor into a large, 9-foot diameter engine fan typically found on long-range jet models such as the Boeing 777 and Airbus A380.
+
+The damage was quick—with a speed of 715 mph in less than 1/200th of a second—and catastrophic, with the drone’s destruction decimating fan blades and creating an engine failure. The study aims to determine whether any drone ingestions create a scenario where the damage isn’t contained within the engine's housing. That’s a crucial distinction, because uncontained turbine blades pose risks to other parts of the aircraft as they’re ejected.
+
+Vimeo: What Happens If A Drone Gets Sucked Into A Jet Engine? Results Might Surprise You!
+
+Commercial jet engines are certified for hazards such as bird strikes, blade failures, heavy rain, hail and multiple types of ice, up to certain limits. To test for bird strikes, engineers have built “chicken cannons” to fire dead birds into engines. Many aircraft have suffered a single engine failure due to bird strikes or other failures. All current models must be able to fly with just one engine.
+
+It’s unclear whether future engines will need to be certified for small drone strikes as well. It’s probably expensive, and airlines, pilots and the FAA would all like to see public education and airport enforcement as sufficient deterrents to drones wandering where they shouldn't.
+
+Last month, two researchers at George Mason University’s Mercatus Center examined 25 years of FAA bird-strike data and concluded that an increase in unmanned drone flights poses little risk to U.S. airspace. That report drew a quick rebuke from ALPA, while other researchers echoed the union’s view that soft-tissue ingestion was not comparable to the materials used for drones.
+
+There is also, of course, the issue of commercial drone use, the kind that businesses use for real estate and wedding photography, advertising, film-making, utility inspections, and numerous other applications. To date, the FAA has granted more than 4,000 exemptions for commercial firms to fly drones in their work. Many law enforcement agencies also fly drones. Any of them can stray through error or malfunction.
+
+“When we think of this issue we shouldn’t just pigeonhole the problem cases as hobbyists’ drones gone awry,” Gettinger says.
+
+That’s hardly comforting to nervous fliers who now must add drones to their menu of fears.

@@ -1,0 +1,20 @@
+The Cost of Washington's Addiction to Shale-Fueled Power
+['Jonathan Crawford']
+http://www.bloomberg.com/news/articles/2016-04-13/the-cost-of-washington-s-addiction-to-cheap-shale-fueled-power
+Washington is paying an extra five dollars for every megawatt-hour of electricity because of clogged power lines.
+
+The nation’s capital has boosted power imports from plants in New Jersey and Pennsylvania, where electricity’s made cheaper because of access to a bounty of natural gas from shale formations. That also means Washington depends on a limited network of transmission lines to reach the power, and choke points along the system have resulted in $337.2 million in costs since 2014, data from Monitoring Analytics LLC show. That compares to the $3.87 billion Washington-area residents and businesses paid for power based on utility earnings data.
+
+Power from shale gas has brought down electric costs for the Washington region. Spot prices there last year were about half of what they were in 2008 as the shale revolution was taking hold. More transmission lines would deliver greater savings.
+
+“Power prices could be cheaper than they actually are” in Washington and Baltimore, Diana Chiyangwa, a Boston-based analyst for Genscape Inc., said by phone. “They’re getting some benefits, but they’re not getting the full benefits given these limitations in the power lines.”
+
+Washington’s growing dependence on imports over long-distance power lines comes as concerns increase about grid security and the potential for large-scale blackouts. Investor-owned power companies are forecast to spend $22.1 billion to shore up the reliability of the aging U.S. transmission network this year, the most since at least 2008, according to the Edison Electric Institute, a Washington-based trade group.
+
+Reliability Concerns
+
+Exelon Corp.’s Baltimore Gas and Electric Co. utility is adding a second 230-kilovolt line to double capacity along a 30-mile (48 kilometer) segment in northeast Maryland to handle growing imports. It’s scheduled to go into service by June 2017.
+
+“Ultimately this is about reliability for our customers,” Aaron Koos, a spokesman for Baltimore Gas and Electric, said by phone, “and it also increases capacity over the long term.”
+
+Wholesale power in PJM’s benchmark West hub, which includes deliveries to Washington, fell $3.05, or 10 percent, to average $26.50 a megawatt-hour for the hour ended 1 p.m. Thursday from the same time a day earlier, grid data compiled by Bloomberg showed.

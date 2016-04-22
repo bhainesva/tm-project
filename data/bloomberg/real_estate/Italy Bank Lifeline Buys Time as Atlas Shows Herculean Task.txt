@@ -1,0 +1,70 @@
+Italy Bank Lifeline Buys Time as Atlas Shows Herculean Task
+['Edward Robinson Sonia Sirletti Sharon R Smyth', 'Edward Robinson', 'Sonia Sirletti', 'Sharon R Smyth']
+http://www.bloomberg.com/news/articles/2016-04-19/atlas-and-the-herculean-task-of-saving-italy-s-banking-system
+For a sign of the distress in Italy’s financial system, look at some of the banks that are being called upon to contribute to Atlante, the government-orchestrated fund devised to save ailing lenders.
+
+Banca Monte dei Paschi di Siena SpA, which was twice bailed out and has unsuccessfully sought a buyer for 18 months, is chipping in 50 million euros ($57 million). Banca Carige SpA, the Genoa-based lender that’s leaking deposits and scrambling to meet the European Central Bank’s demand for a new funding plan, is providing as much as 20 million euros.
+
+Prime Minister Matteo Renzi and Italian banking authorities are calling for these lifelines as they race to shore up a financial system burdened by 360 billion euros of doubtful loans, an amount equivalent to almost a quarter of the nation’s gross domestic product. And even if the rescue fund of about 5 billion euros unveiled last week does stabilize the system -- which analysts have questioned given its small size -- rooting out the poor governance and lending practices that created the mess remains a herculean task.
+
+"It’s necessary to have some form of bailout to save the banking system, but at the same time you have to fix the deeper problems," says Luigi Zingales, a finance professor at the University of Chicago’s Booth School of Business. "You can’t have one without the other."
+
+Unlike in Ireland, Spain or the U.K., the Italian banking system’s woes weren’t born out of a real estate bubble. Instead, they built up over decades, partly as regional and local lenders used loans to curry favor and exert influence, often with little accountability.
+
+“While formal underwriting methodologies existed, many bankers knew how to circumvent the system,” says Marco Elser, the head portfolio manager at Lonsin Capital Ltd., a London-based asset-management firm. “This is the main reason why we have so many problem debts inside the aching stomachs of Italian banks.”
+
+Since he became prime minister in February 2014, Renzi has been laboring to enact a package of reforms to modernize Italy and spur growth. He’s forced cooperative lenders to become joint-stock companies, encouraging mergers to help reduce duplication and boost profitability. While lenders are cutting costs, branches and jobs as well as risks to strengthen their finances, the mountain of “sofferenze,” or loans to borrowers considered insolvent, threatens to squelch the economic recovery of a nation that shrank in 18 of the last 32 quarters.
+
+Deep Recession
+
+“Italy’s deteriorated loans mounted in recent years because of a deep recession, comparable with the one following the Second World War,” said Giovanni Sabatini, director general of the country’s banking association, ABI. “The economic recovery and monetary policy are contributing to improve banks’ credit quality.”
+
+Renzi’s government is working on new rules aimed at speeding up bankruptcy procedures. Those measures, together with the rescue fund and other steps, should help banks reduce bad loans, Sabatini said.
+
+The rescue of four small lenders late last year rattled investors because the authorities, in keeping with new European Union rules, imposed losses on bondholders -- often retail investors unaware of the risk they had assumed -- and shareholders.
+
+By the time government ministers, Bank of Italy officials and senior executives convened a meeting in Rome on the evening of April 11, the stocks of Italian banks had slid an average of 44 percent this year, erasing more than 40 billion euros in market value, according to Bloomberg Intelligence data. That night, officials unveiled an experimental fund designed to save the banks and comply with the new bail-in rules.
+
+Popolare di Vicenza
+
+Backed with contributions from lenders led by UniCredit SpA and Intesa Sanpaolo SpA, the fund can buy shares of troubled banks trying to raise capital and help them sell bad debt through securitizations. The program is dubbed Atlante, the Italian word for Atlas, the Greek titan fated to hold up the heavens for eternity. Clearly, the fund’s sponsors are hoping it won’t take nearly that long to rekindle confidence in Italy’s banking system.
+
+
+
+In a first step, Atlante will buy any unsold shares in the 1.8 billion-euro stock sale of Banca Popolare di Vicenza SpA, a troubled lender in northeastern Italy. The offering is scheduled to begin this week after an ultimatum from the ECB to increase capital. In an ominous sign, the bank said Tuesday that it didn’t receive enough interest from institutional investors ahead of the sale to set a price range “in accordance with standard market practice.”
+
+Too Small?
+
+“Without the fund, Vicenza would risk a bail-in, an event that would hit the entire Italian banking system and possibly lead to a domino effect,” says Gianluca Ziglio, a strategist at Sunrise Brokers LLP, a derivatives dealer in London.
+
+Even so, some investors doubt the fund, at an estimated 4 billion euros to 6 billion euros, is big enough to address a 360 billion-euro problem. Looking further ahead, they say its toughest challenge will be pricing the banks’ bad debt attractively enough to kickstart a market.
+
+In January, Rome won the European Commission’s approval for a securitization plan by guaranteeing investment-grade tranches of non-performing debt. Yet there weren’t many takers. Banks were wary of recording losses by selling soured loans cheaply, while potential buyers were deterred by the average seven-year bankruptcy process in Italy.
+
+Paschi’s Woes
+
+“The scheme does very little in closing the gap between bids and offers,” says Gennaro Pucci, the founder of PVE Capital LLP, a London-based investment firm that purchased non-performing Italian loans last year from an undisclosed seller. “The newly set-up fund, I fear, will be used also to buy these junior pieces at arguably higher prices than what the market is ready to pay.”
+
+Even if Atlante delivers temporary relief, it won’t fix the practices plaguing Italy’s banks, some analysts say. Some date to 1990, when the government made 88 charitable foundations the stewards of former savings banks. Their mission was to stimulate local economies by extending credit and sharing dividends and profits with customers, who also became shareholders.
+
+But in some cases the links between the foundations and local powerbrokers fostered cronyism and worse. The charitable organization that controlled Monte dei Paschi piled on debt to maintain its grip on the 544-year-old Tuscan lender, which used derivatives contracts to conceal losses. Monte Paschi’s mismanagement, exposed in 2013, forced the bank to tap investors twice for 8 billion euros. As of April 18, its market value was 1.9 billion euros.
+
+Capital Cut
+
+Popolare di Vicenza wove itself into the fabric of the Veneto, a commercially vibrant part of Italy that produces the sparkling wine Prosecco and is home to Diesel SpA, the fashion house. Giovanni Zonin, the bank’s former executive chairman, hails from a winemaking family in the region.
+
+Popolare di Vicenza developed an inter-dependency between senior managers, employees, and customers, all of whom became stakeholders through a mutualized ownership structure. Such banks have the right to price their own shares to raise capital. When Popolare di Vicenza executed two share sales in 2013 and 2014, it lent 1.1 billion euros to customers, then asked them to purchase the shares at the set price, in some cases pledging to buy them back later, according to company filings.
+
+Ingrained Practices
+
+Inspectors from the ECB discovered the arrangement in the first half of 2015. The bank disclosed a 1.4 billion-euro loss for last year and reduced its common equity Tier 1 ratio to 6.65 percent, well below the minimum target set by the ECB of 10.25 percent. Prosecutors have placed Zonin and five other senior executives under investigation for market manipulation and related offences, according to court papers. Zonin stepped down in November.
+
+"This shows the failure of Italian regulators," says the University of Chicago’s Zingales. "There is a sense that they are protecting the banks instead of overseeing them."
+
+Enrico Mario Ambrosetti, a lawyer for Zonin, said investigations are still at a preliminary stage, and declined to comment further. Spokeswomen for Popolare di Vicenza and the Bank of Italy declined to comment.
+
+While Renzi is pushing to reduce the influence of foundations and force cooperative lenders to become more transparent, publicly traded companies, it may prove difficult to change the culture inside these institutions. On March 26, Popolare di Vicenza’s shareholders declined to file coordinated claims against senior management.
+
+Anxiety is mounting that Italy’s ailing banks are forcing the economy into a negative feedback loop: After successive recessions forced borrowers to default, banks have retrenched and withheld credit, which is crimping growth.
+
+"This is why the banks should have dealt with non-performing loans much earlier in the crisis, as other countries did," says Silvia Merler, an affiliate fellow with Bruegel, a Brussels-based think tank.
