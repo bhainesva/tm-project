@@ -18,8 +18,11 @@ import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.classify.Classifier;
 import edu.stanford.nlp.process.DocumentPreprocessor;
 import edu.stanford.nlp.classify.ColumnDataClassifier;
+import edu.stanford.nlp.classify.GeneralDataset;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
@@ -28,18 +31,38 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
+import java.io.InputStreamReader;
 
 
 public class classify{
 	LexicalizedParser lp;
     int blank;
     ColumnDataClassifier classifier;
+    HashSet<String> stopwords;
+    
+    public void LoadStopwords(String filename) {
+		try {stopwords=new HashSet<String>();
+			BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
+			String line;
+			
+			while ((line = reader.readLine()) != null) {
+										
+				if (!line.isEmpty())
+					stopwords.add(line.toLowerCase());
+			}
+			reader.close();
+			System.out.format("Loading %d stopwords from %s\n", stopwords.size(), filename);
+		} catch(IOException e){
+			System.err.format("[Error]Failed to open file %s!!", filename);
+		}
+	}
     
     //function to extract only the noun phrases from each sentence of document
-    public String parse(List<HasWord> text){
+    public String parse_nouns(List<HasWord> text){
     	List<CoreLabel> text1=Sentence.toCoreLabelList(text);    	
     	String np="";
     	Tree parse_w=lp.apply(text1);
@@ -65,13 +88,27 @@ public class classify{
     	
     }
     
+    //as an alternative to the above function, this returns all the words in the text after removing
+    // stopwords and lowercased.
+    public String tokenize(List<HasWord> text){
+    	String token_s;
+    	String words="";
+    	for(HasWord token:text){
+    		token_s=token.word().replaceAll("[^A-Za-z ]", "").toLowerCase();
+    		if (!stopwords.contains(token_s) & !token_s.equals("") & token_s.length()<20)
+    			words=words+token_s+"\t";
+    			
+    	}
+    	return(words);
+    }
+    
     //create features for each document
 	public String create_features(String file) throws IOException{
 		 Properties props = new Properties();	     
 	     DocumentPreprocessor doc=new DocumentPreprocessor(file);
 	     String tokens="\t";
 	     for(List<HasWord> sentence:doc){	    	 
-			tokens=tokens+parse(sentence);
+			tokens=tokens+tokenize(sentence);
 	     }	     
 	     return (tokens);
 	     
@@ -104,24 +141,36 @@ public class classify{
 	//to create tab delimited training text files 
 	public classify(String train_path){
 		lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
-    	
+    	LoadStopwords("data/english.stop.txt");
 		LoadDir(train_path);
 	}
 	
 	// to use the text file to train the classifier
 	public classify(String train_path,String type){	
 		Properties props = new Properties();
-        props.setProperty("trainFile",train_path);
-    	classifier=new ColumnDataClassifier(props);
-    	Classifier<String,String> cl=classifier.makeClassifier(classifier.readTrainingExamples("data/train.txt"));
 		
+		props.setProperty("featureFormat","true"); // to be used in case text file has features and not text
+		//props.setProperty("lowercase", "true");
+		
+		//below 3 props to be used in case  text file has the actual text with class
+		//props.setProperty("1.splitWordsTokenizerRegexp", "[\\p{L}][\\p{L}0-9]*|(?:\\$ ?)?[0-9]+(?:\\.[0-9]{2})?%?|\\s+|[\\x80-\\uFFFD]|.");
+		//props.setProperty("1.useLowercaseSplitWords", "true");
+		//props.setProperty("1.useNGrams", "true");
+        //props.setProperty("trainFile",train_path);
+    	classifier=new ColumnDataClassifier(props);
+    	GeneralDataset<String,String> features=classifier.readTrainingExamples(train_path);
+    	Classifier<String,String> cl=classifier.makeClassifier(features);
+    	System.out.print(cl.evaluateAccuracy(features));
+    	//GeneralDataset<String,String> features=classifier.readTrainingExamples("data/train.txt");
+    	//System.out.println(features.getDatum(5));
+        
 	}
 	
 	public static void main(String[] args) throws IOException {
 		//String[] t={"hello","consumer","price","inflation","has","risen","."};
 		//parse(Sentence.toWordList(t));
 		
-		//classify classifier=new classify("data/bloomberg/sample");
+		//classify classifier=new classify("data/bloomberg");
 		classify classifier=new classify("data/train.txt","train");
 	}
 }
