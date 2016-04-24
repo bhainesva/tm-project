@@ -37,6 +37,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
+import java.util.stream.Collectors;
 import java.io.InputStreamReader;
 
 
@@ -112,7 +113,7 @@ public class classify{
 	     DocumentPreprocessor doc=new DocumentPreprocessor(file);
 	     String tokens="\t";
 	     for(List<HasWord> sentence:doc){	    	 
-			tokens=tokens+parse_nouns(sentence);
+			tokens=tokens+tokenize(sentence);
 	     }	     
 	     return (tokens);
 	     
@@ -127,7 +128,7 @@ public class classify{
 			if (f.isFile()){
 				i++;
 				System.out.println("document no " + Integer.toString(i));
-				try(Writer writer=new FileWriter("data/train.txt",true))
+				try(Writer writer=new FileWriter("data/train_tokenizes.txt",true))
 				{
 				writer.append(f.getParentFile().getName())
 					.append(create_features(f.getAbsolutePath()))
@@ -165,11 +166,14 @@ public class classify{
 	
 	public void test(String path){
 		Pair<GeneralDataset<String,String>,List<String[]>> test=CDclassifier.readTestExamples(path);
-		for (RVFDatum<String, String> line:test.first()){
-			System.out.println(cl.scoresOf(line));
+		for (RVFDatum<String, String> line:test.first()){			
+			System.out.println(cl.scoresOf(line).entrySet()
+												.stream()
+												.collect(Collectors.toMap(x->x.getKey(),x->1/(1+Math.exp(-x.getValue())))));
+										
 			//System.out.println(line.toString());
 		}
-		  
+		 
 		
 	}
 	
@@ -203,8 +207,8 @@ public class classify{
 		//String[] t={"hello","consumer","price","inflation","has","risen","."};
 		//parse(Sentence.toWordList(t));
 		
-		//classify classifier=new classify("data/bloomberg");
-		classify classifier=new classify("data/train.txt","train");
-		classifier.test("data/test.txt");
+		classify classifier=new classify("data/bloomberg");
+		//classify classifier=new classify("data/train.txt","train");
+		//classifier.test("data/test.txt");
 	}
 }
