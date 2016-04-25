@@ -39,6 +39,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.stream.Collectors;
 import java.io.InputStreamReader;
+import org.tartarus.snowball.ext.porterStemmer;
 
 
 public class classify{
@@ -48,6 +49,15 @@ public class classify{
     HashSet<String> stopwords;
     Classifier<String,String> cl;
     
+    public String PorterStemming(String token) {
+		porterStemmer stemmer = new porterStemmer();
+		stemmer.setCurrent(token);
+		if (stemmer.stem())
+			return stemmer.getCurrent();
+		else
+			return token;
+	}
+    
     public void LoadStopwords(String filename) {
 		try {stopwords=new HashSet<String>();
 			BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
@@ -56,7 +66,7 @@ public class classify{
 			while ((line = reader.readLine()) != null) {
 										
 				if (!line.isEmpty())
-					stopwords.add(line.toLowerCase());
+					stopwords.add(PorterStemming(line).toLowerCase());
 			}
 			reader.close();
 			System.out.format("Loading %d stopwords from %s\n", stopwords.size(), filename);
@@ -76,8 +86,7 @@ public class classify{
     			blank=1;
     			for (Tree noun:sub){
     				if (noun.label().value().equals("NN")||noun.label().value().equals("NNP")){
-    						
-    						np=np+" "+noun.yield().get(0).toString().toLowerCase(); 
+    						np=np+" "+ PorterStemming(noun.yield().get(0).toString()).toLowerCase();     						
     						blank=0;
     					}
     					
@@ -99,7 +108,7 @@ public class classify{
     	String token_s;
     	String words="";
     	for(HasWord token:text){
-    		token_s=token.word().replaceAll("[^A-Za-z ]", "").toLowerCase();
+    		token_s=PorterStemming(token.word().replaceAll("[^A-Za-z ]", "").toLowerCase());
     		if (!stopwords.contains(token_s) & !token_s.equals("") & token_s.length()<20)
     			words=words+token_s+"\t";
     			
@@ -108,18 +117,28 @@ public class classify{
     }
     
     //create features for each document
-	public String create_features(String file) throws IOException{
-		 Properties props = new Properties();	     
+	public void create_features(String file,String label) throws IOException{		     
 	     DocumentPreprocessor doc=new DocumentPreprocessor(file);
-	     String tokens="\t";
-	     for(List<HasWord> sentence:doc){	    	 
-			tokens=tokens+tokenize(sentence);
-	     }	     
-	     return (tokens);
+	     String eol=System.getProperty("line.separator");	    
+	     String tokens;
 	     
-	
+	     try(Writer writer=new FileWriter("data/noun_phrases/train_sent.txt",true))
+			{
+		     for(List<HasWord> sentence:doc){	    	 
+				tokens=parse_nouns(sentence);				
+				if (tokens.length()>10)
+					
+					writer.append(label)
+						  .append("\t")
+						.append(tokens)
+						.append(eol);
+					
+			}
+		} catch(IOException e){
+			e.printStackTrace();}
+		
 	}
-	public void LoadDir(String path){
+	public void LoadDir(String path) throws IOException{
 		File dir=new File(path);
 		String eol=System.getProperty("line.separator");
 		int i=0;
@@ -127,39 +146,28 @@ public class classify{
 		for(File f:dir.listFiles()){
 			if (f.isFile()){
 				i++;
-				System.out.println("document no " + Integer.toString(i));
-				try(Writer writer=new FileWriter("data/train_tokenizes.txt",true))
-				{
-				writer.append(f.getParentFile().getName())
-					.append(create_features(f.getAbsolutePath()))
-					.append(eol);
-				} catch(IOException e){
-					e.printStackTrace();}
+				System.out.println("document no " + Integer.toString(i));				
+				create_features(f.getAbsolutePath(),f.getParentFile().getName());
 			}
 			else
 				LoadDir(f.getAbsolutePath());
-				
-		}
+		     }
 		
 		}
 	
-	//to create tab delimited training text files 
-	public classify(String train_path){
-		lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
-    	LoadStopwords("data/english.stop.txt");
-		LoadDir(train_path);
-	}
+	
 	
 	public void cross_validate(String path){
 		Properties props = new Properties();
 		props.setProperty("featureFormat","true"); // to be used in case text file has features and not text
-		props.setProperty("crossValidationFolds", "3");
-		props.setProperty("printCrossValidationDecisions", "true");
+		props.setProperty("crossValidationFolds", "10");
+		//props.setProperty("printCrossValidationDecisions", "true");
 		props.setProperty("shuffleTrainingData", "true");
 		props.setProperty("displayAllAnswers", "true");
 		ColumnDataClassifier CVclassifier=new ColumnDataClassifier(props);		
     	Pair<GeneralDataset<String,String>,List<String[]>> features=CVclassifier.readTestExamples(path);
     	Pair<Double,Double> metrics=CVclassifier.crossValidate(features.first(), features.second());
+    	System.out.println(metrics.first()+" "+metrics.second());
 		
 		
 	}
@@ -170,12 +178,20 @@ public class classify{
 			System.out.println(cl.scoresOf(line).entrySet()
 												.stream()
 												.collect(Collectors.toMap(x->x.getKey(),x->1/(1+Math.exp(-x.getValue())))));
-										
+					
+			//System.out.println(cl.scoresOf(line));
 			//System.out.println(line.toString());
 		}
 		 
 		
+		
 	}
+	//to create tab delimited training text files 
+		public classify(String train_path) throws IOException{
+			lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+	    	LoadStopwords("data/english.stop.txt");
+			LoadDir(train_path);
+		}
 	
 	// to use the text file to train the classifier
 	public classify(String train_path,String type){	
@@ -194,7 +210,7 @@ public class classify{
     	CDclassifier=new ColumnDataClassifier(props);
     	
     	if (type.equals("train")){
-    		GeneralDataset<String,String> train_data=CDclassifier.readTrainingExamples("data/train.txt");
+    		GeneralDataset<String,String> train_data=CDclassifier.readTrainingExamples("data/train_stemmed.txt");
     		cl=CDclassifier.makeClassifier(train_data);    		 	
     	}
     	else
@@ -207,8 +223,10 @@ public class classify{
 		//String[] t={"hello","consumer","price","inflation","has","risen","."};
 		//parse(Sentence.toWordList(t));
 		
-		classify classifier=new classify("data/bloomberg");
+		//classify classifier=new classify("data/bloomberg/");
 		//classify classifier=new classify("data/train.txt","train");
 		//classifier.test("data/test.txt");
+		classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
+		
 	}
 }

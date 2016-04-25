@@ -1,0 +1,675 @@
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 0
+..................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=183 FP=0 TN=19; Acc 0.094 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=10 FN=9 FP=8 TN=175; Acc 0.916 P 0.556 R 0.526 F1 0.541
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2 TN=200; Acc 0.990 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=32 TN=170; Acc 0.842 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=43 TN=159; Acc 0.787 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=32 TN=170; Acc 0.842 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=1 TN=201; Acc 0.995 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=25 TN=177; Acc 0.876 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=16 TN=186; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.04950
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.12838
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 1
+............................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=14 FN=152 FP=0 TN=36; Acc 0.248 P 1.000 R 0.084 F1 0.156
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=10 FN=26 FP=53 TN=113; Acc 0.609 P 0.159 R 0.278 F1 0.202
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=21 TN=181; Acc 0.896 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=29 TN=173; Acc 0.856 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.11881
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.11313
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 2
+..............................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=29 TN=173; Acc 0.856 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=14 FN=134 FP=0 TN=54; Acc 0.337 P 1.000 R 0.095 F1 0.173
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=27 FN=27 FP=1 TN=147; Acc 0.861 P 0.964 R 0.500 F1 0.659
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=22 TN=180; Acc 0.891 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=34 TN=168; Acc 0.832 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.20297
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.15261
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 3
+........................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=28 FN=109 FP=0 TN=65; Acc 0.460 P 1.000 R 0.204 F1 0.339
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=15 FN=50 FP=0 TN=137; Acc 0.752 P 1.000 R 0.231 F1 0.375
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=22 TN=180; Acc 0.891 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=53 TN=149; Acc 0.738 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.21287
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14287
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 4
+.....................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=5 FN=106 FP=1 TN=90; Acc 0.470 P 0.833 R 0.045 F1 0.085
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=29 FN=62 FP=3 TN=108; Acc 0.678 P 0.906 R 0.319 F1 0.472
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=44 TN=158; Acc 0.782 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=5 TN=197; Acc 0.975 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=32 TN=170; Acc 0.842 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=24 TN=178; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.16832
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.12975
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 5
+..........................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=16 TN=186; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=6 TN=196; Acc 0.970 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=34 TN=168; Acc 0.832 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=44 FN=56 FP=3 TN=99; Acc 0.708 P 0.936 R 0.440 F1 0.599
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=5 FN=97 FP=4 TN=96; Acc 0.500 P 0.556 R 0.049 F1 0.090
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=28 TN=174; Acc 0.861 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=2 TN=200; Acc 0.990 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=26 TN=176; Acc 0.871 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.24257
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14073
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 6
+..........................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=22 TN=180; Acc 0.891 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=19 TN=183; Acc 0.906 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=22 TN=180; Acc 0.891 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=43 TN=159; Acc 0.787 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=8 FN=76 FP=7 TN=111; Acc 0.589 P 0.533 R 0.095 F1 0.162
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=1 FP=0 TN=201; Acc 0.995 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=19 FN=98 FP=2 TN=83; Acc 0.505 P 0.905 R 0.162 F1 0.275
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=3 TN=199; Acc 0.985 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=23 TN=179; Acc 0.886 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.13366
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.03641
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 7
+........................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=65 TN=137; Acc 0.678 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=5 TN=197; Acc 0.975 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=19 FN=50 FP=4 TN=129; Acc 0.733 P 0.826 R 0.275 F1 0.413
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=21 FN=112 FP=0 TN=69; Acc 0.446 P 1.000 R 0.158 F1 0.273
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=21 TN=181; Acc 0.896 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.19802
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14048
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 8
+..............................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=27 TN=175; Acc 0.866 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=21 TN=181; Acc 0.896 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=25 TN=177; Acc 0.876 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=25 FN=29 FP=1 TN=147; Acc 0.851 P 0.962 R 0.463 F1 0.625
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=8 FN=140 FP=0 TN=54; Acc 0.307 P 1.000 R 0.054 F1 0.103
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=31 TN=171; Acc 0.847 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.16337
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14396
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 9
+...........................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 35823 features, 12 classes, and 429876 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 208 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=12 TN=196; Acc 0.942 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=14 TN=194; Acc 0.933 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=35 TN=173; Acc 0.832 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=9 TN=199; Acc 0.957 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=49 TN=159; Acc 0.764 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=14 TN=194; Acc 0.933 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=20 TN=188; Acc 0.904 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=208; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=21 TN=187; Acc 0.899 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=3 TN=205; Acc 0.986 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=9 FN=24 FP=22 TN=153; Acc 0.779 P 0.290 R 0.273 F1 0.281
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=175 FP=0 TN=33; Acc 0.159 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.04327
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10677
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.15334
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average macro-averaged F1: 0.12351
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+0.1533368240670221 0.123509950082063
+
+stemmed train data
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 0
+...................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=183 FP=0 TN=19; Acc 0.094 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=10 FN=9 FP=10 TN=173; Acc 0.906 P 0.500 R 0.526 F1 0.513
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=199; Acc 0.985 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=33 TN=169; Acc 0.837 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=41 TN=161; Acc 0.797 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=26 TN=176; Acc 0.871 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=3 TN=199; Acc 0.985 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=20 TN=182; Acc 0.901 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=23 TN=179; Acc 0.886 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.04950
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.12607
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 1
+...........................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=10 FN=156 FP=0 TN=36; Acc 0.228 P 1.000 R 0.060 F1 0.114
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=10 FN=26 FP=56 TN=110; Acc 0.594 P 0.152 R 0.278 F1 0.196
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=21 TN=181; Acc 0.896 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=21 TN=181; Acc 0.896 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=24 TN=178; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.09901
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10914
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 2
+.....................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=25 TN=177; Acc 0.876 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=17 FN=131 FP=0 TN=54; Acc 0.351 P 1.000 R 0.115 F1 0.206
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=28 FN=26 FP=1 TN=147; Acc 0.866 P 0.966 R 0.519 F1 0.675
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=14 TN=188; Acc 0.931 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=16 TN=186; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=20 TN=182; Acc 0.901 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=33 TN=169; Acc 0.837 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.22277
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.15673
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 3
+.................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=31 FN=106 FP=0 TN=65; Acc 0.475 P 1.000 R 0.226 F1 0.369
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=16 FN=49 FP=4 TN=133; Acc 0.738 P 0.800 R 0.246 F1 0.376
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=17 TN=185; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=52 TN=150; Acc 0.743 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=20 TN=182; Acc 0.901 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.23267
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14546
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 4
+...................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=6 TN=196; Acc 0.970 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=7 FN=104 FP=3 TN=88; Acc 0.470 P 0.700 R 0.063 F1 0.116
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=31 FN=60 FP=3 TN=108; Acc 0.688 P 0.912 R 0.341 F1 0.496
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=43 TN=159; Acc 0.787 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=26 TN=176; Acc 0.871 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=27 TN=175; Acc 0.866 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.18812
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.13431
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 5
+..................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=16 TN=186; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=9 TN=193; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=11 TN=191; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=6 TN=196; Acc 0.970 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=36 TN=166; Acc 0.822 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=40 FN=60 FP=2 TN=100; Acc 0.693 P 0.952 R 0.400 F1 0.563
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=9 FN=93 FP=10 TN=90; Acc 0.490 P 0.474 R 0.088 F1 0.149
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=22 TN=180; Acc 0.891 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=2 TN=200; Acc 0.990 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=24 TN=178; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=15 TN=187; Acc 0.926 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.24257
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14268
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 6
+............................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=19 TN=183; Acc 0.906 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=20 TN=182; Acc 0.901 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=24 TN=178; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=199; Acc 0.985 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=37 TN=165; Acc 0.817 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=6 FN=78 FP=8 TN=110; Acc 0.574 P 0.429 R 0.071 F1 0.122
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=1 FP=0 TN=201; Acc 0.995 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=26 FN=91 FP=2 TN=83; Acc 0.540 P 0.929 R 0.222 F1 0.359
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=4 TN=198; Acc 0.980 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=20 TN=182; Acc 0.901 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=23 TN=179; Acc 0.886 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.15842
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.04009
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 7
+...................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=10 TN=192; Acc 0.950 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=6 TN=196; Acc 0.970 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=14 TN=188; Acc 0.931 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=61 TN=141; Acc 0.698 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=7 TN=195; Acc 0.965 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=21 FN=48 FP=6 TN=127; Acc 0.733 P 0.778 R 0.304 F1 0.438
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=20 FN=113 FP=0 TN=69; Acc 0.441 P 1.000 R 0.150 F1 0.261
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=19 TN=183; Acc 0.906 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=12 TN=190; Acc 0.941 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.20297
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14158
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 8
+......................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 202 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=6 TN=196; Acc 0.970 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=8 TN=194; Acc 0.960 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=29 TN=173; Acc 0.856 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=24 TN=178; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=13 TN=189; Acc 0.936 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=202; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=18 TN=184; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=25 FN=29 FP=2 TN=146; Acc 0.847 P 0.926 R 0.463 F1 0.617
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=7 FN=141 FP=0 TN=54; Acc 0.302 P 1.000 R 0.047 F1 0.090
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=34 TN=168; Acc 0.832 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.15842
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.14230
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 9
+....................................................................................................................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26302 features, 12 classes, and 315624 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 208 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=20 TN=188; Acc 0.904 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=13 TN=195; Acc 0.938 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=35 TN=173; Acc 0.832 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=8 TN=200; Acc 0.962 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=41 TN=167; Acc 0.803 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=20 TN=188; Acc 0.904 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=17 TN=191; Acc 0.918 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=208; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=19 TN=189; Acc 0.909 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=2 TN=206; Acc 0.990 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=10 FN=23 FP=23 TN=152; Acc 0.779 P 0.303 R 0.303 F1 0.303
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=175 FP=0 TN=33; Acc 0.159 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.04808
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10859
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.16025
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average macro-averaged F1: 0.12469
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+0.16025323686214774 0.12469417016664712
+
+sentence wise training
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 0
+................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=4660 FP=0 TN=887; Acc 0.160 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=192 FN=695 FP=340 TN=4320; Acc 0.813 P 0.361 R 0.216 F1 0.271
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=308 TN=5239; Acc 0.944 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=493 TN=5054; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=516 TN=5031; Acc 0.907 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=611 TN=4936; Acc 0.890 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=1101 TN=4446; Acc 0.802 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=670 TN=4877; Acc 0.879 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=432 TN=5115; Acc 0.922 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=465 TN=5082; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=419 TN=5128; Acc 0.924 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.03461
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10588
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 1
+...............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=499 TN=5048; Acc 0.910 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=224 FN=3237 FP=42 TN=2044; Acc 0.409 P 0.842 R 0.065 F1 0.120
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=185 FN=1901 FP=282 TN=3179; Acc 0.606 P 0.396 R 0.089 F1 0.145
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=581 TN=4966; Acc 0.895 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=347 TN=5200; Acc 0.937 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=406 TN=5141; Acc 0.927 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=582 TN=4965; Acc 0.895 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=715 TN=4832; Acc 0.871 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=474 TN=5073; Acc 0.915 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=553 TN=4994; Acc 0.900 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=657 TN=4890; Acc 0.882 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.07373
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10543
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 2
+..............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=350 TN=5197; Acc 0.937 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=465 TN=5082; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=149 FN=1579 FP=42 TN=3777; Acc 0.708 P 0.780 R 0.086 F1 0.155
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=424 FN=3395 FP=27 TN=1701; Acc 0.383 P 0.940 R 0.111 F1 0.199
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=297 TN=5250; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=377 TN=5170; Acc 0.932 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=480 TN=5067; Acc 0.913 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=583 TN=4964; Acc 0.895 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=1679 TN=3868; Acc 0.697 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=368 TN=5179; Acc 0.934 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=306 TN=5241; Acc 0.945 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.10330
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.11282
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 3
+..............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=536 TN=5011; Acc 0.903 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=265 TN=5282; Acc 0.952 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=286 TN=5261; Acc 0.948 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=390 FN=2592 FP=65 TN=2500; Acc 0.521 P 0.857 R 0.131 F1 0.227
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=67 FN=2498 FP=40 TN=2942; Acc 0.542 P 0.626 R 0.026 F1 0.050
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=466 TN=5081; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=784 TN=4763; Acc 0.859 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=472 TN=5075; Acc 0.915 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=1193 TN=4354; Acc 0.785 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=489 TN=5058; Acc 0.912 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=494 TN=5053; Acc 0.911 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.08239
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10642
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 4
+.................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=417 TN=5130; Acc 0.925 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=309 TN=5238; Acc 0.944 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=248 TN=5299; Acc 0.955 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=512 TN=5035; Acc 0.908 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=58 FN=1609 FP=161 TN=3719; Acc 0.681 P 0.265 R 0.035 F1 0.062
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=397 FN=3483 FP=38 TN=1629; Acc 0.365 P 0.913 R 0.102 F1 0.184
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=1088 TN=4459; Acc 0.804 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=469 TN=5078; Acc 0.915 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=469 TN=5078; Acc 0.915 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=800 TN=4747; Acc 0.856 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=581 TN=4966; Acc 0.895 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.08203
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.10379
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 5
+..............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=655 TN=4892; Acc 0.882 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=255 TN=5292; Acc 0.954 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=264 TN=5283; Acc 0.952 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=438 TN=5109; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=811 TN=4736; Acc 0.854 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=402 FN=1402 FP=325 TN=3418; Acc 0.689 P 0.553 R 0.223 F1 0.318
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=98 FN=3645 FP=132 TN=1672; Acc 0.319 P 0.426 R 0.026 F1 0.049
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=557 TN=4990; Acc 0.900 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=377 TN=5170; Acc 0.932 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=792 TN=4755; Acc 0.857 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=441 TN=5106; Acc 0.920 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.09014
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.11392
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 6
+...............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=670 TN=4877; Acc 0.879 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=452 TN=5095; Acc 0.919 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=509 TN=5038; Acc 0.908 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=486 TN=5061; Acc 0.912 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=618 TN=4929; Acc 0.889 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=553 TN=4994; Acc 0.900 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=125 FN=1922 FP=356 TN=3144; Acc 0.589 P 0.260 R 0.061 F1 0.099
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=1 FP=0 TN=5546; Acc 1.000 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=196 FN=3303 FP=25 TN=2023; Acc 0.400 P 0.887 R 0.056 F1 0.105
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=457 TN=5090; Acc 0.918 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=754 TN=4793; Acc 0.864 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=346 TN=5201; Acc 0.938 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.05787
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.01702
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 7
+...............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=346 TN=5201; Acc 0.938 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=313 TN=5234; Acc 0.944 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=288 TN=5259; Acc 0.948 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2197 TN=3350; Acc 0.604 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=236 TN=5311; Acc 0.957 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=475 TN=5072; Acc 0.914 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=289 TN=5258; Acc 0.948 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=189 FN=1447 FP=159 TN=3752; Acc 0.710 P 0.543 R 0.116 F1 0.191
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=390 FN=3521 FP=30 TN=1606; Acc 0.360 P 0.929 R 0.100 F1 0.180
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=401 TN=5146; Acc 0.928 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=234 TN=5313; Acc 0.958 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.10438
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.11422
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 8
+................................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=301 TN=5246; Acc 0.946 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=309 TN=5238; Acc 0.944 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=439 TN=5108; Acc 0.921 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=1003 TN=4544; Acc 0.819 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=464 TN=5083; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=564 TN=4983; Acc 0.898 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=703 TN=4844; Acc 0.873 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=518 TN=5029; Acc 0.907 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=497 FN=1416 FP=190 TN=3444; Acc 0.710 P 0.723 R 0.260 F1 0.382
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=81 FN=3553 FP=14 TN=1899; Acc 0.357 P 0.853 R 0.022 F1 0.043
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=464 TN=5083; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.10420
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.11881
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - ### Fold 9
+...............................................................
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Built this classifier: LinearClassifier with 26278 features, 12 classes, and 315336 parameters.
+
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 5547 examples in test set
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=430 TN=5117; Acc 0.922 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=309 TN=5238; Acc 0.944 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=619 TN=4928; Acc 0.888 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=394 TN=5153; Acc 0.929 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financials: TP=0 FN=0 FP=1008 TN=4539; Acc 0.818 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=704 TN=4843; Acc 0.873 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls financial_services: TP=0 FN=0 FP=786 TN=4761; Acc 0.858 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls bloomberg: TP=0 FN=0 FP=0 TN=5547; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=466 TN=5081; Acc 0.916 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=363 TN=5184; Acc 0.935 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls technology: TP=134 FN=1288 FP=334 TN=3791; Acc 0.708 P 0.286 R 0.094 F1 0.142
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Cls industrials: TP=0 FN=4125 FP=0 TN=1422; Acc 0.256 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.02416
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Macro-averaged F1: 0.09515
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.07568
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - Average macro-averaged F1: 0.09935
+[main] INFO edu.stanford.nlp.classify.ColumnDataClassifier - 
+0.07568054804398774 0.09934724468164852
