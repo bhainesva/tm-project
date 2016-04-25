@@ -4,6 +4,7 @@ import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.ling.Datum;
 import edu.stanford.nlp.ling.HasWord;
 import edu.stanford.nlp.ling.RVFDatum;
 import edu.stanford.nlp.ling.Sentence;
@@ -12,6 +13,7 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
 import edu.stanford.nlp.sentiment.SentimentCoreAnnotations;
+import edu.stanford.nlp.stats.Counter;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
@@ -33,6 +35,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -77,7 +80,8 @@ public class classify{
     
     //function to extract only the noun phrases from each sentence of document
     public String parse_nouns(List<HasWord> text){
-    	List<CoreLabel> text1=Sentence.toCoreLabelList(text);    	
+    	List<CoreLabel> text1=Sentence.toCoreLabelList(text);
+    	System.out.println(text1);
     	String np="";
     	Tree parse_w=lp.apply(text1);
     	//iterating through the parse tree to identify noun phrases and nouns within the noun phrases
@@ -138,7 +142,7 @@ public class classify{
 			e.printStackTrace();}
 		
 	}
-	public void LoadDir(String path) throws IOException{
+	public void LoadDir(String path,String type) throws IOException{
 		File dir=new File(path);
 		String eol=System.getProperty("line.separator");
 		int i=0;
@@ -146,11 +150,14 @@ public class classify{
 		for(File f:dir.listFiles()){
 			if (f.isFile()){
 				i++;
-				System.out.println("document no " + Integer.toString(i));				
-				create_features(f.getAbsolutePath(),f.getParentFile().getName());
+				System.out.println("document no " + Integer.toString(i));	
+				if (type.equals("train"))
+					create_features(f.getAbsolutePath(),f.getParentFile().getName());
+				else
+					parse_test(f.getAbsolutePath());
 			}
 			else
-				LoadDir(f.getAbsolutePath());
+				LoadDir(f.getAbsolutePath(),type);
 		     }
 		
 		}
@@ -172,16 +179,39 @@ public class classify{
 		
 	}
 	
-	public void test(String path){
-		Pair<GeneralDataset<String,String>,List<String[]>> test=CDclassifier.readTestExamples(path);
-		for (RVFDatum<String, String> line:test.first()){			
-			System.out.println(cl.scoresOf(line).entrySet()
-												.stream()
-												.collect(Collectors.toMap(x->x.getKey(),x->1/(1+Math.exp(-x.getValue())))));
-					
-			//System.out.println(cl.scoresOf(line));
-			//System.out.println(line.toString());
+	public HashMap<String,Double> softmax(Counter<String> scores){
+		Double sum=scores.entrySet()
+				.stream()
+				.map(x->Math.exp(x.getValue()))
+				.reduce((a,b)->a+b).get();
+		HashMap<String,Double> probs=new HashMap<String,Double>
+										(scores.entrySet()
+											.stream()
+											.collect(Collectors.toMap(x->x.getKey(), x->Math.exp(x.getValue())/sum))
+											);
+		return(probs);
+
+	}
+	
+	
+	
+	public void test(String path) throws IOException{	
+		lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+    	LoadStopwords("data/english.stop.txt");
+		LoadDir(path,"test");		
 		}
+		
+	public void parse_test(String path){
+			DocumentPreprocessor doc=new DocumentPreprocessor(path);
+			Datum<String,String> tokens;
+			for(List<HasWord> sentence:doc){
+				if (sentence.size()<40){
+					tokens=CDclassifier.makeDatumFromLine(parse_nouns(sentence));	
+					System.out.println(tokens.labels());
+					System.out.println(softmax(cl.scoresOf(tokens)));}				
+			
+		}
+	
 		 
 		
 		
@@ -190,7 +220,7 @@ public class classify{
 		public classify(String train_path) throws IOException{
 			lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 	    	LoadStopwords("data/english.stop.txt");
-			LoadDir(train_path);
+			LoadDir(train_path,"train");
 		}
 	
 	// to use the text file to train the classifier
@@ -210,7 +240,7 @@ public class classify{
     	CDclassifier=new ColumnDataClassifier(props);
     	
     	if (type.equals("train")){
-    		GeneralDataset<String,String> train_data=CDclassifier.readTrainingExamples("data/train_stemmed.txt");
+    		GeneralDataset<String,String> train_data=CDclassifier.readTrainingExamples(train_path);
     		cl=CDclassifier.makeClassifier(train_data);    		 	
     	}
     	else
@@ -224,9 +254,9 @@ public class classify{
 		//parse(Sentence.toWordList(t));
 		
 		//classify classifier=new classify("data/bloomberg/");
-		//classify classifier=new classify("data/train.txt","train");
-		//classifier.test("data/test.txt");
-		classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
+		classify classifier=new classify("data/noun_phrases/train.txt","train");
+		classifier.test("data/fmoc_minutes/test");
+		//classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
 		
 	}
 }
