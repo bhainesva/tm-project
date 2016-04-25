@@ -128,14 +128,15 @@ public class classify{
 	     
 	     try(Writer writer=new FileWriter("data/noun_phrases/train_sent.txt",true))
 			{
-		     for(List<HasWord> sentence:doc){	    	 
-				tokens=parse_nouns(sentence);				
-				if (tokens.length()>10)
-					
-					writer.append(label)
-						  .append("\t")
-						.append(tokens)
-						.append(eol);
+		     for(List<HasWord> sentence:doc){	    
+		    	 if (sentence.size()<80){
+		    		 	tokens=parse_nouns(sentence);		    	 
+						if (tokens.length()>10)							
+							writer.append(label)
+								  .append("\t")
+								.append(tokens)
+								.append(eol);
+		    	 }		    	 
 					
 			}
 		} catch(IOException e){
@@ -204,11 +205,11 @@ public class classify{
 	public void parse_test(String path){
 			DocumentPreprocessor doc=new DocumentPreprocessor(path);
 			Datum<String,String> tokens;
-			for(List<HasWord> sentence:doc){
-				if (sentence.size()<40){
+			for(List<HasWord> sentence:doc){				
+				if (sentence.size()<80){
 					tokens=CDclassifier.makeDatumFromLine(parse_nouns(sentence));	
-					System.out.println(tokens.labels());
-					System.out.println(softmax(cl.scoresOf(tokens)));}				
+					//System.out.println(tokens.labels());
+					System.out.println(softmax(cl.scoresOf(tokens)));	}	
 			
 		}
 	
@@ -254,7 +255,7 @@ public class classify{
 		//parse(Sentence.toWordList(t));
 		
 		//classify classifier=new classify("data/bloomberg/");
-		classify classifier=new classify("data/noun_phrases/train.txt","train");
+		classify classifier=new classify("data/noun_phrases/train_sent.txt","train");
 		classifier.test("data/fmoc_minutes/test");
 		//classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
 		
