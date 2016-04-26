@@ -1,0 +1,48 @@
+How Big is the Oil Glut? Depends...
+['Liam Denning']
+http://www.bloomberg.com/gadfly/articles/2016-04-20/oil-inventories-data-shouldn-t-comfort-bulls-much
+Apr 20, 2016 2:56 PM EDT
+
+It turns out you actually can choose your relatives.
+
+Relative measurements, that is. (You're stuck with that embarrassing uncle.) This matters a great deal in judging the path forward for oil prices.
+
+On Wednesday, oil got an apparent reprieve from the failure of the Doha freeze talks and the fact that Kuwait's helpful strike turned out to be more of a long weekend break. Crude oil futures turned a loss into a gain of almost 4 percent after the release of weekly data from the Energy Information Administration.
+
+Jump Day Nymex crude oil futures reversed losses strongly after U.S. inventory numbers were published Source: Bloomberg
+
+The EIA's data had some helpful nuggets for oil bulls. Production continued to eke out declines and stocks of crude and refined products either built by less than expected or fell.
+
+So things are moving in the right direction. The question is how quickly?
+
+Regarding the big obstacle to a sustainable rally -- the glut of oil inventories -- relative numbers are more useful than absolutes. After all, can you even picture 1.36 billion barrels of commercial oil inventories?
+
+The usual place to start is to compare what's happening with last year. This chart shows where stocks of crude oil, gasoline and distillate were each week of this year versus the same week in 2015.
+
+What a Difference a Year Makes (Kinda) U.S. commercial oil inventories in 2016 relative to the same week in 2015 Source: Energy Information Administration, Bloomberg Gadfly analysis
+
+Yes, stocks of all three of the main types of oil are higher than last year, but bulls can still draw some comfort from this chart. The glut of crude oil is declining in relative terms which, along with falling output and investment by producers, suggests the tide is turning. Gasoline stocks continue to rise in relative terms, but consumption has also risen, so that increase isn't as bad as it looks. And yes, distillate is a disaster. But it doesn't look quite as much of a disaster as in February, during that mild winter.
+
+But let's be honest: Closing the gap on 2015 is the bare minimum required here. Oil inventories ended last year close to or at their highest levels in decades (many decades in crude's case). So let's take a look at how 2016 shapes up against another relative -- the five-year average.
+
+Low Five Weekly U.S. oil stocks in 2016 compared to the five year average Source: Energy Information Administration, Bloomberg Gadfly analysis
+
+This one looks less encouraging. Even accounting for strong gasoline demand in 2015 and 2016, that continuing increase in stocks relative to the average is troubling. Moreover, while there has been some improvement for crude and distillate in recent weeks, they are still way above the historical norm.
+
+The 5-year averages, moreover, are skewed higher by the rapid build-up since the summer of 2014. Looking at the decade between 2006 and 2015 -- encompassing several booms and busts in the market -- would help to offset this. And it shouldn't skew the picture relative to demand trends, either, since U.S. oil consumption this year is running only between 0 and 3 percent above 10-year averages, with gasoline at the high end of that.
+
+Lost Decade U.S. oil inventories in 2016 relative to 10-year averages Source: Energy Information Administration, Bloomberg Gadfly analysis
+
+From this longer-term perspective, inventories look even more out of whack. Needless to say, inventories in 2016 are also running above the maximum of the 5- and 10-year ranges, too. And that distillate line, with all that it implies for refining margins, is a real problem.
+
+More broadly, it should be clear that, while supply and demand are in the process of rebalancing, there is a lot of excess to work off before we get back to what the current generation of oil bulls might call normal.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Liam Denning in San Francisco at ldenning1@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Gongloff at mgongloff1@bloomberg.net

@@ -1,0 +1,28 @@
+Carbon Market Signals Utilities Slower to Lock Down Profit
+['Mathew Carr']
+http://www.bloomberg.com/news/articles/2016-04-06/carbon-market-signals-utilities-locking-in-profit-at-slower-pace
+For the latest sign of how solar and wind is crowding out fossil-fuel generation at Europe’s utilities, take a look at the region’s carbon market.
+
+Aggregate open interest, a measure of open trading positions, dropped a record 36 percent as of March 31 from when the annual benchmark contract expired on Dec. 14, according to data from the ICE Futures Europe exchange. Since utilities typically sell power in advance and buy carbon allowances at the same time, the decline may indicate slowing sales as renewable electricity typically has priority access to grids.
+
+The drop signals further pain for traditional power producers. RWE AG, Germany’s biggest, has suspended dividend payments, while Vattenfall AB is struggling to sell its German lignite plants. Selling less electricity in advance boosts financial risks at the companies, which have suffered credit-rating downgrades. Average daily wind energy output in Germany jumped 52 percent last year, according to data from the European Energy Exchange AG.
+
+“Coal and natural gas generators have had to react more quickly to changes in solar and wind output,” Giacomo Masato, a research analyst at Marex Spectron Group Ltd. in London, said Tuesday by phone. “When there’s further strong increases in renewables, there will be further drops in coal and gas’s market share.”
+
+Power Prices
+
+Power prices, which plunged 29 percent in Germany in the past year, remain under pressure because of high natural gas storage levels, declining fuel costs and mild weather, Elchin Mammadov, an analyst in London at Bloomberg Intelligence, said in a note. Enel SpA and Energie Baden-Wuerttemberg AG have reduced hedging as they plan to increase their renewables output, he said.
+
+“I think it’s reasonable to assume an annual decline in hedging demand in Europe,” said Mark Lewis, an analyst at Barclays Plc, speaking by phone Tuesday from New York. “Every year you are going to have more renewable output.”
+
+Utilities are probably also scaling back hedges because profitability is “terrible,” Lewis said. The profit from burning coal for power in Europe two years ahead is trading near its lowest for five years, according to a Bloomberg dark-spread model.
+
+Utilities are increasingly focusing on prompt markets rather than on one, two or three years ahead, Ingo Ramming, the London-based co-head of commodity solutions at Commerzbank AG, said by phone.
+
+Solar, Wind
+
+“Trading around actual solar and wind production is becoming more important to power traders than long-term, strategic hedging,” Ramming said by phone. “Just because utilities forward-hedged power in the past two years out does not mean they will continue to do so forever.”
+
+The change will probably significantly trim demand from utilities for carbon allowances, Ramming said. Power generators are the main source of demand in the market because factories usually receive most allowances for free.
+
+EU power-industry emissions will decline a further 11 percent in the three years through 2018, having dropped 7.1 percent the past two years, according to a March forecast by Trevor Sikorski, an analyst at Energy Aspects Ltd. in London.

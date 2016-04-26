@@ -1,0 +1,30 @@
+State Power-Plant Subsidies Struck Down by U.S. Supreme Court
+['Greg Stohr']
+http://www.bloomberg.com/politics/articles/2016-04-19/state-power-plant-subsidies-struck-down-by-u-s-high-court
+The U.S. Supreme Court struck down a Maryland program that subsidized the construction of new power plants, saying it infringed on federal authority to regulate wholesale electricity rates.
+
+The unanimous ruling ends a program Maryland adopted in 2012 and may doom a similar New Jersey system. The decision helps shape the boundaries between state and federal authority over the electricity market.
+
+The program required utilities to enter into contracts with the new generator, CPV Maryland LLC, tying the rates and amounts to CPV’s sales on the wholesale capacity market. The utilities then were required to pay CPV a subsidy if the wholesale price was below the contract price.
+
+“We see it as a victory for generators, consumers and it upholds the integrity of competitive markets,” George Lewis, a spokesman for Talen Energy Corp. , an independent power producer based in Pennsylvania, said by phone Tuesday. Maryland “was not only exceeding state authority, but was undermining competitive markets,” he said.
+
+In ruling against the state and CPV, the high court said Maryland improperly set an interstate wholesale power rate. A U.S. statute gives exclusive authority over wholesale rates in the interstate market to the Federal Energy Regulatory Commission.
+
+"Maryland’s program invades FERC’s regulatory turf," Justice Ruth Bader Ginsburg wrote for the court. The decision upheld a federal appeals court’s ruling.
+
+Other Steps
+
+Ginsburg said the high court wasn’t ruling out other steps by states to encourage the development of newer, cleaner power plants.
+
+"Nothing in this opinion should be read to foreclose Maryland and other states from encouraging production of new or clean generation through measures untethered to a generator’s wholesale market participation," she wrote.
+
+Similar issues were raised last month when Ohio utility regulators approved above-market rates to keep some money-losing plants open, said Kit Konolige, an analyst at Bloomberg Intelligence. “There are some obvious parallels,” Konolige said. “Clearly the state is giving support to prices and stabilizing their returns.”
+
+Tuesday’s ruling doesn’t affect the power contracts approved by the Ohio regulators, William Scherman, who leads the energy, regulation and litigation practice at Gibson, Dunn & Crutcher LLP in Washington, said by phone.
+
+“As Justice Ginsburg states in her opinion, the holding is limited to the specific facts of the Maryland program,” Scherman said. “What the court is saying is what Maryland did was effectively set wholesale rates, whereas Ohio has gone out of its way to say it’s setting retail rates.”
+
+In a separate case testing the state-federal boundaries in the electricity markets, the high court in January upheld a FERC order designed to reward industrial consumers for cutting electricity use during peak periods.
+
+The lead case is Hughes v. PPL EnergyPlus, 14-614.

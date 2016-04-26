@@ -1,0 +1,42 @@
+Venture Fund Stakes Discounted Amid Unicorns' Valuation Doubts
+['Ainslie Chandler']
+http://www.bloomberg.com/news/articles/2016-04-06/venture-fund-stakes-discounted-amid-unicorns-valuation-doubts
+The average prices paid for secondhand stakes in venture capital funds are falling amid concern about the real value of the startups the funds have invested in and public market volatility.
+
+During 2015 the average price for venture capital secondaries -- stakes in established funds sold on by limited partners -- fell the most among all private equity style funds, according to figures from secondary advisory firm Greenhill Cogent.
+
+Average prices as a percentage of net asset value fell from 82 percent in the first half of the year -- its highest since 2007 -- to 74 percent, according to Greenhill Cogent figures. And they have continued to fall in 2016.
+
+Investor Markdowns
+
+One big factor in the recent price decline has been the markdowns mutual fund managers like Fidelity Investments have taken on their startup stakes, according to Andy Nick, a managing director at Greenhill Cogent.
+
+Since the beginning of the year Fidelity has marked down the value of its holdings in Canadian startup Hootsuite Media Inc., Dropbox Inc., web performance and cybersecurity company CloudFlare Inc., electronic signature technology maker DocuSign Inc. and data center hardware and software makers Nutanix Inc.
+
+Funds with big exposures to unicorns -- private companies valued at more than $1 billion -- could trade at 60 percent of their NAV, according to Nick.
+
+“Investors are getting skeptical that marks are not reflective of true value. They are worried that they might not get their marked value when they get liquidity,” he said.
+
+Private funding rounds at flat or lower valuations and write-downs like those at Fidelity have had a “cascading” effect on secondary pricing, according to Sunaina Sinha, founder and managing partner at placement agent and secondary adviser Cebile Capital.
+
+Investors now prefer funds with a diversified portfolio, rather than hefty exposure to a single unicorn, Sinha said.
+
+Health-care Down
+
+Health-care and life sciences funds have been particularly affected, with the average price falling from 84 percent in June 2015 to 69 percent in December, weighed down by the volatility in listed health-care share prices, according to Greenhill Cogent.
+
+“Pricing through the beginning of the third quarter of 2015 stayed largely in line with pricing in 2014 in the low 80s,” Greenhill Cogent’s Nick said. “However, the public market volatility toward the end of the year and increased doubts regarding exits for unicorns -- Square’s initial public offering, news regarding Theranos, Good Technology -- weighed on buyers’ perceptions.”
+
+During the final quarter of 2015, about 18 percent of startups raised money at the same or lower valuations than in their previous funding rounds, according to a report from Silicon Valley law firm Fenwick & West LLP.
+
+During 2015, 29 percent of 41 U.S.-based technology companies that went public did so at a lower valuation than their final private funding round, according to the report.
+
+Unicorns could comprise 90 percent of some funds’ values, according to Peter McGrath, a managing director at Toronto-based secondaries firm Setter Capital. As pre-IPO finance rounds have flattened or declined for some companies, venture capital funds’ limited partners have become more conservative, he said.
+
+Meanwhile, sentiment toward later stage venture and growth funds has improved, as investors in later rounds tend to have better protection if the company was exited below the value of the funding round, according to Nick.
+
+“People are gravitating towards late-stage venture capital. They think those are a bit more ‘real,’ with less risk,” Nick said. “The caveat is that if there is a unicorn in the portfolio, all bets are off.”
+
+Some older funds with “tired” assets can attract a 30 percent discount to NAV, according to Mathieu Drean of Triago. However, good funds have a more slender discount of 10 percent to 12 percent, he said.
+
+Because of the recovery in listed equities since January, declines in venture capital secondaries pricing have not yet been as steep as expected, Cambridge Associates’ managing director of venture capital research Theresa Hajer said. Still, she said, given the public market volatility, secondary venture volume is likely to increase and prices are likely to continue to fall.

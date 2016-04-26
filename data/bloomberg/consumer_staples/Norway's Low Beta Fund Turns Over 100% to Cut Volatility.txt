@@ -1,0 +1,26 @@
+Norway's Low Beta Fund Turns Over 100% to Cut Volatility
+['Jonas Cho Walsgard']
+http://www.bloomberg.com/news/articles/2016-04-03/norway-s-low-beta-fund-turns-over-100-to-cut-volatile-returns
+Seeking low volatility can be a volatile business.
+
+Switching out the entire portfolio each year and focusing on cheap, low-beta stocks has helped KLP’s Aksje Global Lavbeta II fund beat its benchmark in five out of the past seven years, according to Magne Valen-Sendstad and Joakim Embu, who manage about 100 billion kroner ($12 billion) at the Norwegian life insurer.
+
+“We want to avoid dips as in 2008 and now in January and February -- this portfolio outperformed a lot,” Magne Valen-Sendstad said in an interview Thursday. “It’s proof in the pudding.”
+
+The actively managed global equity fund, which was started in 2008 for pensions and opened to clients in 2014, is a bet that low beta stocks, which are less volatile than the index, will outperform over time while weathering downturns better than more volatile peers.
+
+Volatility Anomaly
+
+“There’s a volatility anomaly in the market,” Valen-Sendstad said. “Over decades low volatility companies outperform the market. Why is it like that? And why doesn’t that trade get crowded? It’s still there and it has existed for a long time -- and it has delivered and delivered.”
+
+It returned 1.3 percent in the past year compared with the 4 percent loss of its peers, according to data compiled by Bloomberg.
+
+The managers screen equities based on valuation, price volatility, beta and earnings volatility after removing companies posting losses and with book values more than twice of their market capitalization to avoid companies that may be distressed. The stocks with the best scores are PepsiCo Inc., Procter & Gamble Co. and Nestle SA, according to Embu.
+
+The portfolio of 190 stocks, which is overweight in consumer staples, utilities and telecommunications, bought stakes in American Express Co., 3M Co., Home Depot Inc. and Novartis AG in December, while it exited Exxon Mobil Corp., Starbucks Corp. and Toyota Motor Corp.
+
+“When we trade it’s important to use a lot of time to trade in the market,” said Embu. “That we don’t sell and buy with a large footprint in the market -- use a lot of days with minimum impact.”
+
+More quantitative and rule based management will continue to take market share as fees continue to fall below 10 basis points, according to Valen-Sendstad.
+
+“If you’re gonna compete at those levels you can’t have a staff of stockpickers analyzing,” Valen-Sendstad said. “Then it’s only rule based production of the index. It’s more the PC that does the job with one person behind.”

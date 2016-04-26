@@ -1,0 +1,60 @@
+Wind and Solar Are Crushing Fossil Fuels
+['Tom Randall']
+http://www.bloomberg.com/news/articles/2016-04-06/wind-and-solar-are-crushing-fossil-fuels
+Wind and solar have grown seemingly unstoppable.
+
+While two years of crashing prices for oil, natural gas, and coal triggered dramatic downsizing in those industries, renewables have been thriving. Clean energy investment broke new records in 2015 and is now seeing twice as much global funding as fossil fuels.
+
+One reason is that renewable energy is becoming ever cheaper to produce. Recent solar and wind auctions in Mexico and Morocco ended with winning bids from companies that promised to produce electricity at the cheapest rate, from any source, anywhere in the world, said Michael Liebreich, chairman of the advisory board for Bloomberg New Energy Finance (BNEF).
+
+"We're in a low-cost-of-oil environment for the foreseeable future," Liebreich said during his keynote address at the BNEF Summit in New York on Tuesday. "Did that stop renewable energy investment? Not at all."
+
+Here's what's shaping power markets, in six charts from BNEF:
+
+Renewables are beating fossil fuels 2 to 1
+
+Investment in Power Capacity, 2008-2015 Source: BNEF, UNEP
+
+Government subsidies have helped wind and solar get a foothold in global power markets, but economies of scale are the true driver of falling prices: The cost of solar power has fallen to 1/150th of its level in the 1970s, while the total amount of installed solar has soared 115,000-fold.
+
+As solar prices fall, installations boom
+
+Source: BNEF
+
+The reason solar-power generation will increasingly dominate: It’s a technology, not a fuel. As such, efficiency increases and prices fall as time goes on. What's more, the price of batteries to store solar power when the sun isn't shining is falling in a similarly stunning arc.
+
+Just since 2000, the amount of global electricity produced by solar power has doubled seven times over. Even wind power, which was already established, doubled four times over the same period. For the first time, the two forms of renewable energy are beginning to compete head-to-head on price and annual investment.
+
+An industry that keeps doubling in size
+
+Renewables’ share of power generation. Scale is shown in doublings. Source: BNEF
+
+Meanwhile, fossil fuels have been getting killed by falling prices and, more recently, declining investment. It started with coal—it used to be that lower prices increased demand for fossil fuels, but coal prices apparently can't fall fast enough. Richer OECD (Organisation for Economic Co-operation and Development) countries have been reducing demand for almost a decade. In China, coal power has also flattened. Only developing countries with rapidly expanding energy demands are still adding coal, though at a slowing rate.
+
+Coal phases out in wealthier countries first
+
+What does that look like on a country-level basis? The world's first coal superpower, the U.K., now produces less power from coal than it has since at least 1850.
+
+Canary in the coal mine: U.K.
+
+Source: BNEF
+
+More recently it's the oil and gas industry that's been under attack. Prices have tumbled and investments have started drying up. The number of oil rigs active in the U.S. fell last month to the lowest since records began in the 1940s. Producers—from tiny frontier drillers to massive petrol-producing nation-states—are creeping ever closer to insolvency.
+
+"What we're talking about is miscalculation of risk," said BNEF's Liebreich. "We're talking about a business model that is predicated on never-ending growth, a business model that is predicated on being able to find unlimited supplies of capital."
+
+The chart below shows independent oil producers and their ability to pay their debt. The pink quadrant at the bottom right represents the greatest threat to a company's solvency. By 2015, that quadrant starts to fill up, and Liebreich warned, "It's going to get uglier."
+
+U.S. oil patch heads to the insolvency zone
+
+Source: BNEF
+
+Oil and gas woes are driven less by renewables than by a mismatch of too much supply and too little demand. But with renewable energy expanding at record rates and with more efficient cars—including all-electric vehicles—siphoning off oil profits at the margins, the fossil-fuel insolvency zone is only going to get more crowded, according to BNEF. Natural gas will still be needed for when the sun isn't shining and the wind isn't blowing, but even that will change as utility-scale batteries grow cheaper.
+
+The best minds in energy keep underestimating what solar and wind can do. Since 2000, the International Energy Agency has raised its long-term solar forecast 14 times and its wind forecast five times. Every time global wind power doubles, there's a 19 percent drop in cost, according to BNEF, and every time solar power doubles, costs fall 24 percent.
+
+
+
+And while BNEF says the shift to renewable energy isn't happening fast enough to avoid the catastrophic legacy of fossil-fuel dependence—climate change—it's definitely happening.
+
+Watch Next: Southern Company CEO is Bullish on Solar, Wind

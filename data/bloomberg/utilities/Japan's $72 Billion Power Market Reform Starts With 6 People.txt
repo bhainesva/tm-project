@@ -1,0 +1,46 @@
+Japan's $72 Billion Power Market Reform Starts With 6 People
+['Stephen Stapczynski Tsuyoshi Inajima Emi Urabe', 'Stephen Stapczynski', 'Tsuyoshi Inajima', 'Emi Urabe']
+http://www.bloomberg.com/news/articles/2016-03-31/japan-s-72-billion-power-market-opening-starts-with-six-people
+At the heart of Japan’s 8.1 trillion yen ($72 billion) retail electricity market liberalization is a six-person office in a residential neighborhood south of Tokyo’s business center.
+
+The Japan Electric Power Exchange, established more than a decade ago as a platform to buy and sell electricity, handles about 1.5 percent of the country’s total power use. Those volumes will have to grow if Prime Minister Shinzo Abe’s plan to spur competition in the industry and lower prices for customers is to succeed.
+
+“We want the volume in the spot market to increase to the likes of Europe,” Koji Tamura, the exchange’s assistant director, said in an interview. “In the past, the major utilities didn’t really use the exchange. If we make an exchange that the major utilities will want to join, then our volume will explode.”
+
+Tamura and his team monitor trading, ensure regulations are followed and trades are registered correctly. They’re also developing new rules, products and services to attract higher volumes, which were 15.4 terawatt hours in the fiscal year ending March 2016.
+
+Greater Transparency
+
+Japan’s power monopolies may now face the same challenges as their German, Nordic and American counterparts, who resisted more open markets because they wanted to maintain dominance, according Per Christer Lund, a former adviser to JEPX and who has consulted on market deregulation in Europe and North America.
+
+“But once they see this reform can’t be reversed, once they see the toothpaste is out of the tube, they start positioning themselves, they start using the instrument to be competitive,” he said.
+
+Nord Pool AS, the Nordic market’s exchange established in the 1990s, gained buyers and sellers over two decades as it published prices and encouraged transparency. Volume on Nord Pool accounted for almost 90 percent of the region’s electricity consumption in 2014.
+
+“An exchange must have a significant share of the market to provide trust and transparency,” said Hans Gunnar Navik, an Oslo-based senior analyst at Nena As. “An exchange will become relevant if the share is in the range of 10 to 20 percent or above.”
+
+Power trading in Europe is still dominated by over-the-counter transactions, where buyers and sellers deal with each other via brokers, avoiding the use of an exchange. More than 40 percent of electricity generated in Great Britain is traded on power exchanges, according to a 2015 report from Baringa Partners LLP.
+
+Voluntary Efforts
+
+Japan is considering rules requiring utilities to trade on the exchange, Tatsuo Hatta, the head of the country’s Electricity Market Surveillance Commission, said in September.
+
+Members of the EMSC criticized the regional utilities at a meeting last month for not increasing their wholesale trading fast enough.
+
+“It became crystal clear the so-called voluntary efforts are not functioning,” Toshihiro Matsumura, a professor at the University of Tokyo and a member of the panel, said March 16. “We wouldn’t be doing our duty if we left it to their voluntary efforts.”
+
+The government will wait to gauge exchange participation after April 1 before deciding on any trading requirements, Asako Aoyagi, a deputy director at EMSC, said Thursday.
+
+Low Voltage
+
+Japan’s 24-hour average electricity spot price for delivery on April 2 fell 7.1 percent to 6.90 yen per kilowatt hour by 1:51 p.m. local time, according to data on the JEPX website.
+
+Tokyo Electric Power Co., the country’s biggest producer, already trades on JEPX, according to spokeswoman Yukako Handa, who didn’t provide current volumes or any outlook for its activity. Chubu Electric Co. declined to comment, while Kansai Electric Co. said it needed more time to respond. The three produce more than half of the electricity consumed in Japan, according to the Federation of Power of Electric Power Companies of Japan.
+
+By liberalizing its low-voltage electricity market, Japan is allowing roughly 85 million households and small businesses -- representing about 38 percent of the market -- to choose electricity providers for the first time. The nation last decade reformed retail competition for high-voltage customers, which account for roughly 62 percent.
+
+‘Virtuous Cycle’
+
+One stimulus for raising exchange volumes may be the planned breakup of Japan’s vertically integrated utilities, according to Bloomberg Intelligence. The companies will be required to separate transmission, distribution and retail businesses by 2020.
+
+The government is now hoping price signals from the wholesale market encourage utilities to sell more power on the exchange rather than to their own retail units, creating a “virtuous cycle,” said Ali Izadi-Najafabadi, a Tokyo-based analyst for Bloomberg New Energy Finance. “It is questionable to expect that to happen unless you do some sort of regulatory change.”

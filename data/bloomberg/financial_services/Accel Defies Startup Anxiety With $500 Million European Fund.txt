@@ -1,0 +1,34 @@
+Accel Defies Startup Anxiety With $500 Million European Fund
+['Jeremy Kahn']
+http://www.bloomberg.com/news/articles/2016-04-11/accel-defies-startup-anxiety-with-500-million-eu-israeli-fund
+Accel, the venture capital firm with offices in the U.S., U.K. and India, has raised a new $500 million fund to invest in European and Israeli startups, the company said Tuesday.
+
+While venture capital investment in the U.S. has been in retreat since late-2015 because of concerns that many tech darlings have been accorded unsustainable valuations, Accel managed to raise its new fund "in weeks, not months," said Harry Nelis, a partner with Accel in London.
+
+"We are less impacted by the whole valuation environment as we are early-stage investors," Nelis said in an interview. He also said there was less investor anxiety about inflated valuations in Europe compared with the U.S.
+
+While U.S. investors once doubted whether European tech companies could achieve valuations of $1 billion or more before going public-- the threshold for a business to be considered a " unicorn" -- Nelis said Europe has now met this target on numerous occasions. In 2015, Accel’s London team saw exits with a total enterprise value of more than $15 billion, the firm said.
+
+Marketplaces and Software
+
+Accel is targeting early-stage investments, particularly those operating marketplaces, software-as-a-service and new enterprise applications. Developer tools for big data analytics are also of interest, Nelis said.
+
+Investors in Accel London V, as the new fund is called, include charities, U.S. university endowments, pensions and sovereign wealth, although Nelis declined to identify any by name. It brings Accel’s total assets under management in Europe and Israel to $2.5 billion.
+
+Track Record
+
+Accel’s previous investments in Europe include companies such as Supercell, the mobile games developer behind “Clash of Clans,” sold to Softbank in 2013 for $1.5 billion and which is now valued at more than $5 billion. It also invested in Avito, a Russian classified advertising site that Naspers bought last year for $1.2 billion. Accel also has stakes in food delivery startup Deliveroo, ride-sharing service BlaBlaCar and online price comparison company Check24. In the U.S. it was an early investor in Facebook Inc., Dropbox Inc., and Slack Technologies Inc.
+
+Nelis said that the quality of entrepreneurs and companies Accel is seeing in Europe and Israel is only improving. "Europe has always had great entrepreneurs but the tools they can work with today are just better," he said. Now it’s much easier to start companies in Europe, find initial funding and gain early customers, he said.
+
+Nelis said that Accel was interested in what he called "megatrends" creating many technology investment opportunities: mobile technology, which he said was allowing new tech businesses to rapidly gain traction with a large segment of the population at relatively low cost.
+
+"You have 10-year-old kids today walking around with basically a mainframe in their pocket," he said, referring to the increased power of modern smartphones. He also said cloud-computing was enabling businesses to grow much faster than before.
+
+London Advantage
+
+Nelis said that software-as-a-service, particularly software focused on the financial sector, was an area where Europe had an advantage over companies based in Silicon Valley. "London is arguably the best place on Earth to build a fintech business because not only is the technology there, but the talent is there: You have a very large number of financial services professionals willing to join these startups," he said. "You don’t have that in San Francisco."
+
+Nelis said that while Accel’s previous funds had invested in a lot of consumer-facing technology companies, he thought the pendulum was beginning to shift back toward enterprise software and tool sets for application developers.
+
+“There’s a lot of data-centric technologies, ways of virtualizing software, that we think are going to be big,” he said.

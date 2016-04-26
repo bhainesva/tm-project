@@ -1,0 +1,46 @@
+Senators’ Encryption Measure Adds New Fuel to Apple-FBI Debate
+['Chris Strohm']
+http://www.bloomberg.com/politics/articles/2016-04-13/senators-encryption-measure-adds-new-fuel-to-apple-fbi-debate
+Technology and Internet companies would have to provide government agencies with access to data when served with a court order under long-awaited draft legislation crafted by two top senators.
+
+The proposal adds fuel to a fight being waged most visibly between Apple Inc. and the FBI over whether companies must give law enforcement agencies access to e-mails, texts, phone calls and other data that’s increasingly being encrypted into scrambled code to protect against hackers.
+
+“I am hopeful that this draft will start a meaningful and inclusive debate on the role of encryption and its place within the rule of law,” Republican Senator Richard Burr of North Carolina, chairman of the Senate intelligence committee, said in a statement. Burr is writing the bill with his Democratic counterpart on the panel, Dianne Feinstein of California.
+
+“The bill we have drafted would simply provide that, if a court of law issues an order to render technical assistance or provide decrypted data, the company or individual would be required to do so,” Feinstein said. “Today, terrorists and criminals are increasingly using encryption to foil law enforcement efforts, even in the face of a court order.”
+
+Opposing ‘Backdoors’
+
+Major technology industry associations, as well as a growing number of lawmakers, already have come out in opposition to the measure, arguing that it would force companies to create “backdoors” into their products and services that could make consumers and users less secure and expose data to hackers, spies and criminals.
+
+“Mandating the weakening of encryption will put the United States’ national security and global competitiveness at risk without corresponding benefits,” Michael Beckerman, president and chief executive officer of the Washington-based Internet Association, said in a statement. “Strong encryption is vital to protecting national security, personal privacy, communications, the electric grid, hospitals, and our defense systems.”
+
+Apple had no immediate comment on the proposed legislation.
+
+While President Barack Obama has backed the Federal Bureau of Investigation in its court fight with Apple, White House officials have been openly skeptical that lawmakers can produce a solution to the conflict.
+
+Prospects Unclear
+
+“The prospects of Congress actually developing a building bipartisan agreement around a good piece of legislation that appropriately balances the competing equities here, and then taking the additional step of actually getting it passed I think are somewhat low,” White House press secretary Josh Earnest told reporters Wednesday. Still, Earnest said the administration will “engage with members of Congress.”
+
+The senators didn’t say when they plan to introduce a final version of the bill, and it’s unclear if it will even be taken up by the Senate. Some lawmakers have suggested the best solution may be to create a commission to study an issue that pits politically influential technology companies and the privacy concerns of consumers against law enforcement agencies that say they need tools to catch both terrorists and common criminals.
+
+San Bernardino
+
+The FBI in February served Apple with a court order compelling the company to help break into an encrypted iPhone used by Syed Rizwan Farook, who with his wife carried out the deadly December attack in San Bernardino, California.
+
+Apple resisted, bringing national attention to an issue that has simmered for years under the surface. The FBI dropped its case last month after saying it bought a tool from a private organization it hasn’t identified to break into the phone.
+
+However, the FBI is pursuing at least one other case against Apple, and law enforcement officials, company executives and technology experts say the matter is far from resolved.
+
+State and local law enforcement agencies say an increasing number of criminal investigations, such as into rape or child abductions, are being stymied because investigators can’t get into phones and other communication devices that are encrypted. It’s a trend that FBI Director James Comey has referred to as “going dark.”
+
+Prosecutors are unable to get into more than 1,000 iPhones, Burr, the intelligence committee chairman, told reporters.
+
+Blaming Cook
+
+“Tim Cook, by refusing to do what they’ve done for years -- and that’s accommodate law enforcement -- has put the target on his back” that invites hackers to seek ways to break into Apple’s phones, Burr said. He said Cook, Apple’s chief executive officer, “has done more to jeopardize the security at Apple than this legislation ever intended to do. ”
+
+The draft bill specifies that the entities that would have to comply with court orders are “a device manufacturer, a software manufacturer, an electronic communication service, a remote computing service, a provider of wire or electronic communication service, a provider of a remote computing service, or any person who provides a product or method to facilitate a communication or the processing or storage of data.”
+
+The bill doesn’t mandate any penalties if companies fail to comply or specify what remedies courts could impose. Courts already have the authority to impose penalties by holding individuals or companies that don’t comply in contempt.

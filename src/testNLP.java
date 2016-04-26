@@ -37,7 +37,7 @@ public class testNLP {
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         // read some text in the text variable
-        String text = readFile("../fmoc-minutes/apr24-2012", StandardCharsets.UTF_8);
+        String text = readFile("../data/fmoc-minutes/apr24-2012", StandardCharsets.UTF_8);
 
         // create an empty Annotation just with the given text
         Annotation document = new Annotation(text);

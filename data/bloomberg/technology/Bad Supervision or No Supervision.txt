@@ -1,0 +1,108 @@
+Bad Supervision or No Supervision
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-15/bad-supervision-or-no-supervision
+Stamford Harbor.
+
+A while back, there was some insider trading at SAC Capital. One result of that insider trading was that SAC's boss, Steven A. Cohen (the "SAC" in SAC), was "prohibited from supervising funds that manage outside money until 2018 in order to settle charges for failing to supervise" the insider trading. SAC shut down as a hedge fund and was reborn as Point72 Asset Management, a family office running Cohen's money, named after (sort of) its address in Stamford.
+
+But there is a loophole:
+
+Cohen has formed a firm called Stamford Harbor Capital that employs top executives from his family office, and which plans to run private funds that will initially invest in illiquid and nonpublic securities, according to a regulatory filing this month. Cohen, 59, indirectly owns the firm, which will keep as much as 50 percent of client profits, but he won’t have any supervisory role. “Steve Cohen owns the entity, but consistent with his January agreement with the SEC he will not supervise the activities of anyone working on its behalf,” said Jonathan Gasthalter, a Stamford Harbor spokesman.
+
+Isn't that ... isn't that exactly what got him in trouble in the first place? The charges against Cohen boiled down to claims that he hired portfolio managers, set high profitability expectations for them, and then failed to supervise them when they insider traded. The upshot is not quite, as I had thought, that he was banned from managing outside money for a few years. He is still allowed to own a firm that manages outside money, that hires portfolio managers picked by him and pays him a portion of their profits -- as long as he doesn't supervise them at all. He didn't supervise his old fund carefully enough, so now regulators will require him to supervise his new fund even less. It's a not-pie-eating contest where the prize is even less pie. Securities regulation is bonkers. I hope they pronounce it "Stamford 'Arbor Capital," and abbreviate it SAC.
+
+Elsewhere in hedge funds, the New York City Employees Retirement System voted to stop investing in hedge funds. ("Let them sell their summer homes and jets, and return those fees to their investors," said Public Advocate Letitia James.) Investors pulled more than $1 billion from Tudor Investment Corp. And Cliff Asness has a new paper on factor timing.
+
+Argentina.
+
+Argentina reached settlements with its main holdouts in its 15-year debt restructuring battle at the end of February, got a key court approval on Wednesday, and is out raising new bonds to pay off the holdouts, cure its current default, and return to the international capital markets. That should all be done by the end of this month. So call it two months between reaching a tentative agreement with the holdouts and returning to complete normalcy. One might expect Argentina to just, you know, not do anything weird in those two months. After you pay the holdouts and fix the default and get out from U.S. court supervision and successfully raise new money, sure, do all the weird stuff you want. You're a sovereign nation, I won't stop you. But just keep the weirdness in check until you're fully in the clear.
+
+Argentina evidently disagrees. We've talked about its almost immediate disavowal of some of the holdout settlements (including one that it had previously filed with the court as evidence of its good faith), and about its decision to change the way it will calculate payments on the GDP warrants issued in its restructuring. Now Argentina is in the middle of a roadshow for its new bonds, which seems to be going great. "If you haven’t done it, you might as well call your broker because the demand is awesome," says Finance Minister Alfonso Prat-Gay, helpfully. But along with the book-talking, Prat-Gay has a new weird idea:
+
+Argentina is also looking to protect itself against future holdout creditors, he said. The country is exploring how it might institute rules that would limit investors’ ability to litigate on bonds they didn’t hold during or prior to a default, he said at the Atlantic Council. The comment echoes the so-called Champerty defense, originally an English common law doctrine that forbids the purchase of a claim for the purpose of filing a lawsuit
+
+Delightful name, but bad idea! It means that regular old investors -- banks, pension funds, retirees -- who own bonds that default will not have any "vulture" funds to sell to, and will have no recourse other than (1) taking whatever Argentina offers or (2) conducting a decades-long litigation themselves. The average retiree is not set up for (2), which means he will be stuck with (1) -- so Argentina's offer can be very low indeed. Vulture funds are an important safety valve for regular investors: They are willing to pay those investors at the time of default for bonds that may be worthless, and then put in the time and effort and risk to make them worth something. If they can't do that, then the bonds -- in the hands of the regular investors -- will remain worthless.
+
+More importantly, though: Notice how we're talking about Argentina's next default? When you are selling new bonds, you should probably talk as little as possible about your plans for default. You want your buyers to be thinking happy, confident thoughts. (Argentina, again, disagrees, and cheerily notes in the prospectus that "from time to time, the Republic carries out debt-restructuring transactions.") You certainly don't want to tell them that the next default will be even more painful than the last one. The last one was world-historically painful!
+
+Meanwhile in less-sovereign debt, the other day I mentioned that some law students may have found a solution to Puerto Rico's debt problems. Here it is; it relies on provisions in the Puerto Rico Civil Code to force creditors to come to the table, negotiate in good faith, and obtain equal benefits for all creditors. It's sort of an effort to construct a bankruptcy regime out of some vague equitable statements in existing law. I like it! Elsewhere here is a report on the "Origins of the Puerto Rico Fiscal Crisis."
+
+Market regulation.
+
+One basic thing that I think about U.S. securities regulation is that it is too focused on protecting retail investors from information asymmetries. It seems to me that there is a mindset at the Securities and Exchange Commission and the Financial Industry Regulatory Authority that markets should be "fair" in the sense that any casual day-trader or retiree can compete on a level playing field with massive professional investment funds. The specific content of that fairness is up for debate, but as a philosophical matter it seems to be what regulators believe. I think it is kind of silly: It is impossible to achieve (the professionals do it as a job), it is bad for market efficiency (sophistication should be rewarded), and all my money is with the massive professionals and I want them to have advantages over the little guy (who is probably a bigger guy than I am anyway).
+
+This week Robin Wigglesworth interviewed Rick Ketchum, who is retiring as the head of Finra, about bond market regulation, and it is a particularly clear and strange statement of that retail-focused philosophy.
+
+“I think there is a variety of stuff now that suggests things are going to change . . . Our parents probably didn’t hold any fixed income, and if they did it would just be a couple of municipal bonds,” he says. “But the market has changed, retail investors are involved directly, and they are not being well served by it.”
+
+That is not even really true, by the way: Retail investors are increasingly involved indirectly, through increasing ownership of bonds by mutual funds and exchange-traded funds, who are presumably sophisticated in their bond-market dealings. But what does Ketchum's view mean for regulation? One thing he mentions is mandatory reporting of markups on bonds: There is a long history of bond traders charging investors whatever price they can get away with for bonds, because the investors were presumed to be able to take care of themselves. Now that is changing -- even when the investors are still sophisticated hedge funds.
+
+Or there is this:
+
+Another area on which Finra is keen to shed some sunlight is the potential for conflicts of interest between bond trading desks and analysts. While there has been a lot of progress in erecting firewalls on the equity side, the financial industry’s self-regulatory body is now focusing more on the bond industry. For example, Finra is concerned that analysts can be leaned on by their trading colleagues to push out research to retail investors to help their trading positions.
+
+Again, there is a long history of customer cynicism about sell-side research. Most fixed-income customers are sophisticated enough not to buy bonds from a bank just because that bank's analyst says they're a good buy -- just like most customers are sophisticated enough not to buy bonds (or cars, or anything) from a salesman just because the salesman says they're a good buy. But if the goal of securities regulation is to protect the least sophisticated investors, then more rules might be required.
+
+Elsewhere in level playing fields, here's an insider trading case against a former analyst at MSD Capital who allegedly used buyout news that he got through his job to trade short-dated out-of-the-money call options in his mother's brokerage account. Don't, as I often tell you, do that. "'Insider traders should have learned by now that trying to hide their illegal activity in a relative’s account ultimately won’t work,' said Jina L. Choi, Director of the SEC’s San Francisco Regional Office," but they really should have learned the thing about the short-dated out-of-the-money call options. I remind them about it constantly.
+
+Banks.
+
+A lot of people are pretty worked up about all the banks whose "living wills" were rejected by regulators this week. The trick to staying calm, I find, is to remember that the living wills have nothing to do with whether banks are too big to fail: There's a whole separate regulatory process to allow them to fail outside of the bankruptcy/living-will regime, and anyway the wills are so conditional and uncertain that a passing or failing grade says almost nothing about a bank's likely outcomes in bankruptcy. The wills are an interesting exercise in focusing bank executives' attention on liquidity and risk and careful operational planning, but they have nothing particularly useful to teach us about bigness or systemic risk.
+
+But here is Jeff Spross arguing that they tell us that "Dodd-Frank should have been stupider," which is a fairly common but, as far as I can tell, completely ungrounded view about modern regulation. It would be a nice world if all complex problems had simple solutions but, I mean, it took millions of lines of code and a massive global telecommunications network built up over decades for you to be able to read the words that I am typing now. Lots of simple problems have complex solutions! I am more in sympathy with Peter Eavis's view that the opaque and uncertain living-will process is intended to unsettle bankers and prevent them from gaming the system, and with Mike Konczal's view that complex modern financial regulation requires technocratic regulators. Hillary Clinton and Bernie Sanders also have views.
+
+Meanwhile, if the banks are too big to fail, they're getting smaller. Or at least cheaper. At Goldman Sachs, for instance, "they are getting even leaner":
+
+The firm, already expected to report a steep drop in expenses for the first quarter, recently began dismissing more support staff and is increasingly rejecting bankers’ spending on airfare, hotels and entertainment unless it directly serves clients, the people said. For example, the company cut technology workers in London this week, one person said, and some employees in Europe aren’t being permitted to take once-routine trips to other offices in the region, said another. Additional cuts are likely.
+
+Similarly, "Bank of America Corp. sees more room for cost cuts after bigger-than expected reductions in the first quarter helped blunt declines in profit and revenue," and "BNP Paribas SA plans to eliminate as many as 675 positions at its French investment-banking division." It is no fun, though there is "One Bright Spot for Bank Trading: Rates."
+
+Also Citigroup reported earnings today, with earnings per share of $1.10, beating estimates of $1.03. Here are the press release and the supplement.
+
+SunEdison.
+
+SunEdison, the solar company once beloved by hedge funds for its combination of clean technology and financial engineering, has had a rough time recently. Here is a good story by Liz Hoffman covering SunEdison's entire arc, from its humble beginnings as a silicon parts company, through its solar empire-building and the formation of "yieldcos" to buy projects that it built, to its current liquidity crunch and awkward yieldco controversies. The yieldcos, TerraForm Power and TerraForm Global, are public companies controlled by SunEdison, and when SunEdison needed money to pay off a margin loan (on TerraForm Power shares), it asked TerraForm Global to pay $231 million for a project in India that SunEdison was developing. TerraForm Global's independent directors rejected the deal, so SunEdison fired them, replaced them with more pliable directors, and pushed the deal through. There are lawsuits. "TerraForm now says its independent directors were misled about the India deal, and that SunEdison officials never mentioned the margin loan or the reluctance of the previous committee."
+
+That is not the only oddity; for instance, there was the time that an investor "presentation told investors SunEdison had $1.4 billion in cash," while "the same day, a report circulated to top executives showed $90 million in available cash." SunEdison's investigation into itself found some "'wrongdoing' by a former non-executive employee and an 'overly optimistic' culture fostered by management."
+
+Elsewhere in once high-flying hedge fund favorites, "Valeant Pharmaceuticals International Inc has brought in investment banks to review its options amid interest from buyout firms and other companies in a number of its businesses."
+
+Market structure.
+
+Here's Fed Governor Lael Brainard on "The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement," arguing that the blockchain will probably come sooner to areas with already-antiquated settlement mechanisms (syndicated loans, private company shares) than to areas that are already computerized and centrally cleared (public equities, Treasuries):
+
+As a practical matter, the large-scale adoption of wholly new clearing technologies to replace existing legacy technologies for major markets may face a significant hurdle initially, such that incremental change or delayed adoption until the technology has achieved greater maturity and standardization may be more likely. At the other end of the spectrum, there appear to be some markets or segments where clearing practices are relatively cumbersome and outmoded, and the network hurdles to the adoption of new technologies are lower. Improvements in smaller markets would also provide an opportunity for market participants to gain operational and business experience with distributed ledger technologies that could help inform and strengthen the case for broader applications over time.
+
+Elsewhere: "Banks begin blockchain payment integration." And here is a comment letter from the FIA Principal Traders Group arguing against the Securities and Exchange Commission's proposal to allow stock exchanges (like, one day, IEX), to delay for up to 1 millisecond before executing orders. And: "Bats IPO Raises $253 Million After Pricing at High End." But now it has to trade.
+
+People are worried about unicorns.
+
+Here is Dan Primack questioning Yale's claim that its endowment's "venture capital program has earned an outstanding 92.7% per annum" over 20 years:
+
+For instance, if Yale had $1 billion in venture capital investments two decades ago—which is my educated guess of what it may have had, based on an overall private equity portfolio of $2.5 billion at the time—and just that portion of its fund had compounded annually at that rate, it would mean Yale’s VC portfolio alone would be worth $498 trillion today, or roughly 6.4 times the entire world’s GDP.
+
+Unicorns are magical, but not that magical. Anyway it's a dollar-weighted internal rate of return, not a time-weighted compound annual growth rate.
+
+People are worried about bond market liquidity.
+
+One bond market liquidity problem is fragmentation: There are so many different bonds -- sometimes dozens or hundreds per issuer, versus just one stock -- that it's less likely that a buyer will want to buy and a seller will want to sell the same bond at the same time. One possible solution is an electronic trading platform that gets every potential buyer and seller in one place, instead of relying on opaque informal networks of dealers making phone calls and taking inventory risk to match up buyers and sellers. Electronification doesn't exactly solve the problem, but at least if you do have a buyer and seller of the same bond at the same time, they can find each other efficiently. Except that everyone had the same idea at the same time, and "the bond market now has 99 electronic platforms to facilitate fixed-income trading from London to New York and Singapore, according to technology consultancy Alignment Systems." That seems to reproduce the fragmentation problem in platforms as well as in bonds.
+
+Meanwhile, "more than a quarter of US bond money is now in passive funds," and "we are seeing a structural shift toward awareness, understanding and adoption of fixed income ETFs." Exchange-traded funds are another solution to the liquidity problem -- one portfolio manager says that "if we want to make a quick move in or out it is more efficient for us to take that exposure with an ETF" than to buy illiquid bonds -- that some people think are also a cause of it: "Some even argue bond ETFs are dangerous, offering the illusion of liquidity while tracking debt instruments that may only trade occasionally."
+
+But there might be bigger bond market worries than liquidity. For instance, there is "Duration Risk: The Bomb Ticking Inside Today’s Bond Market," and I hope someone is working on an action movie called "Duration." (Sample dialogue: "We must defease this 100-year bond before the Fed raises rates!" "Cut the blue wire maybe?") Or there is regular old default risk: "Defaults for U.S. high-yield bonds have topped $14 billion in April -- the largest monthly volume in two years, according to Fitch Ratings -- and the month isn’t even half over," and "debt investors’ outlook for corporate-credit defaults is the most negative in almost seven years on weakening global." On the other hand, maybe insolvency is good?
+
+Things happen.
+
+Is the U.S. insolvent? No, come on. Yahoo’s Suitors Uncover Few Financial Details. BP Shareholders Reject Oil Giant’s Pay Policy. How 315 Billion Petrodollars Evaporated. Halliburton, Baker Hughes in Talks to Sell $7 Billion of Assets to Carlyle Group. Putin Sees U.S., Goldman Sachs Behind Leak of Panama Papers. China Is Set to Allow Banks to Swap Bad Loans for Equity in Borrowers. In Denmark, mortgage pays you. SEC enforcement actions involving a minor-league baseball stadium and an alleged ski-resort Ponzi. "Instead of asking when the Fed will shrink its balance sheet, it’s about time the market gets used to the idea that we are witnessing a structural shift in the amount of reserves the U.S. banks will be required to hold, where reserves replace bonds as the primary source of banks’ liquidity." RIP Vint Lawrence, the former CIA paramilitary who illustrated the cover of "Liar's Poker." Dyson hand-dryer spreads more germs than paper towels, study finds. "How long does a baseball game last?" How Bad Are Your Tweets? “I’ve got 20/20 vision with a 176 IQ.” Sniffer dogs. Pelican photo shoot. Terrifying chimpanzee.
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

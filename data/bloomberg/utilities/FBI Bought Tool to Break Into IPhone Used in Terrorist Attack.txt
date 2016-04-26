@@ -1,0 +1,34 @@
+FBI Bought Tool to Break Into IPhone Used in Terrorist Attack
+['Chris Strohm']
+http://www.bloomberg.com/politics/articles/2016-04-07/fbi-bought-tool-to-break-into-iphone-used-in-terrorist-attack
+The Federal Bureau of Investigation paid for the tool it used to break into a dead terrorist’s iPhone and is considering whether to tell Apple Inc. how it was done, FBI Director James Comey said.
+
+The U.S. dropped a legal case against Apple last month after it succeeded in accessing the data on an iPhone 5c used by Syed Rizwan Farook, who with his wife carried out the deadly December attack in San Bernardino, California. Comey disclosed during a speech Wednesday at Kenyon College in Ohio that the FBI paid for the tool to break into the phone, although he didn’t provide further details.
+
+"The FBI is very good at keeping secrets, and the people we bought this from, I know a fair amount about them, and I have a high degree of confidence that they are very good at protecting it and their motivations align with ours," Comey said. The FBI hasn’t said who provided the hacking tool.
+
+Discussions are continuing about whether to provide Apple with details about how the hack was carried out, Comey said. "That’s an interesting conversation because we tell Apple and they’re going to fix it, and then we’re back where we started from," he said. "As silly as that may sound, we may end up there. We just haven’t’ decided yet."
+
+However, the FBI chief said it doesn’t appear the tool will work on phones beyond the iPhone 5c. "We have a tool that works on a narrow slice of phones," he said. "If we decide not to disclose it to Apple, it’s still quite perishable and it will disappear if Apple changes its software in some way."
+
+Risks of Sharing
+
+The FBI is also weighing whether to provide the tool to state and local law enforcement agencies that have iPhones they can’t get into, Comey said. He noted that the tool could be jeopardized if it has to be revealed to defense attorneys in criminal court cases.
+
+"We’re going to try to lean as far forward as possible to help them,” he said. “We have to navigate a number of things, including its utility in national security cases.” He added, “It will also disappear if we use it in a criminal case and it has to be disclosed."
+
+Although U.S. law enforcement agencies have confronted encrypted communications before, Comey noted that more companies have started offering their customers and users the protection by default.
+
+"We’ve never seen a world where all of the people’s papers and effects were covered by strong encryption," he said.
+
+If such encryption by default remains widely available, the FBI might have to "be much more aggressive in finding other ways to conduct surveillance," such as through the use of informants and undercover agents, Comey said.
+
+Drafting Legislation
+
+Some members of Congress are attempting to draw up legislation or create a commission to balance privacy rights against the concern of law enforcement agencies that say they need to defeat encryption in cases involving terrorism or national security.
+
+Senator Dianne Feinstein, the top Democrat on the Senate Intelligence Committee, told reporters on Thursday that she has sent the White House a draft of encryption legislation she is writing with Republican Senator Richard Burr of North Carolina, the panel’s chairman. Feinstein, who said she has been briefed by the FBI on the successful effort to break into the iPhone, said some of the details “should remain classified.”
+
+White House officials have expressed skepticism that Congress can come up with a solution to the encryption debate. Spokesman Eric Schultz told reporters traveling on Air Force One on Thursday that “it’s a complicated piece of business.”
+
+“We’re always willing to work with members of Congress on issues like this,” he said. “We believe that this issue is complicated and that’s why a national dialogue to help the American people understand it is important.”

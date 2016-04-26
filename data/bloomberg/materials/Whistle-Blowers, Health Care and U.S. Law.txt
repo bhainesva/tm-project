@@ -1,0 +1,40 @@
+Whistle-Blowers, Health Care and U.S. Law
+['Noah Feldman', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-19/supreme-court-considering-limits-of-whistle-blower-law
+Noah Feldman, a Bloomberg View columnist, is a professor of constitutional and international law at Harvard University and the author of six books, most recently "Cool War: The Future of Global Competition."
+
+How should the government police the health-care industry? That question is before the Supreme Court on Tuesday as the justices hear arguments in an important case about the False Claims Act.
+
+Under the law as interpreted in most of the country, any time a health-care provider submits a bill to the government -- which is to say, millions of times a day -- the provider can be sued for a false claim if it’s failed to follow any of the myriad state and federal regulations governing the field. The law is meant to encourage citizens to blow the whistle on fraud, so it lets anyone bring a claim with the promise of receiving statutory damages up to three times the cost of the violation.
+
+That theory doesn’t literally appear in the Civil War-era statute or its 1986 overhaul, but it’s been adopted by most appeals courts. Known as the theory of “implicit certification,” it states that a provider who submits a bill to the government is implicitly certifying that its contents are true. If some of the services were not provided according to relevant regulations, then the bill counts as a false claim.
+
+The case argued Tuesday, Universal Health Services v. United States ex rel. Escobar, shows how the system works. Universal Health Services owns a subsidiary called Arbour Counseling Services that operates in Massachusetts and bills MassHealth, the state’s Medicaid program, for many services. Yarushka Rivera, a teenager, got counseling at an Arbour center from a pair of counselors who lacked special certification. Her parents met with the counselors’ supervisors who seemed, according to their suit, unfamiliar with their daughter’s treatment.
+
+Things got worse. Another therapist who saw Yarushka claimed to be a PhD but had an unaccredited online degree and no other professional certification. A fourth therapist prescribed medication for purported bipolar disease, but wasn’t a doctor. Yarushka went off the medication and suffered a seizure. After a second seizure, she died.
+
+Yarushka’s parents demanded an investigation. The Massachusetts Department of Public Health found that not only were Yarushka’s therapists unlicensed and unsupervised, but that Arbour had some 23 unlicensed therapists working and could not prove that they were supervised, either.
+
+The parents sued Arbour and its parent company under the False Claims Act. The law provides for private parties to bring claims on behalf of the government, functioning as what are sometimes called “private attorneys general” because they are technically litigating on behalf of the government’s interests. They stand to get a cut of whatever damages the court orders against the health-care provider.
+
+The U.S. Court of Appeals for the First Circuit held that, under the statute, the only relevant question was whether the provider “knowingly misrepresented compliance with a material precondition of payment.” It allowed the false-claims suit to go forward, adopting its own version of the theory that by submitting bills to Medicaid, the health-care provider implicitly certified that it was following Massachusetts regulations when it was not.
+
+Universal Health Services, supported by heavy hitters like the American Health Care Association and the American Hospital Association, argues that the implicit certification theory is unrealistic. When a provider submits bills to Medicaid, says UHS, it isn’t saying it followed every regulation to the letter, just that it performed the service for which it is billing. According to this view, the False Claims Act should be reserved for true fraud, where a provider never gave the service for which it’s billing.
+
+The federal government, appearing in support of Yarushka’s parents, disagrees. It says that a bill implies that the provider is claiming it deserves to be paid -- which isn’t true if it knows it hasn’t followed regulations.
+
+There are good arguments on both sides. At bottom, it’s a policy dispute about how the False Claims Act should be used to police health care.
+
+Professor David Engstrom of the Stanford University Law School, the leading academic expert in the field, submitted a friend-of-the-court brief highlighting empirical research suggesting that the growth of litigation in this field has been moderate, not extreme, as the health-care industry maintains. Engstrom points out that under the law, the Justice Department can always take over a suit brought by a private citizen, which makes the government into a de facto gatekeeper. In his view, the government effectively monitors the private lawsuits to make sure they’re only brought where the violations of regulations are significant, and where the providers actually know they’re not following the rules.
+
+For the justices, the case may well come down to their instinctive allegiances, whether with the health-care industry or with patients and government. If you think U.S. health care costs are too high because of legal compliance costs, you might conclude that the implicit certification theory is a bad idea. If you’re more worried about fraud, however, you’ll probably consider an army of private attorneys general to be the best and cheapest method for policing taxpayer-financed health-care providers.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Feldman at nfeldman7@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jonathan Landman at jlandman4@bloomberg.net

@@ -1,0 +1,38 @@
+SAP Sees 2016 Sales on Track After Sluggish Start to Year
+['Aaron Ricadela']
+http://www.bloomberg.com/news/articles/2016-04-20/sap-sees-2016-sales-on-track-after-sluggish-start-to-the-year
+SAP SE said it has “high visibility into a strong second quarter” as the company seeks to make up for a software-license slump that led to unexpectedly sluggish sales at the outset of the year.
+
+Revenue from licenses, support and cloud computing subscriptions rose 4 percent in North and South America, hurt by performance in Brazil and the U.S., SAP said in a statement Wednesday. The German software maker is looking to boost growth after first-quarter sales rose less than analysts expected as some contracts fell through. SAP on April 8 reported preliminary figures and cited political and economic instability in Latin American, particularly in Brazil.
+
+Chief Executive Officer Bill McDermott may have to reckon with bigger challenges than a Brazilian slowdown. Software license sales, an important predictor of future revenue, fell 13 percent in the quarter after two years of growth. SAP had been bucking license declines that dogged both Oracle Corp. and IBM, and McDermott said CEOs in the U.S. need to be persuaded why they should upgrade from sometimes decades-old software that works just fine.
+
+"People need a color-by-numbers education with a big crayon on how to go from the old world to the new world," McDermott said during a conference call with analysts and reporters. "That is a process that does take time."
+
+Andrew Chanin, CEO of PureFunds in New York, which holds SAP and Oracle as part of its Big Data exchange traded fund, said businesses are taking longer to make decisions on IT projects, adding to uncertainty for software vendors.
+
+"It’s a competitive business, everyone is out there vying for market share," he said. "Companies are maybe taking a longer time to make decisions."
+
+Chief Financial Officer Luka Mucic poured cold water on the idea that SAP needs to return to bigger acquisitions to make up for slower organic growth, saying in an interview with Bloomberg Television that “larger-scale" acquisitions aren’t on the horizon.
+
+While the U.S. had a "slower start" to the year and Brazil "is in a difficult place," Mucic pointed to double-digit sales growth in China and Russia, and said Latin American deals that slipped into the second quarter are now either signed or close to being so.
+
+"I’m not worried about the global economic situation with maybe Brazil being an exception," he said.
+
+McDermott told analysts that any potential exit of the U.K. from the European Union wouldn’t affect demand for SAP’s products, and that he’s met with business and government leaders there.
+
+SAP shares slipped less than 1 percent in Frankfurt at 3:23 p.m. to 70.66 euros, giving the company a market value of 86.8 billion euros ($98.6 billion).
+
+SAP confirmed that revenue rose 5 percent to 4.73 billion euros. Analysts had predicted 4.82 billion euros ahead of the preliminary results. Operating profit was 1.1 billion euros, Walldorf, Germany-based SAP said.
+
+The company reiterated its 2016 forecast of adjusted earnings before interest and taxes of 6.4 billion euros to 6.7 billion euros in constant currencies. SAP said that it also has ample visibility into deals that will be secured through the remainder of 2016. SAP in January raised the top end of its 2017 outlook for sales and increased the lower end of its operating profit outlook for next year.
+
+During the quarter, SAP’s software license sales declined 13 percent to 609 million euros, compared with the average estimate of 697 million euros. Cloud subscriptions and support revenue gained 33 percent to 678 million euros.
+
+Margin Squeezed
+
+SAP’s operating margin is being squeezed as it sells customers more subscriptions instead of software outright, deferring revenue. The company posted an operating profit margin of 23.4 percent during the quarter.
+
+SAP’s newest version of its flagship finance and manufacturing software, called S/4 Hana, now has more than 3,200 customers. Baader Bank analyst Knut Woller said in a note to clients Wednesday that sales of the applications should help SAP for the rest of the year.
+
+"License momentum should benefit in the remainder of the year from an accelerating adoption of S/4 Hana within its installed base," he said.

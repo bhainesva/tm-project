@@ -1,0 +1,34 @@
+It Was a Stock Picker’s Market In the First Quarter. Too Bad About the Stock Picks
+['Oliver Renick']
+http://www.bloomberg.com/news/articles/2016-04-05/lockstep-moves-ease-futility-doesn-t-for-u-s-equity-managers
+It was a stock picker’s market in the first quarter. Too bad about the stock picks.
+
+By some measures, active managers got what they’ve been hoping for in 2016, at least on paper: correlated moves among equities unwound to the lowest levels since 2012 and breadth, or the number of stock advancing, came roaring back. Both are viewed favorably by anyone trying to beat an index.
+
+Those gifts proved illusory as fund managers trailed benchmarks by one of the highest rates in two decades. The reason: stocks they avoided went up, and the ones they owned went down. By one measure the divergence in loved and unloved shares was the highest since 2013.
+
+Nothing has been easy in 2016, a year in which the Standard & Poor’s 500 Index lurched lower by 10 percent in the first six weeks and still managed to close the first quarter in the green -- the biggest such turnaround since 1933. Momentum strategies came asunder at hedge funds, traders made ill-advised bets on volatility and mutual funds clung to wagers in financial and technology companies.
+
+“The reversion in the second half of February was unreal -- it’s been a tough go for active managers,” Craig Sterling, head of U.S. equity research at Pioneer Investments in Boston, said by phone. A $1.5 billion fund he oversees has added 5.9 percent in the past month, beating more than 90 percent of its peers. “People were positioned very defensively and a lot of lower-quality stocks have rallied. If I had a do-over, I’d have paid more attention to the areas where things were getting a little less worse.”
+
+An index maintained by Goldman Sachs Group Inc. of the 50 stocks in which mutual fund managers are the least invested has gained 5.3 percent this year, compared with a 3.1 percent decline in a gauge tracking the most popular ones. That’s near the biggest gap in three years, according to data compiled by Bloomberg.
+
+The S&P 500 fell 0.8 percent at 10:48 a.m. in New York, while the overweight index lost 1 percent, compared with a 0.4 percent drop in the underweight basket.
+
+Research from Bank of America Corp. research shows a starker picture: in the first quarter, just 19 percent of mutual funds beat the S&P 500, the fewest since at least 1998, strategists at the bank wrote in a note Monday. That happened even as one measure of variation among stock returns has increased this year.
+
+A mathematical indicator known as dispersion, which measures how far individual equities swing relative to the market, has ticked up. According to data compiled by Bloomberg, the typical year-to-date stock return in the S&P 500 is 12 percentage points above or below the average, the most since 2012. In March, a measure of implied correlation among stocks plunged to the lowest level in a year.
+
+Still, active managers are coming up short as their favorite trades lag behind. One strategy, chasing gains in the market’s biggest winners, backfired on mutual fund and hedge fund managers alike as the stocks in the S&P 500 that did the worst in 2015 added 8.2 percent in the first quarter of 2016, according to Bespoke Investment Group LLC.
+
+“The sales pitch that when the market goes down these active managers won’t lose as much as a passive strategy did not work out,” Neil Azous, founder of Stamford, Connecticut-based Rareview Macro LLC, said by phone.
+
+Managers erred in avoiding utility and consumer staples companies, according to Goldman’s index data, which pulls from 489 mutual funds with $1.6 trillion under management. There wasn’t a single utility among managers’ top 50 overweight positions in the first quarter, when the group posted the quarter’s second-best return. At the same time, financials were the second-most represented industry. That group is down 5.3 percent in 2016, the worst return in the S&P 500.
+
+The three most-favored stocks by managers invested in big companies were Alphabet Inc., Visa Inc. and JPMorgan Chase & Co, all of which have trailed the S&P 500.
+
+“We can assess what the cause is and two things are driving the story,” David Kostin, Goldman’s chief U.S. equity strategist, said by phone. “Some of it is momentum and some of it is stock selection. The question is after that performance, how do funds respond? Do they double-down or do they say over time the economy is growing and the tech sector will see revenue growth, or do they rotate into the extremely expensive consumer staples stocks?”
+
+The advance in the index of underweight stocks is partly attributable to a short-covering rally, according to JonesTrading Institutional Services LLC chief market strategist Michael O’Rourke.
+
+“This kind of volatility forces people’s hands,” New York-based O’Rourke said by phone. “If people are underweight something, more people short it and in this volatile environment those names outperform because every time short people are caught off guard the first thing they do is reverse that move. And there’s no need to go out there and buy overweight if you’re already long.”

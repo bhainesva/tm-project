@@ -1,0 +1,48 @@
+Unions Get Lucky at the Supreme Court
+['Noah Feldman', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-03-29/unions-get-lucky-at-the-supreme-court
+Noah Feldman, a Bloomberg View columnist, is a professor of constitutional and international law at Harvard University and the author of six books, most recently "Cool War: The Future of Global Competition."
+
+This was supposed to be the year when the Supreme Court would deal a major blow to labor unions, reversing a 1977 precedent that says nonunion members can be required to make payments in lieu of dues to the union. In 2014, the court came close to doing exactly that in a 5-to-4 opinion that telegraphed its intention to do so in the near future.
+
+QuickTake U.S. Labor Unions
+
+But the death of Justice Antonin Scalia was a game-changer, taking away the fifth vote that would’ve been necessary to repudiate the precedent. Today the court issued a one-sentence opinion that proved both that there were briefly five votes to overturn the precedent, and that Scalia’s death has saved unions from constitutional disaster. The court said simply that it was divided 4-4, and that the lower court’s opinion based on the precedent would therefore be upheld.
+
+For labor unions, this is truly an instance of deus ex machina -- a miraculous ending that doesn’t fit the rest of the play.
+
+The drama began with the original 1977 decision, Abood v. Detroit Board of Education. The case pitted the interests of labor unions against the First Amendment's guarantee of free association -- an individual's right to decide not to belong to a group with which he or she doesn’t want to affiliate.
+
+For the unions, the problem was that if all employees were free to decide whether to join the union or not, there would be an overwhelming temptation to take a free ride on the union’s negotiations with the employer. To overcome the collective action problem that’s necessary to run an effective union, the best way is for the government to say that all employees covered by a public union contract must pay dues even if they decide against belonging to one.
+
+The problem is that the positive right to join an association implies a negative right to choose not to join. Being forced to pay dues looks a lot like being forced to associate with the union.
+
+Like many important Supreme Court decisions of the Warren Burger era, the Abood decision represented a compromise. It said that nonunion members couldn’t be made to pay for the union’s political speech. But they could be made to compensate the union for the efforts it made to negotiate on their behalf, and from which all employees benefited.
+
+The obvious logical problem with the Abood compromise is that union activity cannot be divided into political and non-political. Lobbying helps unions improve their members’ bottom line. And negotiation with employers is a kind of speech. But the compromise made political sense despite being doctrinally weak, and it’s held for 39 years.
+
+Conservative justices never liked the Abood decision, and in 2014, they came close to reversing it by a 5-to-4 vote in a case called Harris v. Quinn. With Justice Samuel Alito writing the opinion, the court said that Abood made no sense from the standpoint of employees’ free-association rights.
+
+But the court didn’t overturn Abood. Instead, Alito’s opinion drew an odd, unconvincing distinction between the union in the Harris case and the one in Abood. The 2014 case involved Illinois home health aides. Alito said they weren’t part of a true public union because the aides were hired and fired by the people whom they helped, not by the state. In reality, the state paid the health aides' wages, and labor negotiations didn't involve the home-care patients at all.
+
+The most probable conclusion was that Alito couldn’t get a fifth vote to overturn Abood. Perhaps either Justice Anthony Kennedy or Chief Justice John Roberts wanted a little more time.
+
+When the court agreed last June to decide the current term’s case, Friedrichs v. California Teachers Association, the strong implication was that Alito now had the five votes he needed. Scalia’s death in Feburary saved public unions. President Barack Obama's nominee to fill his seat, Merrick Garland, would be extremely unlikely to join the conservatives on this one. A more liberal nominee would be even less likely to strike down the precedent. If a Republican becomes president and gets to nominate a justice, Scalia’s death will have staved off the inevitable for a year.
+
+The whole incident raises a fascinating question: Do Kennedy or Roberts regret the 2014 decision to delay overturning Abood?
+
+There are three possible answers. The simplest is that Kennedy and Roberts are both fans of gradualism, and may be willing to live with its costs. The second possibility is regret. Both Kennedy and Roberts have strong First Amendment views, and logically, both should’ve been prepared to overturn Abood in 2014. They made the mistake of imagining that all the conservatives on the court would live forever.
+
+The third is more devious although less likely. It’s just conceivable that Kennedy even now might not be ready to overturn Abood. But once Scalia died, it cost him nothing to vote to do so in what he knew would be a 4-4 tie.
+
+We may know some day, when the justices’ papers are eventually opened. For now, we have a tale of a precedent that almost fell, and that was saved by chance. That’s how history is made.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Feldman at nfeldman7@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jonathan Landman at jlandman4@bloomberg.net

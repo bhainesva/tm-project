@@ -1,0 +1,58 @@
+Boeing's $32 Billion Accounting Question
+['Chris Bryant']
+http://www.bloomberg.com/gadfly/articles/2016-04-14/boeing-s-32-billion-accounting-question
+Apr 14, 2016 2:00 AM EDT
+
+Corporate profit is an inherently imprecise measure. That's one reason why investors often focus on cash flow -- the money actually coming in and going out of a business.
+
+Even so, the way Boeing recognizes profit is fairly unique. Arguably, the aircraft-maker's approach asks too much faith from investors.
+
+Most companies -- including rival Airbus -- book expenses as they occur. But Boeing estimates what its revenues and costs will be over the lifetime of an aircraft program. These costs are then spread out evenly over the number of planes it expects to sell.
+
+Boeing's "program accounting method" is supposed to reassure impatient investors who are wary of the hefty upfront costs in the aircraft industry, and those too impatient to await profits that usually show up years later.
+
+But while it's permitted under generally accepted accountancy principles (GAAP), program accounting can be problematic.
+
+Consider Boeing's 787 Dreamliner, a passenger jet project dogged by delays related to composite materials, electric systems and a complex supply chain. Cost went through the roof. Instead of booking heavy losses, though, Boeing has reported a small profit on each plane sold. It recorded the excess cost of sales as inventory on the balance sheet, as its program accounting method permits.
+
+So far, it has accrued $28.5 billion in "deferred production costs" on the 787, plus $3.9 billion in unamortized tooling and other costs, bringing the total to more than $32 billion.
+
+Deferring Costs Boeing's accounting allows it to delay expensing huge costs that must be made back on future sales Source: Boeing website
+
+It expects to run that balance down to zero again as it learns to build the planes more quickly and cheaply. Newer, larger versions should also fetch higher prices. But that's pretty difficult to guarantee.
+
+Bloomberg News reported in February that the SEC is examining Boeing's program accounting for the 787 and 747 jumbo. That's understandable. If Boeing booked expenses as they're incurred, operating profit in commercial aircraft would have been more than $25 billion lower between 2010 and 2015.
+
+Accounting Difference Boeing's commercial aircraft profit appears higher under program accounting Source: Boeing website
+
+If it ever concluded it couldn't recoup the 787 costs over the program's lifespan, Boeing would be forced to book a charge, possibly a big one. So far it hasn't, which means its internal estimates still show the program making a profit. Its auditors concur.
+
+Others are less sure. Credit Suisse analyst Robert Spingarn estimates a $7.5 billion shortfall. And there are reasons for caution. In the past, programs didn't tend to exceed 400 aircraft, so Boeing didn't have to look far into the future to estimate costs. But the 787 program comprises 1,300 aircraft (covered by 1,142 orders at the end of December), with estimates of cost and profit that stretch into the next decade.
+
+Boeing spent about $2.5 billion producing the first three 787s, which it reclassified as an R&D expense. Delivering the next 363 aircraft cost more than $75 million per plane above the forecast program average, according to Gadfly's rough calculation.
+
+These excess costs have started to plateau -- UBS analyst David Strauss estimates deferred production costs per plane dropped to $6 million in the fourth quarter -- but there's a long way to go before Boeing can recoup all those losses.
+
+Boeing first told investors that deferred production costs would peak at $20bn, but in 2013 that was raised to $25 billion. And its forecasting record took another knock in January when it had to book an $885 million pretax charge on a 747 model because of waning demand.
+
+The strong dollar also makes Boeing planes more expensive for emerging market buyers, while the 787 faces competition from new Airbus jets. This all affects how much Boeing can charge for a Dreamliner.
+
+Thanks to Boeing's cash flow statements and the supplemental information it provides on unit-cost profits, Boeing's shareholders haven't of course been oblivious to how much money the company has sunk into the 787 program.
+
+Still, over the past five years its reported profits have tended to underplay what a burden the 787 has been for the company. The chart below shows how program accounting affects its margin compared to Airbus.
+
+Airbus Profit Edge Airbus's commercial aircraft profit margins exceed Boeing's when using unit-cost accounting Source: Bloomberg and Boeing data
+
+Airbus has had troubles of its own, notably on its A380 superjumbo, but it was obliged to book those costs as they were incurred.
+
+Boeing shares are cheaper than those of Airbus, trading at about 14 times trailing earnings compared to Airbus's 16.5 times. Until the 787 proves beyond doubt that it will recover all that cash, it's hard to see why that discount should narrow. Program accounting may have outlived its usefulness.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Chris Bryant in Frankfurt at cbryant32@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Boxell at jboxell@bloomberg.net

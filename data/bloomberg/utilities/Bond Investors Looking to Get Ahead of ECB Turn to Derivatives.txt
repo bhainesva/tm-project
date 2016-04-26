@@ -1,0 +1,36 @@
+Bond Investors Looking to Get Ahead of ECB Turn to Derivatives
+['Katie Linsell']
+http://www.bloomberg.com/news/articles/2016-04-04/bond-investors-looking-to-get-ahead-of-ecb-turn-to-derivatives
+A rush for credit exposure in Europe is manifesting in the swaps market because investors are struggling to find enough bonds to satisfy their demand.
+
+The European Central Bank’s plan to purchase corporate bonds is fueling demand for securities in anticipation of a rally when the purchases start. Investment-grade bond funds in euros had inflows each week since the ECB said on March 10 that it would expand measures to stimulate the economy. That’s already suppressed yields and made it harder to obtain the notes, making credit derivatives more attractive.
+
+Wagers on European credit-default swap indexes have more than doubled since the ECB’s announcement. Investors had sold a net $25 billion of protection as of March 25, near the highest since at least December 2013 and up from $11 billion as of March 4, according to Bank of America’s analysis of data from the Depository Trust & Clearing Corp.
+
+“There’s a dearth of bonds investors can get their hands on,” said Mitch Reznick, the London-based co-head of credit at Hermes Investment Management, which oversees $33 billion. “In this liquidity vacuum, managers can use credit-default swaps as a proxy for the bonds that they can’t obtain in order to get longer in credit.”
+
+Investors placed the equivalent of $379 million into investment-grade bond funds in euros in the week through March 30, the fourth straight week of inflows, according to Bank of America. That helped push average borrowing costs for investment-grade companies to 1.07 percent, the lowest in almost a year, the bank’s bond index data show.
+
+They’re putting money into euro funds even as they withdraw from other segments, Bank of America said, citing EPFR Global data. Dollar and sterling funds had a combined $249 million of withdrawals in the period, the data show.
+
+The ECB said it will start buying bonds from investment-grade companies in the euro area toward the end of the second quarter and investors are rushing to buy securities before then because they expect the purchases to sap liquidity and suppress yields even further. Some investors are also hoarding bonds, compounding the situation and making it more efficient to sell credit protection, Reznick said.
+
+Greater Liquidity
+
+“The quickest way to go long credit is by selling contracts tied to indexes in large size,” said Roman Gaiser, who oversees 3.5 billion euros ($4 billion) of assets as the Geneva-based head of high yield at Pictet Asset Management SA. “That’s easier than buying lots of individual bonds. It’s a quick way of getting exposure to credit.”
+
+Gaiser said he increased a long position in European credit-default swap indexes after the ECB announcement.
+
+Investors are also selling credit-default swaps linked to individual companies because they’re often more liquid and can provide higher income than the bonds.
+
+“Credit-default swaps are another way to make bullish bets,” said Ioannis Angelakis, Bank of America’s credit derivatives strategist in London. “If you want to go long on a name, it’s better to choose the instrument that provides more spread.”
+
+Positive Basis
+
+The average cost of insuring debt of companies in an investment-grade index exceeds their average bond premium by 20 basis points, a relationship known as a positive basis, according to Bank of America.
+
+Five-year credit-default swaps on Spanish natural gas distributor Gas Natural SDG SA, for example, are about twice as high as a measure of bond risk on the Barcelona-based company’s securities maturing in five years, according to data compiled by Bloomberg.
+
+Though the ECB hasn’t said which bonds it plans to buy, some investors are holding onto securities they expect to be on its list, according to Rik Den Hartog, a portfolio manager at Kempen Capital Management in Amsterdam. Kempen, which oversees about $5.5 billion of credit, sold bonds and derivatives on Italian utility Enel SpA last month because the default swaps paid almost three times the spread on the notes, Den Hartog said.
+
+“This sort of basis trade is very attractive at the moment,” he said, declining to elaborate on the trade. “That’s an example where it’s worthwhile switching from bonds to credit-default swaps.”

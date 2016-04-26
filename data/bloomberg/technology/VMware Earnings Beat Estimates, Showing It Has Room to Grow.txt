@@ -1,0 +1,26 @@
+VMware Earnings Beat Estimates, Showing It Has Room to Grow
+['Dina Bass']
+http://www.bloomberg.com/news/articles/2016-04-19/vmware-earnings-beat-estimates-signalling-it-has-room-to-grow
+VMware Inc. reported profit that topped estimates, reassuring investors that the corporate software company can still grow through disruptions caused by the acquisition of parent EMC Corp.
+
+Shares of the company jumped 9 percent in late trading after the company announced a new share buyback and forecast sales and profit in the coming quarter ahead of analysts’ expectations.
+
+First-quarter profit, excluding some costs, was 86 cents a share on sales of $1.59 billion, Palo Alto, California-based VMware said in a statement Tuesday. Analysts on average had projected profit of 84 cents a share and revenue of $1.58 billion, according to data compiled by Bloomberg.
+
+VMware is focusing on new products like networking software to offset its aging main business, which sells virtualization software for consolidating workloads on fewer servers. "As we look to the rest of the year, our growth businesses are performing well," Zane Rowe, chief financial officer, said during a conference call with analysts.
+
+But investors have been concerned EMC’s sale to Dell Inc. might constrain VMware and executive departures in recent months haven’t helped. The shares have slumped about 40 percent in the past year. In that light, Tuesday’s results were a relief.
+
+"Given all the potential disruption that could have occurred at VM recently due to leadership changes, it really seems the quarter could have been a lot worse," John Difucci, an analyst at Jefferies, said on the call.
+
+The company said profit, excluding some items, in the current quarter will range from 94 cents to 97 cents, compared with the 94-cent average estimate of analysts. Sales will be $1.66 billion to $1.71 billion. Analysts had forecast $1.65 billion.
+
+The company, which said it plans to use up all of a new $1.2 billion share repurchase plan in 2016, also adjusted its profit forecast for the year to account for the resulting lower share count. Full-year profit, excluding some items, will now be $4.09 to $4.18.
+
+The shares of VMware rose to $55.95 in extended trading after the conference call. The stock was down 0.4 percent to $51.46 at the close of regular trading in New York.
+
+VMware has cut jobs as part of a restructuring plan and has seen the departure of its chief financial officer, chief operating officer and the executive who ran one of its most promising new businesses. EMC is also in the middle of a cost-reduction program. Executives at EMC have said the deal with Dell makes financial sense because it will boost revenue, rather than enabling them to cut costs.
+
+In January, VMware reported a slowdown in bookings, a measure of future sales, in its core business. While the company’s networking business is growing rapidly, its cloud plans have been rejiggered several times and still haven’t borne fruit.
+
+EMC, which owns more than 80 percent of VMware, in October agreed to be acquired by Dell in the biggest technology merger ever. The personal-computer maker will pay for the $67 billion deal in part with newly issued VMware tracking stock.

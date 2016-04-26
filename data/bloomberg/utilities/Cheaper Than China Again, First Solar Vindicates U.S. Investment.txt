@@ -1,0 +1,50 @@
+Cheaper Than China Again, First Solar Vindicates U.S. Investment
+['Chris Martin']
+http://www.bloomberg.com/news/articles/2016-04-14/first-solar-making-panels-more-cheaply-than-china-s-top-supplier
+For the first time in three years, First Solar Inc. is making panels for less than China’s biggest producer, justifying more than $3 billion in loan guarantees from the U.S. government.
+
+After investing $775 million in technology, First Solar is producing panels for as little as 40 cents a watt, or about 15 percent less than China’s Trina Solar Ltd. In 2019, First Solar’s module cost could be as low as 25 cents a watt, according to analysts’ models.
+
+First Solar’s investments over the past five years have increased efficiency by almost 50 percent and wrung costs from the manufacturing process. It has two new products coming next year and in 2019, applying lessons learned from the flat-screen television industry: use bigger manufacturing equipment to make larger units at lower cost. Meanwhile, the change indicates the limits of what Chinese companies can do without further investment.
+
+“The Chinese have hit a wall in terms of polysilicon costs and technology,” Jeffrey Osborne, a Cowen & Co. analyst in New York, said in an interview. “There aren’t a lot of levers left for them to pull and their labor costs are rising.”
+
+First Solar’s gains are the result of improvements in efficiency, the amount of energy in sunlight that can be converted into electricity. Standard solar cells are made from polysilicon wafers, a process dominated by Chinese companies led by Trina.
+
+First Solar uses a different technology, a thin film of cadmium-telluride, which has more room to improve, said Raffi Garabedian, the Tempe, Arizona-based company’s chief technology officer. He pegs its theoretical peak at 30 percent, and his team this year reached a record 22.1 percent in a laboratory cell, using improvements that will eventually be applied at its factories.
+
+The theoretical peak efficiency for pure mono-crystalline polysilicon is 29 percent, though for cost reasons it’s not widely used in mass-produced solar cells. Multi-crystalline polysilicon, the most common type, is approaching its practical efficiency limit. Trina holds the laboratory record, 21.3 percent.
+
+Until a few years ago, First Solar held a cost advantage over polysilicon products. Not only do its panels require less time, labor and energy to manufacture, they use 98 percent less of the semiconducting material, which was costly when the global solar industry began to take off. Polysilicon costs about $14 a kilogram now, down from a peak of $475 in 2008.
+
+Strategic Shift
+
+When Chinese panel producers began flooding the global market, falling prices started squeezing German, Japanese and American suppliers. Many couldn’t compete even after their governments applied anti-dumping duties. As First Solar lost its cost advantage, it shifted focus to developing big power plants, insulating itself from direct competition with the Chinese and guaranteeing a market for its panels.
+
+First Solar is working to reorient its business again, now that the economics of the business are shifting back in favor of thin film. It currently gets about 70 percent of its sales from developing big solar farms for utilities. The rest comes from providing panels, or modules, to other developers. By 2019 that ratio will be reversed, according to Chief Executive Officer Jim Hughes.
+
+“We’re not de-emphasizing or downsizing our development business,” Chief Executive Officer Jim Hughes said in an interview. “We just think, as we look at growth, that opportunity is going to be module-only. The vast majority of our expansion will be modules.”
+
+No Guidance
+
+The shift is one reason Hughes refused to issue guidance for earnings in 2017 when he met Wall Street analysts in New York on April 5, a decision that disappointed investors and prompted the stock to fall 7.2 percent that day. The shares were little changed at $60.31 at 9:16 a.m., before the start of regular trading in New York.
+
+Energy Department assistance didn’t help everyone survive the slump in solar prices: thin-film manufacturer Solyndra LLC famously failed after winning a $535 million U.S. loan guarantee, and Abound Solar Inc. folded after winning one for $400 million. Both of those loans were to build factories, not solar farms like First Solar’s.
+
+Osborne’s estimates show First Solar’s costs declining about 30 percent over the next three years, to 28 cents and Sven Eenmaa at Stifel Financial Corp. sees its costs heading below 25 cents a watt.
+
+Trina’s costs aren’t declining that fast. Last month it disclosed fourth-quarter production costs of 47 cents a watt, and said that will come down this year by 5 percent to 8 percent, to about 43 cents. First Solar stopped reporting per-watt costs after 2013, saying comparisons with competing suppliers were often flawed.
+
+‘Meaningless’ Discussion
+
+Trina expressed doubt First Solar can reduce production costs that much.
+
+“Even if the technology is well established, it still requires meaningful volume, at least a gigawatt level,” Yvonne Young, the Changzhou, China-based company’s director of investor relations, said in an e-mail. “A discussion of cost in the lab is meaningless.”
+
+Estimates for Trina’s per-watt costs may not perfectly compare to First Solar’s, in part because the Chinese company also makes some higher cost, high-efficiency panels, and partly because its costs estimates may not include the same overhead expenses. Analysts still use them as a guide for relative competitiveness.
+
+“First Solar is the only manufacturer we see with a significant cost advantage in a commodity market,” said Patrick Jobin, an analyst with Credit Suisse Group AG. “Right now, in most markets they have at least a five percent advantage. They will be at a 10 to 20 percent advantage in a few years.”
+
+That’s partly because First Solar offers other benefits to developers. Besides higher efficiency, the company says its panels perform better in high-temperature regions like the Middle East and India. And because they are a single sheet instead of a collection of cells, there’s more surface area converting sunlight to electricity. All told, the company estimates its products can generate up to 11 percent more power per square-meter than polysilicon.
+
+“First Solar finally has technology leadership again,” Osborne said. “Now, they’re shifting back to superior technology instead of construction projects.”

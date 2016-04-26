@@ -1,0 +1,18 @@
+Food Fraudsters Targeted With Software to Protect Your Cheese
+['Lydia Mulvany']
+http://www.bloomberg.com/news/articles/2016-04-19/food-fraudsters-targeted-with-software-to-protect-your-cheese
+Is that Parmesan cheese or sawdust? With food fraud on the rise, a software that employs methods used to predict terrorist behavior can help settle the question, according to its developers.
+
+The program, called EMAlert, models the decision-making behavior of fraudsters when they decide which food commodities to adulterate. Increasing cases of fraud have spurred consumer distrust, Joseph Scimeca, the vice president of regulatory and scientific affairs at Cargill Inc., said in an interview. Scimeca chairs a working group on fraud at the Grocery Manufacturers of America, a trade organization for food, beverage and consumer products companies, which developed the software with Battelle Memorial Institute, a non-profit research and development organization.
+
+Battelle has used the same approach for over a decade in its terrorism-risk assessment works for the U.S. Department of Homeland Security, said Ashley Kubatko, principal research scientist at the group. Using real-time information, it weighs 12 attributes of a commodity including prices, volumes and geopolitical conditions, then calculates the probability of adulteration.
+
+Consumers have started to demand more transparency about where food comes from and how it’s produced after notorious examples of fraud in recent years. A Bloomberg investigation into U.S. Parmesan cheese showed high levels of wood-pulp content in common brands, with some industry insiders saying 20 percent of domestic Italian cheeses could be adulterated. Examinations of olive oil have revealed that premium extra-virgin products are often adulterated with cheaper oils, and fish has come under fire, with various species mislabeled and sold as tuna and snapper. Contamination of infant formula with melamine in China eight years ago sickened hundreds of thousands of babies and killed at least six.
+
+Supply Chains
+
+As trade becomes increasingly global, accurately tracing products through supply chains back to the farms where they come from is more difficult, and that opens the door for fraud, Scimeca said. While the Grocery Manufacturers of America estimates that about 10 percent of food in the marketplace is adulterated, Scimeca said the figure is “very conservative.” The industry still struggles to predict what foods could be the next targets, he said.
+
+“You only hear about the high-profile cases, but I can assure you, there’s lots of opportunity for fraud,” Scimeca said. “Consumers mistrusting the food supply is driven by lack of understanding where food is coming from and a sense that the industry is not putting enough diligence in ensuring safety.”
+
+Scimeca, who works to ensure Minneapolis-based Cargill meets regulations in the 67 countries the company operates in, said he’s seeing governments put more emphasis on economically-motivated adulteration of food. That includes recently finalized regulations from the Food and Drug Administration that require food manufacturers to evaluate potential safety hazards, including those that may come from fraud. Some businesses have to comply starting in September.

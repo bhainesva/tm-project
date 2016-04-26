@@ -1,0 +1,32 @@
+Keep Tech-Government Debates Out of Courts, Intel's Young Says
+['Nafeesa Syeed']
+http://www.bloomberg.com/news/articles/2016-04-14/keep-tech-government-debates-out-of-courts-intel-s-young-says
+Courts aren’t the best place to resolve debates between the government and big technology companies, just as legislation dictating how firms use encryption isn’t a good answer either, according to a top executive at Intel Corp.
+
+"Most courts don’t really understand technology," said Chris Young, general manager of the Intel Security Group at Intel Corp., in an interview in Arlington, Virginia. "So to say that the court always has the right answer in this case, I don’t know if that’s the best way to solve the problem at a large scale."
+
+The world’s largest chipmaker voiced support for Apple Inc. last month in a court filing after the Federal Bureau of Investigation asked the company to create security-disabling software for an iPhone used by an attacker in deadly shootings in San Bernardino, California. The government later backed down and accessed the phone without Apple’s help, but is still seeking a court order to compel Apple to help in a case against a drug dealer in New York.
+
+Microsoft Suit
+
+Highlighting the widening divide between many big technology companies and the government, Microsoft Corp. sued the U.S. Justice Department Thursday in a bid to stop authorities from forcing the company to turn over customers’ e-mails and other data without their knowledge. The move is the most aggressive step yet by Microsoft in a two-year feud with the U.S. over customer privacy and its ability to disclose what it’s been asked to turn over to investigators.
+
+Speaking before the Microsoft suit was announced, Young said that it is important to find a way to comply with law enforcement, and he said top government officials have reached out to the tech industry. Officials at Santa Clara, California-based Intel have traveled to Washington several times to discuss issues including encryption, but there needs to be more dialog, he added.
+
+"We need to do a lot more work to make sure the government understands what we’re doing, why we do it this way, how we do things," he said.
+
+Republican Senator Richard Burr of North Carolina, chairman of the Senate intelligence committee, and his Democratic counterpart on the panel, Dianne Feinstein of California, have proposed legislation that would require technology and Internet companies to provide government agencies with access to data when served with a court order.
+
+500,000 Threats
+
+While he hasn’t read the Burr-Feinstein legislation, Young said trying to legislate how large organizations use tools such as encryption doesn’t prevent others from building an application or doing something that’s going to leverage encryption. Intel says there are 500,000 new cyber and malware threats emerging daily, with attacks growing in sophistication, he said.
+
+"An individual person could build an application to encrypt communication, so Apple doesn’t necessarily get you as far as you need to get if you really want to solve the problem," he said. "I’m not sure that going after large players in all of this is ultimately going to solve the problem that we’re looking to solve, it’s going to move to a different place."
+
+It’s not in the interest of companies or the government to direct how technology firms build their products, he said. Critics of the Burr-Feinstein measure say it would force companies to create “backdoors” into their products and services that could make consumers and users less secure and expose data to hackers, spies and criminals.
+
+"You can’t weaken security," Young said. "We don’t want our technology mandated to us and we think that’s dangerous for innovation over the long-term."
+
+The biggest cybersecurity threats Intel has witnessed over the past year include ransomware and cross-platform attacks, which cover mobile devices.
+
+"We’ve walled ourselves into a bit of a false sense of security around mobile devices because they haven’t been attacked as much as traditional computing platforms," Young said. "I wouldn’t say it’s at the same levels yet but the growth is high. It’s palpable at this point."

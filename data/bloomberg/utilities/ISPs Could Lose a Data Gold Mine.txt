@@ -1,0 +1,48 @@
+ISPs Could Lose a Data Gold Mine
+['Rani Molla']
+http://www.bloomberg.com/gadfly/articles/2016-04-07/fcc-rules-could-hurt-isp-data-mining
+Apr 7, 2016 9:00 AM EDT
+
+Internet service providers are public utilities. For now, they are also ad agencies.
+
+ISPs such as Comcast, Time Warner Cable, AT&T and Verizon sell access to the pipes you need to surf the Web. In turn, they use data from your online escapades to target advertising at you. Your Internet provider, for example, can use info about the video sites you frequent to offer you a higher-tiered broadband plan. It can also serve hoverboard ads to 20-something males who live in L.A, were it so inclined.
+
+New Federal Communications Commission privacy rules, however, could nip this still-nascent revenue stream in the bud.
+
+Potential Targeted-Ad Data Market $33 Billion
+
+Telecoms have only recently started building data services around their core businesses and do not break those out in filings. But revenue from selling targeted ads to and data from Internet users could reach $5 billion this year, according to the research firm 451 Research. That revenue could rise to $20.5 billion by 2020. 451 Research estimates the $5 billion in revenue this year amounts to just 15 percent of potential demand, based on surveys of current data buyers and estimates of what they spend.
+
+For now, internet companies are gobbling up or partnering with data and analytics companies to form their own in-house ad machines before they miss the boat.
+
+Missed Opportunity Estimated telecom data revenue will only be about 15 percent of its potential $33 billion market in 2016. Source: 451 Research
+
+The FCC's proposed rules would allow Internet customers to opt out of letting providers use their data to target ads at them for other products such as cable TV. And consumers would have to opt in to let their ISPs use their data for third-party advertising. These could become hard rules in six to eight months, following a period of public comment and a final vote by FCC commissioners, according to Bloomberg Intelligence analyst Brad Barker.
+
+Naturally, this is upsetting ISPs, who are aggressively lobbying for their share of the targeted-advertising pie. They need the revenue boost to offset their heavy investments in bringing digital broadband to more businesses and consumers.
+
+Internet companies have mined data for years. Indeed, Facebook and Google make most of their revenue from advertising, leveraging your data for their ad profit -- but the FCC's rules wouldn't apply to them.
+
+But broadband providers know a lot more about you than Internet companies do. It's possible to block cookies and other tracking methods companies such as Facebook and Google use to follow you beyond their own websites. In contrast, the only way to keep personal information from an ISP is by paying for a Virtual Private Network -- an encryption method that makes a public network private.
+
+ISPs know your name, your address, and your Social Security and credit card numbers. They also know your online habits: the sites you search, what you download, when you visit -- and where you are at any given time, thanks to your cellphone's geolocation technology.
+
+They harbor a treasure trove of data about users, and with a little ingenuity they can turn this valuable information into cash, selling to brands that want to zero in on particular customers.
+
+Take a look, for example, at how AOL revenue, which comes mostly from advertising, soared 26 percent after it was purchased by Verizon, according to calculations from Bloomberg Intelligence analyst John Butler. Verizon was able to combine its user data with AOL's analytics to generate $300 million in revenue growth in the fourth quarter of last year.
+
+Big Data Leaps AOL revenue jumped $300 million after its analytics joined up with Verizon's data. Source: Bloomberg Intelligence
+
+Encryption and anonymization of data (an ISP blocking out your name and assigning you a number, for example) only provide some relief, according to Upturn, a Washington, D.C.-based consultancy that advises policymakers about technology and which recently published a piece on what ISPs can see.
+
+Of course, ISPs don't necessarily mine all of your data. The FCC simply wants them to ask you first, should they decide to. That small courtesy, though, could make a big difference to their bottom lines.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Rani Molla in New York at rmolla2@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Gongloff at mgongloff1@bloomberg.net

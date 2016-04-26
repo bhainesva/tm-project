@@ -1,0 +1,52 @@
+Fannie-Freddie Judges Hear Investor Claim U.S. Stole Profits
+['Andrew M Harris']
+http://www.bloomberg.com/news/articles/2016-04-15/fannie-freddie-judges-hear-investor-claim-u-s-stole-profits
+Lawyers for investors in Fannie Mae and Freddie Mac asked a federal appeals court to at least revive their claims that the U.S. stripped the companies of billions of dollars of profits, depriving shareholders of dividends, if not to go further and rule the transfer of profits to the government was unlawful.
+
+Government attorneys countered that the Federal Housing Finance Agency, which has effectively controlled the mortgage giants since their 2008 bailout, was acting within the authority it was granted by Congress when it implemented the so-called net worth sweep in 2013 that sent the companies’ profits to the U.S. Treasury Department. They also argued that without the government’s infusion of almost $190 billion, the companies, which back residential mortgages, would have collapsed.
+
+A three-judge panel of the U.S. Court of Appeals in Washington heard almost three hours of argument over the sweep and whether to reverse a 2014 trial court decision to reject individual and institutional investors’ claims the government had breached contracts and violated the Constitution by taking property without compensation. The packed courtroom was standing room only.
+
+“The net worth sweep was a massive, and we submit lawless, expropriation of Fannie Mae and Freddie Mac,” which rendered them insolvent “zombies,” said former U.S. Solicitor General Theodore Olson, arguing on behalf of hedge fund manager Perry Capital LLC of New York and Miami-based Fairholme Funds.
+
+The appellate argument capped a tumultuous week for Fannie Mae and Freddie Mac. Shares of the government-sponsored enterprises, or GSEs, climbed more than 40 percent at midweek after the judge in a related case decided to unseal evidence the investors’ lawyers sought to cite before the panel. By today, Freddie Mac shares were up about 25 percent and Fannie Mae about 30 percent.
+
+Tough Questioning
+
+U.S. Circuit Judge Patricia Millett, a 2013 appointee of President Barack Obama, sharply questioned lawyers for both sides about the scope of FHFA’s conservatorship over Freddie and Fannie and whether it had strayed into the role of a receiver undertaking a de facto liquidation. Joining her on the bench were circuit judges Janice Rogers Brown, a 2005 nominee of President George W. Bush, and Douglas H. Ginsburg, a 1986 selection of President Ronald Reagan.
+
+They offered no clear indication of when or how they would rule.
+
+Fannie Mae and Freddie Mac back about two-thirds of the $6.46 trillion U.S. residential mortgage market, providing liquidity to the housing market by packaging mortgages into securities on which they guarantee payments of principal and interest. Outside of that core business, they each also have investment portfolios and finance commercial real estate.
+
+Profitable for the past four years, with the sweep in place for three of them, the government had received more than $230 billion by early last year.
+
+Their outlook was vastly different in 2008, when taxpayers propped up the companies, which were then on the brink of insolvency amid the global financial crisis, FHFA lawyer Howard Cayne told the court. Had the mortgage market failed, “that would have made a horrible situation just so much worse,” he told the court.
+
+Government’s Case
+
+The government’s defense rests largely upon HERA, the Housing and Economic Recovery Act of 2008, which created the FHFA, empowered it to act as a conservator -- or as receiver -- for the mortgage companies and provided only limited avenues for legal challenges. At that time, the Federal National Mortgage Association, also known as Fannie Mae, and the Federal Home Loan Mortgage Corp., or Freddie Mac, owned or guaranteed more than $5 trillion in residential mortgages, about half the U.S. market, according to a government court filing.
+
+In exchange for that capital commitment, the U.S. took a controlling interest in each business and assured itself a senior position in the event one or both were liquidated. It also allocated to itself, at least initially, quarterly dividends equal to 10 percent of its liquidation stake value.
+
+For a time, that commitment was open-ended, enabling Fannie and Freddie to ultimately draw $187 billion to prevent their insolvency while paying the government its guaranteed dividend.
+
+That situation changed with the amendment announced in August of 2012, which replaced the fixed dividend obligation “with a requirement that the enterprises pay, as a dividend, the amount, if any, by which their net worth exceeds a capital buffer,” lawyers for the U.S. said in court papers. That buffer is slated for elimination in 2018.
+
+U.S. District Judge Royce Lamberth, who threw out the investor suits in 2014, found most of their claims barred by HERA. The shareholders’ right to dividends, he added, were “wholly dependent” on the discretion of the government sponsored enterprises’ directors and their regulator, the Federal Housing Finance Agency.
+
+“The plaintiffs’ grievance is really with Congress,” the judge said then.
+
+‘Kill it’
+
+Arguing for reversal of the Lamberth ruling, investors’ lawyer Hamish Hume asked the appellate court to look at the “economic substance” of the government’s action, not merely its form. “The companies did become profitable,” while those who held stock at the sweep’s inception were “materially harmed.” He is a partner in the Washington office of Boies Schiller Flexner LLP.
+
+While Hume sought the opportunity to prove investors’ case at the trial court, Olson told the judges the sweep needed to be set aside.
+
+Justice Department lawyer Mark Stern rejected the proposition that the FHFA’s conservation of Freddie and Fannie had veered into a receivership, telling the court the Treasury Department’s financial commitment to the companies is ongoing.
+
+“When the third amendment was announced,” Ginsburg said, referring to that portion of the bailout plan that authorized the profits sweep, “Treasury said we’re going to wind this thing down, we going to kill it, we’re going to drive a stake through its heart, we’re going to salt the earth so it can never grow back.”
+
+“I don’t remember that language,” Stern deadpanned.
+
+The case is Perry Capital LLC v. Lew, 14-5243, 14-5254, 14.5260 and 14-5262, U.S. Court of Appeals, District of Columbia Circuit (Washington).

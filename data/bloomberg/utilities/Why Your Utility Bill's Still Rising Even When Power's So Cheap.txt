@@ -1,0 +1,36 @@
+Why Your Utility Bill's Still Rising Even When Power's So Cheap
+['Jonathan N. Crawford', 'Naureen S. Malik']
+http://www.bloomberg.com/news/articles/2016-04-04/why-your-utility-bill-s-still-rising-even-when-power-s-so-cheap
+Record-low costs for power in the U.S. haven’t translated into lower monthly payments for consumers.
+
+As the price of electricity in the eastern U.S. fell by half over the last decade, utilities raised monthly bills for residential customers by 26 percent, according to government data. Consumer advocates say the power companies are using falling electricity costs as cover to raise other charges. Utilities counter that it’s payback for billions of dollars worth of government-mandated improvements to long-neglected infrastructure.
+
+It’s “a good thing that energy prices have fallen off and allowed the required capital to be installed and be done without impacting the consumer,” said Exelon Corp. Chief Executive Officer Chris Crane in an interview during a conference organized by Bloomberg New Energy Finance in New York on Monday.
+
+Electricity itself makes up about a third of the average utility bill, down from about half just eight years ago, thanks to a flood of cheap fuel, natural gas extracted with fracking from tight-rock formations. The rest of the retail charges are for delivering supplies, including adding enough capacity to handle demand surges.
+
+Spot power traded in the market run by PJM Interconnection LLC has averaged about $31 a megawatt-hour this year. That’s less than half the $84.55 average in 2008.
+
+In Pennsylvania, ground zero for the U.S. shale revolution, consumers aren’t seeing the savings you’d expect, said Tanya McCloskey, the state’s acting consumer advocate. Utility projects, including power-line sensors and aging equipment replacements, are pushing up charges, with grid maintenance costs accounting for almost half a total bill.
+
+Spending on the transmission system by investor-owned utilities gained for a fifth year in 2014 to $42 billion, according to the latest data from Edison Electric Institute, a Washington-based trade group.
+
+PJM Projects
+
+PJM, operator of the mid-Atlantic power grid, approved $3.2 billion in new transmission projects last year as it seeks to improve reliability of the system. Among projects completed was PPL Corp.’s 500-kilovolt Susquehanna-Roseland power line extending from eastern Pennsylvania to northern New Jersey.
+
+“There’s been a lot of upward pressure on the distribution rate as you make repairs to the system,” said McCloskey.
+
+Thanks to the shale boom and rise in renewable generation, consumers are paying less for the electricity that keeps their lights, said Matt Mooren, energy and utility adviser at PA Consulting Group based in Madison, Wisconsin. For a residential utility rate of 10 cents per kilowatt-hour, electricity itself accounts for about 3 to 4 cents these days, he said. It was closer to 5 or 6 cents in 2008, before the shale boom took hold, he said.
+
+The onslaught of intermittent, renewable energy resources on U.S. power grids also is partly to blame for the rising delivery costs. Moving away from large, centralized power plants and toward smaller, more widely distributed sources has utilities installing digital sensors, meters and more power lines, the costs of which are getting passed along to consumers.
+
+Super Storm
+
+Devastating storms that battered New York and Washington have spurred utilities there to spend billions on making the systems more resilient. Washington is spending $1 billion to place some of its most vulnerable power lines underground, while in New York, Consolidated Edison Inc. is investing $1 billion to shore up the system in the aftermath of Super Storm Sandy in October 2012.
+
+And it’s not all about installing more lines and sensors. Power-grid operators in the eastern U.S. are ramping up auctions to secure future power supplies from generators to ensure they have enough fuel to keep the lights on when demand peaks. Ratepayers ultimately pick up the tab for these supplies through bills.
+
+Across the PJM region, new reliability rules raised payouts to generators from these auctions last year by $1.9 billion to $5 billion. A typical residential electricity bill will rise $2 to $3 a month as a result of the program in 2018.
+
+“We’re not really seeing many reductions in electric costs,” Stefanie Brand, a lead advocate for New Jersey consumers. “It’s really not fair to the ratepayers.”

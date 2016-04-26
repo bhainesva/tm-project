@@ -1,0 +1,12 @@
+Panama Papers Disclosure Could Have Been Averted, Shwed Says
+['Gwen Ackerman Elliott Gotkine', 'Gwen Ackerman', 'Elliott Gotkine']
+http://www.bloomberg.com/news/articles/2016-04-13/panama-papers-disclosure-could-have-been-averted-shwed-says
+Corporate Internet security officers aren’t keeping up with the technology that could have prevented the financial dealings of some of the world’s richest people in Panama to be splashed all over the globe, according to Check Point Software Technologies Chief Executive Officer Gil Shwed.
+
+“I don’t know if this was a hack or a leak. I do know there are solutions to both,” Shwed said in an interview. “There are great examples of technology that exist in the market place. Companies don’t use them and then they get hurt.”
+
+The publication of millions of documents from a Panama law firm that show how political and business leaders avoided taxes are putting political pressure on U.K. Prime Minister David Cameron, whose late father has been linked to an offshore investment fund, and forced Iceland’s prime minister to resign. The Mossack Fonseca law office has blamed the publication on a hacking attack.
+
+“My experience is that in the past two years, the enterprise market is not reacting fast enough to the change in cyber space and isn’t proactive in addressing it,” Shwed said. Corporate spending “isn’t very focused,” he added.
+
+Advanced threat protection technologies are among the newer Check Point products showing revenue growth as high as 40 percent, according to Shwed. Check Point, which acquired two small companies last year, has more than $3 billion in cash and is looking to buy, he said. He declined to specify what kind of technologies he was scouting.

@@ -1,0 +1,20 @@
+Blythe Masters Sees Tech Answer to Banks' Existential Woes
+['John Detrixhe']
+http://www.bloomberg.com/news/articles/2016-04-20/blythe-masters-sees-technology-answer-to-banks-existential-woes
+Blythe Masters, chief executive officer of financial-technology startup Digital Asset Holdings, said increased regulation and weakening performance may give banks little choice but to embrace new technologies such as blockchain.
+
+Revenue, expenses and capital requirements “are structurally heading in the wrong direction” for the financial services industry, Masters said Wednesday at a conference in London. Blockchain, also known as distributed ledger, and other advances could cut costs in areas such as post-trade processing by 30 to 50 percent, she said.
+
+“The industry is facing existential threats,” Masters said. “Some of the alternatives are to exit entire lines of business.”
+
+Masters is making her pitch as the world’s biggest banks are showing signs of struggling to adapt. Goldman Sachs Group Inc. this week reported the lowest first-quarter revenue of Lloyd C. Blankfein’s tenure as CEO. JPMorgan Chase & Co., Bank of America Corp., Citigroup Inc. and Morgan Stanley have all reported lower first-quarter revenue than a year earlier.
+
+Masters spent more than two decades at JPMorgan before her startup stint. New York-based Digital Asset Holdings is part of growing group of companies focused on blockchain, which is a shared, cryptographically secure ledger of transactions. It’s seen as having the potential to save major financial institutions billions of dollars on the cost of settling trades and other financial transactions.
+
+For all the hype, there are few signs yet of blockchain gaining mainstream commercial adoption. Companies from Nasdaq Inc. to JPMorgan to ICAP Plc have said they are exploring the technology.
+
+It takes time, Masters said, because the legacy back-office systems are massive, and failure in those operations could be catastrophic.
+
+“Changing the wheels on a fast moving bus as it runs down the highway is a dangerous undertaking,” she said. “But the incentives are there.”
+
+Digital Asset Holdings is speeding into distributed ledger technology, in part through acquisitions. The company bought Elevence Digital Finance AG, according to a statement today, giving the firm a Zurich office. The eight members of the Elevence team have backgrounds in algorithmic trading, programming and quantitative finance.

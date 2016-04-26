@@ -1,0 +1,10 @@
+Magic Leap Acquires Israeli Cyber Security Company NorthBit
+['Gwen Ackerman']
+http://www.bloomberg.com/news/articles/2016-04-18/magic-leap-acquires-israeli-cyber-security-company-northbit
+Magic Leap Inc., a U.S. startup working on a device that simulates reality, acquired Israeli cybersecurity company NorthBit to bolster its advanced software research.
+
+The deal will ensure Magic Leap products ship with the highest security standards for customers, the Dania Beach, Florida-based company said in an e-mailed statement. Magic Leap plans to expand operations in Israel and is looking to hire in the country, it said. Financial terms weren’t disclosed.
+
+Israel’s cybersecurity industry numbered nearly 430 companies at the end of 2015, growing from 310 two years earlier, as governments and corporations worldwide face mounting challenges to the security of their information and operations. Last month, NorthBit discovered a software vulnerability that could affect millions of customers using the Android operating system, according to the company’s Facebook page.
+
+Alibaba Group Holding Ltd., seeking to use virtual reality to enhance the shopping experience, led a $793.5 million funding round for Magic Leap in February. That followed a previous $542 million round led by Google in 2014. The virtual reality and augmented reality hardware industry is expected to reach $110 billion by 2025, Alibaba has said, citing Goldman Sachs Group Inc. research.

@@ -1,0 +1,34 @@
+An Unlikely Alliance Is Born in the Battle Over Solar Power
+['Chris Martin Jim Polson', 'Chris Martin', 'Jim Polson']
+http://www.bloomberg.com/news/articles/2016-04-20/in-battle-over-solar-power-unlikely-alliance-born-in-new-york
+An unlikely partnership between utilities and solar companies was born this week in New York, where both industries are seeking to shape policies that dictate how owners of rooftop panels are compensated for electricity they supply to the grid.
+
+In a proposal to regulators this week, the two groups collaborated on an alternative to the existing policy, known as net metering, which has put solar companies and utilities into opposing camps. Under the plan, New York’s six investor-owned utilities would pay less for solar energy, while SolarCity Corp., Sunrun Inc. and SunEdison Inc., the developers involved in the effort, get long-term certainty on the amount they would receive.
+
+It’s an unusual pact for two industries that have clashed in states from Maine to California to Hawaii over similar rules. In December, Nevada decided to cut payments to panel owners, prompting SolarCity and Sunrun to shut operations there. A compromise in New York may show a path forward for the groups to work together as regulators decide how to deal with swelling demand for rooftop power.
+
+The two sides are “finally playing nicely in the sandbox,” Patrick Jobin, an analyst at Credit Suisse Group AG, wrote in a research note Wednesday. They’re “deviating from all other net metering discussions that can only be described as acrimonious and overly contentious.”
+
+Net Metering
+
+Current net metering policies require utilities to buy surplus power from rooftop solar systems at retail rates. The arrangement eats into revenue for utilities, which have said that ratepayers without solar systems end up picking up a disproportionate share of the cost of maintaining the grid.
+
+The compromise in New York will keep the existing policy until 2020. After that, they will go down periodically according to a formula -- systems that go into operation will be guaranteed the rate in place at the time for at least 15 years. Those changes also will vary by location. By the time it comes into effect, utilities, regulators and developers will have determined which neighborhoods would benefit most from having more solar capacity and the rate will be higher than in areas that have more rooftop power than is needed.
+
+Utilities must consider solar, energy conservation and other distributed energy sources such as batteries when developing plans to cut the cost of delivering power, the New York Public Service Commission ordered last year. At a meeting in Albany Wednesday, the commission ordered utilities to share information on the best locations for such installations with customers and third-party developers.
+
+“This is a crawl, walk, run approach,” PSC Chair Audrey Zibelman said at Wednesday’s meeting. “This is not going to occur overnight.”
+
+Energy Storage
+
+The rate formula takes other factors into account, including reductions of greenhouse gas emissions. Rooftop solar systems that incorporate battery storage and don’t sell power to the grid would be exempt.
+
+The proposal also addresses community solar, mid-sized power projects that are becoming an increasingly popular. Developers will pay a fee for these projects in exchange for greater certainty that the utilities will connect them to the grid.
+
+‘Cannibalizing’ Business
+
+“I don’t think we’ve seen anything exactly like this,” Kit Konolige, a utilities analyst at Bloomberg Intelligence in New York, said by phone. “We’ve seen around the country that utilities feel like the rooftop solar people are their opponents and that they’re cannibalizing their business.”
+
+The agreement may also help accelerate rooftop solar connections in New York, which has almost 2.8 gigawatts of resources in queue on top of almost 500 megawatts already installed, and will be a key part of meeting Governor Andrew Cuomo’s plan to get half the state’s power from renewable energy by 2030.
+
+“We’re working together to keep our state’s solar market vibrant while enabling us to maintain the robust power grid that solar energy requires,” John McAvoy, chairman and chief executive officer of New York-based Consolidated Edison Inc., said in a statement. “Utilities and solar companies have found common ground.”

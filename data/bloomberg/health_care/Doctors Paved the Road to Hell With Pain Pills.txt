@@ -1,0 +1,42 @@
+Doctors Paved the Road to Hell With Pain Pills
+['Faye Flam', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-08/how-medical-science-started-the-opioid-addiction-epidemic
+Faye Flam writes about science, mathematics and medicine. She has been a staff writer for Science magazine and a columnist for the Philadelphia Inquirer. She is author of “The Score: How the Quest for Sex has Shaped the Modern Man.”
+
+Now that deaths from opioid overdose exceed those from car crashes, the medical community has come to recognize an error of historic proportions. In 2014, U.S. doctors wrote 245 million prescriptions for Vicodin, OxyContin and other painkillers in the highly addictive family of opium derivatives known as opioids. That practice spares many patients from pain following accidents or surgery, but the cost is more than 20,000 deaths a year.
+
+In the past, drug addiction was viewed more as criminal behavior than as a medical condition, said Nora Volkow, who heads the National Institute on Drug Abuse. “But what we are facing now is the responsibility of the health care system,” she said. “We created this epidemic, and we have to be responsible to overturn it.”
+
+The Centers for Disease Control and Prevention issued new guidelines for doctors last month, and President Barack Obama has promised better access to addiction treatment. Those measures could help, but to get to the root of the problem, doctors need to learn more about the science of addiction.
+
+Volkow said most doctors don’t know the difference between physical drug dependence and drug addiction -- a distinction that can be a matter of life or death. Dependence can happen to anyone taking these drugs for a long enough period. The body’s chemistry gets disrupted causing withdrawal symptoms when the drugs are discontinued too rapidly. Volkow said she experienced this herself when she stopped taking opioids following a car accident and then felt sick.
+
+That doesn’t mean she was addicted; only about 10 percent of people have the physiological predisposition to become addicts. In those people, though, once addiction starts it’s notoriously difficult to get rid of it. Addiction changes the brain so that even years after going through withdrawal, Volkow said, patients can still crave the drug. After a long abstinence, a dose that an addict once tolerated can be fatal.
+
+In an article published last week in the New England Journal of Medicine titled “Opioid Abuse in Chronic Pain -- Misconceptions and Mitigation Strategies,” Volkow and her colleague Thomas McLellan make a case that doctors should be required to study addiction in medical school.
+
+Doctors long assumed that their patients wouldn’t get addicted, said Volkow, but vulnerability to addiction is not easy to predict. To a large extent it’s determined by genes. And once addiction starts, the problem isn’t that people lack the self control to stop doing something pleasurable. Addicts can be driven to take the drugs, Volkow said, not to feel good but to stop feeling terrible.
+
+Though archaeological evidence suggests that people have been cultivating opium poppies since the Stone Age, and have been using them as medicine at least since the time of Hippocrates, the current addiction crisis stems from a 30-year-old change in medical practice.
+
+Morphine and synthetic derivatives of opium had been around for decades, but they were used primarily for people with terminal diseases, said Jianren Mao, a Massachusetts General Hospital doctor and neuroscientist specializing in pain. An influential 1986 paper said opioids offered a “humane” way to deal with other patients in pain. It seemed like a reasonable proposition, he said.
+
+Pain was once undertreated, said psychiatrist Charles O’Brien, head of the addiction treatment program at the University of Pennsylvania. “But it went overboard the other direction, so now you have people getting a wisdom tooth pulled and getting 30 day’s worth of OxyContin,” he said. “It goes in the medicine cabinet where the grandchildren get it,” he said, pointing to a danger that extends beyond the patient to friends and relatives who borrow the drugs for a backache, and to teenagers eager to experiment.
+
+While Obama pledged increased access to the anti-addiction drugs methadone and buprenorphine, those are themselves opioids. O’Brien said a different kind of drug, Naltrexone, works by blocking the effects of opioids. In a recent trial published in the New England Journal of Medicine, the drug appeared to prevent relapse in people who had been released from prison.
+
+Mao, the neuroscientist, said that beyond the addiction problem, his research helped identify another serious downside to opioids. When prescribed for chronic pain, the drugs sometimes increased patients’ pain sensitivity, making the problem worse and often leading to the need for escalating doses. Even if you took addiction out of the equation, he said, the pain sensitivity problem should prompt doctors to try other possible treatments and use opioids only if all else fails.
+
+When will the pharmaceutical industry come out with a safer painkiller? Mao said drug companies have added a number of new pain medicines, but they fall into the same old families. There are the opioids, with all their hazards, and the nonsteroidal anti-inflammatories, which can pose risks as well. A member of the latter family, Merck’s Vioxx, became popular among people with arthritis. But the company later took it off the market because it increased the risk of heart disease and stroke.
+
+Pain, Mao said, is one of the oldest and most basic features of the animal nervous system. Pain perception has been essential for survival for 500 million years. Making it go away is hard to do without unintended consequences.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Faye Flam at fflam1@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Jonathan Landman at jlandman4@bloomberg.net

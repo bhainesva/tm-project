@@ -1,0 +1,28 @@
+Theranos Under Investigation by SEC, U.S. Attorney's Office
+['Sheelah Kolhatkar Caroline Chen', 'Sheelah Kolhatkar', 'Caroline Chen']
+http://www.bloomberg.com/news/articles/2016-04-18/theranos-is-under-investigation-by-sec-u-s-attorney-s-office
+Theranos Inc. said it’s under investigation by the U.S. Securities and Exchange Commission and the U.S. Attorney’s Office for the Northern District of California, after the blood-testing startup has come under scrutiny by federal and state health regulators.
+
+The criminal and civil investigations are among several probes described in a company memo provided to Bloomberg on Monday by closely held Theranos. The memo was sent to Theranos’s “partners,” which include Walgreens Boots Alliance Inc. and others.
+
+“The company continues to work closely with regulators and is cooperating fully with all investigations,” Theranos said. It has also been probed by the Food and Drug Administration, the Centers for Medicare and Medicaid Services, or CMS, and state health departments in Pennsylvania and California. Theranos said the FDA and state inquiries are closed.
+
+The revelation is the latest in a stunning fall from grace for the company, which at one time commanded a $9 billion private valuation. Chief Executive Officer Elizabeth Holmes was profiled as a wunderkind after dropping out of Stanford University to found the company, attracting glowing media profiles that described promises to upend the medical diagnostics business with inexpensive tests using just a few drops of blood. Since then, the firm has been investigated by multiple health authorities and forced to defend itself against reports that its technology may not work.
+
+‘Devastated’
+
+In an interview broadcast on NBC’s “Today” show Monday before the investigations were announced, Holmes said she was “devastated” that her company didn’t catch the lab problems. She vowed to fix the problems and said the company would survive.
+
+“We’ve taken the approach of saying, ‘Let’s rebuild this entire laboratory from scratch so that we can ensure it never happens again,’” Holmes said on the show. “I feel devastated that we did not catch and fix these issues faster.”
+
+Theranos said some of the regulatory probes came after news reports published by the Wall Street Journal. The inquiries are focused on asking for documents and are ongoing, the Palo Alto, California-based company said.
+
+SEC Interest
+
+The SEC polices whether disclosures made to investors are accurate. Chair Mary Jo White said last month that the civil agency is paying close attention to so-called unicorn companies -- those startups whose valuations exceed $1 billion -- as more technologies become available to raise funding.
+
+Walgreens spokesman Jim Cohn declined to comment. The pharmacy chain has about 40 stores in Arizona with Theranos “Wellness Centers” on site. Ryan White, an SEC spokesman, declined to comment. A representative for Intermountain Healthcare, a Utah hospital system which is supposed to run a pilot study using Theranos’ technology, also didn’t immediately respond.
+
+A redacted inspection report released in March by CMS detailed a long list of shortcomings at the company’s Newark, California, laboratory, including failures to meet quality-control standards, such as not keeping freezers at the temperatures required by manufacturers; lack of proper documentation and missing signatures on paperwork; and unqualified personnel. CMS said in late January that faults at the lab were so severe that they jeopardized patients’ health.
+
+On April 13, the Wall Street Journal reported that CMS took a further step to propose sanctions that could ban Holmes from the diagnostics business and stop the blood-testing startup from receiving payments from Medicare. Theranos said it has responded to CMS’s concerns and is waiting to hear back from the agency.

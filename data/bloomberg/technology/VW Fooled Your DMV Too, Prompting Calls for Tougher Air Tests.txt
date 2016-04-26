@@ -1,0 +1,78 @@
+VW Fooled Your DMV Too, Prompting Calls for Tougher Air Tests
+['Jeff Plungis']
+http://www.bloomberg.com/news/articles/2016-04-20/vw-fooled-your-dmv-too-prompting-calls-for-tougher-air-tests
+Each year, millions of American motorists trudge to state inspection stations to make sure their vehicles aren’t violating pollution limits.
+
+At least, that’s what they think they’re doing. As the emissions-cheating scandal involving Volkswagen AG demonstrates, the tests may not be all they are cracked up to be.
+
+“The Volkswagen scandal underscores some huge flaws in the emissions test systems we have in the real world,” said Frank O’Donnell, president of Clean Air Watch, a Washington-based nonprofit. “Dating back to the 1990s, the car inspection tests have been pretty flimsy.”
+
+VW is currently negotiating with the U.S. Environmental Protection Agency and California regulators on how to fix the 600,000 cars on the road so they can order a recall. A federal judge in California has ordered the sides to come to some agreement by Thursday.
+
+Meanwhile, critics are calling for the 32 states than mandate emissions tests to close loopholes and make them harder to game.
+
+State Tests
+
+While the EPA certifies each model of vehicle before it can be sold in the U.S., it’s left to the states to make sure each individual car and truck on the road meets standards. But most states don’t even bother with diesels. And the tests for gasoline engines generally just check a car’s software to see if the pollution control systems are in working order.
+
+That’s precisely what VW rigged.
+
+The EPA has even gone so far as to assure VW owners not to worry about passing state inspections. The carmaker’s illegal software “was specifically designed to ensure that vehicles would pass inspection,” the agency says on its website.
+
+“I don’t necessarily mind bringing my car to emissions, but it does seem strange that diesel cars are exempted, especially after what happened with VW," said Lauren Cooper of Takoma Park, Maryland. "I think the system should be re-evaluated.”
+
+Hassles
+
+Cooper made the mistake of taking her elderly mother’s 2011 Honda Civic in for an oil change before the test. That wiped out the car’s computer codes. After waiting in line for 25 minutes on a Saturday, Cooper was told to drive the car around for 10 days and try again.
+
+“I had no idea,” Cooper said. “We should be informed that you’re not to have your vehicle serviced before bringing it in.”
+
+To critics like Donald Stedman, a chemistry professor at the University of Denver, the whole emissions testing system is missing the point -- which should be to find the worst polluting cars and get them off the road. States, under orders from the federal government, are spending most of their resources looking at cars under idealized conditions. They have little idea which vehicles are spewing high levels of pollution in the real world.
+
+“The VW scandal shows the government testing programs are irrelevant,” Stedman said. “What matters is what the stupid cars are doing on the road.”
+
+Regulators found this out the hard way. Technology installed in Volkswagen 2-liter diesels since 2009 and in certain 3-liter diesels since 2014 turns emissions controls on only when the vehicle senses it’s being tested. In regular driving, the systems turn off, which boosts engine performance and fuel economy but permits up to 40 times the legal limit of pollution. Software that does that is known as a "defeat device."
+
+Worsening Pollution
+
+State testing programs were established in the 1990s at the insistence of the EPA to combat worsening air pollution in the largest U.S. cities. That federal mandate caused resentment in state capitals, and in many cases that led to testing systems with a lot of loopholes, said O’Donnell of Clean Air Watch.
+
+Some states formerly used equipment to measure what’s coming out of the tailpipe. Now an attendant typically lifts the hood and hooks a computer-code reader into a car’s on-board diagnostic system. That’s a processor connected to the vehicle’s various computer systems that will register if equipment isn’t working as designed.
+
+As long as the pollution controls are working as designed, a vehicle will pass.
+
+Some states exempt older cars, or even newer ones under the theory that it takes awhile for pollution controls to go wrong. And in at least one state, North Carolina, a car gets a pass if repairs to fix the emissions would cost more than $200.
+
+Pollution Controls
+
+The tests are designed to ensure that pollution controls are working as they’re engineered to do. If they’re designed to cheat the tests, as in the case of Volkswagen, they’ll pass, said Michelle McVay, a spokeswoman for California’s Department of Consumer Affairs, which operates the state’s Smog Check system.
+
+In California, cars made in 1999 and earlier model years have tests that use probes to measure what’s actually coming out of the tailpipe. The current equipment isn’t capable of reading diesel emissions, McVay said.
+
+“The difficult part of this dilemma is that all of these VW vehicles with the defeat devices would pass the certification testing at any time, so it is believed they would also pass a Smog Check emissions test at any time,” McVay said.
+
+State emissions tests aren’t meant to catch corporate cheating, they’re trying to flag the most common type of maintenance issues that make metropolitan air quality worse, said Rob Klausmeier, an Austin, Texas-based emissions-testing consultant who has worked with several states.
+
+Efficient System
+
+Gasoline-powered cars represent the vast majority of personal vehicles on the road, so state systems concentrate mostly on them, Klausmeier said. The basic thing that can go wrong with gas cars is a failing catalytic converter. The state tests are an efficient, cheap way to catch that.
+
+“The tests did what they were supposed to do,” Klausmeier said. “They could do in-depth testing on each vehicle, but it would cost more and could be quite onerous.”
+
+Changes are afoot in California, where officials at the state’s Air Resources Board have proposed expanding and refining the amount of data collected from car computer systems, according to Dave Clegern, an agency spokesman. The board will be monitoring CO2 emissions in real time, he said. In the future, CARB could expand real-time data collection to include NOx, soot and other pollutants.
+
+The state has stepped up its efforts to catch automaker cheating, but those efforts have focused on adding road tests to its compliance testing rather than what’s done at the inspection-and-maintenance station.
+
+Additional Tests
+
+“Once we determined there was some kind of anomaly with the VW system our scientists and engineers were able to create additional cycles and test approaches to challenge the cars and replicate street conditions, and we could see the point at which the NOx system was being bypassed,” Clegern said. “This type of improved testing is where we expect to go in the future.”
+
+EPA expanded its reviews of new models to include on-road testing in September 2015. The agency is constantly looking at new information to reevaluate its approach to compliance and oversight, according to Laura Allen, an agency spokeswoman.
+
+“We continue to review the information before us and will be working with our partners, including states, to ensure that the American people get the emissions reductions promised under the Clean Air Act,” Allen said.
+
+One thing states could do is adopt a technology called remote sensing, which can passively measure emissions from vehicles as they pass on the road. It’s a kind of pollution surveillance program that would have caught VW years before the EPA and California did, said Lothar Geilen, chief executive officer of Opus Inspection Inc., an East Granby, Connecticut-based supplier of remote sensing systems.
+
+Colorado and Virginia already use remote sensing to supplement their inspection and maintenance tests. Vehicle owners whose cars pass the on-the-road checks get passes to skip the trip to the emissions station.
+
+“Our laws and regulations have focused too heavily on the laboratory,” Geilen said in a statement. “We are incentivizing manufacturers to calibrate performance to the laboratory test.”

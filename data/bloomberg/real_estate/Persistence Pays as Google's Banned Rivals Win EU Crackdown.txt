@@ -1,0 +1,32 @@
+Persistence Pays as Google's Banned Rivals Win EU Crackdown
+['Marie Mawad Aoife White', 'Marie Mawad', 'Aoife White']
+http://www.bloomberg.com/news/articles/2016-04-20/persistence-pays-as-google-s-blacklisted-rivals-win-eu-crackdown
+A few years ago, a European entrepreneur named Paulo Trezentos got an earful from his customers. They told him Google was making it hard to install Aptoide, his version of Google’s Play store, on their devices. Thousands of miles away in San Francisco, Casey Oppenheim was getting similar complaints about his Disconnect app, which blocked ads.
+
+Both men, their businesses potentially in peril, came to the same decision: They filed formal complaints to European antitrust regulators.
+
+Their beefs with Google reflect a growing battle over prime phone real-estate: The apps and services that consumers see first when they turn their phone on are the ones they’re most likely to use. The more complicated it is for them to install other apps, the harder it is for alternative application developers to grab a large number of users, clicks, and to sell extra services. “It’s obvious that if you’re a developer you have no alternative to the Google Play store -- it’s the only viable access point for apps for Android,” Oppenheim said.
+
+On Wednesday the requests for Europe’s competition regulator to step in bore fruit. Margrethe Vestager, the EU’s antitrust chief, sent Alphabet Inc., Google’s parent company, a formal statement listing regulators’ concerns with the company’s behavior, accusing it of striking restrictive contracts that prevent makers of tablets and phones from adding competing apps and web browsers.
+
+Regular Discussions
+
+Aptoide and Disconnect’s legal counsels have communicated regularly with officials working for Vestager in the time since filing their complaints. In October of 2015, Trezentos received a questionnaire that asked for details about Aptoide’s application and what a solution might look like. Two to three "back-and-forth" communications took place after that to clarify details, Trezentos said in an interview.
+
+The commission has been questioning a vast array of companies from application developers to telecommunications carriers and mobile manufacturers since 2013, to map out Google’s influence over the mobile market, through applications, services and the phones themselves. Companies such as handset makers that rely on and fear Google didn’t always want to respond to the EU. Some requests for information were issued with a legal order requiring them to answer, one person involved in the case said.
+
+Disconnect, like Aptoide, is hoping the commission’s investigation will help sway Google into allowing its app into in the official marketplace, and tweaking Android to make it easier for customers to install any software not hosted there.
+
+Regulators are trying to create “a more even playing field for anyone who has a product or service that’s trying to compete with many of those bundled, included services that Google has on its operating system,” said Tuong Nguyen, a principal research analyst at Gartner.
+
+Google declined to comment, referring to a blog post from last year where it said rival apps are often pre-loaded onto phones alongside its own apps. In a statement Wednesday it said its "business model keeps manufacturers’ costs low and their flexibility high," and offers customers "unprecedented control of their mobile devices."
+
+Bigger Names
+
+It’s not just individual companies that have been pushing for action. A larger group has been applying pressure onto regulators for action in Europe since 2013. Fairsearch -- a group representing Nokia Oyj and Oracle Corp., among numerous other companies -- turned to allies in Brussels to complain that Google’s mobile-phone software is too self-serving.
+
+One of the EU’s resulting concerns: Google’s limits on partners from tailoring the Android operating system for their own phones. Android is based on open-source software, distributed free of charge. But if a phone maker wants to pre-install certain Google tools on its devices, Google bars the manufacturer from selling phones that have an Android variant, also known as a "fork."
+
+Thomas Vinje, a lawyer and spokesman for Fairsearch, highlights a case in point. "Asus produced a fork of Android which it intended to sell in China," he said. "After the product announcement Google threatened to cut Asus off from the proprietary version of Android, so Asus withdrew the product from the market. That is direct consumer harm." A similar situation was reported by CNET to have occurred in 2012 between Google and Acer, regarding the canceled release of a smartphone running Chinese retail giant Alibaba’s Aliyun software.
+
+"The world is moving towards mobile and the conduct at issue in the Android case if left unchecked would lead to Google completely dominating the mobile sphere," said Vinje. "That would decimate competition in a whole raft of areas including advertising, mobile devices and mobile services. In fact, Google could wind up with even greater dominance in mobile services than its existing dominance in search."

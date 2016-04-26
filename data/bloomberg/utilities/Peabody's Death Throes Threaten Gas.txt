@@ -1,0 +1,46 @@
+Peabody's Death Throes Threaten Gas
+['Liam Denning']
+http://www.bloomberg.com/gadfly/articles/2016-04-13/peabody-s-death-throes-threaten-gas
+Apr 13, 2016 12:40 PM EDT
+
+King coal is dead. But he just might take a swipe at his mortal enemy -- natural gas -- on the way down.
+
+Peabody Energy's crash into bankruptcy, taking down the largest private-sector coal miner in the world, represents a moment for the industry (or maybe just the latest in a series of moments). Two of them came last year, when U.S. power plants running on natural gas were used more than coal-fired plants for the first time ever and when Paris happened to host a global conference that was generally down on the whole idea of burning black rocks.
+
+Regulation aimed at curbing coal use has undoubtedly played its part in pushing coal miners over the precipice. Yet the industry has also suffered from a combination of factors that have periodically pulverized commodity companies since before Peabody was founded back in 1883; namely, competition and overreach. A quick look at this chart shows that coal's experience isn't quite unique.
+
+The Fossil Record Indexed price performance Source: Bloomberg
+
+Like everyone else in the digging and drilling business, coal enjoyed the highs of the supercycle before the big comedown. It was the run-up that provided the wherewithal, and perhaps the hubristic impulse, to do what commodity producers often do in the wake of high prices: Go on an acquisition spree.
+
+The Splurge U.S. coal-sector acquisitions jumped in 2010 and 2011 Source: Bloomberg
+
+It shouldn't come as a surprise that the companies that rank high on the industry's M&A league table -- Peabody, Alpha Natural Resources, Walter Energy and Arch Coal -- have now all filed for bankruptcy. Higher leverage left each of them vulnerable to competition from a rival industry that had also plowed billions of dollars into expansion: natural gas.
+
+If you go back to the price chart above, you'll notice that gas didn't take part in the rebound that coal and oil enjoyed in 2010 and 2011. By then, the shale boom had already upended expectations of supply shortages and, by 2012, gas had dipped back below $2 per million British thermal units for the first time in a decade. The same dynamic would play out, albeit somewhat later, in oil.
+
+All three fossil fuels are suffering the usual hangover from an investment boom, as surpluses have built up. The Energy Information Administration calculates a "burn" rate for coal stockpiles, based on how much power plants have been shoveling into their furnaces. Relative to demand, coal stocks have now surpassed the prior peak in early 2013.
+
+We're Covered U.S. stockpiles of fossil fuels are at high levels relative to demand Source: Energy Information Administration
+
+Coal's extraordinarily high inventories make it hard to see that oil and gas are contending with a similar problem. In oil's case, there is now enough to cover 69 days of demand, up from 57 at the start of 2010 (this excludes the Strategic Petroleum Reserve.) For gas, the harsh winter of 2013/14 alleviated some pressure but the trend since then has been up. This chart shows that we are heading into summer, when gas inventories usually build up ahead of winter, with a historically high amount in stock already.
+
+Bloated U.S. working natural gas stocks at the end of March, by year Source: Energy Information Administration
+
+Barring a very hot summer -- requiring more gas to be burned for electricity to run air conditioning -- gas stocks could start to strain storage capacity by the time winter rolls around. That will tend to keep a lid on prices, which in turn will keep the pressure on coal.
+
+Yet coal may also bite back.
+
+In theory, cheap gas ought to mean power plants burning that fuel keep taking share from coal in the electricity market. What could spoil that this year are coal's own massive stockpiles, now enough to fuel almost 200 days of power-plant demand. Utilities will be loath to let inventories climb much higher and this is showing up already in railroad data: CSX, reporting results late on Tuesday, said its coal shipments plunged by 31 percent in the first quarter, year over year. Power generators may well keep their coal plants running to help work off the excess, even if gas is cheap.
+
+That, of course, offers little comfort to Peabody and its fellow miners. Equally, though, it means that if coal is going down, it'll try to take gas with it.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Liam Denning in San Francisco at ldenning1@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Timothy L. O'Brien at tobrien46@bloomberg.net

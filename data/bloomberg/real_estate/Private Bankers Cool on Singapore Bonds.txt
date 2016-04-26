@@ -1,0 +1,34 @@
+Private Bankers Cool on Singapore Bonds
+['David Yong Denise Wee', 'David Yong', 'Denise Wee']
+http://www.bloomberg.com/news/articles/2016-04-14/private-bankers-cool-on-singapore-bonds-as-slowdown-strains-show
+Private bankers say they are avoiding Singapore’s riskiest bonds as a slowing economy worsens corporate finances and shrinking issuance makes refinancing harder.
+
+Non-bank corporate bond offerings fell 38 percent to S$1.63 billion ($1.2 billion) last quarter from the preceding three months, the slowest start to a year since 2013, data compiled by Bloomberg show. Credit Suisse Private Banking Asia Pacific and CA Indosuez Wealth Management say investors are favoring higher-quality issuers, while UBS AG Wealth Management warns of the prospect of exchange-rate losses on local-currency bonds.
+
+Monetary Authority of Singapore’s data show private banks bought 44 percent of local-currency bonds sold in 2014, making them the largest investor group as default risks mount amid a cooling economy and a commodity slump that’s pummeling the oil, shipping and rig-building industries. Singapore-listed firms have net debt equivalent to 10 times their operating profit, compared with just 0.4 times in 2011. Investors are pricing in losses of 85 cents on the dollar in notes sold by PT Trikomsel Oke and Pacific Andes Resources Development Ltd. after their defaults.
+
+“There have been a couple of defaults and a sharp sell-off in some of the weaker credit quality issuers, especially those related to the oil sector,” said Neel Gopalakrishnan, emerging-market bond analyst in Singapore at Credit Suisse Private Banking Asia Pacific. “There are concerns whether some of these companies might have liquidity issues in the next two to three years. In such a situation, it’s unlikely that investors would actually want to put new money to work.”
+
+Investment-grade notes gained 1.5 percent last quarter, the most since mid-2014, as lower rated debt lost 0.4 percent, according to indexes compiled by Markit Ltd. Local junk bonds have lost money in the past three straight quarters in their worst streak since at least 2012. DBS Group Holdings Ltd., the top bond sale arranger since 2008, says that while concern over defaults has ebbed amid a junk note rally in the past eight weeks as global markets stabilized, investors are still showing caution.
+
+“Market access is still not entirely opened for smaller companies or unfamiliar names at the moment,” said Clifford Lee, head of fixed income at DBS. “The two skipped bond payments didn’t help as they show stress is surfacing. But the fears this year about defaults or interest-rate hikes have abated, or are not any worse than they were last year.”
+
+Quality Shift
+
+Singapore Telecommunications Ltd. sold S$250 million of 2023 notes in March, the most from a high-grade issuer in the quarter. Five companies including Perennial Real Estate Holdings Ltd. and retailer Courts Asia Ltd. raised S$410 million selling notes that pay at least a 4 percent coupon.
+
+Investors have shifted to quality issuers for now, according to Simon Ip, head of markets and investment solutions for Singapore at CA Indosuez Wealth Management, the private banking unit of Credit Agricole SA.
+
+“There was some selloff in equities and general weakness in risk appetite which led to the slowdown in debt issuance, and the two bond defaults may have had some impact on demand from private bankers," said Ip. An increase in offerings by foreign companies “may suggest some changes in private banks’ preference of issuer types,” he added.
+
+Maturity Wall
+
+Indonesian phone retailer Trikomsel missed coupon payments on its two bonds in November and December, while fishery group Pacific Andes followed in January, the first defaults in the local market since 2009. Both securities are trading at an indicative price of about 15 cents on the dollar, according to DBS prices.
+
+Junk-rated Singapore companies must find funds to repay S$2.1 billion of debt this year, S$4.7 billion in 2017 and $5.4 billion in 2018, according to data compiled by Bloomberg.
+
+The average credit quality of the 775 companies listed on the Singapore Exchange has deteriorated over the past five years as the ratio of operating earnings to interest expenses weakened to 2.2 times from 6.9 times, data compiled by Bloomberg show. Net debt of 53 energy-related companies is on average five times larger than earnings before interest, tax, depreciation and amortization versus a net-cash position previously.
+
+UBS says the prospect of currency losses are another reason to avoid the market. Singapore’s economic growth ground to a halt last quarter, the government said on Thursday. The local dollar weakened by the most in five months against the greenback after the central bank eased its policy to a zero-appreciation stance.
+
+“For international investors, there is less reason to hold Singapore-dollar bonds now as a weaker currency going forward will affect your total returns,” said Kelvin Tay, Singapore-based chief investment officer for Southern Asia-Pacific at UBS Wealth Management.

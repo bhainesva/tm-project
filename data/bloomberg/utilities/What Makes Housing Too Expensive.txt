@@ -1,0 +1,42 @@
+What Makes Housing Too Expensive
+['Justin Fox', 'Megan Mcardle', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/what-makes-housing-too-expensive
+Justin Fox is a columnist writing about business. Prior to joining Bloomberg View, he was the editorial director of the Harvard Business Review. He is the author of “The Myth of the Rational Market.” Fox has also worked at Time, Fortune, American Banker, the Birmingham News and the Advance-Register of Tulare, California, where he was the farm editor.
+
+The U.S. has two big housing affordability problems. They’re related -- and solving the first would go some way toward solving the second. But they’re not the same, and it’s important to understand that.
+
+The first problem is that some coastal metropolitan areas in the U.S. are generating lots of good jobs but aren’t building enough housing to keep up with employment growth. The main barrier to housing construction in these places is local regulation -- zoning ordinances, environmental requirements, even affordable-housing rules. This problem has been getting a lot of attention lately. I've written about it several times over the past year, and it’s the subject of new pieces in the past few days from the Economist and the New York Times.
+
+The second housing affordability problem is less geographically limited, and more chronic: Millions of Americans can’t afford even the cheapest housing. Here’s Jason DeParle in the New York Review of Books:
+
+The big problem is that it costs more to build even modest housing than millions of households can pay, whether the builder is greedy or not. That’s partly because restrictive zoning and overzealous building codes drive up the price. But it’s mostly because of the inherent cost of the basics: land, interest, materials, utilities. As a rule of thumb nationwide, even an efficient nonprofit developer can’t build an apartment affordable to a household making less than about $32,000 a year. That leaves out nearly a third of American households.
+
+Now, there’s an issue with using the cost of building new housing as the cutoff point. As economic consultant Joe Cortright wrote for City Observatory in February:
+
+If we built lots of new housing that poor people can’t afford, the thinking goes -- and there’s economic evidence to back it up -- that will make existing housing cheaper, and some of it will fall into a price range where some households making less than $32,000 a year can afford it. That’s how solving the first affordability problem can help solve the second one.
+
+Still, I can’t imagine that new construction alone will make housing affordable for everyone. Some housing will get cheaper, and some households making less than $32,000 will be able to move in. Most will still find it really hard, though. The Jason DeParle quote above is from his review of sociologist Matthew Desmond’s new bestseller, “Evicted: Poverty and Profit in the American City,” which details the troubled lives of low-income renters in Milwaukee. (I haven’t read the book, but I have read the New Yorker article adapted from it.) As DeParle recounts in his review, one character in the book is evicted from an apartment where the $550 rent takes up 88 percent of her income, and later moves to one where the rent is 96 percent. Nationwide, about half of poor households spend more than 50 percent of their income on housing.
+
+DeParle, a New York Times reporter who's been writing about poverty and government efforts to combat it for more than two decades, offered this short history of housing affordability:
+
+Into the 1970s, low-income housing, though often squalid, generally didn’t squeeze budgets. The wind whipped through the tar-paper shacks, but the shacks were abundant and cheap. Demolition and gentrification claimed the cheap units, and sputtering incomes swelled the number of needy renters.
+
+As a nation, we appear to have upgraded our notions of what constitutes acceptable housing without figuring out how to make this housing affordable to poor people. In 1970, according to a 1998 report from the Center on Budget and Policy Priorities, there were 6.5 million low-cost ($469 or less a month in current dollars) rental units and 6.2 million low-income ($18,750 or less a year in current dollars) renters. By 1995 it was 6.1 million low-cost rental units and 10.5 million low-income renters. I couldn’t find exactly comparable data for today, but in 2013, according to the National Low Income Housing Coalition, there were 10.3 million households classified as “extremely low income” (incomes at or less than 30 percent of the area median) and 5.8 million rental units they could afford (that is, with housing and utility costs amounting to 30 percent or less of the threshold income).
+
+Some people do get help with the rent. About a quarter of eligible low-income households receive federal housing assistance. Local programs such as rent control and requirements that developers include affordable housing in their projects help others, but I couldn’t find any national numbers on this and doubt that they’re very big. Overall, housing assistance is only for a lucky minority.
+
+If you’re a member of that lucky minority living in a resurgent city such as New York or San Francisco, you may not even be feeling at all lucky. Rising rents mean federal subsidies don’t go as far as they used to, while new development at least potentially threatens existing rent-controlled tenants. That brings us back to problem No. 1 -- the local regulations and political forces that keep more housing from being built. Affluent residents who don’t want tall new buildings in the neighborhood probably drive most opposition to development, but low-income tenants worried about getting pushed out may be wary of it as well.
+
+The results can be perverse, as when a San Francisco tenant group fights against new housing construction that would, over time, probably help lower rents in the region. But the benefits are prospective and diffuse, while the costs are sometimes real and specific. Also, while coastal cities with high housing demand and intense scarcity are economically important, they still represent a small part of the overall U.S. housing picture -- while affordable housing for the poor is scarce in lots of other places, too.
+
+What’s the solution? Renewed large-scale construction of tar-paper shacks doesn’t really seem to be an option, and it really shouldn’t be in a nation as wealthy as the U.S. More construction of housing, period, would certainly help. But I can’t help but think that this is a case where we may need both less government (in the form of a rollback of zoning and other housing regulations) and more government (in the form of housing subsidies for the poor). Uniting a political coalition behind those two objectives doesn’t sound easy -- which I guess is why it hasn’t happened yet.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Zara Kessler at zkessler@bloomberg.net

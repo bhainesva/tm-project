@@ -1,0 +1,28 @@
+A New Class Action Suit Wants to Treat Marketplace Lenders Like Mobsters
+['Tracy Alloway Noah Buhayar Rebecca Spalding', 'Tracy Alloway', 'Noah Buhayar', 'Rebecca Spalding']
+http://www.bloomberg.com/news/articles/2016-04-19/a-new-class-action-suit-wants-to-treat-marketplace-lenders-like-mobsters
+How things have changed.
+
+Some two years ago, LendingClub Corp. was preparing to embark on an initial public offering that would value the biggest marketplace lender in the U.S. at more than $8 billion. The company's market value has since fallen to less than $3 billion and the marketplace lending industry has been beset by difficulties, including a lawsuit that might prevent lenders from bypassing state interest rate caps by originating loans through intermediaries in states without such restrictions.
+
+A proposed class action lawsuit against LendingClub filed in New York earlier this month by a borrower on the platform, alleging violations of the state's consumer usury laws, could add to the company's legal woes on this front.
+
+Ronald Bethune of Yonkers, N.Y., claims LendingClub charged him a 29.97 percent interest rate on a $33,250 loan, nearly double New York's 16 percent limit for individual lending and high enough, he argued, to trigger a criminal usury violation, according to the complaint. More than 100 other borrowers are also suing the company, many from other states, according to the complaint.
+
+
+
+The lawsuit also cites civil provisions under the Racketeer Influenced and Corrupt Organizations Act (RICO), most famously deployed in a criminal context by former New York Mayor Rudy Giuliani to put away mobsters.
+
+"Around June 2015, defendants funded a usurious loan to plaintiff after plaintiff applied for a loan through LCC. Defendants failed to inform plaintiff that WebBank would be a 'pass through' sham party to the transaction for the sole purpose of charging plaintiff an interest rate in excess of New York’s usury law and that the loan plaintiff was receiving would be at an interest rate that was nearly double the interest rate cap for such a loan in New York," the lawsuit, filed by Lending Club borrower Ronald Bethune, alleges.
+
+A spokesman for LendingClub said the company does not comment on pending litigation.
+
+While upstart marketplace lenders employ a number of different methods of extending credit, LendingClub was a pioneer in the marketplace, or "peer-to-peer," lending model. The San Francisco-based company essentially serves as a middleman, matching borrowers with investors who want to fund them.
+
+To issue loans, LendingClub and some of its competitors rely on WebBank, a Utah-based financial services firm. LendingClub then buys the loan a few days later and parcels it out to investors who pledge to fund it. The arrangement was modified earlier this year in response to a decision in the lawsuit known as Madden v. Midland Funding LLC so that WebBank maintains a relationship with borrowers and has an ongoing economic interest in the loans.
+
+At an industry conference in San Francisco last week, several executives said their companies were slowing their expansion amid recent investor concerns.
+
+"If you're a management team in this business right now, and you're not considering slowing, you should exit,'' said David Klein, chief executive officer of student lender CommonBond. "Throttling growth is a tried-and-true" method to prove to the market that you have discipline, he said.
+
+The case is 1:16-cv-02578-NRB, U.S. District Court, Southern District of New York (Manhattan).

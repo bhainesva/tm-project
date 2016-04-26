@@ -1,0 +1,50 @@
+Police Cite Child Victims in Encryption Plea to Congress
+['Chris Strohm']
+http://www.bloomberg.com/news/articles/2016-04-18/police-urge-surmounting-encryption-in-plea-to-u-s-lawmakers
+The use of strong encryption is preventing state and local police across the U.S. from fully investigating murders, sex offenses against children, drug cases and child pornography, according to law enforcement officials who will testify before a House panel.
+
+The officials plan to come to Tuesday’s hearing armed with emotional pleas, evidence of stalled investigations and statistics to back up their arguments that companies including Apple Inc. and Alphabet Inc.’s Google are making criminal investigations increasingly difficult by using encryption, which scrambles data with a code that can be unlocked only with a special key. They also warn of the consequences as companies such as Yahoo Inc. and Facebook Inc. move toward stronger encryption.
+
+"During my years as an investigator, I have not seen any impediment to rescuing child victims or identifying and prosecuting child sexual predators that even comes close to the impediment created by encryption," Captain Charles Cohen, commander of the office of intelligence and investigative technologies for the Indiana State Police said in testimony prepared for the hearing and posted on the congressional panel’s website. He cited specific investigations that he said are being blocked by encryption.
+
+Investigations Versus Privacy
+
+The hearing before a House Energy and Commerce subcommittee comes as lawmakers, the Obama administration, companies and privacy advocates struggle with how to balance the needs of national security and criminal investigators against the value of encryption in protecting privacy rights and combating hackers. Also slated to testify at the hearing are Amy Hess, the FBI’s executive assistant director for science and technology, and Bruce Sewell, Apple’s top lawyer.
+
+"The best way we, and the technology industry, know how to protect your information is through the use of strong encryption," Sewell said in his prepared testimony. "To suggest that the American people must choose between privacy and security is to present a false choice. The issue is not about privacy at the expense of security."
+
+Apple and the FBI are in a legal standoff in a case in Brooklyn, New York, over accessing encrypted data on a drug dealer’s phone. That case, coupled with the law enforcement testimony scheduled for tomorrow, expands the debate beyond the terrorist attack that the FBI has highlighted in its confrontation with Apple.
+
+December Attack
+
+The agency in February served Apple with a court order compelling the company to help break into an encrypted iPhone used by Syed Rizwan Farook, who with his wife carried out the deadly December attack in San Bernardino, California.
+
+Apple resisted, bringing national attention to an issue that has simmered for years under the surface. The FBI dropped that case last month after saying it bought a tool from a private organization it hasn’t identified to break into the phone. However the underlying issues remain far from resolved.
+
+The statistics and examples cited by law enforcement officials demonstrate that most cases involving encrypted devices are criminal, not terrorism-related.
+
+Locked Out
+
+From October 2015 to March of this year, New York City police have been locked out of 67 Apple devices lawfully seized during investigations into 44 violent crimes, including murders, rapes and the shootings of two officers, according to testimony by Thomas Galati, chief of the New York City Police Department’s intelligence bureau.
+
+In Texas, 20 percent of devices presented to the the Greater Houston Regional Computer Forensics Laboratory can’t be accessed due to encryption and that’s likely to increase substantially, said Harris County Sheriff Ron Hickman, who also sits on the FBI’s national advisory board.
+
+Investigators working for the Indiana State Police estimate that more than 40 percent of all mobile phones confiscated in relation to Internet crimes against children have encryption that prohibits forensic examination, Cohen said.
+
+"Put yourselves in the shoes of the parents of a child whom we have just discovered is being victimized online," Cohen said. "The victimizer has thousands of photographs of your child in a digital vault that is impossible for law enforcement to open."
+
+Creating a Backdoor
+
+Technology and Internet companies have defended the use of encryption as essential to protect the data of their users and customers and have resisted calls to build new surveillance capabilities into their devices and services.
+
+"Yahoo is committed to protecting its users from a wide range of evolving cybersecurity threats, and a high standard of encryption has facilitated this," Chris Madsen, the company’s legal director for U.S. law enforcement and security, said in an e-mail.
+
+"We also take seriously our responsibility to protect children online" and "fully cooperate with lawful requests for information and proactively partner with other industry leaders, law enforcement agencies and advocacy organizations to protect the most vulnerable among us," he said.
+
+Representatives of Google and Facebook didn’t immediately comment.
+
+Companies that are part of the Reform Government Surveillance coalition, including Google and Facebook, want to keep people safe, stop crime and "cooperate with law enforcement in ways that are consistent with the law," according to a statement last month in response to the FBI’s fight with Apple in the San Bernardino case. "But we do not believe that the law allows the government to demand that a company create new software that supplies a backdoor to a secure technology," the group said.
+
+Developing a mechanism that would give only law enforcement agencies access to communications is "effectively impossible" given the state of technology, said Matthew Blaze, associate professor and cybersecurity expert at the University of Pennsylvania, who will also testify at the hearing.
+
+"Attempts to mandate one would do enormous harm to the security and reliability of our nation’s infrastructure, the future of our innovation economy, and our national security," Blaze said in prepared testimony.

@@ -1,0 +1,106 @@
+Too-Big-to-Fail, Yahoo and Basketball
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-08/too-big-to-fail-yahoo-and-basketball
+MetLife.
+
+Judge Rosemary Collyer, who ruled against the Financial Stability Oversight Council in its efforts to designate MetLife a non-bank systemically important financial institution, has unsealed her opinion in that case. You can read the opinion here; it finds that the FSOC's designation was "arbitrary and capricious" because it didn't consider MetLife's likelihood of experiencing financial distress, and because it didn't evaluate the costs to MetLife of the designation. I do not find the opinion particularly convincing, though you will have to take my word on that, or not, because it is unconvincing in ways that are too boring to write about. But I will say that there is no statutory requirement that the FSOC do a cost-benefit analysis, so it is weird for the judge to impose that requirement. (David Zaring has more.)
+
+But while this opinion seems wrong and likely to be reversed on appeal, I have some sympathy with the judge's position. There is something arbitrary-seeming about the SIFI designation. Some big entities (MetLife, AIG, Prudential, General Electric) have been designated as non-bank SIFIs; others (BlackRock, Vanguard, Apple) have not been. The FSOC has explained its reasoning for the MetLife designation in some detail, though not its reasoning for, say, the BlackRock non-designation, but the explanation is sort of fuzzy and qualitative. It feels like the real reasons for a court to defer to the FSOC's decision are:
+
+FSOC -- which is made up of the heads of the Federal Reserve, Treasury and seven other financial regulators -- is a bunch of smart people who know a lot about financial risks. Remember AIG?
+
+Both of those are pretty good arguments! But once you are in front of a judge, she is going to want a framework, and frameworks are scarce. The actual MetLife designation, and the FSOC's guidelines for making designations, are more general lists of unprioritized factors than they are clear conceptual frameworks. And some of FSOC's worries about MetLife do seem pretty nebulous. (Though, again: Remember AIG?)
+
+Last time we talked about MetLife, I cast about for a framework (run risk?), but it is not the framework; it's just a thing I sort of think. And I suspect Judge Collyer wanted a framework, even though the frameworks she used -- quantified probability of distress, cost-benefit analysis -- don't seem to be particularly related either to the statutory purpose or to the deferential standard of "arbitrary and capricious" review. One reason that courts generally do defer to regulatory agencies is that the agencies have spent a lot of time dealing with some regulatory regime, and have developed an intuition for how that regime should work based on long experience and deep understanding. That is just harder to do with too-big-to-fail regulation, where everything is kind of new and feels hastily thrown together.
+
+Elsewhere in financial stability regulation: "'Malicious' Twitter Posts Blamed for Fanning Kenyan Bank Run."
+
+Yahoo!
+
+Yahoo is a puzzle with three pieces -- core Yahoo itself, a stake in Yahoo Japan, and a stake in Alibaba -- and the prize for solving the puzzle is you get the massively valuable Alibaba shares without paying taxes on them. Yahoo worked on the puzzle for a while, but couldn't solve it, and seems to have given up. Now it is running a sales process that is less of a straightforward auction to the highest bidder, and more of a request for bidders to solve the puzzle for Yahoo. It sounds like Verizon is looking to be helpful:
+
+Verizon Communications Inc. plans to make a first-round bid for Yahoo Inc.’s Web business next week, and is willing to acquire the company’s Yahoo Japan Corp. stake to help sweeten the offer, according to people familiar with the matter.
+
+Verizon "could give the Yahoo Japan stake to its shareholders or sell it." It's not a natural Yahoo Japan holder itself, perhaps, but if it can take core Yahoo and Yahoo Japan off of Yahoo's hands, then that will leave Yahoo with only the prize: the Alibaba stake, which it could then sell to Alibaba in a tax-free all-stock deal, solving the puzzle and winning the game.
+
+Anyway, the good news seems to be that Verizon is trying to be helpful, and that other potential bidders -- Google, Time Inc., Bain, TPG -- are floating around too. The bad news is that "As Yahoo asks potential bidders to submit first-round offers for its core business next week, it is also warning them about a troubling decline in revenue and profit while obscuring the costs and cash flow of various business units." (As Kara Swisher previously reported.) Also that "next week" is a touch optimistic; Swisher is reporting that "Yahoo has moved the deadline for its bids out another week to April 18." My dream remains that Alibaba will bid, but that does not look particularly likely. If someone else is willing to solve the puzzle, why should Alibaba exert itself?
+
+Basketball.
+
+Is there anything more popular, in the investing world, than saying that you're a contrarian? Contrarianism is the consensus choice; being a contrarian comes with the great comfort of knowing that everyone else is too. But another reason for its appeal is that, in its simplest form, contrarianism looks like this:
+
+A thing's price goes down.
+
+You buy it.
+
+And that is so easy to confuse, or conflate, with this slightly different approach:
+
+You buy it.
+
+Its price goes down.
+
+So if you ever find yourself writing an investor letter explaining how you lost a lot of money, a good thing to say is that you are a contrarian investor who enjoys spotting deep value, which you have now spotted in your portfolio.
+
+Anyway I don't claim much expertise in basketball, but I gather that Sam Hinkie, the general manager of the Philadelphia 76ers, who I gather are 10-68 and the worst team in the NBA, resigned this week with a 13-page parody investor letter citing as his inspirations Warren Buffett and Seth Klarman and discussing in great detail the emotional and intellectual challenges of his contrarian approach to talent-spotting. I cannot really evaluate the substance of his analysis, but others found it silly, and judging by the Sixers' record I will go ahead and guess that Warren Buffett and Seth Klarman, for all their many virtues, are perhaps not the ideal guides to running a basketball team.
+
+But the form of it is a reasonably convincing imitation of a real hedge-fund investor letter. It starts with an endless discussion of how to think about thinking about thinking; a real hedge fund manager would probably do less throat-clearing about this, and about how cool Warren Buffett is, just because he and his readers would have already internalized it. But the basic format -- a thinking-about-thinking intro, then brass tacks on the portfolio -- seems about right. As does the tone of self-important contrarianism: I assume that every general manager thinks he's in the business of acquiring good players who other GMs didn't realize were good, much as every hedge fund manager thinks he's in the business of acquiring good investments that other managers didn't realize were good, but it is always satisfying to say it. A real hedge fund manager would probably focus a bit more explicitly on his failings -- especially one who had gone 10-68 this season -- but you can see why Hinkie didn't.
+
+Fiduciaries and advice.
+
+The obvious, and I suspect more or less intended, result of the Department of Labor's fiduciary rule will be that more middle-class investors will shift away from expensive or conflicted personal retirement advice, and toward index funds and robo-advisers. This strikes me as mostly fine, though there are those who put a higher value on personal advice than I do, and perhaps some people will be afraid to entrust their life savings to a robot. And Jason Zweig points out that just because an adviser is a fiduciary, that doesn't mean she can't charge you fees that are too high.
+
+But what does the rule mean for the financial industry? Here is an article worrying that the fiduciary rule, and the trend toward passive investing that was going on anyway, will be the asset-management industry's "Napster Moment":
+
+About $2.5 trillion in assets could migrate out of active mutual funds over the next decade. That money will shift from producing $18 billion in revenue to producing just $5 billion. That’s $13 billion less in revenue in the next decade and upward of $30 billion over the next 20 years. All this could be expedited by the new fiduciary standard—as well as a parallel trend that sees institutional funds moving toward passively managed investments, too. Add all that up, and that's how you get to an industry half the size it used to be.
+
+Maybe. But you might have said the same thing about the decimalization of stock prices and the rise of electronic trading, which made it harder for investment banks to make massive free profits just trading stocks for retail investors. And yet the industry mostly grew. Fast cheap electronic trading of stocks made it easier to build complex derivatives and value-added products, like exchange-traded funds, that attracted new business and wouldn't have been possible in the old world. My sense is that increasing efficiencies -- electronic trading, liquid low-cost index products, robo-advising, etc. -- not only make it easier for retail investors to save money; they also make it easier for banks and asset managers to create new, more complex products to make money.
+
+Elsewhere in advice and conflicts of interest: Lots of banks publish research about stocks and bonds and give it away free to customers, in the hopes that the customers will trade with the banks and pay them commissions. There are those who think that this model creates a conflict of interest, and European regulators -- in the MiFID II rules -- have pushed to "unbundle" research from commissions and make banks charge separately for research. But this creates an oddity. A bank can charge you for a research report, but if your salesman just shoots you an e-mail saying "hey that Yahoo stock is looking good today, want to buy some?" -- is that research? Do you have to pay him separately for that? What even is research? Well now the European Commission has defined it, sort of:
+
+In the measures approved today, the commission differentiates “non-substantive material or services,” which an investment manager can accept as a “minor non-monetary benefit,” from research containing “analysis and original insights” for which the firm must pay. The distinction allows for the survival of bread-and-butter research sent to clients such as short-term market commentary on economic developments.
+
+Argentina.
+
+Next week, Argentina will start the roadshow for its first international sovereign bond offering since its 2001 default. This long-awaited return to the global capital markets has been made possible by Argentina's settlement of litigation with its holdout bondholders in February. Argentina being Argentina, though, it soon repudiated the settlements with some holdouts (which it had "mistakenly" submitted to the court for approval!) and told the rest that it wouldn't meet the April 14 deadline to pay them. And now there is this:
+
+Last week, the government said it will change the way it measures the economy, sparking concern that holders of warrants tied to Argentina’s growth will get fewer payouts. It also said it will use a different consumer price index, which shows less inflation, to determine payments on inflation-linked bonds.
+
+"The reality is that the memory of what happened in the years of the Kirchner governments is still quite fresh," says a guy. That's going to be such a fun roadshow. Elsewhere: "Panama Papers open new chapter in Argentina corruption drama."
+
+Panama.
+
+In other Panama Papers news, "U.K. Prime Minister David Cameron was accused of “hypocrisy” after he said he held a stake in an offshore fund set up by his late father until six years ago." And "Democratic Senators Elizabeth Warren of Massachusetts and Sherrod Brown of Ohio sent a letter to Treasury Secretary Jack Lew on Thursday asking the department to investigate whether U.S. banks, companies and individuals had ties to Mossack Fonseca." There is not much evidence that they did, yet, but who knows what you might find somewhere in all of those terabytes? On the other hand, "for wealthy Americans looking to veil their assets and shield some of their income from taxation, there is no need to go to Panama or any other offshore tax haven": Delaware works fine. And here is a claim that Bernie Sanders is responsible for the Panama Papers, a claim that would be more convincing if, among other things, there was much evidence of Americans being involved.
+
+In other foreign corruption news, Las Vegas Sands Corp. paid $9 million to the Securities and Exchange Commission to settle Foreign Corrupt Practices Act charges for doing stuff like this:
+
+LVS transferred $6 million to a consultant internally referred to as a “beard” to buy a team to play in the Chinese Basketball Association, which did not permit gaming companies to own a team. The company transferred an additional $8 million to the consultant to cover the costs of operating the team without any documentation of those costs.
+
+That doesn't sound that bad, I guess, in substance, but once you start referring to your "consultant" as a "beard" you should probably expect to pay some fines.
+
+People are worried about unicorns.
+
+Michael Moritz of Sequoia Capital is critical of the mutual funds who have marked down the unicorns in their portfolios, and who "are acting as the proxy market for a new generation of private tech companies." He also argues that, "for private companies, the one thing worse than high-priced equity from public investors is debt from private equity shops taken on onerous and potentially ruinous terms if the business falters." There is a sense here that unicorns should be snobs who turn up their horns at the idea of taking any money -- debt or equity -- from grubby public investors. The Enchanted Forest is a pure and magical place, not to be sullied by the demands of a capitalist marketplace. Elsewhere: "16 Magical Reasons Why You Should Throw a Unicorn Party."
+
+People are worried about bond market liquidity.
+
+Oh, sure, bond trading volumes are actually up, not down, but which bonds?
+
+“Liquidity is located in a few of the mega deals and a lot of the turnover has been lumped in those extremely large deals,” says James Shepard, head of investment grade debt capital markets at Mizuho. “You will get a $500m to $750m transaction that doesn’t trade very much at all. For smaller sized deals, there might always be a bid just not always an offer.”
+
+I suppose that is better than always an offer, never a bid. Elsewhere, "corporate bond investors are exploring hedging techniques outside of traditional CDS, including hedging through equity options."
+
+Things happen.
+
+CEO Pay Shrank Most Since Financial Crisis. Patriarch of Payday Loans Indicted Amid Usury Crackdown. A Treasury Secretary at the Center of Obama’s Most Pressing Policies. Obama Readies Flurry of Regulations. M&A deals worth $370bn torpedoed by Obama administration. Banks’ Favorite New Strategy: Footnote 151. The Federal Reserve 'Twisted' the Corporate Bond Market Too. So Just How Much of an Overshoot on Inflation Will the Fed Tolerate? Brazil’s BTG Pactual Says Its Probe of Ex-CEO Finds No Basis to Corruption Claims. Valeant Shares Have Best Three-Day Run in Almost 20 Years. 7-Eleven CEO Resigns as Loeb’s Hedge Fund Prevails in Japan Boardroom Fight. Wachtell Lipton and Davis Polk on the ValueAct antitrust case (earlier). Blackstone to Shut Mutual Fund After Fidelity Pulls Out. "Prosecutors suspect Mr. Caspersen may have taken in tens of millions of dollars more than they have stated publicly, but they have yet to determine the full scope of the alleged fraud." Bankruptcy Judge Scolds 50 Cent for Courthouse Photo. Woof Washer. Adult colouring book craze prompts global pencil shortage. Live Little Mermaid. Electric ouroboros.
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

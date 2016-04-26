@@ -1,0 +1,36 @@
+Verizon Changes the Channel on FiOS in Shift to Internet TV
+['Scott Moritz']
+http://www.bloomberg.com/news/articles/2016-04-20/verizon-changes-the-channel-on-fios-in-shift-to-internet-tv
+Verizon Communications Inc. is plotting a new strategy for video as its slow-growing FiOS TV business looks increasingly like a costly relic of the cable era and out of step with the trend toward “skinny bundles” and streaming video.
+
+When Verizon reports earnings Thursday, the results could show the smallest gain in video subscribers since FiOS launched 11 years ago. And there are signs customers could start to drop the service, said Mike McCormack, an analyst at Jefferies LLC.
+
+“It’s possible at some point in the near future that they could go negative on subscriber growth and that would be when people start to raise questions about the long-term role of the TV network,” McCormack said.
+
+While Verizon’s broadband Internet business continues to grow, the slowdown of FiOS TV highlights the pressures facing pay-TV providers as consumers migrate to online-streaming offerings like Netflix Inc. and Amazon.com Inc. and forgo cable and satellite packages all together.
+
+This shift in the TV landscape also adds to the challenges facing the company’s landline unit, which is losing phone customers and is in a pitched battle with cable operators like Comcast Corp. for Internet subscribers. Its network is costly to maintain in part because of labor costs, which is why Verizon is currently in a standoff with unions on a new contract.
+
+For years, FiOS TV was the key component of a “triple play” bundle offering that lured millions of subscribers away from those same cable competitors. But with high programming fees, outdated technology and expansion plans on hold for six years, Verizon is changing its strategy to provide Internet TV, or IPTV.
+
+“The model is shifting rapidly,” Tami Erwin, Verizon’s senior vice president of consumer products, said in an interview. Consumers don’t want “a continuation of bloated packages,” she said. Rather, the idea is to get the shows people want, when they want them, to the devices they’re using.
+
+Unlike cable systems that deliver thousands of channels to households as if via a fire hose, an IPTV service sends only the program a customer selects. For Verizon, which gained a foothold in IPTV with its acquisition of Intel’s OnCue video streaming technology, that saves a ton of bandwidth. For the consumer, that means faster Internet speeds.
+
+Erwin sees the new video service playing an important part in the company’s faster-growing broadband sales. She declined to provide specifics on what the new IPTV service might look like or when it might be formally introduced, only that the service will “drive simplification and put the power in consumers’ hands.” LightReading originally reported that Verizon had plans for an IPTV service last week.
+
+Mobile Shift
+
+FiOS TV will continue to be a drag on profits since it doesn’t have the audience size to bargain for lower programming rates, said McCormack, the Jefferies analyst.
+
+“I’m not sure operating a sub-scale video business is such a great idea,” he said. Verizon has some options, including selling the TV unit or merging it with satellite-TV provider Dish Network Corp., McCormack said.
+
+Verizon has sold several of its landline businesses over the past eight years, including FiOS operations in three states just last month, as the company stakes its future on mobile services like video and advertising. The company has been acquiring content and digital-video advertising assets to rapidly expand its mobile-streaming business, a strategy that has sparked its interest in buying Yahoo! Inc. The carrier is on the short list of bidders to acquire the struggling Web company, which also includes private-equity firm TPG and YP Holdings, Bloomberg News has reported.
+
+“FiOS is profitable, but not as profitable as wireless,” said Roger Entner, an analyst at Recon Analytics LLC. “It might take a few years, but I would expect them to sell FiOS.”
+
+The company, meanwhile, is helping Boston update its communications infrastructure. The plan is to bring broadband to low-income neighborhoods, with FiOS TV slated to be offered following a licensing process with the city.
+
+Through fiber connections to cell towers, Verizon’s wired network provides its wireless unit a critical infrastructure. And with the rise of online-TV streaming over broadband, “Verizon has a lot more options than it did a few years ago,” Erwin said. That makes selling the FiOS Internet business less attractive, she said.
+
+“This is still a business we want to be in,” Erwin said. “The Northeast corridor is vital fiber broadband asset to us.”

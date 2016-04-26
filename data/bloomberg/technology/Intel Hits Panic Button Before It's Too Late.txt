@@ -1,0 +1,42 @@
+Intel Hits Panic Button Before It's Too Late
+['Shira Ovide']
+http://www.bloomberg.com/gadfly/articles/2016-04-20/intel-earnings-chip-maker-hits-panic-button-before-it-s-too-late
+Apr 20, 2016 10:58 AM EDT
+
+This is what it looks like when a tech company doesn't make the Evel Knievel jump across the canyon.
+
+Intel announced on Tuesday that it would cut 12,000 jobs, or 11 percent of its workforce. Companies with $11.5 billion in profit over the last 12 months don't tend to be the ones that fire the equivalent of Facebook's entire workforce. Avon Products, a company whose revenue have been cut nearly in half since 2013, slashes jobs. The company formerly known as Hewlett-Packard, with declining profits and falling revenue for three years, is the type to sharply cut its workforce.
+
+The drastic action is essentially CEO Brian Krzanich's acknowledgment of two hard truths about Intel: First, the market for personal computers isn't just in a temporary slump now into its fifth year. PC sales are not rebounding. And two, Intel is never going to catch up in smartphones. Intel, like its pal Microsoft, whiffed when the world shifted from PCs to mobile gadgets that didn't use Intel chips. The company has little to show for 15 years of trying to reverse its strategic miss.
+
+PC Freefall Intel generates more than half of its revenue from chips in personal computers. But the PC market has declined in each of the last four years and is on track to fall again in 2016. Source: IDC
+
+Give credit to Krzanich for taking big steps while Intel, by any rational analysis, remains in great financial shape. In the technology industry, too few giants have a sense of urgency when they miss a significant tech change as Intel did.
+
+Think about IBM, Hewlett-Packard, Yahoo and Nokia. All were once world-beating tech companies that had record-skipping moments and just kept playing the same old tune as if nothing were wrong. Only once it was obvious to everyone that these companies were in trouble did they try to turn themselves around.
+
+Of course mass firings, rerouting resources into new markets such as cloud computing and "Game of Thrones"-style management turnover might not be enough to preserve Intel's dominance for another tech generation.
+
+In five years, we could be writing that Intel went off the rails because Krzanich cut research and development to the bone, or he was wrong to bet the company on emerging areas of Internet-connected things such as industrial equipment. Intel's fixed costs may still be too high to offset a 25 percent drop in PC sales since the industry's peak year in 2011. But at least Intel is doing something.
+
+Share of Workforce That Intel Plans to Cut 11%
+
+It's not clear what made Intel resort to mass job cuts now. Yes, it's true that the company downshifted its revenue expectations for the year. Initially, Intel said revenue would increase by a mid-to-high single-digit percentage from 2015. On Tuesday, the company said revenue would rise instead in the mid-single digits. Intel largely attributed the revision to weakness in the PC market, which still accounts for more than half of the company's revenue although a minority of its operating profits.
+
+The intriguing plot twist here is something seems a bit off with Intel's data center business, which makes chips for computer servers and other essential equipment for the world's computing backbones. That is a market in which Intel has more than 95 percent market share, and the data center dominance has helped Intel paper over its PC and mobile problems.
+
+Shining Star, Tarnished Intel's sales of chips that power computer servers have helped cushion the blow from fading demand for personal computers. Yet revenue growth in the last couple of quarters has been below Intel's historical averages. Source: Bloomberg
+
+The data center group's revenue has a compound annual growth rate of 10 to 16 percent, according to Jefferies. But growth was 8.7 percent in the first quarter and 5 percent in the final three months of 2015. Average sale prices backtracked a bit in the most recent quarter, which is surprising for a company that sells basically all the data center chips in the world.
+
+Nothing terrible has happened to Intel that would seem to justify mass firings. Revenue is growing and gross margins are an enviably plump 60 percent or fatter. But history is a guide that too many tech giants didn't panic enough before it was too late.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Shira Ovide in New York at sovide@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Daniel Niemi at dniemi1@bloomberg.net

@@ -1,0 +1,10 @@
+Self-Driving Car Completes 1,200-Mile Roadtrip Across China
+['Bloomberg News']
+http://www.bloomberg.com/news/articles/2016-04-18/china-s-changan-auto-completes-1-200-mile-autonomous-drive-test
+Chongqing Changan Automobile Co., Ford Motor Co.’s partner in China, said it completed a 1,200-mile road trip to test a self-driving car as part of its ambitions to produce highly automated vehicles by 2020.
+
+The car set off from the company’s headquarters in Chongqing and reached Beijing after six days, the automaker said in a statement to the Shenzhen stock exchange. The driverless car employed cameras and radar to test automatic cruising, lane-keeping and changing, assisted driving during traffic congestion, and speed reduction through traffic sign recognition and voice control, according to the company.
+
+Changan is among Chinese companies including BAIC Group and Internet giant Baidu Inc. competing in the global race to develop cars that can pilot themselves with minimal or no human intervention. For China, the push for self-driving vehicles is also part of a broader state initiative urging manufacturers to upgrade their technology as lower-cost countries emerge and compete for labor-intensive factory jobs.
+
+For global companies aiming to introduce automated driving in China, local testing is important because of the different traffic conditions, driving habits and signage. Nissan Motor Co., which sells more automobiles in China than any other Japanese carmaker, has signed an agreement to work with the China Automotive Technology and Research Center to adapt safety features such as lane keeping and collision avoidance to suit the country’s driving habits and road conditions.

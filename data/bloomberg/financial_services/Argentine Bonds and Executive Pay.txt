@@ -1,0 +1,118 @@
+Argentine Bonds and Executive Pay
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-14/argentine-bonds-and-executive-pay
+Argentina.
+
+It's all over! I mean, it isn't really, but yesterday a U.S. appeals court affirmed, with surprising rapidity, Judge Thomas Griesa's order lifting the injunction that has prevented Argentina from paying its bondholders since 2014. So now Argentina can issue new bonds, use the proceeds to pay its holdout bondholders, and go back to being a more or less normal sovereign debt issuer.
+
+“This is going to be settled next week,” Alfonso Prat-Gay, Argentina’s economy minister, told journalists in New York, where he is pitching Argentina’s multibillion bond sale to investors.
+
+"This is a milestone that will allow the normalization of dollar flows into the country," says an analyst. "The default is essentially now over," says a lawyer. One could quibble. Argentina's deadline to pay holdouts with whom it had settled was, um, today, which seems unlikely to be met, though "lawyers for some of the hedge funds explained that they would be willing to extend the deadline by a few days." There are still other holdouts who haven't settled, and a third weird class of holdouts who thought they had settlement agreements but then found out that Argentina was just kidding. Plus it has to actually sell the bonds: "Government officials have said they’re seeking to issue as much as $15 billion of bonds within a week of the ruling, which would be the biggest sovereign sale for an emerging market since at least 1999." Argentina has not kicked its addiction to debt drama cold turkey. But the drama is winding down; what's left seems to be mostly relatively minor legal squabbles that are unlikely to derail Argentina's access to the capital markets for years. Though Argentina has surprised everyone before.
+
+Executive compensation.
+
+One thing that I hear a lot is that Valeant's current problems were caused by its executive compensation plan, and I have never quite understood that claim. Here is a Forbes article about Valeant's fall that focuses on Chief Executive Officer Michael Pearson, and that puts the blame on the comp plan:
+
+Pearson and other top executives would receive relatively little in the way of cash compensation but massive amounts of incentive stock and options. And that stock would be tied up for extremely long periods (an extended vesting period–then for Pearson another three years). In short, Pearson and his team would be paid handsomely if they could create long-term value, in lockstep with their shareholders. There would be no easy cash-out. On paper it worked brilliantly, and Pearson went on a tear that created tens of billions in value and continued for several years. Ackman, who invested $4 billion in the company, compared him to Warren Buffett. But the plan also put an inordinate amount of pressure on Pearson to sustain the growth, and the stock price, by whatever means he could. Valeant was built to become a pressure cooker. And eventually the lid exploded, taking the chef out with it.
+
+But what is the alternative? One model for Pearson -- and I realize that this doesn't capture all of the nuances of managerial and shareholder capitalism but it's a model -- is that he was a guy hired to do a job, and the job was to make Valeant's stock go up in a long-term sustainable way. And so he was paid for doing that job, and not paid for failing to do it. Of course that put pressure on him! I am paid to write this newsletter. My life would be a lot more relaxing if I could get paid without writing it, but here we are, in 21st-century capitalism. Anyway it is perfectly plausible to assert now that Pearson has failed to make Valeant's stock go up in a long-term sustainable way. It is even possible that that is because pursuing shareholder value actually turns out to be a bad way to achieve that value, the way that pursuing pleasure is a bad way to achieve pleasure. But that case, and the more specific case against the comp plan, still seem unproved to me. Sometimes you offer people a lot of money to create shareholder value, and they try really hard, and it doesn't work.
+
+On the other hand, how much should the CEO of an oil company get paid when oil prices crash? I feel like some relevant factors are:
+
+You should generally get paid for things you can control rather than things that you can't. But you should also share in the pains and joys of your shareholders, because you are not just their agent, you are also the head of the oil company family, and you are all in it together. Also because it is hard to measure what you can and can't control, and to decide which of the things you can control are important; shareholder-value measures (income, stock price return, whatever) provide the clearest and most objective measures of executive performance, even though they are clouded by the impact of oil prices. Also if you are the CEO of an oil company you should in some primal sense like oil; it would be weird to run an oil company without personally being long a lot of oil exposure, one way or another.
+
+Anyway here are some further considerations of the question. And here is a story about U.K. CEOs who are worth (in annual pay) more than twice their weight in gold or, in more relevant terms:
+
+It turns out companies think CEOs are worth slightly more than their weight in crack, which has a street price of about £64 a gram (according to a 2012 survey). They’re worth far more than their weight in heroin and about 45% more than their weight in cocaine.
+
+Revolving doors.
+
+One thing we sometimes talk about around here -- for instance, on Tuesday -- is that the regulatory "revolving door," in which regulators and prosecutors often leave government to work for the companies they once regulated and prosecuted, tends to make enforcement tougher. The more onerous the regulation, and the stricter the enforcement, the more need those companies will have for former regulators and prosecutors. This model can help explain a lot of things. For instance, what's former New York Superintendent of Financial Services Ben Lawsky up to?
+
+The man accused of implementing tough regulations on Bitcoins and other online currency now heads a consultancy that is acting as an adviser and media liaison for one of the sector’s major new players. The Lawsky Group, which provides legal and strategic counsel for clients on financial regulation issues, was the press contact last week for Axoni, a blockchain technology firm.
+
+I have to say that I never got the impression that Lawsky went particularly overboard in his efforts to regulate bitcoin. It was a new thing on his watch, with important financial-regulatory implications, and he tried to be thoughtful about regulating it. But the bitcoin community, which has a certain libertarian bent, is now reveling in the irony. One digital-currency consultant calls Lawsky's new career "crony capitalism at its finest." I think there are probably finer, by which I mean worse, examples. (For one thing, blockchain technology companies don't raise quite the same regulatory issues as, say, bitcoin money-transfer businesses.) But, sure: If Lawsky had spent less time on bitcoin regulation when he was in government, his services would be less valuable to blockchain companies now that he isn't. The incentives, as is usually the case, are for more regulation and more enforcement.
+
+Platinum Partners.
+
+One thing that the efficient markets hypothesis tells you is that you can get paid for taking on financial risks. Much of the apparatus of modern finance is about identifying and slicing those risks so that the people who want them get paid to take them, and the people who don't want them pay. There are a lot of scientific approaches to this problem, involving structuring and derivatives and smart beta and so forth, but there are also a lot of corners of the financial world that are perhaps best understood as informal applications of the same basic theory. So here is a story by Lawrence Delevingne about Platinum Partners, a small hedge fund that "has racked up returns that are the envy of the industry" by lending to troubled companies and taking what you might call a certain amount of reputational risk. (Here's a related story from Bloomberg's Zeke Faux last October.) The word "prison" appears three times in the article. Sub-headings include "Strategies and Schemes," "Early Scandal," and "Black Elk Blow-Up." And "many big money investors who have looked at Platinum have walked away." There are some risks -- perhaps not easily expressible as "beta" -- that those investors don't like. So Platinum takes them. And gets paid well for it.
+
+Financial Engineering 101.
+
+At Harvard, student organizations can get grants from the Undergraduate Council Finance Committee based on the number of people they expect to show up at their meetings. "Food is funded at $2 to $4 per student based on the size of the meal, and transportation is funded at $4.50 per person." No one checks how many people actually show up. The expected result obtains:
+
+For more than two dozen days in the past five years, the number of students attending an event that requested funding from a campus grant-issuing organization was projected at over 7,500 undergraduates, based on data from the common grant application collected by the Council’s Finance Committee last week. In one instance, on Dec. 5, 2012, all events together estimated an attendance of more than 25,000. Harvard’s current undergraduate enrollment, by contrast, is about 6,700.
+
+It is not perhaps the most sophisticated exploitation of loopholes in a financial regulatory regime that you (or those Harvard students) will ever see. But I suppose it is never too early to start. And the Finance Committee is learning its own valuable lesson in how to construct a robust regulatory system.
+
+Food Stuff.
+
+As you may be aware, I have been closely following the Rise of the Bowl in this space and, like so many people, I have wondered what's next in the ever-changing world of food vessel trends. Now we have the answer. It's jars:
+
+The appeal of the Mason jar lunches — which are best eaten emptied out onto a plate — isn’t just the container’s folksy charm, she says. By smartly layering and tightly packing the ingredients, everything stays fresh and neat. Dressing goes at the bottom, then heartier ingredients that won’t soak up the dressing like beans or chopped carrots, followed by more delicate greens on top.
+
+Emphasis added. But the jars are not yesterday's top food story. (Nor is the story about locavore milk.) That honor goes to Taco Bell's cheese quest. Here is a sentence about a Taco Bell social media employee named Matt Prince:
+
+As head of the 15-person “newsroom” team, it’s his job to defend and protect what Taco Bell calls The Cheese Pull -- the taffy-like web of pepper jack created by pulling apart a Quesalupa.
+
+It is just possible that the strangest part of that sentence is not that Taco Bell has a 15-person newsroom. There is a lot going on. Other sentences include:
+
+"Taco Bell spent two years perfecting the technique after a decade of noodling with 'the cheese-pully thing,' said Liz Matthews, chief food innovation and beverage officer, and it’s betting its future on plenty of cheesy elasticity for maximum customer goo."
+
+"If the shell isn’t fried the proper 90 seconds or if it sits for more than 15 minutes after cooking, the cheese hardens and won’t be melty enough for a proper stringy bridge between separated pieces."
+
+"'People stopped seeing cheese as an ingredient -- cheese really became the center of the plate and a big deal,' Matthews said."
+
+"'When you’re 16, you want to be 25, and when you’re 60, you want to be 25,' Prince said. 'No matter how old you are, you want to be 25.'"
+
+Who will write the history of our time? Who has understood the souls of modern Americans? Who has seen our hopes, our dreams, our ambitions, our nostalgia, our mute horror in the face of the inexorable march of time, our maximum customer goo? Surely it is the social media editor at a fast-food restaurant.
+
+People are worried about unicorns.
+
+Theranos, the Blood Unicorn (Elasmotherium haimatos), has suffered from a steady sequence of regulatory and public-relations pinpricks over the past few months, but this feels like more of an exsanguination:
+
+Federal health regulators have proposed banning Theranos Inc. founder Elizabeth Holmes from the blood-testing business for at least two years after concluding that the company failed to fix what regulators have called major problems at its laboratory in California.
+
+Holmes and Theranos can mount a defense, and there is an appeals process, and maybe everything is fine. I am certainly no expert on blood regulation, and it all sounds pretty bad to me, but here's an opposing view:
+
+Describing the regulators’ continued questions as part of the “ordinary process,” a spokeswoman for Theranos, Brooke Buchanan, said the company was in daily contact with regulators about their concerns.
+
+The "ordinary process" for ... what? For shutting down a blood-testing business? Or, like, is my local CVS constantly barraged with not-too-serious threats to bar it from testing blood? I am generally a fan of the rise of the unicorns, and I think it's good that companies now have the option to raise hundreds of millions of dollars at multibillion-dollar valuations without submitting to all of the annoyances of the public markets. But I really wish I could see what Theranos's stock price is doing right now.
+
+(Brooke Buchanan e-mailed me: “CMS has not imposed sanctions on Theranos’ Newark lab. Due to the comprehensive nature of the corrective measures we’ve taken over the past several months, which has been affirmed by several experts, we are hopeful that CMS won’t impose sanctions. But if they do, we will work with CMS to address all of their concerns.”)
+
+In yesterday's second-most-alarming unicorn news, here's another case of alleged unicorn counterfeiting, in which two investment managers allegedly raised $17 million to invest "in the shares of privately held technology companies, like Twitter, Inc., Alibaba Group Holding Limited, and Uber Technologies, Inc.," and then spent it on themselves. Or as U.S. Attorney Preet Bharara put it, in his trademark rhetorical style:
+
+As alleged, while promising investors high performing returns, Elm instead took the money and put high-performance sports cars – a Bentley, Maserati and Range Rover – in his own garage.
+
+Elsewhere, there were only five new unicorns in the first quarter of 2016, down from 13 the previous quarter and 25 each of the two quarters before that. "Meanwhile, CB Insights’ Downround Tracker shows there were 19 'down events'—or companies raising new money or being acquired at a lower valuation—during that same time frame." Also something incomprehensible happened involving Jack Dorsey and Azealia Banks. It is a tough time in the Enchanted Forest.
+
+People are worried about stock buybacks.
+
+"About two-thirds of the companies in the Dow Jones industrial average would have been better off simply investing their extra cash in an S&P 500 index fund, which would have grown more than their own stock did in the quarters after they bought and retired shares," but of course that isn't just an argument against stock buybacks. If you take that argument to its logical conclusion, it's an argument against running those companies. Perhaps most investors should just index -- I don't know, though I mostly index myself -- but surely corporations can't index. They have to actually drill for oil or build computers or whatever, even if doing so underperforms the S&P.
+
+People are worried about bond market liquidity.
+
+Honestly they aren't. But banks are announcing earnings, and here are Bloomberg Gadfly's Lisa Abramowicz and Rani Molla on Goldman Sachs's continued commitment to debt trading despite its relative unfashionability. They note that "trading in corporate debt has actually risen year over year on an absolute basis while remaining fairly steady in U.S. government bonds." Obviously volumes are not synonymous with liquidity, but on the other hand it would be a little weird if the mass withdrawal of dealers from market making caused a collapse in liquidity and volumes went up.
+
+Me recently.
+
+I wrote about fake mergers yesterday. And this morning I wrote about the banks' living wills.
+
+Elsewhere in living wills, I enjoyed the headline "Citigroup, Wells Fargo Swap Bad-Boy Role." I imagine Citigroup taking off its leather jacket and handing it, along with its switchblade knife and the keys to its Harley, to Wells Fargo. And: "The Federal Reserve and Federal Deposit Insurance Corp. requested that inspectors general investigate whether someone at their agencies’ leaked details on banks’ so-called living wills" to the Wall Street Journal before those details were officially published yesterday, which seems unsporting; you're supposed to investigate leaks to traders, but give journalists a pass. (Disclosure: I am a journalist.) Elsewhere, "New Zealand’s central bank said a journalist leaked its decision to cut interest rates last month before the official release time, although there is no evidence the information had any impact on financial markets."
+
+Things happen.
+
+BofA Profit Misses Estimates on Dealmaking Slump, Energy Loans. (Also: press release, presentation, supplement.) Wells Fargo Profit Falls 5.9% on Increase in Bad-Loan Provisions. (Press release, supplement.) BlackRock Profit Falls 20% as Market Volatility Curbs Fees. IEA Sees Oil Oversupply Almost Gone in Second Half on Shale Drop. Negative Rates: How One Swiss Bank Learned to Live in a Subzero World. Elizabeth Warren Wants To Take Down TurboTax. Treasury Official Urges Quick Action on Puerto Rico Rescue. Plan for Woman on $10 Bill in Question as Hamilton Fans Lobby. Panama Papers include one of U.S.’s biggest wartime military contractors. Twitter and Islamic State Deadlock on Social Media Battlefield. "There is no substantive-due-process right to stimulate one's genitals for non-medical purposes unrelated to procreation or outside of an interpersonal relationship." Seventy-three is a cool number. Presidential privilege. Putin Q&A. Space potatoes. Escaped octopus.
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

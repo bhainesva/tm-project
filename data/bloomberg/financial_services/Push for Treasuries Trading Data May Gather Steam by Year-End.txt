@@ -1,0 +1,34 @@
+Push for Treasuries Trading Data May Gather Steam by Year-End
+['Alexandra Scaggs Liz Mccormick', 'Alexandra Scaggs', 'Liz Mccormick']
+http://www.bloomberg.com/news/articles/2016-04-14/push-for-treasuries-trading-data-may-gather-steam-by-year-end
+The U.S. government expects to come up with a plan by year-end to gather more complete data on trading in the Treasuries market. It may also decide how much of the information -- if any -- it will release to taxpayers.
+
+The Treasury Department is developing a plan for regulators to access “all cash Treasuries data,” U.S. Treasury Counselor Antonio Weiss told subcommittees of the Senate Banking Committee Thursday. By year-end, the Treasury also “will have articulated a point of view about post-trade reporting” of data, he said.
+
+The question of how widely trading data should be disseminated is a “controversial” one, Weiss said. It’s the opening debate in the government’s first review since 1998 of the structure of the $13.4 trillion market. The workings of the benchmark market for global borrowing -- among the world’s deepest and most liquid -- had largely gone without scrutiny until a 12-minute crash and rebound in yields on Oct. 15, 2014.
+
+A move to introduce post-trade reporting in Treasuries would shift the market for U.S. government debt closer to the approach in corporate and municipal bonds, where self-regulatory industry organizations have already introduced the practice for prices and trade volumes.
+
+Transparency’s Cost
+
+Public reporting of trading data may raise the cost of Treasuries transactions and benefit automated traders at the expense of bond dealers that hold clients’ securities on their balance sheets, interest-rate strategist Michael Cloherty from RBC Capital Markets wrote in an April 12 note. Other researchers have found benefits. The added transparency reduced trade execution costs in corporate debt, according to a 2007 Journal of Finance paper co-authored by Securities and Exchange Commissioner Michael Piwowar.
+
+A Treasury spokesman, Rob Runyan, declined to comment beyond Weiss’s remarks.
+
+The government’s review of the Treasuries market has already led to a 76-page joint report from five government regulators about part of the trading activity from the October 2014 event. They’ve also made a broad request for market participants to submit their views on the market’s evolution by April 22.
+
+Opacity Challenge
+
+As regulators worked to determine what happened in October 2014, it was a challenge just to procure the data, Federal Reserve Governor Jerome Powell said at the Senate hearing. The market is supervised in a patchwork fashion by the Treasury Department, the Fed’s Board of Governors, the New York Fed, the SEC and the Commodity Futures Trading Commission. It took “almost several months” to get an inter-agency agreement to analyze trading from the 2014 event, Powell said.
+
+The five regulators got access to data from central platforms, such as ICAP Plc’s BrokerTec and Nasdaq Inc.’s eSpeed, where Wall Street bond dealers and automated trade firms transact U.S. debt with each other. Traders on these platforms can see activity in real time, though it’s not available to the public. About $200 billion of Treasuries trade on those venues each day, excluding inflation-protected securities, according to the New York Fed. Bloomberg LP, the parent company of Bloomberg News, also offers bond-trading services.
+
+Who’s There?
+
+That means roughly $250 billion of daily trading -- between dealers and their clients -- happens with little transparency. The only data on those transactions are reported in aggregate on a weekly basis by the New York Fed. The only analysis of trading between dealers and their fund-manager clients on Oct. 15, 2014, was a presentation from the New York Fed at a conference about a year after the events.
+
+During their testimony Thursday, Powell and Weiss said that tougher rules to strengthen the nation’s financial system hadn’t impaired the functioning of the bond market, and even if liquidity may have been affected for some types of securities, that was balanced by the benefit of safer banks.
+
+Government officials expect to complete a plan to get the trading data by the end of this year, before the U.S. presidential election, which typically leads to personnel turnover within the Treasury and other regulatory agencies.
+
+“Doing the analysis” of trading that day “took almost a year,” Powell said. “For us to do our jobs and provide the kind of oversight we need to provide for these markets to assure the public they’re safe and sound, we do need to have better information.”

@@ -1,0 +1,28 @@
+Tesla Tested by Enel to Buffer South Africa Power Cost
+['Paul Burkhardt']
+http://www.bloomberg.com/news/articles/2016-04-13/tesla-tested-by-enel-to-buffer-rising-south-african-power-costs
+Enel Green Power SpA, the renewable energy unit of Italy’s biggest utility, is rolling out a version of Tesla Motors Inc.’s home-power kit to help South African retail customers buffer against rising electricity prices and grid outages.
+
+With South African power tariffs set to rise 9.4 percent this year, Tesla’s battery systems could become more attractive to customers seeking to reliably store self-generated renewable energy at home, said Enel Green Power Chief Executive Officer Francesco Venturini in a phone interview. Power outages plagued the country’s grid on average about every fourth day last year.
+
+“Now that the prices are going up, people are going to look at entirely different solutions,” Venturini said. “There is a section of the population that can afford to buy backup power for the house,” specifically in Cape Town, where the pilot project has begun, he said.
+
+Enel entered the power market in Africa’s most industrialized nation in 2012, bidding for commercial-scale renewable projects of as much as 150 megawatts. A subsequent shortage of electricity resulted in managed blackouts in the country on about 100 days last year. Rapidly rising power prices and the development of Tesla’s battery pushed the Rome-based company to pursue retail business.
+
+Future Market
+
+The Tesla system is a small-scale example of the experiments with energy storage that utilities around the globe are conducting as a way to help balance the electric grid. As more power from wind and solar plants feeds into networks, grid managers are having to cope with flows that vary with weather fluctuations. Storage devices including batteries help even out the peaks and valleys in supply, helping prevent overloads and blackouts.
+
+Francesco Venturini. Photographer: Jacques Demarthon/AFP via Getty Images
+
+“We wanted to see what to do next, how to embrace this,” Venturini said. “It’s probably the market of the future, so let’s see how people are going to react.”
+
+The kit which began selling this month for around $10,000 includes a power inverter, lithium battery and optional photovoltaic modules -- all controlled by software accessible through a tablet, smartphone or computer. South Africa is being used as a testing ground for the kit, which is expected to last for two decades and pay for itself after about eight years, according to Enel, which also operates renewable energy projects in Latin America.
+
+Multiplatform
+
+“We’re developing it in such a way that you can build more on that platform,” said Venturini. The system is interfaced with an application that indicates when state-owned utility Eskom Holdings SOC Ltd. will conduct power cuts and charges the battery accordingly.
+
+Enel has been awarded 1.2 gigawatts of wind and solar capacity in South Africa through a bidding process where the government guarantees the price paid for power from winning commercial projects.
+
+There have been some issues with connecting the larger projects to the grid and closing the deals, according to Venturini, who said he still considered South Africa’s “one of the best” power auction systems in the world. The company is considering additional renewable projects in east and west Africa while participating in tenders in Zambia and Namibia, he said.

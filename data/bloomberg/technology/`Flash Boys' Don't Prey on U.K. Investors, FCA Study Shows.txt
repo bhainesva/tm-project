@@ -1,0 +1,24 @@
+`Flash Boys' Don't Prey on U.K. Investors, FCA Study Shows
+['Silla Brush']
+http://www.bloomberg.com/news/articles/2016-04-15/-flash-boys-don-t-prey-on-u-k-investors-fca-study-shows
+High-frequency traders have received a vote of confidence from U.K. government researchers, who failed to find evidence that the firms use their superior speed to take advantage of slower investors.
+
+Economists at the Financial Conduct Authority said there was no proof that speed traders use their technology to jump milliseconds ahead of competitors’ orders, according to a research paper released on Friday. The paper concluded that U.K. equities aren’t susceptible to some of the strategies identified in Michael Lewis’s book “Flash Boys.” Lewis alleged proprietary traders use hyper-fast connections to markets to pick off investors such as asset managers and pension funds.
+
+“The speed advantage is not as important as in other jurisdictions,” according to the paper written by the FCA’s Matteo Aquilina and Carla Ysusi.
+
+The study reviewed data covering about 85 percent of exchange-traded volume in the U.K. in 2013. The researchers examined 60 stocks each from the FTSE 100 and FTSE 250 indexes using data supplied by London Stock Exchange Group Plc and Bats Global Markets Inc. They had access to all orders, including amended and canceled orders.
+
+The researchers concluded that speed confers less of an advantage in the U.K. than in some other markets. The trading venues are located in close physical proximity to each other in London, making microwave and other types of high-speed connections irrelevant.
+
+U.K. regulations operate differently from the U.S., where orders are required to the venue with the best available price. The researchers said that brokers’ trading strategies in Britain may be harder for computer algorithms to predict.
+
+“There is no evidence in our sample that HFTs can ‘see the true market’ and trade in front of other participants at a millisecond frequency,” the researchers wrote.
+
+Still, the paper found that high-frequency traders may be able to anticipate competitors’ orders over slightly longer time periods, such as seconds or tens of seconds. Speed traders did increase their activity before large trades from non-HFT firms. They also became more active when non-HFT firms increased their buying and selling.
+
+The paper said high-speed traders may simply be reacting more quickly to news and other public information than other traders.
+
+The study didn’t receive order data for stocks traded on dark pools or handled by banks’ internal matching systems. Off-exchange venues account for some 12 percent of trading of London-listed equities, according to data compiled by Bats.
+
+A previous Bank of England study of the U.K. equity market only looked at trading in the 20 largest stocks in the FTSE 100.

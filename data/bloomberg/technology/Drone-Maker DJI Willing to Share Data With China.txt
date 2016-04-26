@@ -1,0 +1,30 @@
+Drone-Maker DJI Willing to Share Data With China
+['Bloomberg News']
+http://www.bloomberg.com/news/articles/2016-04-20/drone-maker-dji-willing-to-share-data-with-china-s-government
+Next time you fly a DJI drone in Hong Kong, authorities in Beijing may be watching what you’re watching.
+
+SZ DJI Technology Co., the world’s largest maker of small civilian drones, said it’s in discussions with Chinese government officials keen to gain access to the trove of data its airborne devices siphon up. That includes location, flight records and possibly video shot by users and uploaded to its servers, said Zhang Fanxi, a spokesman for the company.
+
+It’s unclear how future data requests may apply to U.S. and European customers, though the company will inform users if any of their information is handed over to authorities, Zhang said. DJI notifies users in its privacy policy that their personal data may be transferred to and from servers throughout China, Hong Kong and the U.S.
+
+“We are constantly having communications with our government and related departments,” Zhang, whose title is PR Specialist, told reporters at DJI’s headquarters in Shenzhen. “We have made suggestions to regulators and given them our advice, and said that we’re willing to share our data.”
+
+DJI Phantom 3 Professional, a drone manufactured by SZ DJI Technology Co., flies during a demonstration. Photographer: Kiyoshi Ota/Bloomberg
+
+The Chinese maker of the drone that once crashed on Barack Obama’s lawn is most famous for its Phantom series, which resemble four linked bowling pins. Founded in 2006, DJI raised $75 million from investors including Accel Partners in May and has attracted funding from Sequoia. With offices also in Beijing and Los Angeles, the company said it generated 2013 sales of $130 million, more than triple the previous year. DJI hasn’t disclosed its latest financials.
+
+To quell potential privacy concerns, DJI should clarify how long it keeps data, limit the types of information collected and outline how it handles customers by jurisdiction, said Lokman Tsui, an assistant professor at the School of Journalism and Communication at the Chinese University of Hong Kong who has advised Google on freedom of expression.
+
+“This puts them in a very difficult position with international customers,” Tsui said. “They collect a lot of data, and it’s unclear at this point what the retention period is.”
+
+China’s government requires access to a broad swathe of data collected by its media and Internet sectors, which it says is required to maintain social order. President Xi Jinping said at an Internet security seminar in Beijing this week that the country is trying to accelerate Internet legislation to reduce online risks.
+
+But drones have become popular only in recent years, even as governments around the world grapple with their attendant legislation. The global market for unmanned aerial vehicles is expected to almost double to $11.4 billion during the next decade from $6.6 billion in 2013, according to the Teal Group. Challenges include government concerns about clogged airspace and potential terrorist attacks. DJI is seeing growing demand for local government agencies keen to employ drones in crime and fire-fighting, Zhang said.
+
+DJI requires its customers to register with the company, though it doesn’t share that information with the government, Chief Executive Officer Frank Wang said in February last year. It was then in talks with Chinese regulators about whether customers needed to register with the government.
+
+Its newest drone, the Phantom 4, uses multiple cameras and software to sense and avoid obstacles. If the aircraft comes across something it can’t reasonably avoid, it will stop and hover until it receives further instructions.
+
+“It’s a very intrusive form of surveillance,” said Professor John Bacon-Shone, Associate Dean of Social Sciences at The University of Hong Kong. “It’s one thing if it only applies to DJI’s products inside China, but what if it’s outside of China?”
+
+“If people do not trust that this will only apply inside the mainland, I think it will have a major impact on the company.”

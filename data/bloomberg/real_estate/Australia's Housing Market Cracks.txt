@@ -1,0 +1,52 @@
+Australia's Housing Market Cracks
+['David Fickling']
+http://www.bloomberg.com/gadfly/articles/2016-04-11/australia-s-housing-market-cracks
+Apr 11, 2016 4:00 PM EDT
+
+Here's a fun experiment you can try at home: Open the online mortgage calculators of Wells Fargo, Halifax, part of the U.K.'s largest mortgage lender Lloyds Banking Group, and Commonwealth Bank of Australia, and tap in the median income in each country; $53,657, 25,844 pounds ($36,673) and A$59,571 ($44,970) respectively. Which bank looks most generous?
+
+Would You Credit It? Loan-to-income ratios are higher at Australian lenders than in the U.S. and U.K. Source: Company websites
+
+If you've followed international housing surveys such as Demographia's -- which reckons four of the world's 10 least-affordable markets are in Australia and New Zealand -- you won't be surprised by the answer. The Commonwealth Bank's calculator promises to lend borrowers up to 5.5 times their income, compared with 4.75 from Halifax and a ``conservative" estimate as low as 3.5 from Wells Fargo.
+
+
+
+That's a remarkable difference. It's possible that it's down to Australian banks' superior underwriting skills, or the effects of over-regulation in the U.S. and U.K. in the wake of the 2008 financial crisis. But it's worth at least entertaining the possibility that banks prepared to lend borrowers more than half their post-tax income may be storing up trouble for a future when interest rates aren't at record lows .
+
+Even putting that to one side, Australia's housing market is looking more shaky than it has in a while. Median house prices have fallen 6 percent from a year earlier in state capital cities and new home sales dropped 5.3 percent in February from a year earlier, the sharpest decline since July 2014, according to data from CoreLogic and the Housing Industry Association.
+
+
+
+The value of Macquarie Group's home loans that were more than 90 days overdue almost doubled in the December quarter to A$476 million -- a still-modest 1.3 percent of its A$36.6 billion residential mortgage book, but a share that's heading rapidly in the wrong direction.
+
+U.S. median annual income $53,657
+
+In the largest cities of Sydney and Melbourne, rental yields are at record lows, Moody's wrote in a research report Monday. That will cause the performance of home loans to deteriorate throughout this year and next as both the income and capital gain from property investments gets squeezed, the analysts said.
+
+As Gadfly has pointed out before, betting against Australia's homes and the banks that lend to them has for a long time been a great way to lose money.
+
+The property market is so embedded in the country's, and region's, political and economic life that something has almost always come along to save it -- whether the A$4.6 billion the government spent on mortgage-backed securities after the 2008 financial crisis, the A$2 billion to A$5 billion a year it spends covering the losses of investors whose rental income falls short of their mortgage costs, or the A$96.9 billion of foreign investment (A$24.3 billion of it from China alone) in the country's real estate sector in the 12 months ended June.
+
+
+
+In addition, Australia's banks have a first line of defense against declining home loans in the form of residential mortgage insurance, which covers losses on the sale of properties repossessed as a result of default. That business got a bad reputation during the financial crisis due to the collapse of monoline insurers, but in Australia it's considered pretty stable. It's mainly provided by QBE, a diversified group that is the country's biggest insurer, and Genworth Mortgage Insurance.
+
+Betting on a Crash Short-seller interest in Genworth Mortgage Insurance rose sharply earlier this year Source: Bloomberg
+
+Genworth is an interesting one. Short-selling interest in the stock rose to almost 13 percent of the equity float earlier this year, although it's since declined to below 10 percent, levels that don't indicate particularly heavy shorting activity. Genworth's combined ratio -- a performance measure that indicates underwriting profits if it's below 100 -- is a healthy 50 percent, but can rise sharply when times are tight, and climbed as high as 84 percent in 2012 .
+
+
+
+Genworth's announcement last month of plans to return about A$202 million of ``surplus capital" to shareholders sits oddly with the darkening picture in the market it's backstopping. The sum is equivalent to about 9 percent of Genworth's A$2.22 billion in net assets at the end of December. Returning the cash will drop the company's solvency ratio from 1.59 times its prescribed capital amount to 1.46 times, barely above its target range of 1.32 to 1.44 times.
+
+If you think the cracks in Australia's housing market are likely to spread, Genworth is a decent place to start looking.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+David Fickling in Sydney at dfickling@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Katrina Nicholas at knicholas2@bloomberg.net

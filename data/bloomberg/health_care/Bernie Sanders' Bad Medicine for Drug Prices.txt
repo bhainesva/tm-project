@@ -1,0 +1,52 @@
+Bernie Sanders' Bad Medicine for Drug Prices
+['Max Nisen']
+http://www.bloomberg.com/gadfly/articles/2016-03-30/bernie-sanders-bad-medicine-for-drug-prices
+Mar 30, 2016 8:00 AM EDT
+
+Bernie Sanders is worrying millionaires, billionaires and now drug patent holders.
+
+Sanders and 11 other members of Congress sent a letter on Monday supporting an earlier petition to the National Institutes of Health (NIH) asking the agency to hold a hearing on exercising its so-called "march-in rights" on the prostate cancer drug Xtandi. A 1980 law lets federal agencies force companies to license patents to other manufacturers in the interest of public health or safety, or if an invention is not available to the public on "reasonable terms." In this case, the idea is to reduce Xtandi's price by breaking a patent-protected monopoly.
+
+Shares of Medivation, the San Francisco biotech that sells Xtandi in partnership with the Japanese pharma company Astellas, fell around 6 percent on Tuesday. It's easy to see why investors are scared; Medivation depends almost entirely on Xtandi revenue.
+
+But everybody ought to calm down a bit. This is a threat to Medivation and the drug industry generally. But no agency has ever used the "march-in" right on a drug. Using this authority in this way would set a scary and messy precedent on pricing and patents, and the NIH is unlikely to open that box of venomous snakes.
+
+Feeling the Bern A letter from Bernie Sanders and other senators asking the NIH to override a patent poked a hole in Medivation's stock price. Source: Bloomberg
+
+Medivation splits Xtandi sales with Astellas. Even so, the drug is projected to bring close to $1 billion in revenue to Medivation next year. Losing the patent would be devastating to the company, which reported $943 million in total revenue last year. All of that came from Xtandi sales or related milestone payments from Astellas.
+
+Blockbuster Adjacent Even with an Astellas sales split, Medivation stands to make a pretty billion off of Xtandi Source: Bloomberg
+
+Xtandi is a genuinely important drug; it's becoming a standard treatment for late-stage prostate cancer and may also work in breast cancer. What grates on Sanders and other lawmakers is that the government helped fund UCLA research that led to the drug's discovery. What's more, Xtandi is priced at $129,000 for a course of treatment in the U.S., according to the letter. Other countries pay a fraction of that amount; the letter states that Canadians pay $30,000.
+
+The proposed solution -- that the government forcibly license Xtandi's patent to other manufacturers in order to reduce prices -- frightens the industry in a way that relatively minor Medicare reforms don't. The pharmaceutical industry is built on intellectual property protection. The idea that central patents for a drug approved less than four years ago could be gone with a snap of government fingers could make it difficult to commercialize any drug government funding has touched. A lot of drugs simply might not get developed.
+
+Like other expensive drugs, Xtandi makes a tempting target for the government to strip away patent protection because it costs Medicare and Medicaid hundreds of millions of dollars a year. But UCLA and the government weren't going to get Xtandi to market on their own. The government wants the pharma industry to keep improving drugs -- but to do so, companies need some assurance the government won't just override their patents.
+
+There's no question that drug pricing is broken in the U.S. The cost gap with other countries is ridiculous. But it's a systemic problem that won't be fixed by going after individual companies and drugs like this. Notably, other countries that pay significantly less for Xtandi and other drugs manage to do so without seizing patents.
+
+Targeting Xtandi yields small potatoes for a possibly significant disruption of the patent system. Medicare spent around $440 million on Xtandi in 2014. Total prescription drug spending by the program for the year was more than $140 billion. The U.S., including both public and private payers, is projected to spend $477 billion on prescription drugs this year, according to the Department of Health and Human Services.
+
+Drop In a Bucket Reducing Xtandi's price would mean little in the context of total U.S. drug spending, which is expected to continue rising. Source: HHS
+
+Angry members of Congress might want to focus on something a bit more ambitious. Bernie Sanders' campaign platform actually includes some suggestions -- such as allowing Medicare to negotiate drug prices, allowing importation of drugs from Canada, and increasing price and cost transparency -- that might be more broadly effective.
+
+The Obama administration rejected a suggestion from lawmakers earlier this year that march-in rights be applied more aggressively.
+
+And you don't have to look far for the argument the NIH will likely use to avoid going a-marching. It's already made it. In a 2013 letter reiterating its 2004 denial of a march-in request for AbbVie's Norvir, the agency said a pricing disparity with another country doesn't trigger the statutory requirements for using march-in rights, and that such comparisons ignore the broader context of pricing and policy in different markets. It also said exercising march-in rights is an emergency tactic, not an appropriate method of controlling drug prices. It suggested legislation or other government action as a better remedy for that.
+
+Sounds about right.
+
+Update: James Love, the director of Knowledge Economy International and the principal in the NIH march-in request the lawmakers are supporting, offered the following comment:
+
+A price of $129,000 per year may be justified for a rare illness, but not for prostate cancer. The 2014 Medicare expenditures of $447 million were 93 percent higher than 2013 outlays. We don't have 2015 figures yet. Xtandi was invented on grants from the Army and NIH (a huge subsidy on risk adjusted basis), private investors spent less, took fewer risks. Charging U.S. residents 3x or 4x more than anyone else is offensive. The Bush administration successfully used threats of march-in rights in health care four times. If the NIH fails to act, it sends a signal that there are no limits on what companies can charge on federally funded drugs.
+
+This column does not necessarily reflect the opinion of Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Max Nisen in New York at mnisen@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Gongloff at mgongloff1@bloomberg.net

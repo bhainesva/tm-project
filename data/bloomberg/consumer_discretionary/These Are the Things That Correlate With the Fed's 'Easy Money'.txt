@@ -1,0 +1,64 @@
+These Are the Things That Correlate With the Fed's 'Easy Money'
+['Julie Verhage Luke Kawa', 'Julie Verhage', 'Luke Kawa']
+http://www.bloomberg.com/news/articles/2016-02-09/these-are-the-things-that-correlate-with-the-fed-s-easy-money
+Faced with the most severe economic downturn since the Great Depression, the U.S. Federal Reserve did the only thing it could: flood the financial system with liquidity.
+
+The move to so-called easy money arguably saved the world from a worse fate and radically changed the economic backdrop as well as the landscape for financial markets. The monetary base, which consists of U.S. currency in circulation and reserves held at the Fed, is our chosen proxy for easy money—of all the metrics available, it's the one most directly influenced by central bank actions.
+
+Cutting the federal funds rate to zero and engaging in large-scale asset purchases caused the monetary base to explode to $3.9 trillion as of the week of Jan. 20. Since mid-September 2008, the monetary base has expanded by more than 350 percent, while the money supply has grown at a substantially slower clip.
+
+Using Bloomberg's correlations matrix function (CORR <GO>), we took a look at what boats this rising tide of money pulled up. For investors, the beginning of the end of the easy-money era in the U.S. has caused considerable pain in financial markets, with stocks and oil as two examples of asset classes that have deteriorated while the monetary base has remained relatively steady.
+
+So as a caveat, some of these correlations may appear to be spurious, and there is certainly no guarantee that these relationships will be replicated in upcoming cycles.
+
+In any case, here are a few things that correlate with easy money, whether moving in the same direction or the opposite.
+
+Equities
+
+Probably the best known of all of these cases, stocks have a nearly perfect correlation with easy money. Here's a look at the S&P 500 vs. the U.S. monetary supply.
+
+It wasn't just the broader index with consumer discretionary and industrial stocks, either—tech went along for the ride as well. Here's the Nasdaq vs. the money supply.
+
+Emerging Market Bonds
+
+Looks like emerging market bonds have a pretty strong correlation as well. Here's the JPMorgan USD Emerging Markets Bond ETF vs. the U.S. monetary base. Note that most of the index primarily comprises sovereign debt, but there are some corporate bonds as well.
+
+Crude Oil Production
+
+Drill, baby, drill. As money became easier, energy companies expanded and drilled for more oil. Here's a look at the Department of Energy's crude oil production data vs. easy money.
+
+The SPDR S&P Oil & Gas Exploration & Production index also followed the monetary base closely ... until mid-2014.
+
+Real Estate Investment Trusts
+
+This one is another yield play. Take a look at the Dow Jones REIT index vs. the money supply.
+
+Initial Public Offerings
+
+When the market is doing well, more companies go public, and shares of those companies tend to follow the broader market higher. Of course, this trend has changed recently, with many of the most recent IPOs having a tougher time.
+
+High-Yield Corporate Bonds
+
+When money is easy and interest rates low, investors search for yield and companies take advantage of cheaper borrowing rates. Perhaps that's why there is a strong correlation between the iShares iBoxx $ High Yield Corporate Bond ETF and the U.S. monetary base.
+
+U.S. Government Debt
+
+Nothing like the promise of low rates for years to come and direct purchases of bonds to keep 10-year U.S. Treasuries well-bid:
+
+U.S. Corporate BBB – 10-Year Treasury Spread
+
+Corporate bonds that were the riskier flavor of investment grade started to look safer as monetary stimulus pushed investors further out the risk spectrum.
+
+Non-Farm Payrolls
+
+With the economy recovering during the days of easy money, it's no surprise that there's a correlation with the number of people employed.
+
+The same thing occurred with jobless claims.
+
+Inflation ...
+
+Remember when everyone said easy money was going to make the U.S. the next Venezuela? Ya, that hasn't happened. We did get some inflation, though:
+
+Gold ...
+
+Gold peaked well before the U.S. monetary base. Even with the Fed "printing money," the demise of the financial system became less and less likely as the U.S. economy healed.

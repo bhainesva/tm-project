@@ -1,0 +1,44 @@
+Too Much Momentum Is Hazard for U.S. Stocks Stuck in Neutral
+['Joseph Ciolli']
+http://www.bloomberg.com/news/articles/2016-01-04/too-much-momentum-is-hazard-for-u-s-equities-stuck-in-neutral
+It may seem strange that in a stock market that went nowhere, investment strategies premised on buying shares based on their momentum just posted the best year since 2007. But they did -- and that’s not great news for bulls.
+
+Momentum stocks, defined as the ones showing the biggest gains in the last six to 12 months, kept rallying in 2015, returning 32 percent, according to data compiled by Evercore ISI and Bloomberg. That beat the next-best quantitative category, high earnings and sales growth, by 10 percentage points. Rallies in companies from Amazon.com Inc. to Regeneron Pharmaceuticals Inc. and industries such as biotech and software kept the engine humming even as the Standard & Poor’s 500 Index barely budged.
+
+While investors were happy for anything that worked in the seventh year of a bull market, not everyone views this as a reason for optimism. Past instances when momentum stocks won have occurred closer to the end of rallies than the beginning, signaling indiscriminate buying at a time when more traditional share drivers such as earnings growth are starting to wane.
+
+“More and more funds were driven into a shrinking group of momentum stocks with other strategies not working,” said Jim Paulsen, the Minneapolis-based chief investment strategist at Wells Capital Management Inc., which oversees $351 billion. “It’s a characteristic you often get at the end of a market cycle.”
+
+Momentum worked in 2015 because a lot of companies that had big years in 2014, from Avago Technologies Ltd. to Electronic Arts Inc. and Monster Beverage Corp., did well again. The top industries in the S&P 500 -- consumer staples and discretionary, health-care and technology -- also were among the market leaders in the second half of 2014. They gained an average of 5.4 percent in 2015.
+
+At the same time, few market laggards made up ground. Energy providers and raw-materials producers, among biggest losers from July to December 2014, have all stayed down, falling at least 10 percent in 2015.
+
+The S&P 500 fell 1.5 percent at 4 p.m. in New York on Monday.
+
+The success of the stick-with-your-winners blueprint in 2015 represents one transformation in a bull market that also saw its first 10 percent correction in four years in August and the biggest burst of volatility since the European debt crisis. Momentum strategies lost money in U.S. stocks in the four years from 2009 to 2012, according to ISI.
+
+Now they’re thriving in part because they provide a successful stock-picking technique in a market where locating winners is getting harder. As usually happens when gains flatten, far fewer stocks in the S&P 500 rose during 2015 compared with 2014: 44 percent versus 75 percent.
+
+Other measures of market breadth diminished, too. After gaining an average of 18 percent over the last three years, the S&P 500 fell 0.7 percent in 2015. That result, buoyed by gains in a handful of megacaps, masks weaker performance beneath the surface. A version of the benchmark gauge that strips out market-value biases slid 4.1 percent in 2015, the most compared with the normal S&P 500 in eight years.
+
+The equal-weight gauge’s outperformance disappeared in the final 12 months of the five-year rally that ended in October 2007. Similarly, it beat the S&P 500 by 90 percentage points for the first 5 1/2 years of the share advance that began in 2009 before its advantage dwindled.
+
+“Narrowness of participation is certainly a bad sign,” said Paulsen. “Momentum has worked well, but a smaller and smaller number of stocks are momentum plays.”
+
+Starved of alternatives, investors have piled into exchange-traded funds tracking momentum strategies in 2015. Since the first one was introduced more than a decade ago, the category’s assets have grown to almost $5 billion, data compiled by Bloomberg show.
+
+Inflows into the ETFs have accelerated over the last several months. The PowerShares DWA Momentum Portfolio, the largest fund of its type with a market value of $2.1 billion, has absorbed $226 million since the start of September following two months of outflows. The iShares MSCI USA Momentum Index Fund has taken in $450 million since the start of July, the most for any six-month period since its inception in April 2013.
+
+Riding momentum alone can be dangerous because the strategy assumes yesterday’s success will repeat, according to Bill Schultz of McQueen, Ball & Associates Inc. After all, investors chased winners to the 2007 peak only to see their favorite stocks blow up during the 2008-2009 crash.
+
+While it’s too early to say that the bull market will falter, companies will need to figure out how to boost profits for prices to keep rising, Schultz said. The S&P 500 is on pace for three straight quarters of earnings contraction, although analysts forecast that the index will see earnings rebound by 7.1 percent in 2016.
+
+“We’re now at a stage where we need earnings growth to come back in a better way before we can move to the next level in the stock market,” said Schultz, who oversees $1.2 billion as chief investment officer at McQueen, Ball in Bethlehem, Pennsylvania. “Otherwise we’re going to be in a trading range with the most liquid names flipping back and forth.”
+
+Wall Street strategists remain bullish going into 2016. The S&P 500 will rise about 7.6 percent to 2,200 by the end of the year, according to the median of 14 estimates compiled by Bloomberg.
+
+Still, David Kostin, the Goldman Sachs Group Inc. chief U.S. equity strategist who tied for the most accurate 2015 forecast, has a more conservative outlook. He sees the benchmark gauge nudging up just 2.7 percent to 2,100 by the end of 2016. He cites lofty stock valuations for his temperance. The S&P 500 is trading at 17.4 times expected earnings, above the measure’s five-year average of 14.9 times.
+
+Evercore ISI’s Abhra Banerji shares Kostin’s cautious view. In order for the market to continue gaining, it will need a fresh catalyst, he said.
+
+“Price momentum is a self-feeding mechanism that cannot drive the market for an extended period of time,” said Banerji, director of quantitative research at the firm in New York. “Unless leadership gives way to another metric, the market can’t go significantly higher than this.”

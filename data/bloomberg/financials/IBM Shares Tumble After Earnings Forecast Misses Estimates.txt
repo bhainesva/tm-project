@@ -1,0 +1,36 @@
+IBM Shares Tumble After Earnings Forecast Misses Estimates
+['Jing Cao']
+http://www.bloomberg.com/news/articles/2016-04-19/ibm-shares-tumble-after-earnings-forecast-misses-estimates
+IBM tumbled after forecasting second-quarter profit that fell short of analysts’ projections, signaling its multiyear effort to become a purveyor of cloud products and technology using artificial intelligence won’t soon stop its four-year sales slump.
+
+About 38 percent to 39 percent of full-year earnings forecast of at least $13.50 a share will come in the first half, Chief Financial Officer Martin Schroeter said Monday. That projects to about $2.78 to $2.92 a share, compared with the $3.45 average of analysts’ estimates compiled by Bloomberg.
+
+The stock fell 5.6 percent to $144.00 in New York Tuesday, the biggest decliner on the Dow Jones Industrial Average. That pared share gains for this year to 4.6 percent.
+
+“The stock was up this year -- IBM really had to have a stellar number to keep that momentum going,” said Lou Miscioscia, an analyst at CLSA. “It would have needed a very good quarter to continue outperforming the market.”
+
+The Armonk, New York-based company recently changed how it reports its business segments in an an effort to better reflect Chief Executive Officer Ginni Rometty’s focus on moving toward cloud, analytics, social, mobile and security products and services. While those newer operations, grouped under the umbrella of strategic imperatives, grew at double digits to $7 billion, it hasn’t been enough to offset declines in International Business Machines Corp.’s legacy business.
+
+First-quarter sales fell 4.6 percent, dropping for the 16th consecutive quarter, to $18.7 billion, the company said Monday in a statement, beating the average analyst estimate of $18.2 billion. Currency dragged on revenue by less than three percentage points, while the company had previously forecast a three to four percentage point impact.
+
+New Products
+
+Revenue in cognitive solutions, which comprises older and newer software and includes the Watson data analytics units, declined 1.7 percent to $3.98 billion in the period. About 63 percent of the revenue came from IBM’s strategic imperatives. Most of the company’s software sales also come from this division. Total software revenue declined, IBM said.
+
+In particular, growth of the newer offerings in cognitive solutions, which houses much of what IBM is counting on as a major part of its future, was slower than growth in some other segments. The new software is sold on an as-a-service basis, and it takes time to build up this type of product, Schroeter said in an interview.
+
+“These are businesses that probably have a fair bit of ramp in order to make them sizable and start to punch above their weight in terms of overall growth rate,” he said. “We saw pretty good acceleration from the fourth quarter to the first quarter.”
+
+Software Sales
+
+That software as a whole doesn’t seem to be improving is disappointing, said Dan Morgan, senior portfolio manager at Synovus Securities Inc., which holds IBM stock. “This is a bucket where we would have liked to see some sort of improvement. The jury is still out on whether Rometty is going to pull this thing out.”
+
+Global Business Services generated $4.13 billion, compared with $4.32 billion the same period a year ago. Technology services and cloud platforms, which includes the unit previously known as global technology services as well as middleware software such as WebSphere, had $8.42 billion in revenue, down from $8.56 billion in quarter a year earlier. Total service signings declined double digits from a year earlier to $8 billion.
+
+“Eight billion in signings is just a weak number, off a year that wasn’t that strong,” said CLSA’s Miscioscia.
+
+The systems unit, housing hardware and operating system software, fell 22 percent to $1.68 billion. This is the only division where gross margin improved in the three months ended March, because there were fewer hardware sales, which is a less profitable business than software, according to Schroeter.
+
+First-quarter adjusted earnings, excluding some items, fell 19 percent from a year earlier to $2.35 a share, the company said. That beat analysts’ average estimate of $2.09.
+
+IBM received a tax refund in the first quarter of more than $1 billion, which Schroeter had said was already factored into the full-year forecast of at least $13.50 a share. The tax benefit was fully absorbed by costs incurred due to job cuts and moving away from some operations in Latin America.

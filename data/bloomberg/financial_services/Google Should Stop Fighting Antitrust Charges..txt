@@ -1,0 +1,42 @@
+Google Should Stop Fighting Antitrust Charges.
+['Leonid Bershidsky', 'Megan Mcardle', 'Justin Fox', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-19/google-should-stop-fighting-antitrust-charges
+The European Commission looks poised to accuse Google of breaking competition rules with the contracts it offers mobile phone makers that use its Android operating system. Europe's competition commissioner, Margrethe Vestager, indicated as much in a speech on Monday. Just as with an earlier antitrust decision on Google, the bureaucrats are wrong: It's preposterous to accuse Google of stifling innovation. Yet Google shouldn't fight them: It's perfectly able to compete without trying to negotiate an unfair advantage.
+
+The commission started its investigation a year ago. Its gripe with Google is that the search giant is twisting phone manufacturers' arms to preinstall a package of basic apps, including e-mail and a suite of cloud-based office programs, and make Google the default search engine. Vestager said in her speech that Google's actions may be hurting other innovators:
+
+Our concern is that, by requiring phone makers and operators to preload a set of Google apps, rather than letting them decide for themselves which apps to load, Google might have cut off one of the main ways that new apps can reach customers.
+
+Mobile is where Google's growth is these days. According to Chief Executive Officer Sundar Pichai, the company has six products with more than a billion monthly active users each: search, Maps, the Chrome browser, YouTube, Google Play and Gmail. All of these are preinstalled on most mobile phones using Android, and they draw eyeballs to the advertising that provides 90 percent of the company's revenue. Ruth Porat, chief financial officer of Google's parent company Alphabet, said on the most recent earnings call that mobile search was the "primary driver" of revenue growth.
+
+Google estimates that 30 percent of all online purchases are now made on mobile phones, making mobile ads through multiple channels both effective and lucrative. A lawyer for Oracle, which is suing Google for alleged copyright infringements, revealed in a January court hearing that Google paid Apple, its leading mobile operating system competitor, $1 billion in 2014 to be the default search engine on its mobile devices. The lawyer estimated that Android has generated $31 billion in revenue and $22 billion in profit since its 2008 launch, even though the operating system is free to manufacturers. The way it makes that money -- and the enormous profit margin -- is by increasing the audience for Google-served ads.
+
+It's natural, then, for Google to use every opportunity to make its apps prominent on any new phone, and its best shot is through Android. In the final quarter of 2015, some 68 percent of all mobile phones sold in Europe ran Android, and in almost every case Google's app package was installed and Google was the default search engine.
+
+The Android maker uses a combination of carrot and stick to achieve this. It doesn't pay the phone makers the way it pays Apple: Instead, it offers support and shares ad revenue, and also makes entry to its Google Play store, which now features about 2 million apps, conditional on the preloading of its other products.
+
+Russia was the first country to declare these practices illegal. Yandex, the search company that beats Google in Russia, complained that it was struggling to place its apps on new phones because of Google resistance, and the Federal Antimonopoly Service ruled in its favor. Google fought back, but the Moscow Court of Arbitration ruled against the U.S. company last month.
+
+Now, the same may happen in Europe. Google's position -- that manufacturers can use Android without any help from Google and that consumers make the final choice on which apps to use -- will probably prove indefensible here, too. For one thing, access to the Google Play Store is the main reason Android beats most other operating systems and competes successfully against Apple's iOS. Without access to third-party apps, a smartphone is pretty dumb. For another, consumers are lazy: Many don't even rearrange icons on the home screen, much less change the default search engine or look for alternative apps to handle e-mail. So the argument about their making informed choices is disingenuous.
+
+It makes intuitive sense that the company that develops Android and gives it away for free should be allowed to benefit without bureaucratic interference. Apple, which makes a ton of money making and selling handsets, is not being pursued on similar grounds even though it's next to impossible to get rid of Apple's proprietary apps on its devices. It's probably unfair to go after Google and not Apple simply because Android is on more phones. It's also understandable that Google will want to exhaust its legal options before freeing Android users; allowing a free-for-all would be a leap into the unknown.
+
+And yet I'm pretty sure Google can survive and come out the winner. The best of its products -- that ones that have the most users -- are excellent. People won't stop using Google Maps just because it isn't preinstalled on their phones. It's among the top 10 most downloaded applications in Apple's App Store because iPhone users often prefer it to Apple's own map software. Chrome is in the top 100 most downloaded apps even though it's impossible to change the default browser in iOS from Apple's Safari without "jailbreaking" the device to untether it from Apple support.
+
+Google's search engine, too, wouldn't be dominant if it didn't index more pages than competitors and produce better results. YouTube is a must-have app, while Google's cloud office services are free, unlike, say, Microsoft's, and they work just as well.
+
+These are great, competitive products. They don't really need the extra push from restrictive deals between Google and phone manufacturers. Google's brand name is strong with those who buy Android phones, and, given a choice, they are likely to prefer Google products rather than spend time researching alternatives. The company may need to spend a bit more on advertising its products in a free-choice situation, but that won't break the bank because the apps are already hugely popular.
+
+Abandoning restrictive agreements with manufacturers would go a long way toward making Google's business model more secure, based on brand loyalty rather than negotiations with a small number of industrial companies that will always be looking for alternatives. Google needs to take the leap -- and doing it before the courts rule would be a strong move. As a consumer, I for one would welcome it and keep using my Google apps -- but because they're good, not because I'm lazy.
+
+( Corrects spelling of Google CEO Sundar Pichai's name in fourth paragraph. )
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Leonid Bershidsky at lbershidsky@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Gilbert at magilbert@bloomberg.net

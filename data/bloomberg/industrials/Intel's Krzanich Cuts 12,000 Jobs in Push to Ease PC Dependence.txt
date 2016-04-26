@@ -1,0 +1,54 @@
+Intel's Krzanich Cuts 12,000 Jobs in Push to Ease PC Dependence
+['Ian King']
+http://www.bloomberg.com/news/articles/2016-04-20/intel-s-krzanich-cuts-12-000-jobs-in-push-to-ease-pc-dependence
+Intel Corp. Chief Executive Officer Brian Krzanich is eliminating 12,000 jobs -- the chipmaker’s deepest cutbacks in a decade -- taking his most radical step yet to move Intel into new businesses and ease its dependence on the shrinking personal-computer market.
+
+The world’s biggest semiconductor company said it’s shifting focus to higher-growth areas, such as chips for data center machines and Internet-connected devices, which so far aren’t contributing enough to make up for the decline in PCs. Intel posted disappointing first-quarter revenue and gave a second-quarter sales forecast that fell short of analysts’ estimates.
+
+As PC shipments head for their fifth straight annual decline, Intel is finding it harder to offset that slump by leaning on booming demand for server chips and gains against weaker rival Advanced Micro Devices Inc. After bringing in new executives and shaking up his management team, Krzanich’s 11 percent workforce reduction underscores his effort to decouple Intel’s future from the PC market and accelerate a push into new markets, such as chips for automotive, industrial and retail applications.
+
+“It’s acknowledging the reality that it’s a single-digit growth world,” said Michael Shinnick, a fund manager at Wasatch Advisors Inc., which owns Intel shares. “The end markets aren’t growing to the extent that they were.”
+
+Krzanich, speaking in an interview on CNBC Wednesday, said eventually the PC market will hit the bottom. In the meantime, that business is still profitable for Intel, and Krzanich plans to make it even more so while at the same time fueling growth in other areas like high-end computers, data-center operations and connected devices, he said.
+
+“We are making the shift; we are going to push over the edge,” Krzanich said on CNBC. “The PC industry will bottom out, but we need to operate efficiently and maximize profit in that time while shifting into faster-growth areas.”
+
+One place in particular where Krzanich plans to grow is in Intel’s data-center business, he said. Within that, networking is the fastest-growing segment, “so there’s a lot of headwind for us to continue to grow,” he said. Krzanich said he intends to make more data center-related acquisitions.
+
+“I believe the growth engines are there,” he said. “We have the right structure. We’ll grow both organic and, yes, there will be some inorganic.”
+
+CFO Transition
+
+Adding to recent shuffles among Intel’s leadership, Stacy Smith, who has been chief financial officer since 2007, will move to a new role as head of manufacturing and sales, the company said Tuesday in a statement. Krzanich said on CNBC that the appointment wasn’t mean to suggest succession planning.
+
+Intel shares, which have lagged behind other chip stocks this year, were up 1 percent to $31.92 at 10:06 a.m. in New York.
+
+In the first quarter, net income rose 2.7 percent to $2.05 billion, or 42 cents a share, while sales climbed 7.2 percent to $13.7 billion, Santa Clara, California-based Intel said. On average, analysts had projected earnings of 37 cents and revenue of $13.8 billion.
+
+Second-quarter revenue will be about $13.5 billion, the company said in a statement. That compares with an average analyst estimate of $14.2 billion, according to data compiled by Bloomberg.
+
+Gross margin, the percentage of sales remaining after deducting the cost of production, is forecast to be about 61 percent in the current quarter, Intel said. That measure of profitability, the only one that Intel projects, has remained above 60 percent annually since 2014 as high-priced, high-margin server chips have become a larger portion of Intel’s overall sales.
+
+The job cuts announced Tuesday will be Intel’s biggest layoffs since it reduced staffing between 2005 and 2009, when the company was responding to the global financial crisis and competition that wiped out growth. Krzanich is taking his company’s headcount down from close to record levels after posting an average of less than 1 percent revenue growth over the past four years.
+
+“With 107,000 employees, there’s always room to tighten the belt, especially with a softer global macro,” said Craig Ellis, an analyst at B Riley & Co.
+
+Intel’s workforce has been above 105,000 since 2012, when it completed a surge up from an almost 10-year low of 79,800 in 2009, according to data compiled by Bloomberg. That period of growth includes its two largest acquisitions, McAfee in 2011 and Altera last year.
+
+Growth Forecast
+
+For the year, Intel now expects total revenue growth to be at a percentage in the mid-single-digit range compared with 2015. The company reduced its forecast because the PC market is declining more than it anticipated and will shrink in the high-single-digit percent range, Smith said Tuesday on a conference call.
+
+Intel’s Krzanich said Smith’s new role will give him the opportunity to gain more experience in the operations of the company, as he’ll be overseeing more than 50 percent of the workforce.
+
+The company isn’t simply cutting costs with the headcount reduction, Krzanich said. It’s trying to free up resources, even in PC chips, to concentrate on areas that will provide future growth.
+
+Global PC shipments dropped 9.6 percent in the first three months of the year, the sixth consecutive quarterly decline, according to market researcher IDC. The drop took unit sales to their lowest level since 2007.
+
+Intel’s client computing group, which makes and sells PC chips, had first-quarter sales of $7.5 billion, a decline of 14 percent from the preceding three months, but a gain of 2 percent from the year-earlier period. That unit accounted for 55 percent of total revenue. The data-center division posted sales of $4 billion, up 9 percent from a year earlier -- falling short of Intel’s target of double-digit percentage growth in that unit.
+
+Mobile Business
+
+After investing in its mobile-chip business for more than 15 years, Intel still has little revenue and few customers in the market for smartphone and tablets. In 2014, the last year Intel broke out results for the mobile division, that unit posted an operating loss of $4.2 billion. Those results are now included in the PC-chip unit.
+
+Krzanich has been putting more pressure on those who report to him as he tries to rekindle growth and make his products relevant in new markets. In April, the company announced that two division heads -- Kirk Skaugen in PC chips and Doug Davis of the Internet of Things unit -- are leaving the company. Their departure follows Krzanich’s hiring of former Qualcomm Inc. executive Murthy Renduchintala to a position above them.

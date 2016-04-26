@@ -1,0 +1,26 @@
+Europe's Biggest Chipmaker Says Semiconductor Goldrush Over
+['Alex Webb']
+http://www.bloomberg.com/news/articles/2016-04-18/europe-s-biggest-chipmaker-says-semiconductor-goldrush-is-over
+The semiconductor acquisitions bonanza, which soared to about $110 billion of deals last year, is over, according to Infineon AG Chief Executive Officer Reinhard Ploss.
+
+Industry consolidation “has decelerated,” said the head of Europe’s largest chipmaker by revenue, which kicked off the spate of deals with its announcement in 2014 that it would pay $2.3 billion for International Rectifier Corp. “It’s not the same goldrush.”
+
+The wave of takeovers was prompted by the rising costs of production and a shrinking customer list, and included Intel Corp.’s $14 billion acquisition of Altera Corp., NXP Semiconductors NV’s $16 billion purchase of Freescale Semiconductor Ltd. and Avago Technologies Ltd.’s $30 billion deal for Broadcom Corp. Chipmakers are now digesting their purchases and focusing on product development to target new growth areas such as the Internet of things and self-driving vehicles.
+
+For Infineon, that means a push to sell new products for cars and factories. The German company, which makes chips for power-management, sensors, radars and security, has used the acquisition of El Segundo, California-based International Rectifier to expand its existing carmaker customer base to commercial and agricultural vehicle-makers.
+
+“We were good at talking to big automotive suppliers like Bosch, Continental and Raytheon, but not to others,” Ploss said in an interview in San Francisco. Even as the industry M&A is slowing down, Infineon may seek to add more complementary technologies through acquisitions, Ploss said.
+
+“Now our strategy is to go deep, go wide, go wider,” said Robert LeFort, the head of U.S. operations, talking about Infineon’s sales strategy.
+
+Liberum Capital added Infineon to a list of 10 conviction buys in Europe this month, declaring it the biggest semiconductor beneficiary globally from accelerating electric-vehicle sales. The company’s sales overtook those of Geneva-based competitor STMicroelectronics NV last year to become Europe’s largest in the industry.
+
+After jumping by more than 50 percent last year, the third-biggest gainer in Germany’s benchmark DAX Index, Infineon’s stock declined 7.3 percent this year through last week. The stock fell 0.7 percent to 12.44 euros at 10:21 a.m. in Frankfurt, valuing Infineon at about 14 billion euros ($16 billion).
+
+Infineon is betting on autonomous-driving technology to boost that revenue, which Ploss expects to continue growing at about 8 percent annually. Ploss said that carmakers spend at least $500 more on semiconductors in each self-driving vehicle.
+
+The technology’s growth has meanwhile prompted Infineon to change how it supplies components. Whereas before it might have sold individual chips for engine power-management to an automotive supplier such as Robert Bosch GmbH to build into a broader system, the company now manufactures, for example, entire radar systems itself. Not only does that allow Infineon to sell greater volumes, it also reduces costs, and a cheaper radar system increases the likelihood that it is adopted by mass-market vehicles such as Volkswagen AG’s Golf compact car, potentially boosting sales even further.
+
+In 1998, a radar -- used for instance to help maneuver the vehicle and prevent collisions -- would have cost a major carmaker about $1,400. Now it’s closer to $50 and the technology is a lot less invasive for the driver.
+
+“Back then, one engineer’s wife asked if the car was a diesel because the radar was so loud,” LeFort said. “We’re creating more value for our customers and capturing some of that value for ourselves.”

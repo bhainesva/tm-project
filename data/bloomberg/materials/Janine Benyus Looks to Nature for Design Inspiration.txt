@@ -1,0 +1,34 @@
+Janine Benyus Looks to Nature for Design Inspiration
+['Jessie Scanlon']
+http://www.bloomberg.com/news/articles/2016-04-07/8-innovations-inspired-by-nature-s-genius
+Janine Benyus is the co-founder of Biomimicry 3.8, a Missoula, Mont.-based design consultancy named not after a version of some proprietary software, but rather the 3.8 billion years nature has been doing its own design “R&D.” The firm is the product of Benyus’s landmark 1997 book, Biomimicry: Innovation Inspired by Nature, which introduced the world to the idea of applying natural principles to human problems. At the time, biomimicry was a barely recognized field. Now her firm’s clients include Fortune 500 companies, city planners from Lavasa, India, and Charlotte, N.C., and several federal agencies.
+
+Despite biomimicry’s wider acceptance, Benyus still runs up against the attitude that it’s Man vs. Nature in the struggle to survive. “The assumption is that we are not nature. But we are nature,” she says. “And once that separation goes away, as you start looking at these organisms as consummate chemists and inventors, it changes our relationship with the rest of the natural world. It puts us in the role of student rather than conqueror.”
+
+How has biomimicry evolved since you first began studying it?
+
+When I started researching the book in 1990, I saw a field without a name. People studying solar cells were finally getting together with botanists who understood photosynthesis. After the book came out, businesses started calling me—Nike, Levi’s, General Mills, North Face. So many different kinds of companies, all asking, “How can nature help us innovate? How would nature do this chemical reaction? How would nature reduce drag in a wind turbine?” So we evolved a methodology of how to research the scientific literature. Biomimicry is about function—how would nature do X?—and the papers were organized by organism or by evolutionary advantage. The biggest change is that biomimicry has evolved from a good idea into an innovation practice.
+
+What does this innovation practice entail?
+
+We call our process “amoeba through zebra.” A company will come and ask us … well, for instance, we’re working with a major car company on a redesign of the A-post [which supports a car’s windshield and the front of its roof] to make it as strong but small as possible so that it doesn’t create a blind spot. So the question is, how does nature create strength in a lightweight way? We go into the scientific literature. We ask how do bacteria do it, how do fungi do it, plants, birds, etc. We’ll read 10,000 papers and find dozens of mechanisms from different organisms. Then we group those into a catalog of design principles.
+
+What are the major new projects for Biomimicry 3.8?
+
+The move to systems is important. For example, we started by creating biomimetic building parts—self-cleaning paints or windows that shade themselves. Then our thinking shifted to: Could we get the building to work like an organism and meet its own needs? Now we’ve moved on to what ecosystems really do. We know that healthy forests or prairies clean the air, clean the water, nurture biodiversity, stop erosion, slow down flooding, etc. We’re working with city managers now, and what we’ll do is go to a nearby forest and do a lot of analysis. How much water is cleaned per acre per year? How much air is cleaned? How much carbon is sequestered? Then we say to city managers, This is what your city could do to meet the metrics of the surrounding environment. You can gather rain through green roofs, you can construct sidewalks and buildings using CO 2 -sequestering concrete, and so on. We started this with an urban planning project in Lavasa, India. We’ve done it with cities in China and with South Africa. We are now talking with Charlotte, N.C.
+
+What are the most exciting potential biomimicry applications on the horizon?
+
+The world of 3D printing represents a big opportunity. However it shakes out, I do think we are going to have distributed manufacturing—print shops on the corner, if not in your home. Biomimetic chemistry, which has been coming on for a long time, is going to be very important. Biomimetic chemistry is life-friendly: not super-high heat or high pressures or toxic chemicals. Local raw materials, manufactured in safe ways. Also look for a new kind of solar chemistry. We talk now about solar energy, where we take solar and we turn it into electrons—photons to fuel. I think we are going to be taking photons and turning them into chemistry, just as a leaf does.
+
+Can biomimicry help us address climate change?
+
+Yes. First we need to stop emitting greenhouse gases, and there are all kinds of ways that biomimicry does that: clean energy, wind turbines, wave energy, solar cells, as well as energy efficiency. The underappreciated opportunity is how do you deal with the carbon that’s already in our atmosphere. I think biomimicry has a huge part to play in two ways. One is taking CO 2 and turning it into stuff. Companies like Blue Planet are turning CO 2 from smokestacks into building materials. The Body Shop has announced that 75 percent of its packaging will use CO 2 -sequestering plastics. The way to really sequester carbon for centuries is in the soil, and biomimetic methods of agriculture, forestry, and even ranching will help us do that.
+
+What are some examples of biomimicry that backfired?
+
+The classic one is bird flight. When people first started to mimic birds, they had flapping wings on planes. You don’t have to mimic exact things, you just need to find the design principles that work.
+
+Speaking of … Is evolution nature’s own “design thinking”?
+
+Evolution doesn’t design in the deliberate way that we do, but there are similarities. The first step of evolution is variation: Offspring in a population will have slightly different genetic makeups. The second step is natural selection, in which the variations most conducive to life continuing are selected. The design thinking process also begins with the goal of getting as many ideas out on the table as possible, then designers start to pick and select. They might take different ideas off of their inspiration boards and start to recombine them. That said, evolution doesn’t set out to design the perfect elephant. It does not have a goal in mind, and designers do.

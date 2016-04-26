@@ -1,0 +1,28 @@
+A Simple, Effective Way to Reduce Infant Mortality
+['Karen Weise']
+http://www.bloomberg.com/features/2016-design/a/jane-chen/
+In 2008, as a student at Stanford Graduate School of Business, Jane Chen took a class at the university’s design program that focused on creating products for people living on less than $1 a day. Her team’s challenge was to build a cheaper baby incubator. That class assignment evolved into the Embrace Warmer, which costs about $200, a fraction of the price of a traditional incubator. Chen says more than 10,000 Embrace Warmers are being used globally.
+
+A: I gave a Little Lotus to my cousin at her baby shower two weeks ago. She opened it, and I told her the story of how Embrace is literally saving the lives of babies around the world. All of these moms and grandmas and aunts and uncles were just so touched. It’s an amazing way to connect with other moms around the world.
+
+A: I went to business school with Jane. I was having my third little girl. My little one was about 3 months old when the final product came out. We had been using swaddles and had just switched over to sleep sacks, and that transition was really hard. Jane sent me one, and I was, like, OK, we’ll try it. I was skeptical. I put it on her for a nap, and I kid you not, she took a three-hour nap. She had been taking 30- to 60-minute naps.
+
+A: Our first step is to start using them in public ambulances. On a recent trip, I was assessing the ambulance sites to see if Embrace can be used during delivery between someone’s home, or from a rural clinic, to the larger, district-level hospitals.
+
+A: My husband, who’s also a physician, and I looked through the technology and some basic research that was already done at Stanford on the Embrace, and we thought, my goodness, this is very appropriate for hospitals in Afghanistan. Afghanistan is notorious for poor grid access. If you’re a hospital that happens to be in a neighborhood that has a lot of rolling blackouts, you’re not going to be able to use a lot of the medical technologies out there. Through our nonprofit, we’ve deployed upwards of 75 to 80 of the warmers [in Afghanistan]. We’re in four of the largest public-sector hospitals. We’re at a little more than 10,000 uses over the last three years. We’re now working to do what the minister of health wants. He says the product needs to go out to rural Afghanistan. That’s where a lot of the deliveries are happening, and there is virtually no electricity there.
+
+Q: WHAT INSPIRED THE EMBRACE WARMER?
+
+A: There are 15 million preterm babies born every year, and one of the biggest problems they face is staying warm while regulating their body temperature. In India we saw there was often no electricity for incubators, plus nobody was trained on how to use them. Then I started going to village settings. One of the first women I met was a mother in South India who gave birth to a baby two months premature. She took her baby to a village doctor who told her to go to the hospital. The hospital was over four hours away, and she didn’t have the means to get there, so her baby died. We realized we need a solution that worked without electricity and is easy enough for a mother or midwife to use. We came up with the Embrace Warmer. It looks like a sleeping bag for a baby and uses a waxlike substance, which, once melted, maintains the same temperature for eight-hour stretches. We’ve helped more than 200,000 babies in 14 countries.
+
+Q: HOW DID THE DESIGN EVOLVE?
+
+A: We realized babies don’t wear diapers, so we needed waterproof materials and sterility became really important. Our prototypes were white initially, and it turns out white means death in many parts of Asia. Then as we started going to villages, mothers would say to us, “We don’t trust Western medicine, so if you told me to keep this at 98 degrees, I would keep it at less than that.” That led us to a binary “OK/Not OK” indicator, as opposed to a numeric scale.
+
+Q: HOW DO YOU ENSURE THE WARMERS AREN’T DISCARDED OVER TIME?
+
+A: It’s really about training people and training nurses about how to use it. Newborn survival has become such a big topic in global health, so a lot of governments have invested in training and equipment. Nurses are trained to put babies in radiant warmers, like heat lamps, so in many cases we are not fundamentally changing the behavior. At one of the first hospitals we worked with in India, initially we would go in there and test it out. Over time it became the standard of care. One day I walked into the hospital, and in the neonatal intensive care unit there was a set of guidelines posted to the door and one said, “Keep the baby in the Embrace Warmer.”
+
+Q: WHAT’S NEXT?
+
+A: It’s hard to just rely on donations. We still are owed payments from two years ago that we’re probably never going to get. We wanted to implement a Toms Shoes model, which is buy one, give one. We’ve just launched a product line for the U.S. market called Little Lotus. It’s a collection of swaddles, sleeping bags, and blankets for healthy babies. On the inside, they use microns of the same wax we use in the Embrace Warmer to keep babies at the perfect temperature. Parents are telling us babies are sleeping longer. The for-profit spinoff will hopefully fund the expansion of the baby warmers in the developing world.

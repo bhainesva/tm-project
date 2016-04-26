@@ -1,0 +1,44 @@
+Intel to Cut 12,000 Jobs, Forecast Misses Amid PC Blight
+['Ian King']
+http://www.bloomberg.com/news/articles/2016-04-19/intel-cuts-12-000-jobs-forecast-misses-as-pc-blight-takes-toll
+Intel Corp. will eliminate 12,000 jobs, or 11 percent of its workforce, embarking on the deepest cutbacks in a decade to gird for a fifth year of declines in the personal-computer market.
+
+The world’s biggest maker of semiconductors said it’s shifting focus to higher-growth areas, such as chips for data center machines and Internet-connected devices. Intel also posted disappointing first-quarter revenue and gave a second-quarter sales forecast that fell short of analysts’ estimates.
+
+Shipments of PCs, a market that provides Intel with more than half of its sales, fell to their lowest level in a decade in the first three months of 2016. The depth and duration of the slump mean Intel can no longer fall back on booming demand for server chips or market-share gains against weaker rival Advanced Micro Devices Inc. The job cuts mark the most radical action yet by Chief Executive Officer Brian Krzanich, who has brought in new executives and shaken up his team as he works to reduce Intel’s dependence on PCs and rekindle growth by pushing into newer businesses.
+
+“It’s acknowledging the reality that it’s a single-digit growth world,” said Michael Shinnick, a fund manager at Wasatch Advisors Inc., which owns Intel shares. “The end markets aren’t growing to the extent that they were.”
+
+Adding to recent reshuffles among Intel’s leadership, Stacy Smith, who has been chief financial officer since 2007, will move to a new role as head of manufacturing and sales, the company said Tuesday in a statement.
+
+Maintaining Margins
+
+Intel shares, which have lagged behind other chip stocks this year, fell less than 1 percent to $31.60 at the close of trading in New York. They slipped 2.4 percent in extended trading after a halt for the earnings and layoff announcements.
+
+In the first quarter, net income rose 2.7 percent to $2.05 billion, or 42 cents a share, while sales climbed 7.2 percent to $13.7 billion, Santa Clara, California-based Intel said. On average, analysts had projected earnings of 37 cents and revenue of $13.8 billion.
+
+Second-quarter revenue will be about $13.5 billion, the company said in a statement. That compares with an average analyst estimate of $14.2 billion, according to data compiled by Bloomberg.
+
+Gross margin, the percentage of sales remaining after deducting the cost of production, is forecast to be about 61 percent in the current quarter, Intel said. That measure of profitability, the only one that Intel projects, has remained above 60 percent annually since 2014 as high-priced, high-margin server chips have become a larger portion of Intel’s overall sales.
+
+The job cuts announced Tuesday will be Intel’s biggest layoffs since it reduced staffing between 2005 and 2009, when the company was responding to the global financial crisis and competition that wiped out growth. Krzanich is taking his company’s headcount down from close to record levels after posting an average of less than 1 percent revenue growth over the past four years.
+
+“With 107,000 employees, there’s always room to tighten the belt, especially with a softer global macro,” said Craig Ellis, an analyst at B Riley & Co.
+
+Intel’s workforce has been above 105,000 since 2012, when it completed a surge up from an almost 10-year low of 79,800 in 2009, according to data compiled by Bloomberg. That period of growth includes its two largest acquisitions, McAfee in 2011 and Altera last year.
+
+For the year, Intel now expects total revenue growth to be at a percentage in the mid-single-digit range compared with 2015. The company reduced its forecast because the PC market is declining more than it anticipated and will shrink in the high-single-digit percent range, Smith said Tuesday on a conference call.
+
+Intel’s Krzanich said Smith’s new role will give him the opportunity to gain more experience in the operations of the company, as he’ll be overseeing more than 50 percent of the workforce.
+
+The company isn’t simply cutting costs with the headcount reduction, Krzanich said. It’s trying to free up resources, even in PC chips, to concentrate on areas that will provide future growth. He said Intel is increasingly aiming to sell chips for use in the automotive, industrial and retail markets.
+
+PCs in Decline
+
+Global PC shipments dropped 9.6 percent in the first three months of the year, the sixth consecutive quarterly decline, according to market researcher IDC. The drop took unit sales to their lowest level since 2007.
+
+Intel’s client computing group, which makes and sells PC chips, had first-quarter sales of $7.5 billion, a decline of 14 percent from the preceding three months, but a gain of 2 percent from a the year-earlier period. The data center division posted sales of $4 billion, up 9 percent from a year earlier -- falling short of Intel’s target of double-digit percentage growth in that unit.
+
+Krzanich has been putting more pressure on those who report to him as he tries to rekindle growth and make his products relevant in new markets. In April, the company announced that two division heads -- Kirk Skaugen in PC chips and Doug Davis of the Internet of Things unit -- are leaving the company. Their departure follows Krzanich’s hiring of former Qualcomm Inc. executive Murthy Renduchintala to a position above them.
+
+“I would like the company to talk a little bit about that and hold people’s hand on what the strategy is,” said Timothy Arcuri, an analyst at Cowen & Co. “The old Intel was very dogmatic, but he’s ready to pivot in a different direction if that’s the way he sees it.”

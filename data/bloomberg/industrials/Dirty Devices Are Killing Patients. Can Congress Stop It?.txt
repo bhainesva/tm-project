@@ -1,0 +1,38 @@
+Dirty Devices Are Killing Patients. Can Congress Stop It?
+['John Tozzi']
+http://www.bloomberg.com/news/articles/2016-04-18/dirty-devices-are-killing-patients-can-congress-stop-it
+Antibiotic-resistant superbugs spread by tainted endoscopes, those flexible devices used to peer into your body, have sickened hundreds and killed more than a few. Outbreaks at hospitals in Los Angeles, Seattle, and elsewhere have triggered regulatory warnings, litigation, and even a recall.
+
+Now one California congressman wants to change a law governing medical device makers to prevent future infections: He wants them to tell the Food and Drug Administration when they make a design change.
+
+“There are loopholes in the law that need to be closed,” said Representative Ted Lieu, a Los Angeles Democrat. Right now, it’s up to manufacturers to decide whether a change is significant enough to tell the regulator. “I don’t think it’s appropriate for device manufacturers to make the decision,” Lieu said.
+
+His plan may pit him against a powerful medical device lobby that has worked hand in hand with regulators and lawmakers to get favorable oversight rules. But with revelations of hundreds of infections in at least 40 hospitals worldwide since 2010—more than had previously been reported—the dynamic may have shifted.
+
+AdvaMed, the lobby group for the industry, said it's reviewing the legislation and shares Lieu’s “commitment to ensuring the continued safety and effectiveness of medical devices marketed in the U.S.”
+
+Medical devices are regulated differently than drugs and in some ways less stringently. New drugs must undergo trials to show safety and effectiveness. For most new devices, manufacturers have to show only that they're similar to existing products. The system, in place since 1976, “is not intended to evaluate the safety and effectiveness of medical devices,” according to a 2011 report by a committee of the Institute of Medicine.
+
+The committee said it didn’t believe there was “a public-health crisis related to unsafe or ineffective medical devices.” But a string of high-profile safety problems with products ranging from vaginal mesh and artificial hips to power morcellators and endoscopes have harmed thousands of patients and prompted lawsuits costing companies billions of dollars. That’s led to renewed calls for better oversight.
+
+“Medical device changes need to be thoroughly reviewed and approved by the FDA,” said Sanket Dhruva, a cardiologist and research fellow at the Yale School of Medicine who has studied device regulation. “A small modification can certainly lead to significant harm, and I think the endoscopes are one unfortunate example."
+
+In recent years, endoscope manufacturers, including Olympus, Fujifilm, and Pentax, changed the design of specialized instruments called duodenoscopes, used to probe tiny ducts in the small intestine. The companies sealed off a channel that could trap bacteria in the device, making it harder to clean. The dirty scopes spread superbugs among patients in the outbreaks that came to light last year.
+
+It’s hard to say for sure how much the design change contributed to the problem. Olympus made the alteration to its scope in 2010, according to a report from Senate Democrats published in January. Two years later, a hospital in the Netherlands told Olympus the change made the scope harder to clean.
+
+After learning about the new design, the FDA privately told Olympus in 2014 the modification would require the company to seek a new clearance for the device. The agency, however, didn’t recall the scope or alert the public that it wasn't cleared for use until it was tied to outbreaks making headlines almost a year later. Olympus obtained a new clearance in January.
+
+Olympus spokesman Mark Miller said in an e-mail that “we do not agree with all of the conclusions leading to the proposals” from Lieu but that manufacturers, hospitals, and government all must contribute to improving safety. Olympus’s situation wasn’t unique. The FDA also told Fujifilm in 2015 that one of its scopes, on the market for a decade, was missing a clearance from the agency.
+
+More than 200 companies or products have been the subject of similar letters from the FDA alerting them that their products, already on the market, may lack the proper regulatory permission to be sold, according to documents obtained by Bloomberg through a public records request.
+
+Doctors and patients may not be aware that devices in use haven’t been vetted by regulators. “Patients should at least have some information about the devices that they are receiving,” said Dhruva, the Yale researcher. “I think that’s a part of the informed consent process.”
+
+But even Lieu's modest proposal could face a difficult road. The FDA has made efforts in the past to monitor changes to medical devices better, only to be shot down. In 2011, the agency proposed a new set of guidelines for manufacturers when they need to seek new clearances. The proposal was expected to increase the number of design changes that would prompt more paperwork. In the end, Congress took the extraordinary step of ordering the agency to withdraw the guidelines the following year.
+
+Despite last year's outbreaks, the FDA’s latest advice on when companies need to seek new clearances is expected to stay largely the same, a policy seen as a victory for the device industry. A representative from AdvaMed met with FDA officials on the subject last summer, but the agency has declined to provide details of the meeting to Bloomberg. The industry lobby has previously collaborated with the FDA to draft legislation that would ease regulation on device makers.
+
+Lieu’s bill wouldn’t go as far as earlier proposals—the paperwork burden for companies and the FDA would be less than the regulator's previous recommendations, he said. And he thinks he can convince his colleagues in Congress that the changes are needed.
+
+"I think the situation is different now, because we can point to a concrete example where a company did not notify the FDA of a design change,” he said, “and that design change resulted in hundreds of infections.”

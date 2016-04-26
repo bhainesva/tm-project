@@ -1,0 +1,50 @@
+Panama Leak Spurs Global Zeal to Crack Shell Companies, But How?
+['Jesse Drucker']
+http://www.bloomberg.com/news/articles/2016-04-13/panama-leak-spurs-global-zeal-to-crack-shell-companies-but-how
+The leak of more than 11 million documents known as the Panama Papers lays bare a global ailment: anonymous ownership of shell companies, which enables tax evasion, money laundering, sanctions-dodging and kleptocracy.
+
+Advocates for reform say there’s a simple cure: Make it harder to own companies anonymously. Regulators around the world are already proposing ways to do that -- though many of the measures might not lead to full transparency, while others have insufficient political traction to become law, according to anti-corruption advocates.
+
+On Monday, for example, U.K. Prime Minister David Cameron re-announced a proposal first unveiled in December to create ownership registries of companies in Britain’s so-called overseas territories and crown dependencies: the British Virgin Islands, Jersey, Guernsey and others.
+
+But most of those registers would not be public, making it harder to ensure that information is accurate -- and perhaps making the registries themselves less useful, said Robert Palmer, a campaign leader at Global Witness, a watchdog group.
+
+“Corporate ownership should be public information because there’s a public interest,” Palmer said.
+
+‘Corporate Secrecy’
+
+The issue has become particularly freighted in Britain. Last week, a series of reports by the International Consortium of Investigative Journalists and other news organizations alleged that Panama law firm Mossack Fonseca helped set up anonymous shell companies around the world to hide wealth for politicians and the ultra-rich. The journalists, who obtained the huge cache of documents from the law firm via a leak, reported that the British Virgin Islands was far and away the most popular destination for companies appearing in the files. Also, Cameron was forced to provide more transparency over his wealth after the group reported that his late father had set up an offshore company with the law firm.
+
+“What Mossack Fonseca sells is corporate secrecy,” Palmer said. In a statement posted on its website, the law firm said recent media reports “have portrayed an inaccurate view of the services that we provide.” Mossack Fonseca operates under high standards, performs ongoing due diligence of its clients, denies service to “compromised” individuals and complies “with requests from authorities investigating companies or individuals for whom we are providing services,” according to the statement.
+
+Meanwhile, the Organization for Economic Cooperation and Development -- a publicly funded policy group -- has pushed for new standards to require countries to automatically share information on foreign-held bank accounts with regulators in the countries of the account holders.
+
+The theory: this would make it harder for people to use offshore accounts to dodge taxes or commit other crimes because their home countries would know of the accounts’ existence.
+
+U.S. as Holdout
+
+Almost 100 jurisdictions have signed on to the OECD standards. But two major countries are still holdouts: Panama and the U.S. It remains unclear whether the Panama Papers leaks will put new pressure on either country to adopt the standards. An OECD tax working group is scheduled to meet on Wednesday in Paris to discuss the leaks.
+
+The U.S. is “probably the biggest threat currently to efforts to curtail global financial secrecy,” said Alex Cobham, director of research for the Tax Justice Network in London.
+
+The European Union last year passed a directive requiring member states to establish registries that would disclose companies’ real owners to crack down on money laundering. But that directive effectively left it up to individual countries to decide if their registries should be fully public.
+
+“I think this a serious misjudgment of the public demand for transparency, and I don’t think it will hold. Public is coming,” said Cobham. He said the guidelines could actually make it easier to abuse the secrecy afforded by shell companies.
+
+Multinationals Targeted
+
+There are also efforts under way to prevent tax dodging by large multinationals, sparked by a separate set of leaks obtained by the same journalism group that showed hundreds of companies transferred profit to Luxembourg to skirt national tax rules.
+
+On Tuesday, the European Commission announced a long-awaited proposal to require large multinational companies to disclose where they report their profits and pay their tax within the EU member states. Regulators say such disclosures will make it easier for them to go after corporate tax avoidance. However, the EC proposal would apply only to subsidiaries within Europe, and a select number of tax havens, thus potentially exempting units in many popular offshore jurisdictions.
+
+“The European Commission has missed yet another chance to effectively end tax havens,” said a statement by the European Network on Debt and Development, a Brussels-based watchdog group. “Today’s proposal on tax transparency limits public country-by-country reporting to the EU and an arbitrary list of tax havens. This makes it impossible to effectively combat tax havens which have been at the center of scandals like the Panama Papers.”
+
+In the U.S., members of Congress in February re-introduced bills to force disclosure of corporations’ real owners by requiring companies to file that information with the U.S. Department of the Treasury.
+
+‘Luke-Warm’ Support
+
+The Treasury Department in January issued orders requiring title insurance companies to identify individuals behind firms that pay cash for high-end residential real estate in Miami and Manhattan.
+
+Several U.S. tax experts don’t expect broader U.S. policy changes anytime soon. “I would not hold my breath waiting unless the Panama Papers and U.S. corporations can be directly linked to terrorist financing,” said J. Richard Harvey Jr., a law professor at Villanova University and former high-ranking Internal Revenue Service and U.S. Treasury official.
+
+The OECD has a separate project on multinational tax avoidance, targeting the types of offshore techniques used by companies like Google and Apple Inc. Although regulators in Europe are increasingly cracking down on such strategies, “the Obama Administration has been very luke-warm in its support” for the OECD project, Harvey said.

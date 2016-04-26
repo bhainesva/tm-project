@@ -1,0 +1,48 @@
+Here's How to Fix All That Federal Regulation
+['Cass R Sunstein', 'Cass R. Sunstein', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/elizabeth-warren-s-solution-for-regulatory-reform
+Cass R. Sunstein, the former administrator of the White House Office of Information and Regulatory Affairs, is the Robert Walmsley university professor at Harvard Law School and a Bloomberg View columnist.
+
+Many conservatives contend that federal regulators have been running wild, especially under President Barack Obama. Objecting to “job-killing regulations,” they offer concrete proposals for reform: more cost-benefit analysis, elimination of unjustified mandates, and explicit congressional approval of expensive rules. (Disclosure: From 2009 to 2012, I served as administrator of the Office of Information and Regulatory Affairs, whose approval is required for most federal regulations.)
+
+By contrast, progressives have been pretty quiet. That changed recently, when Senator Elizabeth Warren delivered an important but widely overlooked speech last month, one offering an unmistakably progressive vision of regulatory reform. Warren sees the problem as one of capture by regulated interests, not overreach by regulation-happy bureaucrats.
+
+Warren claims that as agencies produce regulations, they are unduly influenced by powerful private groups. Because of corporate influence, “the rulemaking process often becomes the place where strong, clear laws go to die.” In her account, federal rulemaking is broken for one reason: industry groups tilt the scales.
+
+As evidence, Warren points to the fact that over a recent 15-year period, the Environmental Protection Agency met far more often with industry than with public interest groups -- 170 times more, in fact. Similarly, 93 percent of recent meetings between federal regulators and outside groups involved Wall Street interests.
+
+Because of industry pressure, and the potentially time-consuming process of review by OIRA, agencies get tied in knots. Warren is especially alarmed about how long it takes for agencies to finalize rules, often failing to meet legally mandated deadlines. That can put lives at risk -- as, for example, when food-safety regulations take years to complete.
+
+Warren wants far more transparency -- about agency meetings with interested parties, about whether corporations are paying nominally independent experts to comment on regulations, about the basis for the data that agencies receive. She wants to shut the revolving door between agencies and the companies they regulate. She wants Congress to give agencies more money for rulemaking. And she wants agencies to simplify their rules, on the ground that simplification increases accountability and reduces “special interest carve-outs.”
+
+Is Warren right to call regulatory capture a "big deal”? In some contexts, she probably is. (Financial regulation, her primary concern, may well be an example.) But overall, the research offers a mixed verdict , and a look at what agencies have actually done raises the possibility that the problem is overstated. As of this writing, the Obama administration has issued 3,825 significant rules. Of these, no less than 833 are “economically significant,” meaning that they have had an economic impact of more than $100 million per year. How does that fit with the claim that regulators have been captured by regulated industries? Would captured agencies really issue hundreds of significant regulations per year, imposing billions of dollars in annual regulatory costs?
+
+You might respond: Sure, this administration has been active enough, but capture is probably a bigger problem under Republican presidents. Maybe so. But in the comparable period (January 2001 to April 2008), the George W. Bush administration issued many more significant rules: 4,559. And under both Obama and Bush, the annual costs of major federal regulations approved by OIRA have been relatively steady, generally ranging between $2 billion and $10 billion.
+
+Warren is right to ask about all those meetings with affected industries. But agencies often meet with companies not to do their bidding, but to alert them to what’s coming, to obtain relevant information, and to try to build support (or reduce opposition). So the frequency of meetings by itself isn’t evidence of regulatory capture. What matters, in the end, is what’s done.
+
+What about the argument that delays can cost lives? That’s both true and important. But when agencies take a long time to get rules out, it’s often because of the difficulty of getting them right, not because of undue industry influence.
+
+Lawyers and policy makers must work together, often for many months, to ensure that health and safety requirements will survive in court. And under both Republican and Democratic presidents, agencies must analyze the costs and benefits of expensive rules. That’s a great idea, but it can take a long time to do that analysis -- and to figure out what approach has the highest net benefits.
+
+These are not the only reasons rules take so long. Under the law, members of the public file numerous comments on rules. Agencies have to respond to them. That’s also a great idea, but it strains agency resources and can much lengthen the process.
+
+Even if regulatory capture usually isn’t the central problem, Warren’s proposals deserve serious consideration. She’s right to say that Congress should give agencies the funding they need to do their jobs. She’s right to emphasize the importance of simplification. And more transparency is probably a good thing: If people have been paid to make comments on a regulation, it makes sense to require them to disclose that fact.
+
+Conservatives have convincingly argued that the U.S. should trim the stock of existing rules, and that cost-benefit analysis can be an excellent safeguard against unjustified requirements. Progressives cannot reasonably deny those points.
+
+At the same time, progressives can easily show that delaying life-saving regulations is a serious problem, and that agencies should not be relying on self-serving studies by people who have been paid to skew the regulatory process in their favor. Conservatives cannot reasonably disagree.
+
+There are the ingredients here of genuinely bipartisan regulatory reform. Warren’s speech could be a significant step toward making that reform happen.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Cass R Sunstein at csunstein1@bloomberg.net
+
+To contact the editors responsible for this story:
+
+Susan Warren at susanwarren@bloomberg.net
+
+Christopher Flavelle at cflavelle@bloomberg.net

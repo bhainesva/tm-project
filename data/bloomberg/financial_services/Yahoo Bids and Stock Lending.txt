@@ -1,0 +1,110 @@
+Yahoo Bids and Stock Lending
+['Matt Levine', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-20/yahoo-bids-and-stock-lending
+Yahoo!?
+
+It is maybe a little awkward that Yahoo Chief Executive Officer Marissa Mayer spent so much of yesterday's earnings call assuring investors that, no, really, she's actually trying to sell the company:
+
+There is a “well-defined, aggressive calendar” to push ahead, she said Tuesday on an earnings call with analysts. Yahoo reported first-quarter sales that topped estimates, but still declined sharply from a year earlier. “Our efforts to date reflect clear, decisive action to move forward quickly and in a way that we believe will yield enhanced value,” Mayer said. “I personally believe that the right transaction could unlock tremendous value.”
+
+That "I personally" is code: There are those who believe that Yahoo's management is running the sale process only because of outside pressure -- from the board, perhaps, but more noticeably from activist investor Starboard Value -- and that, if left to her own devices, Mayer wouldn't sell and would just keep trying to turn around the company. But Mayer wants everyone to know that she's not slow-playing this:
+
+“Let me be unequivocal: Our board, our management team and I have made the strategic alternative process a top priority,” Ms. Mayer said. “We’ve been responsive and engaging, having personally answered hundreds of questions and requests for information.”
+
+That "hundreds of questions" is also code: There are those who complain that Yahoo's managers have not been especially helpful to potential buyers trying to evaluate the company, and "have refused to discuss the outlook for 2017 or answer questions about crucial aspects of the business." This could perhaps be taken as a sign that management is trying to prevent a sale by frustrating bidders. But of course it is equally possible that management is working diligently and strategically to sell the company, and that part of its strategy involves focusing on the good news and avoiding awkward questions. Maybe telling bidders the outlook for 2017 would scare them off more than dodging the question did?
+
+Anyway there are bidders! They "came in the range of between $4 billion and $8 billion" for core Yahoo, and seem to include Verizon, Daily Mail, TPG, as well as an investor group with Bain Capital, Vista Equity Partners and former Yahoo CEO Ross Levinsohn. Also floating around are YP Holdings (the Yellow Pages), maybe Liberty Media, and other private equity firms including Apax, Apollo and Warburg Pincus. We talked yesterday about the symbolic appropriateness of the Yellow Pages buying Yahoo, but there's also something to be said for Ross Levinsohn, the interim CEO who preceded Mayer, getting another crack at it. Putting Yahoo's next turnaround in the hands of its previous CEO, "a veteran of social-networking service MySpace and search engine AltaVista," might be just the sort of radical change Yahoo needs. Or wants. Or expects, anyway.
+
+There are also earnings. They were not great. Bloomberg Gadfly's Shira Ovide:
+
+The revenue growth rate for Yahoo's "Mavens" business -- a made-up acronym for supposed growth areas of mobile, video, native and social advertising -- slowed to 7 percent from 60 percent last year. Yahoo did prove exceptionally effective in cost-cutting. Yahoo ended the quarter with 9,400 people, or 2,500 fewer people than it employed a year ago.
+
+One analyst complained that the earnings call featured "relatively little commentary on the transaction news that so many are waiting on, and relatively more commentary on the current state of the business and management’s plans, which likely won’t matter for very long." I mean, he hopes! But the state of the business, and even management's plans, are relevant to the transaction, as you can tell from the bidders' complaints that Yahoo won't tell them enough about the business and the plans. Maybe they can find out from the earnings call.
+
+Stock lending.
+
+Here is just an incredible tale of stock lending, which is something you don't see every day. Peter Deutsch, a wine-importing mogul, was a client of Fidelity Family Office Services, and used his Fidelity account to buy a lot of shares in a company called China Medical Technologies in 2012. China Medical was having some problems -- it filed for bankruptcy in 2014 -- and was a popular target for short sellers. Short sellers borrow stock in order to sell it short, and would pay quite a bit to borrow China Medical stock. So, as is traditional in margin accounts, Fidelity was happy to lend them Deutsch's stock.
+
+But then Deutsch decided that he wanted to buy 66 percent of China Medical and take voting control of it, and he moved all his shares to a less margined account where Fidelity couldn't lend them out. (It asked him to lend them anyway, and offered to pay, but he declined.) Now Fidelity had a problem: It had loaned out lots of Deutsch's shares and had to get them back. So it called in those shares, but couldn't get them all back fast enough. So it did what it had to to comply with its obligations to him:
+
+Since its recall effort had largely failed, it would now have to go into the open market and buy 1.2 million shares. The process was likely to be “disruptive,” meaning it could send the price skyrocketing, according to an e-mail and testimony entered in court.
+
+This is while Deutsch himself was trying to buy up the stock: "as Deutsch was trying to gain control of China Medical, his own brokerage—unbeknown to him—was competing against him." The stock tripled. (Then the Securities and Exchange Commission halted it, for unrelated reasons.)
+
+This is not a great look? One thing that you'd sort of hope would happen here would be someone at Fidelity calling up Deutsch to be like, look, we can get you your shares back, but it'll take a while. He would have complained, and then Fidelity could have explained that the alternative would be to buy a lot of stock all at once and pound up the price. Instead Fidelity seemed to have figured that out internally but then not told Deutsch. But you can see how it happened. Stock lending always has a faintly disreputable air to retail clients: Deutsch was one of the biggest long investors and true believers in China Medical, but meanwhile his brokerage firm was making money for itself by lending out his shares to help short sellers. (When asked to lend, Deutsch "said he didn't like the idea of arming short sellers.") That conversation would have been pretty unpleasant.
+
+Goldman Sachs, etc.
+
+One nice thing about Goldman Sachs is that its quarterly earnings always provide an opportunity to reflect on The Future of Banking. This is partly because it is the last of the big U.S. banks to report earnings, so now you have the full picture, but it is also because it is, you know, Goldman Sachs. (Disclosure: I used to work at Goldman, and my departure was a pivotal event in determining The Future of Banking.) The current round of reflection is pretty sober:
+
+The company, once the most profitable securities firm, reported the lowest first-quarter revenue of Blankfein’s tenure as chief executive officer, which began June 2006. Return-on-equity, a closely watched measure of profitability, fell to 6.4 percent, well below where it needs to be to show investors the firm can create value. The results on Tuesday stem from sweeping structural changes buffeting Wall Street and renewed questions about whether firms including Goldman Sachs are doing enough to adapt to the altered landscape. The bank has been trying to wait out a years-long slump in fixed-income trading to win market share and boost profits once conditions improve. But will the industry ever rebound -- and if so, will it be soon enough?
+
+Here is a more positive version of essentially the same sober take:
+
+For all the pain felt by big banks, there were no big trading missteps, no multibillion-dollar losses, no need for executives to reassure panicky investors about having sufficient liquidity or tamp down questions about solvency. In fact, the five big Wall Street banks earned almost $14 billion combined in net profit in the first quarter. This points to the postcrisis resiliency of the big banks and shows how much they have changed from their precrisis gun-slinging ways. In other words, the first quarter presents a real-life argument that regulators have gotten the safer, more boring bank system they wanted.
+
+It is all so ... sober. Where is the risk, the adventure, the joie de vivre? Goldman at least had a 95 percent drop in revenue in "the opaque stock and debt holdings that make up the bank's Investing & Lending activities," which "underscored investor concerns about the wild swings and lack of transparency in this part of Goldman’s business"; that is something. On the other hand, here is Bloomberg Gadfly's Michael Regan on Goldman's push into ... shudder ... retail.
+
+One possibility is that this is all correct and the banking industry has been fundamentally changed by the crisis and the response to it. The opposite possibility is that this is purely an artifact of cyclical trends: The post-crisis world of low interest rates and timid financial innovation has made the bond-trading business a bad business to be in, but that will change eventually. A middle possibility is that there have been big regulatory and cultural changes, but that those changes operate on a cycle too, and as the crisis recedes in people's minds, banking will get more exciting.
+
+Oh there's one other piece of good, or at least non-boring, news. Goldman, like the rest of the big U.S. banks, is still very much an investment bank:
+
+All this contrasts positively with the situation in Europe. It reflects that U.S. banks and their regulators acted far sooner than European peers to raise equity and shore up balance sheets. As a result, even when confronted with tough markets, no U.S. bank has been forced to withdraw from entire businesses, as many European firms have.
+
+Here is Yves Smith arguing that "Europe Fixed Its Too-Big-to-Fail Problem" while the U.S. did not, but I am not sure too many people are all that thrilled about the state of European banks versus the American ones.
+
+League tables.
+
+One important job for younger investment bankers is preparing league tables. A league table is an ordered list of investment banks, with your bank at the top, showing how many deals similar to the one you are pitching each bank does. The ostensible purpose of this is to show the prospective client that you do a lot of deals of that type, so she should hire you, because you are popular. The other purpose is to accustom the junior bankers to the notion that numbers are subjective, a tool for marketing and persuasion rather than a scientific reflection of external reality. (Another important junior-banker task, building discounted cash flow models, accomplishes the same goal.) There is always some way to slice the data to make you look good; the league table is not a dry list of banks but rather a rare chance for a junior banker to apply creativity in his daily work.
+
+Anyway here's a story about how many ways there are to put your bank at the top of a league table:
+
+Goldman Sachs ranks No. 1 by the volume of new deals announced in the first quarter, according to its release. But as the bankers on the canceled $160 billion tie-up between Pfizer Inc. and Allergan Plc know, announced transactions don’t always get consummated (Goldman helped advise Pfizer). Meanwhile, Morgan Stanley said it ranks first in completed deals. JPMorgan, not to be excluded, said it’s taking home the largest share of the global revenue pool generated from advising mergers -- about 11 percent.
+
+Congratulations to everyone! I have always found revenue-share league tables somewhat puzzling, incidentally, since they weight a bank's league table standing not only by the size and number of deals, but also by how much it charged to do those deals. I suppose leading in the fee league tables is a sign that you actually did the most deals, as opposed to getting your name attached to big deals without doing much work on them, but it is still an odd thing to pitch to a prospective client. "Hire us, we're popular," makes some sense, but "hire us, we're popular and expensive" actually seems worse.
+
+Market structure.
+
+I find "last look" in the currency markets sort of fascinating because you get a lot of stuff like this:
+
+“It’s really hard to police who’s using it correctly and who’s using it incorrectly, and in a malicious manner,” Maack said from Malvern, Pennsylvania.
+
+"Last look" is just, if you are a bank quoting foreign exchange on many platforms (including some run by Bloomberg LP), and someone executes against your quote, you get a little bit of time to back away from that quote anyway. Which you will probably do if the market has moved against you, and not do otherwise. It is, it seems to me, a pretty straightforward economic algorithm -- don't do a trade that has already lost you money -- and it is strange to import notions of "correctness" and "malice" into it. (It's like "toxic" order flow, which in zero-sum trading mostly just means order flow that makes money.) People love to moralize market-structure stuff. Anyway the thing about last look is that (1) it is just sort of obviously unfair to the end user who doesn't get a last look, but on the other hand (2) it is nice for market makers and so, in a competitive market, allows them to charge tighter spreads. Thing (1) is bad for end users, thing (2) is good for end users, and in the aggregate they should roughly balance out. If you can get worked up about the morality of that, by all means, be my guest. Elsewhere, the New York Stock Exchange's Rule 48, which pretty much everyone thought was bad, is being phased out, and that seems to be going well.
+
+Argentina.
+
+Argentina's giant bond sale to celebrate its return to the international capital markets is now for $16.5 billion of bonds, and they are trading up several points in the gray market. "For a country that is still in default, it’s truly impressive that we’ve gone from darkness to the possibility of reconnecting with the world," said Finance Minister Alfonso Prat-Gay, and it must be a nice feeling for bond investors to not only make a few points in the gray market but also help a country rejoin the world community. Index demand also is probably helping. And Joseph Cotterill takes a wistful look at the shiny new pari passu clause in Argentina's new bonds.
+
+"Is Bitcoin Becoming More Stable Than Gold?"
+
+Apparently the answer is yes, sort of. I flag it here only because one of the great things about the modern financial world is that there are debates about which of gold or bitcoin is a more functional currency. "Gold used to be the only refuge for those who have grave concerns over the global economy and monetary system," says a guy, but now there is bitcoin too.
+
+People are worried about unicorns.
+
+One thing people are worried about is that the path leading out of the Enchanted Forest has been lost, overgrown with evil weeds, and now all the unicorns might be stuck in the Forest forever, wandering around disconsolately, unable to share their benevolent magic with the wider world. But now a bold young wizard has come to the Enchanted Forest and cast a powerful spell to clear a way through the weeds and lead the unicorns out into the wider world. Or, in layman's terms, people were worried that the market for initial public offerings was pretty much shut recently, but the success of the BATS IPO might open things up for everyone else. Or maybe not:
+
+“As a group they need to trade reasonably well,” said JD Moriarty, head of Americas equity capital markets at Bank of America Merrill Lynch. “Investors certainly need to look back at the IPO asset class and say, ‘you know what, there’s a reward for participating in this.’”
+
+Elsewhere in, hey, who knows, possibly reassuring unicorn news, David Boies, who is both a director of Theranos (the Blood Unicorn, Elasmotherium haimatos) and also its lawyer, "defended Chief Executive Officer Elizabeth Holmes on Tuesday, saying she has the management and scientific skills to lead the blood-testing startup despite criminal and civil investigations."
+
+People are worried about bond market liquidity.
+
+Here's a press release from "recently-launched electronic bond-trading venue OpenBondX, LLC," which will offer maker-taker, or maker-taker-ish, pricing on corporate bond trades: If you initiate a "Request for Firm Quote," you get a 2 basis point rebate; if you respond, you pay a 2.5 basis point fee. (Is that actually maker-taker? Is initiating an "RFFQ" comparable to posting a limit order? Discuss.) We've talked recently about how bond people look enviously at the speed and liquidity and transparency of the equity markets, while equity people complain all the time about how their markets are too fast and too transparent and really ought to be more like the bond markets. Maker-taker, you may be aware, is a particularly controversial aspect of electronic trading in equity markets. But I guess it adds to liquidity?
+
+Elsewhere, European governments will sell you whatever bonds you want. You want a 20-year? Italy will sell you a 20-year. You want a 50-year? France will sell you a 50-year. It's all good.
+
+Things happen.
+
+The Number of Publicly Traded Firms Has Halved. EU Set to Charge Google Over Android Phone Apps. SEC Announces Financial Fraud Cases. US launches criminal inquiry into Panama tax schemes. Russia Wins $50 Billion Ruling in Decade-Old Fight With Yukos. Paulson’s funds plunge nearly $2bn after Allergan and Valeant bets. Saudi $10 Billion Financial District Is Missing One Thing: Banks. S.E.C. in Stasis as Democrats Hold Up Obama Nominees. Exxon Tries To Bury Climate Documents By Claiming First Amendment Rights (earlier, also). Corporations and social justice. Executive-pay penalty box. A LendingClub usury lawsuit. How Would George Bailey Compete with Fintech? Retail deposit resiliency. Martin Shkreli dropped from lawsuit tied to Wu-Tang album. Carl Icahn helps pal Trump celebrate big NY win. "Financial impotence." Reinheitsgebot. Office competition. ISIS Venmo. Twelve monkeys. Bulldozer battle. "Je suis Boaty McBoatface."
+
+If you'd like to get Money Stuff in handy e-mail form, right in your inbox, please subscribe at this link. Thanks!
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Matt Levine at mlevine51@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

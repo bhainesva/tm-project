@@ -1,0 +1,42 @@
+Even Drunken Drivers Have Rights
+['Noah Feldman', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-20/even-drunken-drivers-have-constitutional-rights
+Noah Feldman, a Bloomberg View columnist, is a professor of constitutional and international law at Harvard University and the author of six books, most recently "Cool War: The Future of Global Competition."
+
+Can you be charged with a crime for refusing to take a Breathalyzer test when stopped on suspicion of drunken driving? It’s hard to think of a constitutional rights question that affects more people. On Wednesday, the Supreme Court will take it up, considering whether the Fourth Amendment right against unreasonable search and seizure protects your breath and your blood from a warrantless search.
+
+Two different states involved in the case offer different constitutional reasons for their practices -- a sure sign that something is fishy here. The bottom line is that mandating a search without a warrant violates the Constitution, and the court should say so, regardless of the legitimate importance of combating drunken driving.
+
+A review of the states’ positions should make that clear.
+
+North Dakota’s Supreme Court said that you implicitly consent to taking a blood test when you get into a car there. It added that you aren’t really forced to take the blood test -- you just get convicted of a crime if you don’t. In a sense, the court was saying that driving is a privilege, not a right.
+
+The government can’t condition the exercise of a constitutional right on the waiver of another one. The reason you can be searched before getting on an airplane is that flying isn’t recognized as a fundamental constitutional right.
+
+Is driving a constitutional right? The Supreme Court has never said so, although it has recognized a constitutional right to travel. In today’s U.S., especially if you live someplace without public transportation (like most of North Dakota), you can’t really travel if you can’t drive.
+
+Making consent to an invasive blood draw the condition of driving seems clearly unconstitutional. As for the assertion that you don’t have to take the test, that’s even weaker: the very definition of being required to do something is that you’ll be convicted of a crime if you don’t.
+
+The Minnesota Supreme Court said that requiring a Breathalyzer counts as a search incident to arrest, which is one of the two recognized exceptions to the usual rule that the police can only search you if they have a warrant. The trouble with this argument is that the exception is designed to provide for the safety of the arresting officer.
+
+This is an important exception, to be sure. And for better or worse, it’s the legal basis for the stop-and-frisk policing policy that has been the subject of both praise and condemnation in recent years.
+
+But while the officer’s safety may require a pat-down to make sure the arrested person isn’t carrying a gun or a knife, testing the arrestee’s breath doesn’t make the officer safer.
+
+The Minnesota court pointed out that it had already allowed photographing and fingerprinting arrestees. But these administrative actions aren’t searches in the same way as a Breathalyzer, which analyzes the chemical contents of the inside of the body.
+
+The Minnesota court emphasized that the search was "reasonable" because a Breathalyzer test is so minimally invasive. In essence, the court was saying that the Fourth Amendment allows the state to engage in a cost-benefit analysis. If the search is minimal and the gain is great, then the Constitution permits the search.
+
+Admittedly, the Fourth Amendment is written in general terms. But the word “reasonable” shouldn’t be taken as authority to trade away the right not to be searched because the state has much to gain. If the police carried X-ray machines around with them, they might be able to see hidden weapons or drugs, and the gain might be great -- but the viewing would be a search within the terms of the Fourth Amendment, even if it wasn’t invasive at all.
+
+There’s no question that we need better mechanisms to police and prevent drunken driving. But it would be a serious mistake to sacrifice the right against unlawful search while we’re figuring out what those are. New technology will come. But the principle of mandatory search will sit about like a loaded weapon, to use the phrase coined by Justice Robert Jackson. The court should protect privacy and put the burden on states to figure out better ways to save lives.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Feldman at nfeldman7@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Susan Warren at susanwarren@bloomberg.net

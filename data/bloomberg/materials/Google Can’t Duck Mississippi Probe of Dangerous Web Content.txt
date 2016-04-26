@@ -1,0 +1,38 @@
+Google Can’t Duck Mississippi Probe of Dangerous Web Content
+['Robert Burnson Joel Rosenblatt', 'Robert Burnson', 'Joel Rosenblatt']
+http://www.bloomberg.com/news/articles/2016-04-09/google-can-t-dodge-mississippi-probe-of-dangerous-web-content
+Google can’t duck an investigation by the Mississippi attorney general into objectionable search engine content that the company calls a threat to Internet freedom.
+
+A U.S. appeals court said Friday that a judge was wrong to block state Attorney General Jim Hood’s sweeping demand for information from the company after concluding in March 2015 that it looked like a “fishing expedition.”
+
+The ruling lets Hood press forward with his investigation of whether Google bears responsibility for websites featuring illicit drugs, stolen credit cards and fake identification, as well as material on YouTube that infringes copyrights. Google has accused Hood of harassment while working in cahoots with Hollywood studios that blame the company for the proliferation of pirated movies online.
+
+The three-judge panel of the U.S. Court of Appeals in New Orleans said it isn’t taking sides on the “reasonableness” of Hood’s inquiry, but that the possibility of a “future enforcement action” against Google didn’t pose an “imminent threat of irreparable injury” to the company.
+
+“We’re reviewing the implications of the court’s decision, which focused on whether our claim was premature rather than on the merits of the case,” William Fitzgerald, a Google spokesman, said in an e-mail.
+
+Rachel Ring, a spokeswoman for Hood, had no comment on the ruling.
+
+Constitutional Protections
+
+U.S. District Judge Henry Wingate in Jackson, Mississippi, concluded last year that Google had shown the investigation wasn’t being conducted in good faith. The judge said the 79-page subpoena Hood served on Google ran afoul of constitutional protections against censorship and unreasonable searches.
+
+Alphabet Inc.’s Google also argued the probe violates a 1996 federal law, the Communications Decency Act, that gives Internet companies some immunity from prosecution for making third-party content available.
+
+In his appeal, Hood said the fight has been improperly moved from state to federal court, and that he’s not investigating third-party content. Instead, the attorney general’s focus is on “Google’s content and Google’s conduct,” he said in a court filing.
+
+Neither federal law nor the U.S. Constitution give Google an “across-the-board immunity from investigation or even a lawsuit,” Hood said in a court filing.
+
+Hood, who issued his subpoena in October 2014, was backed in his appeal by 39 states and the District of Columbia. The states said in a court filing that courts shouldn’t be able to block legitimate law enforcement investigations.
+
+‘Project Goliath’
+
+Google alleged in its December 2014 complaint against Hood that its entertainment industry adversaries and lobbyists drafted the attorney general’s legal strategy, a plan that was nicknamed “Project Goliath.”
+
+Google has sought records from what it calls the Hollywood “architects” of the probe, showing the “investigation was intended not to uncover supposed violations of Mississippi law, but instead coerce Google into silencing speech.”
+
+Hood has been unapologetic in public statements about taking on Google and said in a court filing that he enlisted people and firms with the “knowledge and expertise” to do so.
+
+The entertainment companies have said in court filings that they were exercising their free-speech rights to petition government officials when they sought Hood’s help to learn how Google was “facilitating and profiting from the piracy of their content.”
+
+The appeals court case is Google v. Hood, 15-60205, U.S. Court of Appeals for the Fifth Circuit (New Orleans). The district court case is Google v. Hood, 14-cv-00981, U.S. District Court, Southern District of Mississippi (Jackson).

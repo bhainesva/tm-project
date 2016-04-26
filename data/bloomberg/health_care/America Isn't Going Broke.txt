@@ -1,0 +1,44 @@
+America Isn't Going Broke
+['Noah Smith', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-18/america-is-nowhere-close-to-having-a-debt-crisis
+Noah Smith is an assistant professor of finance at Stony Brook University and a freelance writer for a number of finance and business publications. He maintains a personal blog, called Noahpinion.
+
+There are sometimes good reasons to be worried about the U.S. national debt. The debt has to be serviced, and that requires collecting taxes, which distort the economy. If government debt gets so large that the only way to avoid a default is to hold down interest rates forever, those low rates can eventually have negative effects on the economy. In the worst-case scenario, investors can lose their confidence in a government’s ability to repay its debt, forcing the central bank to print money to fund the government, which raises the risk of inflation.
+
+However, the U.S. is nowhere near this point. The national debt is modest and sustainable, and the federal government’s borrowing has been remarkably responsible.
+
+You wouldn’t know this from reading the breathless debt hysterics in the media. Just recently, Time ran a cover story entitled “The United States of Insolvency.” It simultaneously ran other debt scare stories, such as one by Maya MacGuineas, who heads two think tanks devoted to lobbying for lower government debt. According to Time’s article, every American owes about $43,000 because of the national debt.
+
+This concern is misplaced for a large number of reasons. First, the U.S. government isn’t insolvent. Insolvency tends to happen when liabilities are greater than assets. That’s very basic accounting. One of the U.S. government’s assets is its ability to tax the U.S. economy for revenue. The national debt -- which includes debt held by the public and money owed to other branches of the government -- is only equal to about six years’ worth of tax revenue.
+
+If the U.S. devoted a fifth of tax revenue to paying down the entire national debt, it would take 30 years to do it.
+
+That’s not insolvency.
+
+Next, just because the U.S. government owes money doesn’t mean the U.S. itself owes money. Those are two totally different things. The percent of U.S. national debt owed to foreigners has risen since the 1980s, but is still only about a third of the total:
+
+The other two-thirds is owed to American investors. If the federal government paid down the national debt, two-thirds of the money would be paid to Americans. As a percentage of the federal debt held by the public (the eye-popping number on the Time cover), it’s about 45 percent. So the real amount the average American owes, on net, because of the federal debt isn’t $43,000, but more like $19,400.
+
+That’s not quite as scary, is it?
+
+Also, some of these writers are saying that the debt is growing faster than the economy. This was true during the years of the Great Recession, but it’s no longer the case. The federal debt held by the public is now growing at about a 3 percent rate, while the economy is growing at about a 3.4 percent rate (these are both in nominal terms). In other words, the U.S. deficit is now perfectly sustainable.
+
+This represents a remarkable -- possibly even excessive -- display of fiscal responsibility by the U.S. government. During the Great Recession, when millions were out of work, the government ran a big deficit in an effort to stimulate the economy. But as the economy recovered, higher taxes brought in more revenue and spending was reined in. Incidentally, this is exactly what standard Keynesian economic policy suggests. There’s even an argument to be made that the government turned to austerity too soon, and made the 2012 recovery a bit slower than it could have been.
+
+To see how government borrowing has been curbed, look at a graph of the rate of growth of the ratio of federal public debt to gross domestic product:
+
+When this growth rate is positive, the debt is growing unsustainably. When it’s negative, indebtedness is shrinking. Note how the U.S. has swung into sustainable territory for the first time since the late 1990s.
+
+So the U.S. debt isn’t frighteningly large, nor is it growing in relation to the economy. In the future, it might do so, if health care prices accelerate again, or if the population ages more. But the U.S. can take steps to address those contingencies when they happen. For now, the U.S. is living in the greatest period of fiscal responsibility since the second Clinton administration.
+
+Resist the urge to engage in debt hysterics, please.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Smith at nsmith150@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

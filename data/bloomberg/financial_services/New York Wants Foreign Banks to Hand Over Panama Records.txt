@@ -1,0 +1,32 @@
+New York Wants Foreign Banks to Hand Over Panama Records
+['Greg Farrell', 'Tom Schoenberg', 'Katherine Chiglinsky']
+http://www.bloomberg.com/news/articles/2016-04-20/ny-regulator-asks-banks-for-records-linked-to-panama-papers-firm
+New York state’s banking regulator has ordered 13 foreign banks to turn over information about their contact with a Panamanian law firm that helped register tens of thousands of shell companies, broadening the state and federal authorities investigating revelations related to the Panama data leak.
+
+New York’s Department of Financial Services asked companies including Deutsche Bank AG, Credit Suisse Group AG, Commerzbank AG, ABN Amro Group NV and Societe Generale SA to provide communications, telephone logs and records of other transactions between their New York branches and employees or agents of the law firm, Mossack Fonseca & Co. The banks aren’t accused of wrongdoing.
+
+U.S. law-enforcement officials and regulators are trying to respond to a torrent of recent reports alleging that global companies and wealthy individuals shielded their wealth using companies set up by Mossack Fonseca. Those allegations began surfacing this month in reports by the International Consortium of Investigative Journalists and news organizations including Germany’s Sueddeutsche Zeitung newspaper, which said they had obtained 11.5 million records outlining the creating of more than 200,000 shell companies.
+
+U.S. prosecutors are also looking into whether the documents might provide evidence of wrongdoing for new cases or existing ones, according to two people familiar with the matter. Prosecutors in the Justice Department’s tax, fraud and money-laundering units are reviewing news reports based on the documents, these people said.
+
+Manhattan’s Request
+
+Manhattan U.S. Attorney Preet Bharara sent a request to the group stating that his office has opened a criminal investigation regarding matters relevant to the Panama Papers, the Guardian newspaper first reported.
+
+One immediate issue, however, is the database itself and whether those documents are business records or attorney records, the people said. If the documents represent privileged communications between Mossack Fonseca lawyers and their clients, then prosecutors may not be able to use those documents to make cases, the person said.
+
+It’s unclear yet whether prosecutors have access to the actual database of documents. Prosecutors in the department’s fraud section are examining whether any of the information contained in news reports is related to any active corruption cases or whether there are matters they didn’t know about, according to the two people familiar with the matter.
+
+Peter Carr, a Justice Department spokesman, declined to comment.
+
+Ten-Day Deadline
+
+The DFS’s letter, reviewed by Bloomberg, asked the banks to provide information on any potential violations of rules or regulations related to the law firm, or any investigations, giving the banks 10 days to respond.
+
+Spokespeople for Credit Suisse, Deutsche Bank, Commerzbank and Societe Generale declined to comment on the DFS’s document request. ABN Amro didn’t immediately respond to a request for comment.
+
+The DFS identified the banks through articles published by the ICIJ and other publications that received the leaked documents, according to a person briefed on the matter, cross checking them with financial institutions licensed in New York state.
+
+The regulator asked the banks whether their New York branches or employees had any involvement in the establishment of shell companies through Mossack Fonseca. The state regulator is also asking for records of any communications between the New York branches of these banks and the shell companies once they were formed. It also asked the banks to identify any New York-based personnel who may have served as officers, partners or other positions with the shell companies.
+
+The order is similar in form to a subpoena request from a federal prosecutor. It is one of the first significant enforcement initiatives by acting superintendent Maria Vullo, who was nominated in January by Governor Andrew Cuomo. Vullo replaced Benjamin Lawsky, who stepped down in June after four years on the job, during which he took an aggressive line and levied billions of dollars in penalties on international banks.

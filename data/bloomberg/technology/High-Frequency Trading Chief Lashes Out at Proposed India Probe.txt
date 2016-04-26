@@ -1,0 +1,32 @@
+High-Frequency Trading Chief Lashes Out at Proposed India Probe
+['Santanu Chakraborty']
+http://www.bloomberg.com/news/articles/2016-04-18/high-frequency-trading-chief-lashes-out-at-proposed-india-probe
+The head of one of India’s biggest high-frequency trading firms took a defiant tone after his company was implicated in a government-commissioned report alleging unfairness in the stock market.
+
+Sanjay Gupta, chief executive at OPG Securities Pvt. Ltd., denied suggestions of wrongdoing and instead blamed the claims of possible impropriety on rivals seeking to bring his firm down. His comments came after a panel advising India’s markets regulator said that authorities should investigate whether OPG worked with the National Stock Exchange of India Ltd. to get preferential access at the country’s biggest bourse.
+
+“People jealous of my success are leveling baseless allegations against me. They can’t get why I win all the time in high frequency trading,’’ Gupta, 45, said in a phone interview. “Big brokers with vested interests want to bring me down by knowing all my trade secrets.’’
+
+In an echo of disputes seen around the globe, the unfolding controversy centers on claims that high-frequency traders are taking advantage of the rest of the market by using unfair practices. OPG was one of the few firms named by the advisory committee, according to a copy of the panel’s internal report seen by Bloomberg News.
+
+Enjoying Life
+
+The report by the Securities and Exchange Board of India’s advisory panel, which hasn’t been released, said that between 2012 and 2014, NSE handled orders to trade on a first-come, first-served basis, a design that made it prone to abuse. The panel, whose work was prompted by claims from an unidentified whistle-blower, said it didn’t have enough information to determine whether NSE officials worked with OPG to give the trader preferential access, and called for SEBI to investigate further.
+
+“We have not done anything wrong so we are not afraid and we are enjoying life,” said Gupta, who hasn’t seen the panel’s report. “We are awaiting a response from SEBI so that we can give a prompt response.”
+
+NSE has declined to comment on the panel’s findings.
+
+Gupta started trading on the floor of the Delhi Stock Exchange in 1987, after leaving school. In 1990 his father, O. P. Gupta, took up a professional membership of the DSE, but didn’t like it and decided to quit after a week. That’s when his son Sanjay stepped in and took charge of OPG Securities.
+
+In its first 20 years, OPG focused on day trading and arbitrage strategies. As a manual trader, Gupta used to spot opportunities by looking at order flows and market depth, never charts or broker reports, he said, and he would put on his favorite songs of Bollywood star Kishore Kumar and leave it to his hand-eye coordination and instincts to trade.
+
+Algo Trading
+
+Gupta said that in 2011 he saw the power of algorithmic trading and realized that humans can’t beat machines. OPG evolved from a trading company into a technology firm that employs 50 software engineers devising algo strategies in a development center in Bengaluru. In December 2010, OPG was the first firm to place its servers in the same data center as NSE’s systems, Gupta said, a practice known as co-location. The firm now has an average daily turnover of around 70 billion rupees ($1 billion).
+
+Gupta denied that OPG’s volume of trading has fallen since the exchanges scrapped the first-come, first-served system, which was alleged by the SEBI advisory panel. The firm’s proportion of total volume remains consistent, he said. Gupta also claimed that OPG has ranked among the top 10 stock brokers by volume in India for each of the past 15 years, though he didn’t provide figures.
+
+If there is a full investigation, it won’t be OPG’s first brush with SEBI. The regulator in 2011 imposed a penalty of 250,000 rupees on the firm after finding that in 2008 OPG had traded shares of Alkali Metals Ltd. with itself, a contravention of the rules, SEBI said in its order. When asked, Gupta declined to comment on that case.
+
+“If any probe finds me guilty of any wrongdoing, I am ready to quit trading the markets,’’ Gupta said last week about the latest claims. “Trading is my only passion in life.”

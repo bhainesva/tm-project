@@ -1,0 +1,42 @@
+Fixed-Income Investors Have 99 Ways to Trade and One Big Problem
+['Alastair Marsh John Detrixhe', 'Alastair Marsh', 'John Detrixhe']
+http://www.bloomberg.com/news/articles/2016-04-14/fixed-income-investors-have-99-ways-to-trade-and-one-big-problem
+If investors are right that it’s getting harder to trade bonds, it’s not for lack of places for buyers and sellers to meet.
+
+The bond market now has 99 electronic platforms to facilitate fixed-income trading from London to New York and Singapore, according to John Greenan, chief executive officer of technology consultancy Alignment Systems. New venues are being created as stricter regulatory capital rules and advances in technology upend the role of Wall Street dealers that once dominated the market.
+
+Banks that for decades ruled corporate-debt trading by holding large inventories of bonds to meet client requests have pulled back from making markets, opening the door for start-ups and seasoned technology firms to fight for market share. Their success could be foiled by the very thing they’re capitalizing on and the market’s biggest problem: dwindling liquidity.
+
+“These platforms are proliferating because banks are not taking bonds onto their books and that’s creating a big gap and presents a huge opportunity,” said Jon Mawby, a London-based bond fund manager at Man Group Plc’s GLG unit, which oversees $31 billion of assets. “The bigger issue is that for any platform to be successful, it needs two sides of a market. But if banks are not willing to buy and if there are net sellers of credit, then there’s no bid for the bonds and you can’t sell.”
+
+The plethora of new corporate-debt platforms will eventually be winnowed down, according to Carl James, Geneva-based global head of fixed income trading at Pictet Asset Management, and Stu Taylor, chief executive officer of fixed-income technology firm Algomi Ltd. Both expect fewer than 10 to survive.
+
+“It does seem likely that over three to five years you’ll end up seeing acquisitions and integration,” said Kevin McPartland, head of research for market structure and technology at Greenwich Associates.
+
+Bloomberg LP, the parent of Bloomberg News, also has a bond trading platform.
+
+Bond dealers from Credit Suisse Group AG to Goldman Sachs Group Inc. say liquidity is drying up in debt markets in reaction to post-crisis rules intended to prevent another financial catastrophe and that’s increasing turmoil in markets.
+
+That was exposed in December when Third Avenue Management LLC said a lack of liquidity in the securities it was holding made it impossible to meet redemption requests. It blocked clients from withdrawing assets from its Focused Credit Fund to avoid fire sales, it said.
+
+Market Utopia
+
+A liquidity mismatch between debt that can take weeks to sell and funds that allow investors to withdraw their money on a daily basis creates instability, said Federal Reserve Bank of Dallas President Robert Kaplan on Tuesday.
+
+Seventy five percent of institutional corporate bond investors say dealer-sourced liquidity has declined in recent years, and 55 percent think liquidity will get even worse in the next year, according to a Greenwich Associates survey last month based on interviews with 58 investors in the U.S. and Europe.
+
+Still, the market may be looking for a utopia where liquidity is as abundant as it was prior to 2008.
+
+Bonds were mis-priced and liquidity plentiful prior to the financial crisis, according to Greenwich Associates’ report in March. Corporate bond markets are now simply returning to reality, said James at Pictet Asset Management, which oversees 139 billion euros ($156 billion) of assets.
+
+Historical Norm
+
+“Fixed income was traditionally a buy-to-hold product until investment banks realized they could make money from offering their balance sheet out to facilitate trading,” said James. “Now that balance sheets are constrained, the liquidity is reverting to something like the norm of 30-40 years ago. Yet even as that happens, the market still wants a high velocity of trading.”
+
+That creators of trading platforms have been seeking to take market share from incumbent dealers is nothing new, but the recent explosion in their numbers is unprecedented.
+
+Thirteen of the 19 U.S.-bond platforms the Securities Industry and Financial Markets Association interviewed for a February report have entered the corporate debt market within the last two years, according to the trade group for brokers.
+
+Upstarts include TruMid Financial LLC, which says it had $2.5 billion in executed trades in its first six months, Liquidnet Holdings Inc., whose platform traded $1 billion of bonds in its first five months, and Algomi Ltd., which was founded in 2012 by four UBS Group AG executives. MarketAxess Holdings Inc. is a more established player.
+
+“It’s always good to see innovation,” Gareth Coltman, head of European product management at MarketAxess, said in a phone interview. “I’m sure one or two of these initiatives will find a niche where it makes sense.”

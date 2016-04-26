@@ -1,0 +1,48 @@
+Google’s Android Targeted by EU Over Mobile Search Curbs
+['Aoife White']
+http://www.bloomberg.com/news/articles/2016-04-20/google-s-curbs-on-phone-makers-choke-app-competition-eu-says
+Google was accused of wielding its power as the world’s leading phone software supplier to impose its search and Web programs on billions of mobile users as European Union regulators took another swipe at the U.S. technology giant.
+
+The European Commission sent Google a formal antitrust complaint, accusing the company of striking restrictive contracts that require makers of tablets and phones to install its search and Web browser on new phones. The company also unfairly pays phone makers and telecom operators a share of advertising revenue if they agree to make Google’s search engine the default on devices, the EU said Wednesday.
+
+"What we found is that Google pursues an overall strategy on mobile devices to protect and expand its dominant position in Internet search" with unjustified restrictions and conditions on phone makers and carriers, EU Competition Commissioner Margrethe Vestager told reporters. "Over half of Internet traffic takes place on mobile devices."
+
+By sending a statement of objections, the EU is opening a new front in its antitrust battle with the Alphabet Inc. unit -- paving the way for potentially huge fines and radical changes to the way the company does business. It comes a year after the EU issued a formal complaint over Google’s comparison-shopping service.
+
+Free, Open
+
+Google countered the EU charges, saying that Android is a “free and open-source operating system.”
+
+“Our partner agreements are entirely voluntary,” Kent Walker, the Mountain View, California-based company’s general counsel, said in a statement. “We look forward to working with the European Commission to demonstrate the careful way we’ve designed the Android model in a way that’s good for competition and for consumers.”
+
+Google is in the EU’s sights more than a decade after regulators took aim at Microsoft Corp. for tying a media player to its bestselling computer operating system. While some things have changed since then, Google’s efforts are "a strategy to keep and expand" its power in search by nudging Android users toward Google’s mobile search, Vestager said.
+
+Microsoft fought hard against EU charges, coughing up 2.24 billion euros ($2.5 billion) in four installments over 10 years and losing a challenge in court.
+
+Market Domination
+
+Android is loaded on most of the world’s smartphones and tablets -- usually along with Google’s e-mail, maps and video software. The EU argues that users rarely bother to download alternatives to the apps that come on a new device, meaning Google’s deals ensure its free Web and search software grab attention -- and the advertising revenue that powers the Internet.
+
+The Android software for smartphones has been in the EU’s sights since 2013 after an industry group backed at the time by Microsoft Corp. and Nokia Oyj filed a complaint with regulators. The EU opened a formal probe last year that looks at Google’s anti-competitive practices on mobile since 2011.
+
+That complaint focused on Google’s mobile application development agreements, such as those with handset makers Samsung Electronics Co. and HTC Corp., which require developers to use Google’s proprietary Play Services software. Manufacturers must also strike anti-fragmentation agreements to use the Play Store apps, which prevents them making their own versions of Android.
+
+Financial Incentives
+
+The EU is also looking at Google’s financial incentives -- revenue sharing agreements for manufacturers and telecom operators that agree to its terms. It wouldn’t say how much was at stake but that income needed to be significant to keep companies within the Google ecosystem. The case doesn’t extend to the hefty fee paid to Apple Inc. to keep its search bar on the iPhone.
+
+Click here for a timeline of Google’s Skirmishes with EU’s antitrust regulator
+
+The EU case raises a potential threat to Android, and Google’s reach to "virtually every non-IPhone user in the world," said James Cakmak, an analyst at Monness Crespi Hardt & Co., who rates Alphabet’s stock a buy.
+
+"The most extreme consequence is some sort of unbundling or separation of Google Services from Android," Cakmak said. "Limiting your ability to collect data would limit your ability to target users, which is what Google does -- get the right ad in front of you at the right time."
+
+Buyer Experience
+
+Google said last year that its agreements with phone manufacturers are voluntary and allow Android to be used without Google apps. Agreements to prevent fragmentation ensure that apps work well on all Android devices while distribution deals give users "a great ’out-of-the-box’ experience with useful apps right there on the home screen," the company said.
+
+The EU probe showed it’s "commercially important" for device makers using Android to put Google’s Play Store -- where customers download apps -- on phones. Loading handsets with Google Search and the Chrome browser is a pre-condition for licenses to use the Play Store, the EU says, meaning that rival search engines or Web software cannot become a default on most phones sold in Europe.
+
+Vestager said Google now has 12 weeks to submit a formal response to Wednesday’s complaint. Even though the threat of fines persists, she said Google could easily address the EU’s concerns.
+
+“The remedy in this case is basically quite simple -- it’s to stop these practices,” she said.

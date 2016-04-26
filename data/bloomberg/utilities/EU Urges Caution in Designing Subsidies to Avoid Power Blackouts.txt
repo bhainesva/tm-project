@@ -1,0 +1,28 @@
+EU Urges Caution in Designing Subsidies to Avoid Power Blackouts
+['Ewa Krukowska Aoife White', 'Ewa Krukowska', 'Aoife White']
+http://www.bloomberg.com/news/articles/2016-04-13/eu-urges-caution-in-designing-subsidies-to-avoid-power-blackouts-imysgmzv
+European Union nations should better analyze whether and how they should offer subsidies to electricity producers to prevent power blackouts, the bloc’s regulatory arm said.
+
+The European Commission published on Wednesday an interim report on an inquiry into capacity markets, or mechanisms that supplement intermittent supplies of renewable energy, in 11 member states. While such tools can be necessary in some instances to guarantee supply security, they can’t substitute a well-functioning power market and must not distort competition, EU antitrust chief Margrethe Vestager told reporters in Brussels.
+
+“The report published today shows that there is a lot of room for member states to improve how they assess whether capacity mechanisms are needed, and how they design them,” she said. “For a capacity mechanism to be well-designed it needs to be open and take into account electricity that can be provided across EU borders, thereby also contributing to building an energy union in Europe.”
+
+Improved cross-border power links are among the pillars of the EU’s energy union strategy, approved by national leaders last year. The plan is to ensure safer energy supplies, better integrate renewables into the grid and invest in infrastructure in the 28-nation bloc.
+
+Lower Cost
+
+Utilities that receive capacity payments would be able to provide electricity at a lower cost, giving them an advantage over competitors in countries that don’t offer the subsidies. The Brussels-based commission has the power to ban and order the recovery of selective public subsidies that distort competition. In cases of market failure, the EU can depart from these rules.
+
+The sector inquiry requested information from 11 EU states that have capacity mechanisms in place or are considering them: Belgium, Croatia, Denmark, France, Germany, Ireland, Italy, Poland, Portugal, Spain and Sweden. The commission said it sent questionnaires to more than 200 public institutions, energy regulators, network operators and companies and received 124 replies.
+
+The EU found 28 capacity mechanisms that fall into six categories, according to the report. A strategic reserve, where the government pays specific power plants to become operational in case of need, is the most common. Tenders for new capacity, observed in France, Ireland and Belgium, may encourage investment in generation capacity but don’t effectively address long-term adequacy problems, the commission said, adding that they should be combined with reforms to address underlying market and regulatory failures.
+
+Underlying Issues
+
+Targeted capacity payment schemes, found in Italy, Poland, Portugal, and Spain, also don’t address the underlying issues that caused the capacity problem, according to the EU. The price paid under such mechanisms is set administratively, rather than through a competitive tender process, and the beneficiaries must make their capacity available during peak demand periods, or face penalties.
+
+“An additional drawback of this model is that the administrative price setting process increases the risk of overcompensation of the beneficiaries,” the commission said.
+
+The EU regulator also called for more cross-border cooperation among member states. Only three member states -- Belgium, Germany and Ireland -- currently allow power plants from other nations to participate in their national capacity mechanisms with certain restrictions.
+
+Energy companies, governments and experts can now submit their comments on the interim report by July 6 before the commission publishes the final version later this year.

@@ -1,0 +1,48 @@
+Can the Supreme Court Demand a Compromise? It Just Did
+['Noah Feldman', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-03-30/can-the-supreme-court-demand-a-compromise-it-just-did
+Noah Feldman, a Bloomberg View columnist, is a professor of constitutional and international law at Harvard University and the author of six books, most recently "Cool War: The Future of Global Competition."
+
+It’s happening: The Supreme Court is getting desperate. With a 4-4 tie looming over whether religious organizations have to file a form with the government requesting an exemption from the mandatory contraceptive care provisions of the Affordable Care Act, the justices took an extreme step. They issued an order that basically told the federal government and the religious entities to reach a compromise -- and described what the compromise would look like.
+
+Federal district court judges will sometimes tell the parties that they’d better compromise, or else they might not like the results that will follow. The Supreme Court essentially never does, both because it lacks leverage and because it gets involved in cases with the intention to make new law, not to resolve particular disputes.
+
+But we’re in new territory here. The Supreme Court is trying to figure out how to do its job with eight justices -- a situation that might persist not just through this Supreme Court term, but through the next one as well.
+
+The oral argument last week in the case that includes Burwell v. Little Sisters of the Poor (as well as several other consolidated cases) demonstrated the near certainty of a 4-4 split. The argument clarified the core conflict in the case: The exemption sought by the religious organizations was the very thing that the Obama administration said it wanted, namely for the employees of the religious organizations to get contraceptive care from the same insurer and health-care providers from which they get the rest of their coverage.
+
+The religious organizations said that under the system created by the Department of Health and Human Services, their free exercise of religion was burdened. Under the existing system, the organizations file a form with the government explaining that they don’t want to cover contraception. The government then tells their insurers to provide the coverage and to pay for it.
+
+According to the religious organizations, this system amounts to a “hijacking” of their health-care plan to provide the contraceptive care that they consider immoral. At oral argument, the religious organizations embraced the analogy that this is like the government using an empty room in their buildings to provide the contraceptive care.
+
+Yet the solicitor general explained to the court that the government considered it essential for employees to receive “seamless” care, meaning that they would receive their contraceptive care from their usual insurer and provider. This made the case look like a conflict between an unstoppable force and an immovable object.
+
+The Supreme Court’s order tries to resolve this conflict. The order was framed as a command for more briefing by all the parties -- something that happens occasionally at the court, even after oral argument.
+
+In its essence, however, the order described a potential compromise. It said first that the parties should consider a plan in which the religious organizations don’t need to give the government notice that they don’t want to provide contraceptive care. Instead, the organizations could just tell their insurers that they don’t want to provide contraceptive care for religious reasons.
+
+At oral argument, former solicitor general Paul Clement, representing the religious groups, said that his clients weren’t objecting to having to say they didn’t want to provide contraceptive care. If that’s true, this part of the compromise should more than satisfy the religious organizations. And the government shouldn’t object, either, because it doesn’t care with whom the forms are filed.
+
+The court then clarified that under its compromise, the religious organizations “would have no legal obligation to provide such contraceptive coverage [and] would not pay for such coverage.” That’s already true -- and should be acceptable to all.
+
+The court added that “at the same time, petitioners’ insurance company -- aware that petitioners are not providing certain contraceptive coverage on religious grounds -- would separately notify petitioners’ employees that the insurance company will provide cost-free contraceptive coverage.”
+
+Here’s where the compromise may very well fail. This part of the court’s proposal would satisfy the government, which demands “seamless” contraceptive care from the same insurer and provider. But based on what was said at oral argument, it shouldn’t satisfy the religious organizations, because the care would still come from the same insurer -- one chosen and denominated by the organizations themselves. If the existing scheme counts as hijacking, according to the organization’s religious conscience, surely this would, too.
+
+What happens next? Because we’re in uncharted waters, no one really knows. What seems most likely is that the solicitor general will file a brief saying the government would have no objection to such a scheme. But realistically, there isn’t time for HHS actually to propose and adopt such regulations before late June, when the court’s term ends. So the government will be speaking hypothetically.
+
+Meanwhile, the religious organizations could say that compromise wouldn’t satisfy them. But even if they say it would satisfy them, they’re unlikely to concede that their challenge should fail -- because no new regulations are yet in place.
+
+The court has no practical leverage to force a compromise. And if none is reached, the result is going to be a mess. An evenly divided court can only affirm decisions below. But different courts of appeal have resolved the exemption issue differently, with most circuits rejecting the religious organizations’ claims and one circuit, the 8th, upholding their claim. So the law would be a checkerboard, differing from place to place.
+
+The court’s compromise isn’t that likely to succeed, mostly because the court doesn't have much experience with how and when to propose resolutions in this way. But you can’t blame the justices for trying. Think of this week's order as their cry in the wilderness. Maybe someone will be listening.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Feldman at nfeldman7@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Philip Gray at philipgray@bloomberg.net

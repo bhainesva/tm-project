@@ -1,0 +1,12 @@
+Japan's FSA Says HFT Trading to Be Discussed at April Meeting
+['Yuji Nakamura']
+http://www.bloomberg.com/news/articles/2016-04-08/japan-s-fsa-says-hft-trading-to-be-discussed-at-april-meeting
+Japan’s financial watchdog is taking the next step in its examination of high-frequency trading.
+
+The Financial Services Agency said on Friday it will discuss HFT at the next meeting of the Financial System Council, which will be held in early April. The Council will review if the practice is contributing to market volatility and whether it is having a negative effect on the long-term value of listed companies.
+
+“We think that it is important to review the impact of high-speed trading upon the efficiency, transparency and stability of the markets,” the FSA said in a statement.
+
+The FSA’s statement came after comments from Finance Minister Taro Aso, who on Friday said that HFT’s effects should be examined. Besides speed trading, the FSA said financial technology topics such as blockchain would also be discussed at the meeting.
+
+The Securities and Exchange Surveillance Commission sent a survey to market participants earlier this year that asked about the services brokerages provide to HFT firms. Authorities mentioned algorithmic trading in their annual administration report for the first time last year. Speed traders made up more than half of trading as recently as September.

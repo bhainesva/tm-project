@@ -1,0 +1,36 @@
+Decline of the U.S. Middle Class
+['Noah Smith', 'Megan Mcardle', 'Justin Fox', 'Leonid Bershidsky', 'Barry Ritholtz', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-03-28/americans-struggle-to-see-themselves-as-middle-class
+Noah Smith is an assistant professor of finance at Stony Brook University and a freelance writer for a number of finance and business publications. He maintains a personal blog, called Noahpinion.
+
+As the presidential primary season continues, much has been made of the appeal that candidates Donald Trump and Bernie Sanders hold for the angry, disaffected working class. Everyone seems to agree that this group is in trouble, and needs serious help.
+
+But which Americans exactly are part of the working class? There is no set definition. You can define class by wealth, but a young worker starting out on Wall Street and earning relatively little is hardly lower-class. You can define it by income, although that will be distorted by local differences in the cost of living, and by age (retirees have little income but usually more wealth). You also can define it by educational status.
+
+But perhaps the most important definition is in people’s minds. Gallup periodically asks people to place themselves in one of five classes -- upper, upper-middle, middle, working and lower. Here are the results for the five categories:
+
+The percentages of Americans who consider themselves working class has stayed relatively stable. But the self-identified middle class has plunged by about 10 percentage points, matched by an even larger increase in the percentage of Americans who label themselves lower class. The self-identified lower class should probably be included in the working class that gets discussed in articles about Trump and Sanders.
+
+Why do fewer Americans identify as middle class? One obvious possibility is that the middle class has been spreading out, separating into a well-to-do upper-middle and an expanding working class. The evidence shows that something like this has been happening for decades now. Here is the U.S. Gini coefficient, a broad measure of income inequality:
+
+Income inequality has been steadily increasing since 1970, with especially big jumps in the early 1980s and early 1990s. That certainly seems likely to reduce the share of people who feel like they’re in the middle.
+
+But we don’t see a divergence -- what we really see is a downward drift. Why? Perhaps slow growth has made everyone in the U.S. more pessimistic. Or perhaps inequality itself lowers everyone’s perception of their own class. People making $25,000 might compare themselves to people making $50,000, but people making $400,000 might compare themselves to people making $2 million. One development is that the difference between the working and upper-middle class incomes has widened, but the gap between the upper middle and the rich has absolutely exploded. That could be making everyone more pessimistic about where they stand in the hierarchy.
+
+But there are problems with this explanation as well -- it gets the timing wrong. The strange thing is that if we look back to the '80s and '90s, when incomes within the middle-class were diverging rapidly, we see very little change in class identification. The General Social Survey shows that the percent of Americans identifying as working class held steady throughout those decades. Gallup’s data indicates that class identification in general held steady all the way up through 2008 -- the sudden increase in the lower class, and the drop in the middle class, happened after the financial crisis and the Great Recession.
+
+Were Americans tricking themselves all that time? Did bubbles in the stock and housing markets distract them from the fact that their incomes had stagnated? Did unsustainable borrowing allow working and lower-class Americans to keep up their consumption levels for a little while, delaying the day of reckoning?
+
+That seems very possible. Another possibility is that class identification is really a measure of risk. Even if your family makes $180,000 a year, well above the national median, it might be hard to think of yourself as upper-middle class if you could be fired at any time, or if one medical emergency could send you into bankruptcy. A large number of high-earning Americans live paycheck to paycheck. The U.S.’s dysfunctional health-care system makes medical emergencies a much bigger financial threat than in countries such as Canada or the U.K. And the enormous layoffs in the Great Recession drove home just how insecure many Americans’ jobs are -- in contrast to Japan, where companies cut wages to keep people employed through slowdowns.
+
+Whatever the reason, the shift in class identification is real. More and more Americans think of themselves as being on the bottom of the economic totem pole. This may be why politicians are focusing less on economic opportunity and more on fear.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Noah Smith at nsmith150@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

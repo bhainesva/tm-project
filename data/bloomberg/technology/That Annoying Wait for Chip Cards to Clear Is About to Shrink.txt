@@ -1,0 +1,14 @@
+That Annoying Wait for Chip Cards to Clear Is About to Shrink
+['Jennifer Surane']
+http://www.bloomberg.com/news/articles/2016-04-19/that-annoying-wait-for-chip-cards-to-clear-is-about-to-shrink
+Ever since banks stuck chips on millions of U.S. credit and debit cards last year, shoppers have spent a little more time waiting at the register and a lot more time complaining about it. On Tuesday, Visa Inc. said it’s trying to fix that.
+
+The world’s largest payments network -- which long pushed the chips at the source of the consternation -- will offer a technology upgrade to cut the time people must leave their cards in machines to roughly two seconds or less. The network has started talking with major terminal manufacturers, and they’ve been receptive, said Stephanie Ericksen, Visa’s vice president of risk products.
+
+“There’s been a lot of interest in what we can do to improve the transaction speed,” Ericksen said in a phone interview. “The key difference will be you can insert your card, leave it in the terminal for a split second and remove the card rather quickly, rather than waiting for the entire transaction to complete.”
+
+Networks including Visa and MasterCard Inc. began calling for a migration to chips years ago to head off counterfeit cards. The underlying technology -- called EMV for founders Europay, MasterCard and Visa -- generates new codes for each transaction, while the codes on magnetic stripes are permanent and can be copied and stored by hackers for later use.
+
+Estimates vary for how long chip transactions take because it also depends on a terminal’s connection speed. A November study by merchant services firm Harbortouch estimated the average time is as long as 10 seconds, versus two or three seconds for using the magnetic stripe. The survey of more than 5,000 adults in the U.S. found 20 percent of consumers consider transaction time the top concern when using chip cards.
+
+Visa processed 303 million chip transactions in March. The company has 265 million credit and debit chip cards in the U.S., now the largest chip-card market in the world. More than 1 million of Visa’s merchant locations, or 20 percent of its total, have chip-enabled terminals. The new enhancement, known as Quick Chip for EMV, is free to payment processors, acquiring banks and other networks. For merchants, it’ll require a software update for their terminals.

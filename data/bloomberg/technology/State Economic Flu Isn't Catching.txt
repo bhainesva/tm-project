@@ -1,0 +1,40 @@
+State Economic Flu Isn't Catching
+['Justin Fox', 'Megan Mcardle', 'Leonid Bershidsky', 'Barry Ritholtz', 'Noah Smith', 'Jonathan Bernstein']
+http://www.bloombergview.com/articles/2016-04-15/state-economic-flu-doesn-t-seem-to-be-contagious
+Justin Fox is a columnist writing about business. Prior to joining Bloomberg View, he was the editorial director of the Harvard Business Review. He is the author of “The Myth of the Rational Market.” Fox has also worked at Time, Fortune, American Banker, the Birmingham News and the Advance-Register of Tulare, California, where he was the farm editor.
+
+Six states lost jobs during the 12 months ended in March. It's a familiar bunch -- Alaska, Louisiana, North Dakota, Oklahoma, West Virginia, Wyoming -- all hammered by either coal's decline or the collapse in U.S. oil drilling that has followed the collapse of global oil prices. (That price plunge was of course brought on in part by the earlier rise in U.S. oil production enabled by hydraulic fracturing and other new drilling technologies. Ah, the oil business!)
+
+
+
+These states are effectively in recession or close to it. But is it catching?
+
+
+
+The March state employment numbers, released today by the Bureau of Labor Statistics, don't contain much evidence of contagion. Thirty-seven states saw increases in nonfarm payroll employment from February to March, 13 (that includes the District of Columbia) saw declines and one (South Dakota) saw no change. That's about the same breakdown as in February (37 gainers, 14 losers), better than in January (31-20), and about the same as in December (37-14) and November (36-14-1).
+
+
+
+Despite their recent stability, the month-to-month numbers can be very noisy, which is why I started this column by citing trailing-12-month data. Here's what that looks like going back to 1991:
+
+There definitely was a rise last year in the number of states seeing job declines. But it seems to have plateaued since November (I know that's not visible on the chart; trust me). And when recessions come -- at least the past two recessions -- they seem to be accompanied by a sudden dramatic leap in the number of states losing jobs, not an incremental rise.
+
+
+
+I also added up states that saw job declines during the previous three months. There were 10 in March (the six listed above minus Oklahoma and plus Arkansas, Indiana, Kansas, Kentucky and New Jersey). Here's how that statistic has played out since 1990:
+
+Recessions are national phenomena. The most recent one, which semi-officially started in December 2007, was preceded by employment declines in the Rust Belt and in a few states where housing booms had begun to go bust. But it was a financial crisis emanating from New York (Bear Stearns collapsed in March 2008, and the credit crunch had begun several months before that) that sent the rest of the country into a tailspin.
+
+
+
+This time we have a fossil-fuels bust, and a weak global economy that has hurt some some manufacturers. But most states are doing fine: The 10 most populous states all saw employment gains of more than 1 percent during the past 12 months, with Georgia leading the way at 3.1 percent. The recession disease doesn't seem to be spreading.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

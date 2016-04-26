@@ -1,0 +1,38 @@
+BAE Taps Cyber Skills Honed for Spooks to Win Clients
+['Stephanie Baker']
+http://www.bloomberg.com/news/articles/2016-04-12/bae-taps-cyber-skills-honed-for-spooks-to-win-corporate-clients
+In January, BAE Systems Plc got a routine call from a new client: The health-care company’s computer systems were mysteriously crashing. BAE’s sleuths soon discovered a dangerous new strain of a virus called Qbot.
+
+Using skills honed via years of work for British intelligence services, BAE’s cyber specialists traced the worm to a shadowy Russian-speaking criminal network. It had infected more than 54,000 computers worldwide, mostly in the U.S., stealing usernames and passwords from targets such as hospitals, universities, police departments and big banks like Wells Fargo and Bank of America.
+
+“Working out the motivation behind an attack is more an art than a science,” said Adrian Nish, BAE’s head of cyberthreat intelligence. “It was criminal. They were looking to monetize the attack.”
+
+As Europe’s largest defense company, BAE is better known for producing Typhoon fighter jets and nuclear-powered submarines than battling computer viruses. Yet in the past decade, it has developed its cyber-security chops as one of the biggest suppliers of threat intelligence to the Government Communications Headquarters, Britain’s counterpart to the U.S. National Security Agency.
+
+BAE is leveraging its track record serving government spooks to target a wider range of clients, selling cyber-security services to major corporations, banks, health-care providers and transportation businesses such as Britain’s National Rail network. BAE joins U.S. defense contractors Raytheon and Northrop Grumman, both of which have created units to target commercial clients.
+
+Intimate Access
+
+In a fragmented business filled with dozens of small companies, the credibility gained by working for the government can pay off, says Harry Breach, an analyst at Raymond James in London.
+
+“People will be really careful about what kind of cyber security firm they’re going to allow intimate access to their network,” Breach said. “It can look good to say, ‘We hired the guys who work for U.K. government security services.’”
+
+BAE’s approach differs from its American rivals, which have formed new subsidiaries with distinct branding that doesn’t immediately reveal their ties to the mother company. BAE, by contrast, is positioning itself as a military-grade computer security shop for corporations. Since 2008, the company has spent more than £1 billion ($1.4 billion) on a half-dozen surveillance and cyber-security businesses.
+
+“We recognized the world of defense is changing” said Kevin Taylor, who runs Applied Intelligence, BAE’s cyber-security arm. “The modern battlefield is not just in air, land and sea, but also in cyberspace.”
+
+The cost of online crime for businesses is expected to reach $2 trillion by 2019, according to Juniper Research. BAE estimates the markets where it operates to be worth more than $60 billion a year, giving it ample room for growth.
+
+In 2015, revenue in BAE’s Applied Intelligence business surged 31 percent to £462 million. While the unit accounts for less than 3 percent of BAE’s sales, it’s growing more than double the pace of the company as a whole. Last year it added 1,200 people to bring its global workforce to 4,200.
+
+BAE’s biggest cyber-security acquisition to date came in 2008, when it paid £530 million for Detica, which had just secured a contract to provide border security services in Britain with pre-screening analytics to monitor people entering the country. Two years later, BAE bought ETI A/S, a Danish company that specialized in surveillance equipment and data analysis, for $210 million. In late 2014, it established a toehold in U.S. cyber business when it paid $235 million for SilverSky, which had 5,000 clients ranging from banks to health-care and energy companies.
+
+Teen Hackers
+
+Today, BAE’s customer list includes U.S. consumer-credit company Equifax, London’s transportation network, and Canatics, a non-profit set up by Canadian insurers to fight fraud. Last October, U.K. telecom provider TalkTalk called in BAE to shore up its defenses after hackers stole the personal details of 157,000 people, including 15,000 bank account numbers. Five people, four of them teenagers, were arrested. In February, the company said it had lost 100,000 customers since the breach and that the attack cost the company £60 million. The investigation is ongoing.
+
+Explaining her decision to bring in a defense company to cope with the attack, TalkTalk CEO Dido Harding in October told reporters that there is “a cyber-security arms race” among companies trying to stay one step ahead of criminals.
+
+An expanded U.S. footprint may help as BAE tracks the latest Qbot outbreak. When it discovered the new strain of the virus in February, BAE alerted U.S. Homeland Security. But the attackers behind Qbot are constantly changing the code to evade detection, which means more business for BAE. Nish says budget-strapped healthcare providers are particularly vulnerable, with a string of so-called ransomware attacks on hospitals in the U.S. in which hackers encrypt files, then demand money to unlock the data.
+
+“It’s a nasty trend,” Nish said. “My feeling is someone is deliberately looking to target these networks because they think they’re easy pickings.”
