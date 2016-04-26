@@ -1,22 +1,9 @@
-import edu.stanford.nlp.dcoref.CorefChain;
-import edu.stanford.nlp.dcoref.CorefCoreAnnotations;
-import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.Datum;
 import edu.stanford.nlp.ling.HasWord;
-import edu.stanford.nlp.ling.RVFDatum;
 import edu.stanford.nlp.ling.Sentence;
-import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.semgraph.SemanticGraph;
-import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
-import edu.stanford.nlp.sentiment.SentimentCoreAnnotations;
 import edu.stanford.nlp.stats.Counter;
 import edu.stanford.nlp.trees.Tree;
-import edu.stanford.nlp.trees.TreeCoreAnnotations;
-import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.Pair;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.classify.Classifier;
@@ -30,22 +17,16 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Properties;
 import java.util.stream.Collectors;
 import java.io.InputStreamReader;
 import org.tartarus.snowball.ext.porterStemmer;
 
 
-public class classify{
+public class document_classification {
 	LexicalizedParser lp;
     int blank;
     ColumnDataClassifier CDclassifier;
@@ -217,14 +198,14 @@ public class classify{
 		
 	}
 	//to create tab delimited training text files 
-		public classify(String train_path) throws IOException{
+		public document_classification(String train_path) throws IOException{
 			lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 	    	LoadStopwords("data/english.stop.txt");
 			LoadDir(train_path,"train");
 		}
 	
 	// to use the text file to train the classifier
-	public classify(String train_path,String type){	
+	public document_classification(String train_path, String type){
 		Properties props = new Properties();
 		
 		props.setProperty("featureFormat","true"); // to be used in case text file has features and not text				
@@ -253,10 +234,10 @@ public class classify{
 		//String[] t={"hello","consumer","price","inflation","has","risen","."};
 		//parse(Sentence.toWordList(t));
 		
-		//classify classifier=new classify("data/bloomberg/");
-		classify classifier=new classify("data/noun_phrases/train.txt","train");
+		//document_classification classifier=new document_classification("data/bloomberg/");
+		document_classification classifier=new document_classification("data/noun_phrases/train.txt","train");
 		classifier.test("data/fmoc_minutes/test");
-		//classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
+		//document_classification classifier=new document_classification("data/noun_phrases/train_sent.txt","cv");
 		
 	}
 }
