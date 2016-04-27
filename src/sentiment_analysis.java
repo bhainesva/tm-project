@@ -2,6 +2,7 @@ import edu.stanford.nlp.dcoref.CorefChain;
 import edu.stanford.nlp.dcoref.CorefCoreAnnotations;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.neural.rnn.RNNCoreAnnotations;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
@@ -11,8 +12,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations;
 import edu.stanford.nlp.util.CoreMap;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -23,10 +23,20 @@ import java.util.Properties;
 
 public class sentiment_analysis {
 
-    static String readFile(String path, Charset encoding)
+    static String readFile(String filename)
             throws IOException {
-        byte[] encoded = Files.readAllBytes(Paths.get(path));
-        return new String(encoded, encoding);
+        BufferedReader reader = new BufferedReader(new FileReader(new File(filename)));
+        String total = "";
+        String line;
+
+        while ((line = reader.readLine()) != null) {
+            if (!line.isEmpty()) {
+                total += line + "\n";
+            }
+        }
+        reader.close();
+
+        return total;
     }
 
     public static void main(String[] args) throws IOException {
@@ -58,7 +68,7 @@ public class sentiment_analysis {
         StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 
         // read some text in the text variable
-        String text = readFile("../data/fmoc_minutes/apr24-2012", StandardCharsets.UTF_8); // Add your text here!
+        String text = readFile("data/fmoc_minutes/apr24-2012.txt"); // Add your text here!
 
         // create an empty Annotation just with the given text
         Annotation document = new Annotation(text);
@@ -73,6 +83,7 @@ public class sentiment_analysis {
         for (CoreMap sentence : sentences) {
             // traversing the words in the current sentence
             // a CoreLabel is a CoreMap with additional token-specific methods
+            /*
             for (CoreLabel token : sentence.get(CoreAnnotations.TokensAnnotation.class)) {
                 // this is the text of the token
                 String word = token.get(CoreAnnotations.TextAnnotation.class);
@@ -86,9 +97,12 @@ public class sentiment_analysis {
 //                String sent = token.get(SentimentCoreAnnotations.SentimentClass.class);
 //                System.out.println(sent + ": " + token);
             }
+            */
+            Tree tree = sentence.get(SentimentCoreAnnotations.SentimentAnnotatedTree.class);
+            int sent = RNNCoreAnnotations.getPredictedClass(tree);
 
             String sentiment = sentence.get(SentimentCoreAnnotations.SentimentClass.class);
-            System.out.println(sentiment + "\t" + sentence);
+            System.out.println(sentiment + "[" + sent + "]: " + sentence);
 
         }
     }
