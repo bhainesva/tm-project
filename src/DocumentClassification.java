@@ -211,10 +211,10 @@ public class DocumentClassification {
         //String[] t={"hello","consumer","price","inflation","has","risen","."};
         //parse(Sentence.toWordList(t));
 
-        //DocumentClassification classifier=new DocumentClassification("data/bloomberg/");
+        DocumentClassification classifier=new DocumentClassification("data/bloomberg/");
         //DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train.txt", "train");
         //classifier.testing("data/noun_phrases/testing.txt");
-        DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train_sent.txt","cv");
+        //DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train_sent.txt","cv");
 
     }
 }
