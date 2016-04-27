@@ -26,7 +26,7 @@ import java.io.InputStreamReader;
 import org.tartarus.snowball.ext.porterStemmer;
 
 
-public class document_classification {
+public class DocumentClassification {
 	LexicalizedParser lp;
     int blank;
     ColumnDataClassifier CDclassifier;
@@ -198,14 +198,14 @@ public class document_classification {
 		
 	}
 	//to create tab delimited training text files 
-		public document_classification(String train_path) throws IOException{
+		public DocumentClassification(String train_path) throws IOException{
 			lp=LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 	    	LoadStopwords("data/english.stop.txt");
 			LoadDir(train_path,"train");
 		}
 	
 	// to use the text file to train the classifier
-	public document_classification(String train_path, String type){
+	public DocumentClassification(String train_path, String type){
 		Properties props = new Properties();
 		
 		props.setProperty("featureFormat","true"); // to be used in case text file has features and not text				
@@ -234,10 +234,10 @@ public class document_classification {
 		//String[] t={"hello","consumer","price","inflation","has","risen","."};
 		//parse(Sentence.toWordList(t));
 		
-		//document_classification classifier=new document_classification("data/bloomberg/");
-		document_classification classifier=new document_classification("data/noun_phrases/train.txt","train");
-		classifier.test("data/fmoc_minutes/test");
-		//document_classification classifier=new document_classification("data/noun_phrases/train_sent.txt","cv");
+		//DocumentClassification classifier=new DocumentClassification("data/bloomberg/");
+		DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train.txt","train");
+		//classifier.test("data/fmoc_minutes/test");
+		//DocumentClassification classifier=new DocumentClassification("data/noun_phrases/train_sent.txt","cv");
 		
 	}
 }

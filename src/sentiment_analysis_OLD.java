@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Properties;
 
 
-public class sentiment_analysis {
+public class sentiment_analysis_OLD {
 
     static String readFile(String filename)
             throws IOException {
