@@ -694,7 +694,7 @@ private static final long serialVersionUID = 1L;
                     }
                     // ], line 162
                     bra = cursor;
-                    // test, line 162
+                    // testing, line 162
                     v_3 = limit - cursor;
                     if (!(in_grouping_b(g_V1, 97, 246)))
                     {
@@ -994,7 +994,7 @@ private static final long serialVersionUID = 1L;
                         v_6 = limit - cursor;
                         lab6: do {
                             // (, line 192
-                            // Boolean test ending_removed, line 192
+                            // Boolean testing ending_removed, line 192
                             if (!(B_ending_removed))
                             {
                                 break lab6;

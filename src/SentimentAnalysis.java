@@ -27,11 +27,7 @@ public class SentimentAnalysis {
     PTBTokenizer m_tokenizer; // Stanford PTBT tokenizer
     TokenizerFactory<CoreLabel> m_tokenizerFactory;
 
-    HashSet<Document> m_documents; // documents of all FOMC Minutes
-
     public SentimentAnalysis() {
-        m_documents = new HashSet<Document>();
-
         // creates a StanfordCoreNLP object, with POS tagging, lemmatization, NER, parsing,
         // and coreference resolution
         m_props = new Properties();
@@ -50,8 +46,8 @@ public class SentimentAnalysis {
                 System.out.println(file.getName());
                 long startTime = System.currentTimeMillis();
 
-                Document document = preprocessPost(file);
-                m_documents.add(document);
+                Document document = ReadFOMCMinutes(file);
+                Analyzer.getDocuments().add(document);
                 SaveDocumentSentiment(document, "data/fomc_minutes_sentiment/");
 
                 long endTime = System.currentTimeMillis();
@@ -61,14 +57,41 @@ public class SentimentAnalysis {
         }
 
         System.out.println();
-        System.out.println("Analyzed " + m_documents.size() + " review documents from " + folder);
+        System.out.println("Analyzed " + Analyzer.getDocuments().size() + " FOMC Minutes from " + folder);
         System.out.println();
     }
 
-    public Document preprocessPost(File file) throws IOException {
+    public void LoadSentimentDocuments(String folder, String suffix) throws IOException {
+        System.out.println("Reading FOMC files pre-calculated sentence sentiments from " + folder + "...");
+
+        File dir = new File(folder);
+        for (File file : dir.listFiles()) {
+            if (file.isFile() && file.getName().endsWith(suffix)) {
+                System.out.println(file.getName());
+                Document document = ReadFOMCSentimentMinutes(file);
+                Analyzer.getDocuments().add(document);
+            } else if (file.isDirectory())
+                LoadSentimentDocuments(file.getAbsolutePath(), suffix);
+        }
+
+        for (Document document : Analyzer.getDocuments()) {
+            System.out.println(document.getDateStr());
+            System.out.println("==========================================");
+            for (Sentence sentence : document.getSentences()) {
+                System.out.println(sentence.getSentiment() + ": " + sentence.getContent());
+            }
+        }
+
+        System.out.println();
+        System.out.println("Loaded " + Analyzer.getDocuments().size() + " FOMC Minutes from " + folder);
+        System.out.println();
+    }
+
+    public Document ReadFOMCMinutes(File file) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(file));
         Document document = new Document(file.getName().replaceAll(".txt", ""));
         String line;
+
         while ((line = reader.readLine()) != null) {
             if (!line.isEmpty()) {
                 BreakIterator iterator = BreakIterator.getSentenceInstance(Locale.US);
@@ -80,6 +103,24 @@ public class SentimentAnalysis {
                     m_pipeline.annotate(sentence);
                     document.addSentence(findSentiment(sentence), sentence);
                 }
+            }
+        }
+        reader.close();
+
+        return document;
+    }
+
+    public Document ReadFOMCSentimentMinutes(File file) throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(file));
+        Document document = new Document(file.getName().replaceAll(".txt", ""));
+        String line;
+
+        while ((line = reader.readLine()) != null) {
+            if (!line.isEmpty()) {
+                String[] data = line.split("\t");
+                double sentiment = Double.parseDouble(data[0]);
+                String sentence = data[1];
+                document.addSentence(sentiment, sentence);
             }
         }
         reader.close();
@@ -100,7 +141,7 @@ public class SentimentAnalysis {
         writer.close();
 
         System.out.println();
-        System.out.println("Saved sentiments of " + m_documents.size() + " documents to " + folder);
+        System.out.println("Saved sentiments of " + Analyzer.getDocuments().size() + " documents to " + folder);
     }
 
     public double findSentiment(Annotation sentence) {
@@ -139,11 +180,13 @@ public class SentimentAnalysis {
     }
 
     public static void main(String[] args) throws IOException {
-        SentimentAnalysis sentimentAnalysis = new SentimentAnalysis();
-        DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train_sent.txt", "cv");
+        SentimentAnalysis sentiment_analyzer = new SentimentAnalysis();
 
         //sentimentAnalysis.LoadDirectory("data/fomc_minutes_sample/", ".txt");
-        sentimentAnalysis.LoadDirectory("data/fomc_minutes/", ".txt");
+        //sentiment_analyzer.LoadDirectory("data/fomc_minutes/", ".txt");
+
+        sentiment_analyzer.LoadSentimentDocuments("data/fomc_minutes_sentiment", ".txt");
+
 
     }
 

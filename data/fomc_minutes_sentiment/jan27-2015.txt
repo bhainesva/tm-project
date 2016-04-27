@@ -362,7 +362,7 @@
 -0.5	In order to ensure the effective conduct of open market operations, the Committee authorizes the Selected Bank to operate a program to lend Eligible Securities held in the SOMA to dealers on an overnight basis (except that the Selected Bank may lend Eligible Securities for longer than an overnight term to accommodate weekend, holiday, and similar trading conventions).
 0.0	    C. 
 -0.5	Federal Reserve communications over the intermeeting period were apparently seen as about in line with expectations on balance. 
--0.5	By unanimous vote, the Committee amended its Program for Security of FOMC Information with changes to how Federal Reserve Banks document_classification and access Committee information.
+-0.5	By unanimous vote, the Committee amended its Program for Security of FOMC Information with changes to how Federal Reserve Banks DocumentClassification and access Committee information.
 0.0	        Korean won
 -0.5	Consumer price inflation moved further below the FOMC's longer-run objective of 2 percent, held down by continuing large decreases in energy prices. 
 0.0	        i. 

@@ -82,7 +82,7 @@ private static final long serialVersionUID = 1L;
             int v_5;
             int v_6;
                     // (, line 33
-                    // test, line 35
+                    // testing, line 35
                     v_1 = cursor;
                     // repeat, line 35
                     replab0: while(true)
@@ -198,7 +198,7 @@ private static final long serialVersionUID = 1L;
                     // (, line 47
                     I_p1 = limit;
                     I_p2 = limit;
-                    // test, line 52
+                    // testing, line 52
                     v_1 = cursor;
                     // (, line 52
                     // hop, line 52

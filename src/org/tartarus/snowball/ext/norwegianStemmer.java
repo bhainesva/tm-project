@@ -84,7 +84,7 @@ private static final long serialVersionUID = 1L;
             int v_2;
                     // (, line 26
                     I_p1 = limit;
-                    // test, line 30
+                    // testing, line 30
                     v_1 = cursor;
                     // (, line 30
                     // hop, line 30
@@ -227,7 +227,7 @@ private static final long serialVersionUID = 1L;
             int v_2;
             int v_3;
                     // (, line 52
-                    // test, line 53
+                    // testing, line 53
                     v_1 = limit - cursor;
                     // (, line 53
                     // setlimit, line 54

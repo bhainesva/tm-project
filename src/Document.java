@@ -40,6 +40,7 @@ public class Document {
     HashSet<Sentence> m_sentences; // FOMC Minutes sentences in Stanford NLP format
     public HashSet<Sentence> getSentences() { return m_sentences; }
     public void addSentence(double sentiment, Annotation annotation) { m_sentences.add(new Sentence(sentiment, annotation)); }
+    public void addSentence(double sentiment, String sentence) { m_sentences.add(new Sentence(sentiment, sentence)); }
 
     String[] m_tokens; // stored tokens for this FOMC Minutes
     public String[] getTokens() {

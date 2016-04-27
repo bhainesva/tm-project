@@ -213,7 +213,7 @@ private static final long serialVersionUID = 1L;
                             break;
                         case 2:
                             // (, line 37
-                            // test, line 38
+                            // testing, line 38
                             v_1 = limit - cursor;
                             // gopast, line 38
                             golab0: while(true)
@@ -234,7 +234,7 @@ private static final long serialVersionUID = 1L;
                             cursor = limit - v_1;
                             // delete, line 38
                             slice_del();
-                            // test, line 39
+                            // testing, line 39
                             v_3 = limit - cursor;
                             // substring, line 39
                             among_var = find_among_b(a_1, 13);
@@ -277,7 +277,7 @@ private static final long serialVersionUID = 1L;
                                     {
                                         return false;
                                     }
-                                    // test, line 45
+                                    // testing, line 45
                                     v_4 = limit - cursor;
                                     // call shortv, line 45
                                     if (!r_shortv())
@@ -860,7 +860,7 @@ private static final long serialVersionUID = 1L;
                     v_18 = cursor;
                     lab23: do {
                         // (, line 137
-                        // Boolean test Y_found, line 137
+                        // Boolean testing Y_found, line 137
                         if (!(B_Y_found))
                         {
                             break lab23;

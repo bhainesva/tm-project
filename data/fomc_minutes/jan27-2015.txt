@@ -215,7 +215,7 @@ In conducting operations pursuant to the authorization and direction of the Fede
 
 4. The Committee authorizes the Selected Bank to undertake transactions of the type described in paragraphs 1, 2, and 5 of the Authorization for Foreign Currency Operations and foreign exchange and investment transactions that it may be otherwise authorized to undertake from time to time for the purpose of testing operational readiness. The aggregate amount of such transactions shall not exceed $2.5 billion per calendar year. These transactions shall be conducted with prior notice to the Committee.
 
-By unanimous vote, the Committee amended its Program for Security of FOMC Information with changes to how Federal Reserve Banks document_classification and access Committee information.
+By unanimous vote, the Committee amended its Program for Security of FOMC Information with changes to how Federal Reserve Banks DocumentClassification and access Committee information.
 
 In its annual reconsideration of the Statement on Longer-Run Goals and Monetary Policy Strategy, participants generally agreed that only a minor update was required at this meeting. Several participants observed that this statement had helped to increase public understanding of the Committee's goals and policy framework. It was noted, however, that the Committee should continue to discuss possible enhancements to the statement over the coming year.
 

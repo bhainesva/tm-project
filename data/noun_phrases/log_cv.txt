@@ -1,340 +1,340 @@
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 0
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 0
 .........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=35 FN=29 FP=0 TN=0; Acc 0.547 P 1.000 R 0.547 F1 0.707
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=14 TN=50; Acc 0.781 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=13 TN=51; Acc 0.797 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.54688
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.52301
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 1
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=35 FN=29 FP=0 TN=0; Acc 0.547 P 1.000 R 0.547 F1 0.707
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=14 TN=50; Acc 0.781 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=13 TN=51; Acc 0.797 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.54688
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.52301
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 1
 .........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=33 FN=31 FP=0 TN=0; Acc 0.516 P 1.000 R 0.516 F1 0.680
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=12 TN=52; Acc 0.812 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.52005
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 2
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=33 FN=31 FP=0 TN=0; Acc 0.516 P 1.000 R 0.516 F1 0.680
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=12 TN=52; Acc 0.812 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.52005
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 2
 ..........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=35 FN=20 FP=0 TN=9; Acc 0.688 P 1.000 R 0.636 F1 0.778
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=6 FN=3 FP=8 TN=47; Acc 0.828 P 0.429 R 0.667 F1 0.522
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.64062
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.81106
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 3
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=35 FN=20 FP=0 TN=9; Acc 0.688 P 1.000 R 0.636 F1 0.778
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=6 FN=3 FP=8 TN=47; Acc 0.828 P 0.429 R 0.667 F1 0.522
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.64062
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.81106
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 3
 .........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=10 TN=54; Acc 0.844 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=27 FN=37 FP=0 TN=0; Acc 0.422 P 1.000 R 0.422 F1 0.593
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=27 TN=37; Acc 0.578 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.42188
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.73260
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 4
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=10 TN=54; Acc 0.844 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=27 FN=37 FP=0 TN=0; Acc 0.422 P 1.000 R 0.422 F1 0.593
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=27 TN=37; Acc 0.578 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.42188
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.73260
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 4
 ........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=11 TN=53; Acc 0.828 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=28 FN=36 FP=0 TN=0; Acc 0.438 P 1.000 R 0.438 F1 0.609
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=22 TN=42; Acc 0.656 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.43750
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.62319
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 5
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=11 TN=53; Acc 0.828 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=28 FN=36 FP=0 TN=0; Acc 0.438 P 1.000 R 0.438 F1 0.609
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=22 TN=42; Acc 0.656 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.43750
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.62319
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 5
 ........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=11 TN=53; Acc 0.828 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=25 FN=23 FP=2 TN=14; Acc 0.609 P 0.926 R 0.521 F1 0.667
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=8 FN=8 FP=15 TN=33; Acc 0.641 P 0.348 R 0.500 F1 0.410
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.67521
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 6
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=11 TN=53; Acc 0.828 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=25 FN=23 FP=2 TN=14; Acc 0.609 P 0.926 R 0.521 F1 0.667
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=8 FN=8 FP=15 TN=33; Acc 0.641 P 0.348 R 0.500 F1 0.410
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=3 TN=61; Acc 0.953 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.67521
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 6
 ..........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=23 TN=41; Acc 0.641 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=23 FN=41 FP=0 TN=0; Acc 0.359 P 1.000 R 0.359 F1 0.529
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2 TN=62; Acc 0.969 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.35938
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.50319
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 7
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=23 TN=41; Acc 0.641 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=23 FN=41 FP=0 TN=0; Acc 0.359 P 1.000 R 0.359 F1 0.529
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2 TN=62; Acc 0.969 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.35938
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.50319
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 7
 ..............................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=13 TN=51; Acc 0.797 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=33 FN=31 FP=0 TN=0; Acc 0.516 P 1.000 R 0.516 F1 0.680
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2 TN=62; Acc 0.969 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.52005
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 8
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=13 TN=51; Acc 0.797 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=33 FN=31 FP=0 TN=0; Acc 0.516 P 1.000 R 0.516 F1 0.680
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=64; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=1 TN=63; Acc 0.984 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=2 TN=62; Acc 0.969 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.51562
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.52005
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 8
 ............................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 64 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=18 TN=46; Acc 0.719 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=18 FN=22 FP=4 TN=20; Acc 0.594 P 0.818 R 0.450 F1 0.581
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=3 FP=0 TN=61; Acc 0.953 P 1.000 R 0.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=3 FP=0 TN=61; Acc 0.953 P 1.000 R 0.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=4 FN=2 FP=5 TN=53; Acc 0.891 P 0.444 R 0.667 F1 0.533
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.34375
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.12378
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 9
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 64 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=15 TN=49; Acc 0.766 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=18 TN=46; Acc 0.719 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=18 FN=22 FP=4 TN=20; Acc 0.594 P 0.818 R 0.450 F1 0.581
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=3 FP=0 TN=61; Acc 0.953 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=4 FP=0 TN=60; Acc 0.938 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=3 FP=0 TN=61; Acc 0.953 P 1.000 R 0.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=4 FN=2 FP=5 TN=53; Acc 0.891 P 0.444 R 0.667 F1 0.533
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.34375
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.12378
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 9
 ...........................................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 18825 features, 9 classes, and 169425 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 72 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=12 TN=60; Acc 0.833 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=30 TN=42; Acc 0.583 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=26 TN=46; Acc 0.639 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=4 FN=68 FP=0 TN=0; Acc 0.056 P 1.000 R 0.056 F1 0.105
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.05556
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.56725
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.43524
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Average macro-averaged F1: 0.55994
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 72 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=12 TN=60; Acc 0.833 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=30 TN=42; Acc 0.583 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=26 TN=46; Acc 0.639 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls health_care: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls materials: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_discretionary: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls technology: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls industrials: TP=0 FN=0 FP=0 TN=72; Acc 1.000 P 1.000 R 1.000 F1 1.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=4 FN=68 FP=0 TN=0; Acc 0.056 P 1.000 R 0.056 F1 0.105
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.05556
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.56725
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.43524
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Average macro-averaged F1: 0.55994
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
 0.43524305555555554 0.5599379440528577
 
 
 sentence training
 
-main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 0
+main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 0
 ...............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=547 FN=886 FP=0 TN=0; Acc 0.382 P 1.000 R 0.382 F1 0.553
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=398 TN=1035; Acc 0.722 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=313 TN=1120; Acc 0.782 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=175 TN=1258; Acc 0.878 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.38172
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.13813
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 1
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=547 FN=886 FP=0 TN=0; Acc 0.382 P 1.000 R 0.382 F1 0.553
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=398 TN=1035; Acc 0.722 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=313 TN=1120; Acc 0.782 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=175 TN=1258; Acc 0.878 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.38172
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.13813
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 1
 ..............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=533 FN=900 FP=0 TN=0; Acc 0.372 P 1.000 R 0.372 F1 0.542
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=413 TN=1020; Acc 0.712 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=296 TN=1137; Acc 0.793 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=191 TN=1242; Acc 0.867 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.37195
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.13555
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 2
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=533 FN=900 FP=0 TN=0; Acc 0.372 P 1.000 R 0.372 F1 0.542
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=413 TN=1020; Acc 0.712 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=296 TN=1137; Acc 0.793 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=191 TN=1242; Acc 0.867 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.37195
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.13555
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 2
 ...............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=568 FN=851 FP=2 TN=12; Acc 0.405 P 0.996 R 0.400 F1 0.571
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=6 FN=8 FP=392 TN=1027; Acc 0.721 P 0.015 R 0.429 F1 0.029
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=295 TN=1138; Acc 0.794 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=170 TN=1263; Acc 0.881 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.40056
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.15007
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 3
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=568 FN=851 FP=2 TN=12; Acc 0.405 P 0.996 R 0.400 F1 0.571
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=6 FN=8 FP=392 TN=1027; Acc 0.721 P 0.015 R 0.429 F1 0.029
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=295 TN=1138; Acc 0.794 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=170 TN=1263; Acc 0.881 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.40056
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.15007
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 3
 ..............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=407 TN=1026; Acc 0.716 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=363 FN=1070 FP=0 TN=0; Acc 0.253 P 1.000 R 0.253 F1 0.404
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=447 TN=986; Acc 0.688 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=216 TN=1217; Acc 0.849 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.25331
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.10106
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 4
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=407 TN=1026; Acc 0.716 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=363 FN=1070 FP=0 TN=0; Acc 0.253 P 1.000 R 0.253 F1 0.404
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=447 TN=986; Acc 0.688 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=216 TN=1217; Acc 0.849 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.25331
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.10106
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 4
 ..............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=425 TN=1008; Acc 0.703 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=389 FN=1044 FP=0 TN=0; Acc 0.271 P 1.000 R 0.271 F1 0.427
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=419 TN=1014; Acc 0.708 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=200 TN=1233; Acc 0.860 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.27146
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.10675
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 5
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=425 TN=1008; Acc 0.703 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=389 FN=1044 FP=0 TN=0; Acc 0.271 P 1.000 R 0.271 F1 0.427
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=419 TN=1014; Acc 0.708 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=200 TN=1233; Acc 0.860 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.27146
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.10675
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 5
 ...............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=411 TN=1022; Acc 0.713 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=325 FN=834 FP=37 TN=237; Acc 0.392 P 0.898 R 0.280 F1 0.427
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=103 FN=171 FP=373 TN=786; Acc 0.620 P 0.216 R 0.376 F1 0.275
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=184 TN=1249; Acc 0.872 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.29867
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.17550
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 6
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=411 TN=1022; Acc 0.713 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=325 FN=834 FP=37 TN=237; Acc 0.392 P 0.898 R 0.280 F1 0.427
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=103 FN=171 FP=373 TN=786; Acc 0.620 P 0.216 R 0.376 F1 0.275
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=184 TN=1249; Acc 0.872 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.29867
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.17550
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 6
 ................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=438 TN=995; Acc 0.694 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=464 TN=969; Acc 0.676 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=333 FN=1100 FP=0 TN=0; Acc 0.232 P 1.000 R 0.232 F1 0.377
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=198 TN=1235; Acc 0.862 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.23238
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.09428
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 7
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=438 TN=995; Acc 0.694 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=464 TN=969; Acc 0.676 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=333 FN=1100 FP=0 TN=0; Acc 0.232 P 1.000 R 0.232 F1 0.377
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=198 TN=1235; Acc 0.862 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.23238
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.09428
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 7
 ..............................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=311 TN=1122; Acc 0.783 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=513 TN=920; Acc 0.642 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=346 FN=1087 FP=0 TN=0; Acc 0.241 P 1.000 R 0.241 F1 0.389
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=263 TN=1170; Acc 0.816 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.24145
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.09725
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 8
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=311 TN=1122; Acc 0.783 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=513 TN=920; Acc 0.642 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=346 FN=1087 FP=0 TN=0; Acc 0.241 P 1.000 R 0.241 F1 0.389
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=0 FN=0 FP=263 TN=1170; Acc 0.816 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.24145
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.09725
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 8
 .................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1433 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=429 TN=1004; Acc 0.701 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=334 TN=1099; Acc 0.767 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=128 FN=320 FP=186 TN=799; Acc 0.647 P 0.408 R 0.286 F1 0.336
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=313 FN=672 FP=43 TN=405; Acc 0.501 P 0.879 R 0.318 F1 0.467
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.30775
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.20069
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - ### Fold 9
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1433 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=429 TN=1004; Acc 0.701 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=334 TN=1099; Acc 0.767 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=128 FN=320 FP=186 TN=799; Acc 0.647 P 0.408 R 0.286 F1 0.336
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=313 FN=672 FP=43 TN=405; Acc 0.501 P 0.879 R 0.318 F1 0.467
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.30775
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.20069
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - ### Fold 9
 ..................................
 QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Built this classifier: LinearClassifier with 17309 features, 4 classes, and 69236 parameters.
 
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - 1434 examples in test set
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=363 TN=1071; Acc 0.747 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=369 TN=1065; Acc 0.743 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=380 TN=1054; Acc 0.735 P 0.000 R 1.000 F1 0.000
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Cls consumer_staples: TP=322 FN=1112 FP=0 TN=0; Acc 0.225 P 1.000 R 0.225 F1 0.367
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.22455
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Macro-averaged F1: 0.09169
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.29838
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier - Average macro-averaged F1: 0.12910
-[main] INFO edu.stanford.nlp.document_classification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - 1434 examples in test set
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls real_estate: TP=0 FN=0 FP=363 TN=1071; Acc 0.747 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls utilities: TP=0 FN=0 FP=369 TN=1065; Acc 0.743 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls energy: TP=0 FN=0 FP=380 TN=1054; Acc 0.735 P 0.000 R 1.000 F1 0.000
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Cls consumer_staples: TP=322 FN=1112 FP=0 TN=0; Acc 0.225 P 1.000 R 0.225 F1 0.367
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Accuracy/micro-averaged F1: 0.22455
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Macro-averaged F1: 0.09169
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Average accuracy/micro-averaged F1: 0.29838
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier - Average macro-averaged F1: 0.12910
+[main] INFO edu.stanford.nlp.DocumentClassification.ColumnDataClassifier -
 0.29837930588119643 0.1290971221360026

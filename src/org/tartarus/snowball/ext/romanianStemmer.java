@@ -704,7 +704,7 @@ private static final long serialVersionUID = 1L;
                 private boolean r_combo_suffix() {
             int among_var;
             int v_1;
-                    // test, line 91
+                    // testing, line 91
                     v_1 = limit - cursor;
                     // (, line 91
                     // [, line 92
@@ -987,7 +987,7 @@ private static final long serialVersionUID = 1L;
                         lab5: do {
                             v_6 = limit - cursor;
                             lab6: do {
-                                // Boolean test standard_suffix_removed, line 231
+                                // Boolean testing standard_suffix_removed, line 231
                                 if (!(B_standard_suffix_removed))
                                 {
                                     break lab6;
