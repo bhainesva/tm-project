@@ -255,7 +255,7 @@ public class classify{
 		//parse(Sentence.toWordList(t));
 		
 		//classify classifier=new classify("data/bloomberg/");
-		classify classifier=new classify("data/noun_phrases/train_sent.txt","train");
+		classify classifier=new classify("data/noun_phrases/train_tsent.txt","train");
 		classifier.test("data/fmoc_minutes/test");
 		//classify classifier=new classify("data/noun_phrases/train_sent.txt","cv");
 		
