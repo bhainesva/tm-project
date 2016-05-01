@@ -52,6 +52,16 @@ public class Sentence {
         m_parsedNouns = parse_nouns(getHasWords(m_content));
     }
 
+    public HashMap<String, Double> m_classifications; // probability this Sentence applies to any of the 12 sectors
+    public HashMap<String, Double> getClassifications() { return m_classifications; }
+    public void setClassifications(HashMap<String, Double> classifications) { m_classifications = classifications; }
+    public double getProbability(String sector) {
+        if (m_classifications.containsKey(sector)) {
+            return m_classifications.get(sector);
+        } else System.out.println("ERROR: " + sector + " is not a valid sector!");
+        return 0.0;
+    }
+
     public Sentence(double sentiment, Annotation annotation) {
         m_id = -1;
         m_sentiment = sentiment;

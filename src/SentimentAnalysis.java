@@ -15,9 +15,6 @@ import java.util.HashSet;
 import java.util.Locale;
 import java.util.Properties;
 
-/**
- * Created by adityabindra on 4/16/16.
- */
 public class SentimentAnalysis {
 
     Properties m_props; // Stanford properties
@@ -55,7 +52,7 @@ public class SentimentAnalysis {
 
                 if (!m_savedDocuments.contains(file.getName().replaceAll(".txt", ""))) {
                     Document document = ReadFOMCMinutes(file);
-                    Analyzer.getDocuments().add(document);
+                    Analyzer.getDocuments().put(file.getName().replaceAll(".txt", ""), document);
                     SaveDocumentSentiment(document, "data/fomc_minutes_sentiment/");
                 } else System.out.println("Already have saved sentiments of " + file.getName().replaceAll(".txt", "") + " to data/fomc_minutes_sentiment/");
 
@@ -78,11 +75,12 @@ public class SentimentAnalysis {
             if (file.isFile() && file.getName().endsWith(suffix)) {
                 System.out.println(file.getName());
                 Document document = ReadFOMCSentimentMinutes(file);
-                Analyzer.getDocuments().add(document);
+                Analyzer.getDocuments().put(file.getName().replaceAll(".txt", ""), document);
             } else if (file.isDirectory())
                 LoadSentimentDocuments(file.getAbsolutePath(), suffix);
         }
 
+        /*
         for (Document document : Analyzer.getDocuments()) {
             System.out.println(document.getDateStr());
             System.out.println("==========================================");
@@ -90,6 +88,7 @@ public class SentimentAnalysis {
                 System.out.println(sentence.getSentiment() + ": " + sentence.getContent());
             }
         }
+        */
 
         System.out.println();
         System.out.println("Loaded " + Analyzer.getDocuments().size() + " FOMC Minutes from " + folder);
@@ -159,8 +158,9 @@ public class SentimentAnalysis {
         File file = new File(folder + document.getDateStr() + ".txt");
         BufferedWriter writer = new BufferedWriter(new FileWriter(file));
         System.out.println(file.getName());
-        for (Sentence sentence : document.getSentences()) {
-            writer.append(sentence.getSentiment() + "\t" + sentence.getContent() + "\n");
+        for (String sentence : document.getSentences().keySet()) {
+            writer.append(document.getSentences().get(sentence).getSentiment() + "\t"
+                    + document.getSentences().get(sentence).getContent() + "\n");
         }
         writer.flush();
         writer.close();
