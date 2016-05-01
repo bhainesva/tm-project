@@ -4,6 +4,8 @@ import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.stats.Counter;
 
 import java.io.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.stream.Collectors;
@@ -148,6 +150,32 @@ public class Analyzer {
         System.out.println();
     }
 
+    public void SaveDocumentData(String filename) throws IOException, ParseException {
+        BufferedWriter writer = new BufferedWriter(new FileWriter(new File(filename)));
+
+        writer.append(",financials,consumer_staples,materials,health_care,consumer_discretionary," +
+                "technology,financial_services,utilities,industrials,energy,real_estate");
+        writer.newLine();
+
+        for (String document : m_documents.keySet()) {
+            SimpleDateFormat formatter = new SimpleDateFormat("MMMdd-yyyy");
+            m_documents.get(document).setDate(formatter.parse(m_documents.get(document).getDateStr()));
+            SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
+
+            writer.append(displayFormat.format(m_documents.get(document).getDate()) + ",");
+            for (String sector : m_documents.get(document).getAvgSentiments().keySet()) {
+                writer.append(m_documents.get(document).getAvgSentiments().get(sector) + ",");
+            }
+            writer.newLine();
+        }
+
+        writer.flush();
+        writer.close();
+
+        System.out.println("Wrote all document calculations to " + filename);
+
+    }
+
     public HashMap<String, Double> softmax(Counter<String> scores) {
         Double sum = scores.entrySet()
                 .stream()
@@ -163,12 +191,14 @@ public class Analyzer {
         return probs;
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ParseException {
         Analyzer analyzer = new Analyzer();
 
         //analyzer.SaveDocumentClassifications("data/fomc_minutes_classifications/");
 
         analyzer.LoadDocumentClassifications("data/fomc_minutes_classifications/", ".txt");
+
+        analyzer.SaveDocumentData("data/final_run.csv");
 
     }
 
