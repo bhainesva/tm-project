@@ -77,7 +77,7 @@ public class DocumentClassification {
     // function to extract only the noun phrases from each sentence of document
     public String parse_nouns(List<HasWord> text) {
         List<CoreLabel> text1 = Sentence.toCoreLabelList(text);
-        System.out.println(text1);
+        //System.out.println(text1);
         String np = "";
         Tree parse_w = lp.apply(text1);
 
@@ -211,10 +211,10 @@ public class DocumentClassification {
         //String[] t={"hello","consumer","price","inflation","has","risen","."};
         //parse(Sentence.toWordList(t));
 
-        //DocumentClassification classifier=new DocumentClassification("data/bloomberg/");
+        DocumentClassification classifier=new DocumentClassification("data/bloomberg/materials");
         //DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train.txt", "train");
         //classifier.testing("data/noun_phrases/testing.txt");
-        DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train_sent.txt","cv");
+        //DocumentClassification classifier = new DocumentClassification("data/noun_phrases/train_sent.txt","cv");
 
     }
 }
