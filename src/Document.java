@@ -85,6 +85,8 @@ public class Document {
         }
     }
     public void DisplayAvgSentimentsPretty() {
+        System.out.println("Average Sentiments:");
+        System.out.println("~~~~~~~~~~~~~~~~~~");
         for (String sector : m_avgSentiments.keySet()) {
             System.out.println(sector + ": " + m_totSentiments.get(sector) + "/" + m_sentences.size() +
                     " = " + m_avgSentiments.get(sector));
@@ -114,9 +116,32 @@ public class Document {
         }
     }
     public void DisplayAvgClassificationsPretty() {
+        System.out.println("Average Classifications:");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~");
         for (String sector : m_avgClassifications.keySet()) {
             System.out.println(sector + ": " + m_totClassifications.get(sector) + "/" + m_sentences.size()
                     + " = " + m_avgClassifications.get(sector) * 100 + "%");
+        }
+    }
+
+    public HashMap<String, Double> m_excessAvgSentiments; // excess sentiment of each sector's sentiment over the average across of sector's avg sentiments
+    public HashMap<String, Double> getExcessAvgSentiments() { return m_excessAvgSentiments; }
+    public void CalcExcessAvgSentiments() {
+        if (m_excessAvgSentiments == null) m_excessAvgSentiments = new HashMap<String, Double>();
+        double totSectorSentiment = 0.0;
+        for (String sector : m_avgSentiments.keySet()) {
+            totSectorSentiment += m_avgSentiments.get(sector);
+        }
+        totSectorSentiment /= m_avgSentiments.size();
+        for (String sector : m_avgSentiments.keySet()) {
+            m_excessAvgSentiments.put(sector, m_avgSentiments.get(sector) - totSectorSentiment);
+        }
+    }
+    public void DisplayExcessAvgSentimentsPretty() {
+        System.out.println("Excess Average Sentiments:");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~");
+        for (String sector : m_excessAvgSentiments.keySet()) {
+            System.out.println(sector + ": " + m_excessAvgSentiments.get(sector));
         }
     }
 

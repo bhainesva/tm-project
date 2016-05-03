@@ -6,6 +6,7 @@ import edu.stanford.nlp.stats.Counter;
 import java.io.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.stream.Collectors;
@@ -16,6 +17,14 @@ public class Analyzer {
     public static HashMap<String, Document> getDocuments() {
         if (m_documents == null) m_documents = new HashMap<String, Document>();
         return m_documents;
+    }
+    public static Document getDocument(Date date) {
+        SimpleDateFormat formatter = new SimpleDateFormat("MMMd-yyyy");
+        if (m_documents.containsKey(formatter.format(date).toLowerCase())) return m_documents.get(formatter.format(date).toLowerCase());
+        else {
+            System.out.println("ERROR: no document with " + formatter.format(date).toLowerCase() + " exists!");
+            return null;
+        }
     }
 
     HashSet<String> m_savedDocuments;
@@ -30,7 +39,7 @@ public class Analyzer {
         sentiment_analyzer.LoadSentimentDocuments("data/fomc_minutes_sentiment", ".txt");
     }
 
-    public void LoadDocumentClassifications(String folder, String suffix) throws IOException {
+    public void LoadDocumentClassifications(String folder, String suffix) throws IOException, ParseException {
         System.out.println("Reading FOMC files pre-calculated sentence sentiments from " + folder + "...");
 
         File dir = new File(folder);
@@ -38,9 +47,6 @@ public class Analyzer {
             if (file.isFile() && file.getName().endsWith(suffix)) {
                 String document = file.getName().replaceAll(".txt", "");
                 if (m_documents.containsKey(document)) {
-                    System.out.println(document);
-                    System.out.println("========================================");
-
                     BufferedReader reader = new BufferedReader(new FileReader(file));
                     String line;
 
@@ -67,10 +73,20 @@ public class Analyzer {
                     }
                     m_documents.get(document).CalcAvgSentiments();
                     m_documents.get(document).CalcAvgClassifications();
+                    m_documents.get(document).CalcExcessAvgSentiments();
+
+                    SimpleDateFormat formatter = new SimpleDateFormat("MMMdd-yyyy");
+                    SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
+                    m_documents.get(document).setDate(formatter.parse(m_documents.get(document).getDateStr()));
+                    System.out.println(displayFormat.format(m_documents.get(document).getDate())
+                            + "[" + document + "]");
+                    System.out.println("========================================");
 
                     m_documents.get(document).DisplayAvgSentimentsPretty();
                     System.out.println();
                     m_documents.get(document).DisplayAvgClassificationsPretty();
+                    System.out.println();
+                    m_documents.get(document).DisplayExcessAvgSentimentsPretty();
 
                     System.out.println();
                     System.out.println();
@@ -158,13 +174,10 @@ public class Analyzer {
         writer.newLine();
 
         for (String document : m_documents.keySet()) {
-            SimpleDateFormat formatter = new SimpleDateFormat("MMMdd-yyyy");
-            m_documents.get(document).setDate(formatter.parse(m_documents.get(document).getDateStr()));
             SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
-
             writer.append(displayFormat.format(m_documents.get(document).getDate()) + ",");
-            for (String sector : m_documents.get(document).getAvgSentiments().keySet()) {
-                writer.append(m_documents.get(document).getAvgSentiments().get(sector) + ",");
+            for (String sector : m_documents.get(document).getExcessAvgSentiments().keySet()) {
+                writer.append(m_documents.get(document).getExcessAvgSentiments().get(sector) + ",");
             }
             writer.newLine();
         }
@@ -198,7 +211,7 @@ public class Analyzer {
 
         analyzer.LoadDocumentClassifications("data/fomc_minutes_classifications/", ".txt");
 
-        analyzer.SaveDocumentData("data/final_run.csv");
+        //analyzer.SaveDocumentData("data/final_run.csv");
 
     }
 
