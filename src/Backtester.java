@@ -1,9 +1,11 @@
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 
 public class Backtester {
@@ -18,7 +20,8 @@ public class Backtester {
             System.out.println("Portfolio " + displayFormat.format(portfolio.getDate()) + ": ");
             System.out.println("=====================");
             System.out.println();
-            System.out.println("Initial Market Value = " + portfolio.getStartMarketValue());
+            System.out.println("Market Value = " + portfolio.getStartMarketValue() + " -> " + portfolio.getEndMarketValue()
+                    + " = " + portfolio.getReturn() * 100 + "%");
             System.out.println();
             portfolio.DisplayStocksPretty();
 
@@ -53,7 +56,7 @@ public class Backtester {
         }
     }
 
-    public void LoadPortfolios(double initialCapital) {
+    public void LoadPortfolios(double initialCapital) throws IOException, ParseException {
         for (String document : Analyzer.getDocuments().keySet()) {
             addPortfolio(new Portfolio(Analyzer.getDocuments().get(document).getDate()));
         }
@@ -61,9 +64,33 @@ public class Backtester {
 
         for (int i = 0; i < m_portfolios.size(); i++) {
             if (i == 0) m_portfolios.get(i).setStartMarketValue(initialCapital);
+            else m_portfolios.get(i).setStartMarketValue(m_portfolios.get(i - 1).getEndMarketValue());
 
-            m_portfolios.get(i).setStocks(Analyzer.getDocument(m_portfolios.get(i).getDate()));
+            if (i < m_portfolios.size() - 1) {
+                m_portfolios.get(i).setStocks(Analyzer.getDocument(m_portfolios.get(i).getDate()),
+                        m_portfolios.get(i + 1).getDate());
+                m_portfolios.get(i).CalcWeights();
+                m_portfolios.get(i).CalcOrders();
+                m_portfolios.get(i).CalcEndMarketValue();
+                m_portfolios.get(i).CalcReturn();
+            }
         }
+    }
+
+    public void SavePortfolios(String filename) throws IOException {
+        SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
+        BufferedWriter writer = new BufferedWriter(new FileWriter(new File(filename)));
+
+        writer.append("Date,Return");
+        writer.newLine();
+        for (Portfolio portfolio : m_portfolios) {
+            writer.append(displayFormat.format(portfolio.getDate()) + "," + portfolio.getReturn());
+            writer.newLine();
+        }
+
+        writer.flush();
+        writer.close();
+        System.out.println("Wrote strategy returns to " + filename);
     }
 
     public Backtester(double intialCapital) throws IOException, ParseException {
@@ -79,6 +106,7 @@ public class Backtester {
         Backtester backtester = new Backtester(10000.00);
 
         backtester.DisplayPortfoliosPretty();
+        backtester.SavePortfolios("data/strategy_returns.csv");
 
     }
 
