@@ -73,7 +73,7 @@ public class Portfolio implements Comparable<Portfolio> {
         setEndMarketValue(marketValue);
     }
 
-    double m_return;
+    double m_return; // returns from the period from this portfolio to the next
     public double getReturn() { return m_return; }
     public void setReturn(double returnVal) { m_return = returnVal; }
     public void CalcReturn() { m_return = (m_endMarketValue - m_startMarketValue) / m_startMarketValue; }

@@ -6,6 +6,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Date;
 import java.util.HashMap;
 
 public class Backtester {
@@ -31,27 +32,52 @@ public class Backtester {
         }
     }
 
-    static HashMap<String, String> m_sectorMapping;
-    public static HashMap<String, String> getSectorMapping() { return m_sectorMapping; }
-    public void setSectorMappings() {
-        m_sectorMapping = new HashMap<String, String>();
-        m_sectorMapping.put("energy", "XLE");
-        m_sectorMapping.put("utilities", "XLU");
-        m_sectorMapping.put("technology", "XLK");
-        m_sectorMapping.put("materials", "XLB");
-        m_sectorMapping.put("consumer_staples", "XLP");
-        m_sectorMapping.put("consumer_discretionary", "XLY");
-        m_sectorMapping.put("industrials", "XLI");
-        m_sectorMapping.put("health_care", "XLV");
-        m_sectorMapping.put("financials", "XLF");
-        m_sectorMapping.put("financial_services", "XLFS");
-        m_sectorMapping.put("real_estate", "XLRE");
+    static HashMap<String, String> m_sectorSPDRMapping;
+    public static HashMap<String, String> getSectorSPDRMapping() { return m_sectorSPDRMapping; }
+    public void setSectorSPDRMappings() {
+        m_sectorSPDRMapping = new HashMap<String, String>();
+        m_sectorSPDRMapping.put("energy", "XLE");
+        m_sectorSPDRMapping.put("utilities", "XLU");
+        m_sectorSPDRMapping.put("technology", "XLK");
+        m_sectorSPDRMapping.put("materials", "XLB");
+        m_sectorSPDRMapping.put("consumer_staples", "XLP");
+        m_sectorSPDRMapping.put("consumer_discretionary", "XLY");
+        m_sectorSPDRMapping.put("industrials", "XLI");
+        m_sectorSPDRMapping.put("health_care", "XLV");
+        m_sectorSPDRMapping.put("financials", "XLF");
+        m_sectorSPDRMapping.put("financial_services", "XLFS");
+        m_sectorSPDRMapping.put("real_estate", "XLRE");
     }
     public static String getSPDR(String sector) {
-        if (m_sectorMapping.containsKey(sector))
-            return m_sectorMapping.get(sector);
+        if (m_sectorSPDRMapping.containsKey(sector))
+            return m_sectorSPDRMapping.get(sector);
         else {
             System.out.println("ERROR: " + sector + " does not map to a SPDR!");
+            return null;
+        }
+    }
+
+    static HashMap<String, String> m_SPDRSectorMapping;
+    public static HashMap<String, String> getSPDRSectorMapping() { return m_SPDRSectorMapping; }
+    public void setSPDRSectorMappings() {
+        m_SPDRSectorMapping = new HashMap<String, String>();
+        m_SPDRSectorMapping.put("XLE", "energy");
+        m_SPDRSectorMapping.put("XLU", "utilities");
+        m_SPDRSectorMapping.put("XLK", "technology");
+        m_SPDRSectorMapping.put("XLB", "materials");
+        m_SPDRSectorMapping.put("XLP", "consumer_staples");
+        m_SPDRSectorMapping.put("XLY", "consumer_discretionary");
+        m_SPDRSectorMapping.put("XLI", "industrials");
+        m_SPDRSectorMapping.put("XLV", "health_care");
+        m_SPDRSectorMapping.put("XLF", "financials");
+        m_SPDRSectorMapping.put("XLFS", "financial_services");
+        m_SPDRSectorMapping.put("XLRE", "real_estate");
+    }
+    public static String getSector(String SPDR) {
+        if (m_SPDRSectorMapping.containsKey(SPDR))
+            return m_SPDRSectorMapping.get(SPDR);
+        else {
+            System.out.println("ERROR: " + SPDR + " does not map to a sector!");
             return null;
         }
     }
@@ -69,22 +95,34 @@ public class Backtester {
             if (i < m_portfolios.size() - 1) {
                 m_portfolios.get(i).setStocks(Analyzer.getDocument(m_portfolios.get(i).getDate()),
                         m_portfolios.get(i + 1).getDate());
-                m_portfolios.get(i).CalcWeights();
-                m_portfolios.get(i).CalcOrders();
-                m_portfolios.get(i).CalcEndMarketValue();
-                m_portfolios.get(i).CalcReturn();
+            } else if (i == m_portfolios.size() - 1) {
+                SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
+                Date endDate = displayFormat.parse("03/15/2016");
+                m_portfolios.get(i).setStocks(Analyzer.getDocument(m_portfolios.get(i).getDate()), endDate);
             }
+            m_portfolios.get(i).CalcWeights();
+            m_portfolios.get(i).CalcOrders();
+            m_portfolios.get(i).CalcEndMarketValue();
+            m_portfolios.get(i).CalcReturn();
         }
     }
 
-    public void SavePortfolios(String filename) throws IOException {
+    public void SavePortfolios(String filename) throws IOException, ParseException {
         SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
         BufferedWriter writer = new BufferedWriter(new FileWriter(new File(filename)));
 
         writer.append("Date,Return");
         writer.newLine();
-        for (Portfolio portfolio : m_portfolios) {
-            writer.append(displayFormat.format(portfolio.getDate()) + "," + portfolio.getReturn());
+        writer.append(displayFormat.format(m_portfolios.get(0).getDate()) + ", 0.0");
+        writer.newLine();
+        for (int i = 0; i < m_portfolios.size(); i++) {
+            if (i < m_portfolios.size() - 1) {
+                writer.append(displayFormat.format(m_portfolios.get(i + 1).getDate()) + "," +
+                        m_portfolios.get(i).getReturn());
+            } else if (i == m_portfolios.size() - 1) {
+                Date endDate = displayFormat.parse("03/15/2016");
+                writer.append(displayFormat.format(endDate) + "," + m_portfolios.get(i).getReturn());
+            }
             writer.newLine();
         }
 
@@ -93,12 +131,45 @@ public class Backtester {
         System.out.println("Wrote strategy returns to " + filename);
     }
 
+    public void SavePortfolioWeightings(String filename) throws IOException, ParseException {
+        SimpleDateFormat displayFormat = new SimpleDateFormat("MM/dd/yyyy");
+        BufferedWriter writer = new BufferedWriter(new FileWriter(new File(filename)));
+
+        writer.append("Date,Sector,Weighting");
+        writer.newLine();
+        for (String ticker : m_portfolios.get(0).getStocks().keySet()) {
+            writer.append(displayFormat.format(m_portfolios.get(0).getDate()) + "," + getSector(ticker) + ",0.0");
+            writer.newLine();
+        }
+        for (int i = 0; i < m_portfolios.size(); i++) {
+            if (i < m_portfolios.size() - 1) {
+                for (String ticker : m_portfolios.get(i).getStocks().keySet()) {
+                    writer.append(displayFormat.format(m_portfolios.get(i + 1).getDate()) + ","
+                            + getSector(ticker) + ","  + m_portfolios.get(i).getStocks().get(ticker).getWeight());
+                    writer.newLine();
+                }
+            } else if (i == m_portfolios.size() - 1) {
+                Date endDate = displayFormat.parse("03/15/2016");
+                for (String ticker : m_portfolios.get(i).getStocks().keySet()) {
+                    writer.append(displayFormat.format(endDate) + "," + getSector(ticker) + "," +
+                            m_portfolios.get(i).getStocks().get(ticker).getWeight());
+                    writer.newLine();
+                }
+            }
+        }
+
+        writer.flush();
+        writer.close();
+        System.out.println("Wrote strategy weightings to " + filename);
+    }
+
     public Backtester(double intialCapital) throws IOException, ParseException {
         Analyzer analyzer = new Analyzer();
         analyzer.LoadDocumentClassifications("data/fomc_minutes_classifications/", ".txt");
 
         m_portfolios = new ArrayList<Portfolio>();
-        setSectorMappings();
+        setSectorSPDRMappings();
+        setSPDRSectorMappings();
         LoadPortfolios(intialCapital);
     }
 
@@ -107,6 +178,7 @@ public class Backtester {
 
         backtester.DisplayPortfoliosPretty();
         backtester.SavePortfolios("data/strategy_returns.csv");
+        backtester.SavePortfolioWeightings("data/strategy_weightings.csv");
 
     }
 
