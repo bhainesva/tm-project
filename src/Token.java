@@ -1,6 +1,3 @@
-/**
- * Created by adityabindra on 4/16/16.
- */
 public class Token {
 
     int m_id; // the numerical ID assigned to this token

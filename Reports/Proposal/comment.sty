@@ -184,7 +184,7 @@
 {\catcode`\^^M=12 \endlinechar=-1 %
  \gdef\xComment#1^^M{\ProcessCommentLine}
  \gdef\ProcessCommentLine#1^^M{\def\test{#1}
-      \csarg\ifx{End\CurrentComment Test}\test
+      \csarg\ifx{End\CurrentComment Document}\test
           \edef\next{\endgroup\noexpand\EndOfComment{\CurrentComment}}%
       \else \ThisComment{#1}\let\next\ProcessCommentLine
       \fi \next}

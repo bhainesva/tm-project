@@ -17,7 +17,7 @@ Pri de Silva, an analyst at CreditSights, is among those who see current credit 
 
 Deterioration Preparation
 
-Banks have been getting ready for loans to deteriorate -- the industry added $1.43 billion in the fourth quarter to the total money it has set aside to cover bad loans, according to Federal Deposit Insurance Corp. data compiled by Bloomberg, the first time banks in aggregate added to reserves since 2009. Banks usually classify loans to companies as "nonperforming" after the borrower is delinquent for 90 days. Loans that are unlikely to be repaid are also typically designated as "nonperforming."
+Banks have been getting ready for loans to deteriorate -- the industry added $1.43 billion in the fourth quarter to the total money it has set aside to cover bad loans, according to Federal Deposit Insurance Corp. data compiled by Bloomberg, the first time banks in aggregate added to reserves since 2009. Banks usually DocumentClassification loans to companies as "nonperforming" after the borrower is delinquent for 90 days. Loans that are unlikely to be repaid are also typically designated as "nonperforming."
 
 Now loans are actually souring. At JPMorgan, bad loans to companies more than doubled to $2.21 billion from $1.02 billion in the fourth quarter, according to company filings. Bank of America said they rose 32 percent to $1.6 billion. And at Wells Fargo, they rose 64 percent to $3.97 billion, which includes $343 million from loans it acquired from GE Capital.
 
